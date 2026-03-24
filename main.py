@@ -86,13 +86,14 @@ MAX_FEED_ITEMS        = 500          # rolling cap per output file
 # -- PROMPT --------------------------------------------------------------------
 
 PROMPT = """You are a news classification engine. Classify each headline into exactly one bucket.
-SIGNAL — news that matters globally or within Bangladesh: major international events, geopolitical developments involving multiple countries, or Bangladesh developments that meaningfully affect a large portion of the population (major policy shifts, economic crises, political upheaval, governance changes etc.). Isolated incidents, local events, or routine Bangladesh news do not qualify.
+SIGNAL — news that matters globally or within Bangladesh: major international events, geopolitical developments involving multiple countries, or Bangladesh developments that meaningfully affect a large portion of the population (major policy shifts, economic crises, political upheaval, governance changes). Isolated incidents, local events, or routine Bangladesh news do not qualify.
 LONGREAD — worth reading but not urgent: high-quality in-depth reporting, investigations, features, or thoughtful essays on culture, science, history, or society that reward careful reading. Excludes celebrity profiles, trend pieces, and routine human-interest stories.
 NOISE — everything else: any non-Bangladesh country's internal politics, elections, policy disputes, business news, or market moves — plus isolated Bangladesh incidents, sports, entertainment, celebrity gossip, lifestyle, routine official statements, and clickbait.
 Rules:
 - If a headline could fit both SIGNAL and LONGREAD, always choose SIGNAL.
 - Use only the headline text. Indices are 0-based.
 - Omit all noise indices from the output entirely.
+- Return only valid JSON. No markdown, no backticks, no preamble.
 Tricky cases to guide you:
 - Bangladesh policy or economic decision with broad national impact → SIGNAL.
 - An isolated Bangladesh incident or local event → NOISE, not SIGNAL.
@@ -102,8 +103,17 @@ Tricky cases to guide you:
 - National business or market news from any non-Bangladesh country → NOISE unless it signals a global crisis.
 - A think-piece on an international subject with genuine global scope → SIGNAL, not LONGREAD.
 - A detailed profile or feature on a person with no global or broad Bangladesh consequence → LONGREAD, not SIGNAL.
-Return exactly this JSON and nothing else—no explanation, no preamble, no extra text:
-{{"signal": [indices...], "longread": [indices...]}}
+
+Examples:
+Input: ["US and China sign landmark trade agreement", "Premier League club sacks manager", "How the Ottoman Empire collapsed", "Bangladesh central bank raises interest rates amid inflation crisis", "UK Conservative Party elects new leader", "UN warns of imminent famine across the Horn of Africa"]
+Output: {{"signal": [0, 3, 5], "longread": [2]}}
+
+Input: ["India and Pakistan exchange fire across Line of Control", "Dhaka garment workers strike shuts down hundreds of factories", "The secret history of Antarctic exploration", "Australia holds federal election", "Celebrity couple announces divorce", "IMF approves emergency loan for Bangladesh"]
+Output: {{"signal": [0, 1, 5], "longread": [2]}}
+
+Input: ["Gaza ceasefire collapses as fighting resumes", "Bangladesh government slashes fuel subsidies nationwide", "A deep dive into the life of a Sundarbans honey collector", "France passes new immigration law", "How microplastics are entering the human bloodstream", "Local man wins national baking competition"]
+Output: {{"signal": [0, 1], "longread": [2, 4]}}
+
 Article titles:
 {titles}
 """
@@ -458,26 +468,37 @@ def extract_json_object(text):
 
 
 def send_to_gemini(articles):
-    """Single Gemini call. All articles in one list. Returns {"signal": [...], "longread": [...]}."""
+    """Single Gemini 3.1 Pro call. Returns {"signal": [...], "longread": [...]}."""
     api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
+    if not api_key or not articles:
         return {"signal": [], "longread": []}
 
     try:
         client = genai.Client(api_key=api_key)
 
         titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
-        prompt = PROMPT.format(titles=titles_text)
 
         response = client.models.generate_content(
             model=GEMINI_MODEL,
-            contents=prompt,
+            contents=f"Article titles:\n{titles_text}",
+            config={
+                "system_instruction": PROMPT,
+                "response_mime_type": "application/json",
+            },
         )
 
-        response_text = getattr(response, "text", None) or str(response)
-        return extract_json_object(response_text)
+        # Use .parsed if available (auto JSON conversion)
+        if hasattr(response, "parsed") and response.parsed:
+            return {
+                "signal":   [i for i in response.parsed.get("signal",   []) if isinstance(i, int)],
+                "longread": [i for i in response.parsed.get("longread", []) if isinstance(i, int)],
+            }
 
-    except Exception:
+        # Fallback to manual parsing
+        return extract_json_object(response.text)
+
+    except Exception as e:
+        print(f"Gemini API Error: {e}")
         return {"signal": [], "longread": []}
 
 # -- XML -----------------------------------------------------------------------
