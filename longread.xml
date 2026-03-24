@@ -1,25 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <item>
-      <title>On the trail of South Africa’s ‘rhino baron’</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/f1de683f-6006-4652-82e7-95dc723a3c95</link>
-      <guid isPermaLink="true">https://www.ft.com/content/f1de683f-6006-4652-82e7-95dc723a3c95</guid>
-      <description>John Hume bred 2,000 rhinos in captivity. Were they a cover for one of the most successful horn-trafficking networks in history?</description>
-      <pubDate>Tue, 24 Mar 2026 19:26:17 +0600</pubDate>
-    </item>
-    <item>
-      <title>The ‘self-deportee’ hounded out of the US to Mexico: ‘There are days when I feel literally insane’</title>
-      <link>https://www.theguardian.com/world/ng-interactive/2026/mar/24/self-deportation-los-angeles-mexico-trump-immigration</link>
-      <guid isPermaLink="true">https://www.theguardian.com/world/ng-interactive/2026/mar/24/self-deportation-los-angeles-mexico-trump-immigration</guid>
-      <description>&lt;p&gt;Abel Ortiz lived in LA since he was a newborn. The Guardian filmed him as he left after 38 years. Now, we catch up with him in Mexico City, fired up and grieving in his new life&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Watch:&lt;/strong&gt; &lt;a href="https://www.theguardian.com/global/ng-interactive/2026/mar/24/abel-leaves-la-self-deportation-from-trumps-america-documentary"&gt;Abel leaves LA is an original Guardian Documentary that follows Abel’s last week in the United States&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A couple of weekends ago, as dusk was falling over the Escandón neighbourhood of Mexico City, Abel Ortiz was startled by the sound of two American women yelling at each other on the street outside his apartment.&lt;/p&gt;&lt;p&gt;They were nose to nose, screaming in English while bemused Mexicans looked on.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/ng-interactive/2026/mar/24/self-deportation-los-angeles-mexico-trump-immigration"&gt;Continue reading...&lt;/a&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 19:26:17 +0600</pubDate>
-      <media:thumbnail url="https://i.guim.co.uk/img/media/f868a652078dac0f90df268a30fb5b872c5f4b4f/224_0_1350_1080/master/1350.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26dc3c374c43583360e256785a57c77f" />
-      <enclosure url="https://i.guim.co.uk/img/media/f868a652078dac0f90df268a30fb5b872c5f4b4f/224_0_1350_1080/master/1350.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26dc3c374c43583360e256785a57c77f" type="image/jpeg" length="0" />
-    </item>
-    <lastBuildDate>Tue, 24 Mar 2026 13:26:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 15:05:44 +0000</lastBuildDate>
   </channel>
 </rss>
