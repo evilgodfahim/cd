@@ -43,8 +43,7 @@ FEED_URLS = [
     "https://evilgodfahim.github.io/nytint/combined.xml",
     "https://evilgodfahim.github.io/wpint/combined.xml",
     "https://evilgodfahim.github.io/wsjint/combined.xml",
-    "https://evilgodfahim.github.io/wl/pau.xml",
-    "https://evilgodfahim.github.io/yn/feeds/feed.xml",
+
     "https://en.prothomalo.com/feed/",
     "https://evilgodfahim.github.io/fen/feeds/feed.xml",
     "https://evilgodfahim.github.io/tbs/articles.xml",
@@ -60,8 +59,7 @@ EXISTING_API_FEEDS = {
     "https://evilgodfahim.github.io/nytint/combined.xml",
     "https://evilgodfahim.github.io/wpint/combined.xml",
     "https://evilgodfahim.github.io/wsjint/combined.xml",
-    "https://evilgodfahim.github.io/wl/pau.xml",
-    "https://evilgodfahim.github.io/yn/feeds/feed.xml",
+
     "https://en.prothomalo.com/feed/",
     "https://evilgodfahim.github.io/fen/feeds/feed.xml",
     "https://evilgodfahim.github.io/tbs/articles.xml",
