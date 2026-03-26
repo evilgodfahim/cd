@@ -4,7 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Wed, 25 Mar 2026 22:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 02:53:06 +0000</lastBuildDate>
     <item>
       <title>Why is the US so expensive? Everything comes in a ‘premium’ version, from doctors’ appointments to movies | Arwa Mahdawi</title>
       <link>https://www.theguardian.com/commentisfree/2026/mar/24/cinema-premium-seating-price-vue-odeon-amc-sightline</link>
@@ -786,6 +786,49 @@ As global manufacturing shifts rapidly tow</description>
       <pubDate>Thu, 26 Mar 2026 04:44:21 +0600</pubDate>
       <media:thumbnail url="https://s.yimg.com/uu/api/res/1.2/XEe52AOQYq2EY56Wr.KNow--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/46bd9e48ce6bbec5c5ef682474be3f26.cf.webp" />
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/XEe52AOQYq2EY56Wr.KNow--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/46bd9e48ce6bbec5c5ef682474be3f26.cf.webp" type="image/webp" length="0" />
+    </item>
+    <item>
+      <title>How the War Has Reshaped Life in Iran</title>
+      <link>https://www.newyorker.com/podcast/political-scene/how-the-war-has-reshaped-life-in-iran</link>
+      <guid isPermaLink="false">69c3fc171d2b9b4988bca2d5</guid>
+      <description>As the conflict continues, civilians find themselves caught between foreign bombardment and a regime that is violently cracking down.</description>
+      <pubDate>Thu, 26 Mar 2026 08:52:24 +0600</pubDate>
+      <media:thumbnail url="https://media.newyorker.com/photos/637541f2b19ab8521b9fe1c2/master/pass/The%20Political%20Scene%20In%20Conversation.jpg" />
+      <enclosure url="https://media.newyorker.com/photos/637541f2b19ab8521b9fe1c2/master/pass/The%20Political%20Scene%20In%20Conversation.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>OpenAI Is Doing Everything … Poorly</title>
+      <link>https://www.theatlantic.com/technology/2026/03/sora-openai-identity-crisis/686544/</link>
+      <guid isPermaLink="false">tag:theatlantic.com,2026:50-686544</guid>
+      <description>The company’s sudden decision to pull the plug on Sora is a sign of deeper trouble.</description>
+      <pubDate>Thu, 26 Mar 2026 08:52:24 +0600</pubDate>
+      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/jN0NRxco2DhLoUe_mhBiXlFKWEs=/media/img/mt/2026/03/2026_03_25_openAI_mpg/original.gif" />
+      <enclosure url="https://cdn.theatlantic.com/thumbor/jN0NRxco2DhLoUe_mhBiXlFKWEs=/media/img/mt/2026/03/2026_03_25_openAI_mpg/original.gif" type="image/gif" length="0" />
+    </item>
+    <item>
+      <title>What to know about the safety system that failed to prevent the deadly runway collision at LaGuardia</title>
+      <link>https://apnews.com/article/laguardia-crash-faa-ntsb-warning-asde-ce9d6581a389e25c589a1ed97a1c2da2</link>
+      <guid isPermaLink="true">https://apnews.com/article/laguardia-crash-faa-ntsb-warning-asde-ce9d6581a389e25c589a1ed97a1c2da2</guid>
+      <description>&lt;img alt="" src="https://dims.apnews.com/dims4/default/7d448a7/2147483647/strip/true/crop/4526x3016+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8c%2F12%2F81935858621a1da53d68df0066a1%2F5f8e6bbaa6514d55801cc7cd38e7b504" /&gt;&lt;br /&gt;What to know about the safety system that failed to prevent the deadly runway collision at LaGuardia</description>
+      <pubDate>Thu, 26 Mar 2026 08:52:24 +0600</pubDate>
+      <media:thumbnail url="https://dims.apnews.com/dims4/default/7d448a7/2147483647/strip/true/crop/4526x3016+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8c%2F12%2F81935858621a1da53d68df0066a1%2F5f8e6bbaa6514d55801cc7cd38e7b504" />
+      <enclosure url="https://dims.apnews.com/dims4/default/7d448a7/2147483647/strip/true/crop/4526x3016+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8c%2F12%2F81935858621a1da53d68df0066a1%2F5f8e6bbaa6514d55801cc7cd38e7b504" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Verdicts against social media companies carry consequences. But questions linger</title>
+      <link>https://apnews.com/article/meta-youtube-social-media-addiction-d04fe8f7d410f943aa2a8e443c4eb1e1</link>
+      <guid isPermaLink="true">https://apnews.com/article/meta-youtube-social-media-addiction-d04fe8f7d410f943aa2a8e443c4eb1e1</guid>
+      <description>Verdicts against social media companies carry consequences. But questions linger</description>
+      <pubDate>Thu, 26 Mar 2026 08:52:24 +0600</pubDate>
+    </item>
+    <item>
+      <title>Meet Iran's hardline speaker who threatened to burn US forces — reportedly Tehran's point man for talks</title>
+      <link>https://www.yahoo.com/news/articles/meet-irans-hardline-speaker-threatened-200349903.html</link>
+      <guid isPermaLink="true">https://www.yahoo.com/news/articles/meet-irans-hardline-speaker-threatened-200349903.html</guid>
+      <description>&lt;p&gt;&lt;img alt="" src="https://s.yimg.com/uu/api/res/1.2/koQQKaVCsN_.14ol0jhxSw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/5a3ba8a3bd28f32ae07df347552b2484.cf.webp" /&gt;&lt;/p&gt;Iranian parliament speaker Ghalibaf has threatened U.S. forces while reportedly being eyed by the Trump administration as a potential Iran talks channel.</description>
+      <pubDate>Thu, 26 Mar 2026 08:52:24 +0600</pubDate>
+      <media:thumbnail url="https://s.yimg.com/uu/api/res/1.2/koQQKaVCsN_.14ol0jhxSw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/5a3ba8a3bd28f32ae07df347552b2484.cf.webp" />
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/koQQKaVCsN_.14ol0jhxSw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/5a3ba8a3bd28f32ae07df347552b2484.cf.webp" type="image/webp" length="0" />
     </item>
   </channel>
 </rss>
