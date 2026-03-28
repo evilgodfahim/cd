@@ -51,7 +51,9 @@ FEED_URLS = [
     "https://evilgodfahim.github.io/tbs/articles.xml",
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml",
 
-"https://theweek.com/rss.xml"
+"https://theweek.com/rss.xml",
+
+"https://www.wired.com/feed/rss"
 ]
 
 EXISTING_API_FEEDS = {
@@ -71,7 +73,9 @@ EXISTING_API_FEEDS = {
     "https://evilgodfahim.github.io/tbs/articles.xml",
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml",
 
-"https://theweek.com/rss.xml"
+"https://theweek.com/rss.xml",
+
+"https://www.wired.com/feed/rss"
 }
 
 KL_API_FEEDS = set()
