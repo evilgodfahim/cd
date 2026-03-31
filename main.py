@@ -3,7 +3,7 @@
 RSS Feed Processor with Gemini API Integration (robust date/content handling + thumbnails)
 
 All articles from all feeds go to one Gemini call.
-Gemini classifies each headline into signal, longread, or noise.
+Gemini classifies each headline into signal or noise.
 A second Gemini call deduplicates near-identical titles within each bucket.
 
 Outputs:
@@ -18,6 +18,7 @@ import json
 import os
 import time
 import re
+import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import xml.etree.ElementTree as ET
@@ -520,8 +521,36 @@ def extract_json_object(text):
     return result
 
 
+def _gemini_response_with_503_retry(client, *, model, contents, config=None):
+    try:
+        return client.models.generate_content(
+            model=model,
+            contents=contents,
+            config=config or {},
+        )
+    except Exception as e:
+        if "503" not in str(e):
+            raise
+        print("Gemini returned 503. Waiting 1 minute and retrying once...")
+        time.sleep(60)
+        try:
+            return client.models.generate_content(
+                model=model,
+                contents=contents,
+                config=config or {},
+            )
+        except Exception as e2:
+            if "503" in str(e2):
+                print("Gemini returned 503 again. Quitting.")
+                sys.exit(0)
+            raise
+
+
 def send_to_gemini(articles):
-    """Single Gemini 3 Flash call. Returns {"signal": [...], "longread": [...]}."""
+    """Single Gemini 3 Flash call. Returns {"signal": [...], "longread": [...]}.
+
+    If Gemini returns 503 twice, the process quits.
+    """
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key or not articles:
         return {"signal": [], "longread": []}
@@ -531,7 +560,8 @@ def send_to_gemini(articles):
 
         titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
 
-        response = client.models.generate_content(
+        response = _gemini_response_with_503_retry(
+            client,
             model=GEMINI_MODEL,
             contents=f"Article titles:\n{titles_text}",
             config={
@@ -548,6 +578,8 @@ def send_to_gemini(articles):
 
         return extract_json_object(response.text)
 
+    except SystemExit:
+        raise
     except Exception as e:
         print(f"Gemini classification error: {e}")
         return {"signal": [], "longread": []}
@@ -574,7 +606,8 @@ def deduplicate_articles(articles):
             [f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)]
         )
 
-        response = client.models.generate_content(
+        response = _gemini_response_with_503_retry(
+            client,
             model=DEDUP_MODEL,
             contents=DEDUP_PROMPT.format(titles=titles_text),
             config={"response_mime_type": "application/json"},
@@ -618,6 +651,8 @@ def deduplicate_articles(articles):
             print(f"Dedup: removed {dropped} near-duplicate title(s).")
         return deduped
 
+    except SystemExit:
+        raise
     except Exception as e:
         print(f"Gemini dedup error: {e}")
         return articles
