@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-RSS Feed Processor with Gemini API Integration (robust date/content handling + thumbnails)
+RSS Feed Processor — Longread Pipeline
 
-All articles from all feeds go to one Gemini call.
-Gemini classifies each headline into signal or noise.
-A second Gemini call deduplicates near-identical titles within each bucket.
+All articles from all feeds go to one Mistral call.
+Mistral classifies each headline into signal, longread, or noise.
+A Gemini call deduplicates near-identical signal titles.
 
 Outputs:
   curated_feed.xml  - signal articles
@@ -23,6 +23,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import xml.etree.ElementTree as ET
 from google import genai
+from mistralai import Mistral
 from email.utils import parsedate_to_datetime
 from urllib.parse import urljoin, urlparse
 
@@ -62,7 +63,7 @@ FEED_URLS = [
 "https://evilgodfahim.github.io/fto/combined.xml",
     "https://evilgodfahim.github.io/nytop/combined.xml",
     "https://evilgodfahim.github.io/wpo/combined.xml",
-    "https://evilgodfahim.github.io/wsjop/combined.xml", 
+    "https://evilgodfahim.github.io/wsjop/combined.xml",
 
 "https://evilgodfahim.github.io/lemonde/combined.xml",
 
@@ -107,8 +108,8 @@ KL_API_FEEDS = set()
 
 # -- CONFIG --------------------------------------------------------------------
 
-GEMINI_MODEL          = "gemini-3-flash-preview"
 DEDUP_MODEL           = "gemini-2.5-flash"
+MISTRAL_MODEL         = "mistral-large-latest"
 PROCESSED_FILE        = "processed_articles.json"
 SELECTED_FILE         = "selected_articles.json"
 OUTPUT_XML            = "curated_feed.xml"
@@ -118,7 +119,7 @@ MAX_ARTICLES_PER_FEED = 100
 MAX_AGE_HOURS         = 10
 ALLOW_MISSING_DATES   = True
 ALLOW_OLDER           = False
-MAX_FEED_ITEMS        = 500          # rolling cap per output file
+MAX_FEED_ITEMS        = 500
 
 # -- PROMPT --------------------------------------------------------------------
 
@@ -173,7 +174,7 @@ Article titles:
 # -- CONSTANTS -----------------------------------------------------------------
 
 MEDIA_NS    = "http://search.yahoo.com/mrss/"
-MEDIA_TAG   = "{%s}" % MEDIA_NS          # shorthand: "{http://...}"
+MEDIA_TAG   = "{%s}" % MEDIA_NS
 ET.register_namespace("media", MEDIA_NS)
 
 BD_TZ = timezone(timedelta(hours=6))
@@ -494,10 +495,10 @@ def get_new_articles(all_articles, processed_data):
             new.append(a)
     return new
 
-# -- GEMINI --------------------------------------------------------------------
+# -- CLASSIFICATION ------------------------------------------------------------
 
 def extract_json_object(text):
-    """Parse {"signal": [...], "longread": [...]} from Gemini response."""
+    """Parse {"signal": [...], "longread": [...]} from Mistral response."""
     text = text.replace("```json", "").replace("```", "").strip()
     match = re.search(r"\{.*\}", text, flags=re.DOTALL)
     if match:
@@ -521,77 +522,31 @@ def extract_json_object(text):
     return result
 
 
-def _gemini_response_with_503_retry(client, *, model, contents, config=None):
-    try:
-        return client.models.generate_content(
-            model=model,
-            contents=contents,
-            config=config or {},
-        )
-    except Exception as e:
-        if "503" not in str(e):
-            raise
-        print("Gemini returned 503. Waiting 1 minute and retrying once...")
-        time.sleep(60)
-        try:
-            return client.models.generate_content(
-                model=model,
-                contents=contents,
-                config=config or {},
-            )
-        except Exception as e2:
-            if "503" in str(e2):
-                print("Gemini returned 503 again. Quitting.")
-                sys.exit(0)
-            raise
-
-
-def send_to_gemini(articles):
-    """Single Gemini 3 Flash call. Returns {"signal": [...], "longread": [...]}.
-
-    If Gemini returns 503 twice, the process quits.
-    """
-    api_key = os.environ.get("GEMINI_API_KEY")
+def send_to_mistral(articles):
+    """Single Mistral call. Returns {"signal": [...], "longread": [...]}."""
+    api_key = os.environ.get("MS")
     if not api_key or not articles:
         return {"signal": [], "longread": []}
 
     try:
-        client = genai.Client(api_key=api_key)
-
+        client      = Mistral(api_key=api_key)
         titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
 
-        response = _gemini_response_with_503_retry(
-            client,
-            model=GEMINI_MODEL,
-            contents=f"Article titles:\n{titles_text}",
-            config={
-                "system_instruction": PROMPT,
-                "response_mime_type": "application/json",
-            },
+        response = client.chat.complete(
+            model=MISTRAL_MODEL,
+            messages=[{"role": "user", "content": PROMPT.format(titles=titles_text)}],
+            response_format={"type": "json_object"},
         )
 
-        if hasattr(response, "parsed") and response.parsed:
-            return {
-                "signal":   [i for i in response.parsed.get("signal",   []) if isinstance(i, int)],
-                "longread": [i for i in response.parsed.get("longread", []) if isinstance(i, int)],
-            }
+        text = response.choices[0].message.content or ""
+        return extract_json_object(text)
 
-        return extract_json_object(response.text)
-
-    except SystemExit:
-        raise
     except Exception as e:
-        print(f"Gemini classification error: {e}")
+        print(f"Mistral classification error: {e}")
         return {"signal": [], "longread": []}
 
 
 def deduplicate_articles(articles):
-    """
-    Send article titles to Gemini 2.5 Flash.
-    Returns a deduplicated subset of `articles`, preserving order.
-    Near-identical or same-story titles are collapsed to the first occurrence.
-    Falls back to returning all articles unchanged on any error.
-    """
     if not articles:
         return articles
 
@@ -600,24 +555,18 @@ def deduplicate_articles(articles):
         return articles
 
     try:
-        client = genai.Client(api_key=api_key)
+        client      = genai.Client(api_key=api_key)
+        titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
 
-        titles_text = "\n".join(
-            [f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)]
-        )
-
-        response = _gemini_response_with_503_retry(
-            client,
+        response = client.models.generate_content(
             model=DEDUP_MODEL,
             contents=DEDUP_PROMPT.format(titles=titles_text),
             config={"response_mime_type": "application/json"},
         )
 
-        # Parse response — expect a plain JSON array of ints, e.g. [0, 1, 3, 5]
         raw = response.text if hasattr(response, "text") else ""
         raw = raw.replace("```json", "").replace("```", "").strip()
 
-        # Try direct array parse first
         keep_indices = None
         try:
             parsed = json.loads(raw)
@@ -626,7 +575,6 @@ def deduplicate_articles(articles):
         except Exception:
             pass
 
-        # Fallback: extract array from inside any surrounding object
         if keep_indices is None:
             m = re.search(r"\[[\d,\s]+\]", raw)
             if m:
@@ -642,8 +590,6 @@ def deduplicate_articles(articles):
             print("Dedup: could not parse response, keeping all articles.")
             return articles
 
-        # Preserve original ordering; indices returned by model are already ordered,
-        # but sort just in case.
         keep_indices = sorted(set(keep_indices))
         deduped = [articles[i] for i in keep_indices]
         dropped = len(articles) - len(deduped)
@@ -651,8 +597,6 @@ def deduplicate_articles(articles):
             print(f"Dedup: removed {dropped} near-duplicate title(s).")
         return deduped
 
-    except SystemExit:
-        raise
     except Exception as e:
         print(f"Gemini dedup error: {e}")
         return articles
@@ -660,7 +604,6 @@ def deduplicate_articles(articles):
 # -- XML -----------------------------------------------------------------------
 
 def _fresh_channel(root, feed_title, feed_description):
-    """Add a blank <channel> to root and return it."""
     channel = ET.SubElement(root, "channel")
     ET.SubElement(channel, "title").text       = feed_title
     ET.SubElement(channel, "link").text        = "https://yourusername.github.io/yourrepo/"
@@ -669,13 +612,6 @@ def _fresh_channel(root, feed_title, feed_description):
 
 
 def _load_or_create(output_file, feed_title, feed_description):
-    """
-    Return (tree, root, channel).
-
-    Tries to parse an existing file.  If the file is absent, empty, or
-    corrupt a fresh tree is built from scratch.  The namespace prefix
-    'media' is always re-registered so ElementTree writes it correctly.
-    """
     ET.register_namespace("media", MEDIA_NS)
 
     if Path(output_file).exists():
@@ -697,12 +633,6 @@ def _load_or_create(output_file, feed_title, feed_description):
 
 
 def generate_xml_feed(articles, output_file, feed_title=None, feed_description=None):
-    """
-    Append new unique articles to the existing RSS <channel>.
-    Enforces a MAX_FEED_ITEMS rolling cap — oldest items (top of list) are
-    dropped first once the cap is exceeded.
-    Creates the file from scratch if it does not exist.
-    """
     feed_title       = feed_title       or "Curated News"
     feed_description = feed_description or "AI-curated news feed"
 
@@ -732,11 +662,7 @@ def generate_xml_feed(articles, output_file, feed_title=None, feed_description=N
 
         thumb = a.get("thumbnail")
         if thumb:
-            ET.SubElement(
-                item,
-                MEDIA_TAG + "thumbnail",
-                {"url": thumb},
-            )
+            ET.SubElement(item, MEDIA_TAG + "thumbnail", {"url": thumb})
             mime = a.get("thumbnail_type") or get_mime_for_url(thumb)
             ET.SubElement(item, "enclosure", {"url": thumb, "type": mime, "length": "0"})
 
@@ -775,13 +701,13 @@ def generate_xml_feed(articles, output_file, feed_title=None, feed_description=N
 
 def print_stats():
     print("\nFetch statistics:")
-    print(f"  Timestamp:           {STATS.get('timestamp')}")
-    print(f"  Total fetched:       {STATS['total_fetched']}  (raw entries from all feeds)")
-    print(f"  Passed age cut:      {STATS['total_passed_age']}  (within {MAX_AGE_HOURS}h window)")
-    print(f"  New (unseen):        {STATS['total_new']}")
-    print(f"  Signal (classified): {STATS['total_signal']}")
-    print(f"  Signal (after dedup):{STATS['total_signal_deduped']}  -> {OUTPUT_XML}")
-    print(f"  Longread (classified):{STATS['total_longread']}")
+    print(f"  Timestamp:             {STATS.get('timestamp')}")
+    print(f"  Total fetched:         {STATS['total_fetched']}  (raw entries from all feeds)")
+    print(f"  Passed age cut:        {STATS['total_passed_age']}  (within {MAX_AGE_HOURS}h window)")
+    print(f"  New (unseen):          {STATS['total_new']}")
+    print(f"  Signal (classified):   {STATS['total_signal']}")
+    print(f"  Signal (after dedup):  {STATS['total_signal_deduped']}  -> {OUTPUT_XML}")
+    print(f"  Longread (classified): {STATS['total_longread']}")
     print(f"  Longread (after dedup):{STATS['total_longread_deduped']}  -> {LONGREAD_XML}")
     print("  Per-method (raw fetch):")
     for method, cnt in STATS["per_method"].items():
@@ -801,8 +727,7 @@ def main():
 
     STATS["total_new"] = len(new_articles)
 
-    # --- Step 1: classify with Gemini 3 Flash --------------------------------
-    result = send_to_gemini(new_articles)
+    result = send_to_mistral(new_articles)
 
     signal_indices   = [i for i in result.get("signal",   []) if isinstance(i, int) and 0 <= i < len(new_articles)]
     longread_indices = [i for i in result.get("longread", []) if isinstance(i, int) and 0 <= i < len(new_articles)]
@@ -817,20 +742,17 @@ def main():
     STATS["total_signal"]   = len(signal_articles)
     STATS["total_longread"] = len(longread_articles)
 
-    # --- Early exit: nothing classified, nothing to commit -------------------
     if not signal_articles and not longread_articles:
         print("No signal or longread articles this run. Skipping all file writes.")
         print_stats()
         return
 
-    # --- Step 2: deduplicate signal only with Gemini 2.5 Flash ---------------
     print(f"Deduplicating {len(signal_articles)} signal article(s)...")
     signal_articles = deduplicate_articles(signal_articles)
 
     STATS["total_signal_deduped"]   = len(signal_articles)
-    STATS["total_longread_deduped"] = len(longread_articles)  # no dedup, same as classified
+    STATS["total_longread_deduped"] = len(longread_articles)
 
-    # --- Step 3: write XML feeds ---------------------------------------------
     generate_xml_feed(
         signal_articles,
         output_file=OUTPUT_XML,
