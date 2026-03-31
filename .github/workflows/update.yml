@@ -42,6 +42,7 @@ jobs:
         shell: bash
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MS: ${{ secrets.MS }}
         run: |
           set -euo pipefail
           python main.py
