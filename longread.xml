@@ -4,7 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Tue, 31 Mar 2026 01:51:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 05:43:12 +0000</lastBuildDate>
     <item>
       <title>Why is the US so expensive? Everything comes in a ‘premium’ version, from doctors’ appointments to movies | Arwa Mahdawi</title>
       <link>https://www.theguardian.com/commentisfree/2026/mar/24/cinema-premium-seating-price-vue-odeon-amc-sightline</link>
@@ -2447,6 +2447,27 @@ As global manufacturing shifts rapidly tow</description>
       <pubDate>Tue, 31 Mar 2026 07:50:14 +0600</pubDate>
       <media:thumbnail url="https://opinion-images.wsj.net/im-98760229" />
       <enclosure url="https://opinion-images.wsj.net/im-98760229" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Private capital’s great disappointment era begins</title>
+      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/b46395e4-261a-483e-84cf-66af70a0ec1d</link>
+      <guid isPermaLink="true">https://www.ft.com/content/b46395e4-261a-483e-84cf-66af70a0ec1d</guid>
+      <description>The $22tn industry is facing the prospect that returns will fall far short of the expectations of investors</description>
+      <pubDate>Tue, 31 Mar 2026 11:41:53 +0600</pubDate>
+    </item>
+    <item>
+      <title>Prediction markets have turned the world into a casino</title>
+      <link>https://spectator.com/article/prediction-markets-turned-world-casino-polymarket-kalshi/?edition=us</link>
+      <guid isPermaLink="true">https://spectator.com/article/prediction-markets-turned-world-casino-polymarket-kalshi/?edition=us</guid>
+      <description>By Zack Christenson</description>
+      <pubDate>Tue, 31 Mar 2026 11:41:53 +0600</pubDate>
+    </item>
+    <item>
+      <title>When did democracy become an investment bubble?</title>
+      <link>https://archive.is/qWySo/https://www.ft.com/content/b6388546-8487-42df-9fbe-f9fb6ac6f98c</link>
+      <guid isPermaLink="true">https://www.ft.com/content/b6388546-8487-42df-9fbe-f9fb6ac6f98c</guid>
+      <description>A new closed-end fund is open to anyone with a brokerage account but whether it brings prosperity remains to be seen</description>
+      <pubDate>Tue, 31 Mar 2026 11:41:53 +0600</pubDate>
     </item>
   </channel>
 </rss>
