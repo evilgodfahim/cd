@@ -7,8 +7,8 @@
     },
     "https://feeds2.feedburner.com/businessinsider": {
       "fetched": 50,
-      "passed_age": 3,
-      "capped": 3
+      "passed_age": 2,
+      "capped": 2
     },
     "https://feeds.feedburner.com/TheAtlantic": {
       "fetched": 25,
@@ -27,13 +27,13 @@
     },
     "https://evilgodfahim.github.io/gd/merged.xml": {
       "fetched": 1000,
-      "passed_age": 16,
-      "capped": 16
+      "passed_age": 14,
+      "capped": 14
     },
     "https://evilgodfahim.github.io/nytint/combined.xml": {
       "fetched": 500,
-      "passed_age": 5,
-      "capped": 5
+      "passed_age": 6,
+      "capped": 6
     },
     "https://evilgodfahim.github.io/wpint/combined.xml": {
       "fetched": 78,
@@ -42,13 +42,13 @@
     },
     "https://evilgodfahim.github.io/wsjint/combined.xml": {
       "fetched": 343,
-      "passed_age": 4,
-      "capped": 4
+      "passed_age": 3,
+      "capped": 3
     },
     "https://theweek.com/rss.xml": {
       "fetched": 50,
-      "passed_age": 1,
-      "capped": 1
+      "passed_age": 2,
+      "capped": 2
     },
     "https://www.wired.com/feed/rss": {
       "fetched": 50,
@@ -66,14 +66,14 @@
       "capped": 0
     },
     "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml": {
-      "fetched": 189,
-      "passed_age": 2,
-      "capped": 2
+      "fetched": 198,
+      "passed_age": 11,
+      "capped": 11
     },
     "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml": {
-      "fetched": 135,
-      "passed_age": 1,
-      "capped": 1
+      "fetched": 136,
+      "passed_age": 2,
+      "capped": 2
     },
     "https://evilgodfahim.github.io/fto/combined.xml": {
       "fetched": 25,
@@ -82,8 +82,8 @@
     },
     "https://evilgodfahim.github.io/nytop/combined.xml": {
       "fetched": 50,
-      "passed_age": 1,
-      "capped": 1
+      "passed_age": 3,
+      "capped": 3
     },
     "https://evilgodfahim.github.io/wpo/combined.xml": {
       "fetched": 16,
@@ -108,14 +108,14 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 3427
+    "DIRECT": 3437
   },
-  "total_fetched": 3427,
-  "total_passed_age": 59,
-  "total_new": 32,
-  "total_signal": 10,
-  "total_longread": 6,
-  "timestamp": "2026-04-05T05:42:39.263112",
-  "total_signal_deduped": 9,
-  "total_longread_deduped": 6
+  "total_fetched": 3437,
+  "total_passed_age": 69,
+  "total_new": 21,
+  "total_signal": 3,
+  "total_longread": 10,
+  "timestamp": "2026-04-05T08:36:40.779337",
+  "total_signal_deduped": 3,
+  "total_longread_deduped": 10
 }
