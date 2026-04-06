@@ -4,25 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: international affairs and Bangladesh news</description>
-    <lastBuildDate>Mon, 06 Apr 2026 05:56:30 +0000</lastBuildDate>
-    <item>
-      <title>Energy shock: How bad could it get?</title>
-      <link>https://theweek.com/business/economy/energy-shock-iran-war</link>
-      <guid isPermaLink="false">C7QgU5rN7EzFAumEJ7U4dR</guid>
-      <description>As the Iran war continues, fuel prices keep going up</description>
-      <pubDate>Tue, 31 Mar 2026 02:38:46 +0600</pubDate>
-      <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/DLu3yijFozFs3iuxDRHaW9-1280-80.jpg" />
-      <enclosure url="https://cdn.mos.cms.futurecdn.net/DLu3yijFozFs3iuxDRHaW9-1280-80.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How does the ‘Tehran tollbooth’ upend Trump’s shifting Iran war plans?</title>
-      <link>https://theweek.com/world-news/tehran-toll-booth-trump-iran-war-hormuz</link>
-      <guid isPermaLink="false">nxuqPDm4LcF5zvfbTHEaC7</guid>
-      <description>Iran isn’t just flexing its petrochemical muscles in the Gulf — it’s turning a profit at the Trump war effort’s expense</description>
-      <pubDate>Tue, 31 Mar 2026 02:38:46 +0600</pubDate>
-      <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/4Bb8xubSr5iN92uZEqHGET-1280-80.jpg" />
-      <enclosure url="https://cdn.mos.cms.futurecdn.net/4Bb8xubSr5iN92uZEqHGET-1280-80.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Mon, 06 Apr 2026 09:02:48 +0000</lastBuildDate>
     <item>
       <title>The UN wants reparations for slavery. Not all countries agree.</title>
       <link>https://theweek.com/world-news/united-nations-reparations-slavery-countries-united-states-opposed</link>
@@ -4147,6 +4129,22 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/04/06/opinion/iran-war-strait-hormuz.html</guid>
       <description>Its newfound might derives from its control the Strait of Hormuz.</description>
       <pubDate>Mon, 06 Apr 2026 11:56:01 +0600</pubDate>
+    </item>
+    <item>
+      <title>China Could Dominate the Physical AI Future</title>
+      <link>https://time.com/7382151/china-dominates-the-physical-ai-race/</link>
+      <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
+      <description />
+      <pubDate>Mon, 06 Apr 2026 15:02:40 +0600</pubDate>
+    </item>
+    <item>
+      <title>Iran War Live Updates: Israel and Iran Trade Attacks After Trump’s New Hormuz Ultimatum</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel</guid>
+      <description>The fighting on Monday morning followed President Trump’s threat to bomb power plants and bridges on Tuesday if Iran did not open the Strait of Hormuz.</description>
+      <pubDate>Mon, 06 Apr 2026 15:02:40 +0600</pubDate>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/04/06/multimedia/06iran-live-promo-flbg/06iran-live-promo-flbg-mediumSquareAt3X.jpg" />
+      <enclosure url="https://static01.nyt.com/images/2026/04/06/multimedia/06iran-live-promo-flbg/06iran-live-promo-flbg-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
