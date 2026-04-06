@@ -67,7 +67,9 @@ FEED_URLS = [
 
 "https://evilgodfahim.github.io/lemonde/combined.xml",
 
-"https://www.thewirechina.com/feed/"
+"https://www.thewirechina.com/feed/",
+
+"https://evilgodfahim.github.io/intop/filtered.xml"
 ]
 
 EXISTING_API_FEEDS = {
@@ -101,7 +103,9 @@ EXISTING_API_FEEDS = {
 
 "https://evilgodfahim.github.io/lemonde/combined.xml",
 
-"https://www.thewirechina.com/feed/"
+"https://www.thewirechina.com/feed/",
+
+"https://evilgodfahim.github.io/intop/filtered.xml"
 }
 
 KL_API_FEEDS = set()
