@@ -4,34 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Wed, 08 Apr 2026 01:51:59 +0000</lastBuildDate>
-    <item>
-      <title>How one factory supplies NYC's corner store delis</title>
-      <link>https://www.businessinsider.com/inside-the-bakery-where-nycs-bodegas-get-their-bread-2026-3</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/inside-the-bakery-where-nycs-bodegas-get-their-bread-2026-3</guid>
-      <description>New York City bodegas face pressure from rising rents and competition.</description>
-      <pubDate>Sat, 28 Mar 2026 07:29:18 +0600</pubDate>
-      <media:thumbnail url="https://i.insider.com/69c6cc3ce99557fb1b08a1b6?format=jpeg" />
-      <enclosure url="https://i.insider.com/69c6cc3ce99557fb1b08a1b6?format=jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>When deaths arrive on schedule each year: Why Bangladesh fails to curb fatalities on the road during Eid</title>
-      <link>https://www.tbsnews.net/features/panorama/when-deaths-arrive-schedule-each-year-why-bangladesh-fails-curb-fatalities-road</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/features/panorama/when-deaths-arrive-schedule-each-year-why-bangladesh-fails-curb-fatalities-road</guid>
-      <description />
-      <pubDate>Sat, 28 Mar 2026 07:29:18 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/03/28/rescue_0.jpeg" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/03/28/rescue_0.jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Why Bangladesh fails to curb fatalities on the road during Eid</title>
-      <link>https://www.tbsnews.net/features/panorama/why-bangladesh-fails-curb-fatalities-road-during-eid-1395506</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/features/panorama/why-bangladesh-fails-curb-fatalities-road-during-eid-1395506</guid>
-      <description />
-      <pubDate>Sat, 28 Mar 2026 07:29:18 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/03/28/rescue.jpeg" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/03/28/rescue.jpeg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 05:45:00 +0000</lastBuildDate>
     <item>
       <title>Why Bangladesh fails to curb fatalities on the road during Eid</title>
       <link>https://www.tbsnews.net/features/panorama/why-bangladesh-fails-curb-fatalities-road-during-eid-1395511</link>
@@ -4250,6 +4223,31 @@ Host Megan McArdle is joined by Dean Ball, a senior fellow at the Foundation for
       <guid isPermaLink="true">https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html</guid>
       <description>We’re racing a civilizational clock.</description>
       <pubDate>Wed, 08 Apr 2026 07:51:46 +0600</pubDate>
+    </item>
+    <item>
+      <title>How China Built Its Vast Natural Gas Stockpile</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/04/08/business/china-natural-gas-reserves-iran-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/08/business/china-natural-gas-reserves-iran-war.html</guid>
+      <description>Natural gas is hard to store, but China has found a way to do it, while also developing alternate suppliers and expanding production at home.</description>
+      <pubDate>Wed, 08 Apr 2026 11:44:09 +0600</pubDate>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/04/07/multimedia/Biz-China-Natural-Gas-01-phvw/Biz-China-Natural-Gas-01-phvw-mediumSquareAt3X.jpg" />
+      <enclosure url="https://static01.nyt.com/images/2026/04/07/multimedia/Biz-China-Natural-Gas-01-phvw/Biz-China-Natural-Gas-01-phvw-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The Day Trump’s Iran Threat Gripped the World</title>
+      <link>https://archive.is/o/soww3/https://www.wsj.com/world/middle-east/trump-iran-threat-gripped-world-b8d789c9</link>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/trump-iran-threat-gripped-world-b8d789c9</guid>
+      <description>In posting that a whole civilization would die if no deal was struck, the president sparked a frantic global guessing game.</description>
+      <pubDate>Wed, 08 Apr 2026 11:44:09 +0600</pubDate>
+      <media:thumbnail url="https://images.wsj.net/im-12234601" />
+      <enclosure url="https://images.wsj.net/im-12234601" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>How Pope Leo XIV is quietly reshaping the Vatican</title>
+      <link>https://spectator.com/article/how-pope-leo-xiv-is-quietly-reshaping-the-vatican/?edition=us&amp;homepage-tracking=magazine_minor-article-2</link>
+      <guid isPermaLink="true">https://spectator.com/article/how-pope-leo-xiv-is-quietly-reshaping-the-vatican/?edition=us&amp;homepage-tracking=magazine_minor-article-2</guid>
+      <description>Rome</description>
+      <pubDate>Wed, 08 Apr 2026 11:44:09 +0600</pubDate>
     </item>
   </channel>
 </rss>
