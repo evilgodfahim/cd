@@ -29592,5 +29592,63 @@
     "description": "By Ruaridh Nicoll",
     "published": "Sat, 11 Apr 2026 22:29:18 +0600",
     "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+  },
+  {
+    "id": "https://time.com/article/2026/04/11/strait-of-hormuz-iran-peace-talks/",
+    "title": "Trump Says U.S. Has Begun ‘Clearing Out’ Strait of Hormuz",
+    "link": "https://time.com/article/2026/04/11/strait-of-hormuz-iran-peace-talks/",
+    "description": "",
+    "published": "Sun, 12 Apr 2026 02:25:23 +0600",
+    "source": "https://evilgodfahim.github.io/tm/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2026/apr/11/state-department-revokes-green-cards-iran-arrests",
+    "title": "US state department revokes green cards of three Iranian nationals it links to regime",
+    "link": "https://www.theguardian.com/us-news/2026/apr/11/state-department-revokes-green-cards-iran-arrests",
+    "description": "<p>Three arrested by federal agents had family ties to Iranian military general, regime spokesperson or security chief</p><p>United States federal agents arrested three <a href=\"https://www.theguardian.com/world/iran\">Iranian</a> nationals – including the son of a revolutionary at the center of the 1979 Iran hostage crisis – after the US state department terminated their green cards, the department announced on Saturday.</p><p>State department officials revoked the green card status of Seyed Eissa Hashemi, whose mother was an Iranian revolutionary who served as the spokesperson for Iran’s regime during the hostage crisis that <a href=\"https://www.theguardian.com/us-news/2025/jan/08/jimmy-carter-iran-hostage-embassy\">defined</a> the late Jimmy Carter’s presidency. The state department also revoked the green card – or legal permanent resident – statuses of Hashemi’s wife and son.</p> <a href=\"https://www.theguardian.com/us-news/2026/apr/11/state-department-revokes-green-cards-iran-arrests\">Continue reading...</a>",
+    "published": "Sun, 12 Apr 2026 02:25:23 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/98fcd7c35df2b7ba753b134128c23a89eb1a36ee/387_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=e77b7b00c742c321b313f72135356752",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/11/us/politics/deportation-iranian-revolution.html",
+    "title": "U.S. Moves to Deport Son of Prominent Figure in Iranian Revolution",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/04/11/us/politics/deportation-iranian-revolution.html",
+    "description": "Federal agents arrested a man whose mother served as a spokeswoman for the Islamist embassy captors during the hostage crisis that began in 1979.",
+    "published": "Sun, 12 Apr 2026 02:25:23 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/04/11/multimedia/11dc-arrests-iran-wbpj/11dc-arrests-iran-wbpj-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/china/how-hong-kong-helps-the-flow-of-irans-hidden-billions-cfffb913",
+    "title": "How Hong Kong Helps the Flow of Iran’s Hidden Billions",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/china/how-hong-kong-helps-the-flow-of-irans-hidden-billions-cfffb913",
+    "description": "The city has flourished as China’s hub for helping Iran survive punishing sanctions, much to the frustration of U.S. officials.",
+    "published": "Sun, 12 Apr 2026 02:25:23 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-92006308",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/us-enemies-war-culture-b1d140e6",
+    "title": "Why Iran and Other Regimes Are So Hard to Break",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/us-enemies-war-culture-b1d140e6",
+    "description": "Iran defied predictions that its leadership would cede to U.S. and Israeli pressure, illustrating the staying power of hard-line regimes.",
+    "published": "Sun, 12 Apr 2026 02:25:23 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-07003047",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/america-has-wanted-greenland-for-over-a-century-trump-isnt-giving-up-fef0f397",
+    "title": "America Has Wanted Greenland for Over a Century. Trump Isn’t Giving Up.",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/america-has-wanted-greenland-for-over-a-century-trump-isnt-giving-up-fef0f397",
+    "description": "The remnants of Bluie East Two stand as a reminder of the last time the U.S. tried to own the island.",
+    "published": "Sun, 12 Apr 2026 02:25:23 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-09327599",
+    "thumbnail_type": "image/jpeg"
   }
 ]
