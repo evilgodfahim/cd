@@ -4,28 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Wed, 15 Apr 2026 05:56:40 +0000</lastBuildDate>
-    <item>
-      <title>The surprising truth about AI and jobs</title>
-      <link>https://spectator.com/article/the-surprising-truth-about-ai-and-jobs/</link>
-      <guid isPermaLink="true">https://spectator.com/article/the-surprising-truth-about-ai-and-jobs/</guid>
-      <description>By Ben Guerin</description>
-      <pubDate>Sun, 05 Apr 2026 14:36:13 +0600</pubDate>
-    </item>
-    <item>
-      <title>The madness of using cannabis to treat mental health</title>
-      <link>https://spectator.com/article/the-madness-of-using-cannabis-to-treat-mental-health/?homepage-tracking=magazine_minor-article-2</link>
-      <guid isPermaLink="true">https://spectator.com/article/the-madness-of-using-cannabis-to-treat-mental-health/?homepage-tracking=magazine_minor-article-2</guid>
-      <description>A disaster</description>
-      <pubDate>Sun, 05 Apr 2026 14:36:13 +0600</pubDate>
-    </item>
-    <item>
-      <title>What David Attenborough gets wrong about cats</title>
-      <link>https://spectator.com/article/what-david-attenborough-gets-wrong-about-cats/?homepage-tracking=magazine_minor-article-3</link>
-      <guid isPermaLink="true">https://spectator.com/article/what-david-attenborough-gets-wrong-about-cats/?homepage-tracking=magazine_minor-article-3</guid>
-      <description>Secret Garden</description>
-      <pubDate>Sun, 05 Apr 2026 14:36:13 +0600</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Apr 2026 09:12:36 +0000</lastBuildDate>
     <item>
       <title>Religion has been resurrected in British politics</title>
       <link>https://spectator.com/article/religion-has-been-resurrected-in-british-politics/?homepage-tracking=magazine_minor-featured-1</link>
@@ -4227,6 +4206,31 @@
       <guid isPermaLink="true">https://www.nytimes.com/video/opinion/100000010830068/israels-one-state-reality.html</guid>
       <description>Hope for a two-state solution between Israel and Palestine is preventing the world from reckoning with the “one-state reality” of the present, the Opinion columnist Ezra Klein argues.</description>
       <pubDate>Wed, 15 Apr 2026 11:56:29 +0600</pubDate>
+    </item>
+    <item>
+      <title>The memory shortage is driving up the cost of laptops</title>
+      <link>https://www.businessinsider.com/memory-shortage-chips-cost-laptop-pc-prices-increase-2026-2</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/memory-shortage-chips-cost-laptop-pc-prices-increase-2026-2</guid>
+      <description>Memory chip costs are up as AI companies gobble up the hot commodity. Consumer electronics companies like Dell and HP are raising prices.</description>
+      <pubDate>Wed, 15 Apr 2026 15:12:27 +0600</pubDate>
+      <media:thumbnail url="https://i.insider.com/69dea510d06bf1b901273a30?format=jpeg" />
+      <enclosure url="https://i.insider.com/69dea510d06bf1b901273a30?format=jpeg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>How a Times Reporter Has Covered a Turbulent Period in Latin America</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/04/15/insider/frances-robles-new-york-times.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/15/insider/frances-robles-new-york-times.html</guid>
+      <description>Frances Robles, an international correspondent for The New York Times, has reported on the region for more than 25 years.</description>
+      <pubDate>Wed, 15 Apr 2026 15:12:27 +0600</pubDate>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/04/14/pageoneplus/14a2_insider-robles/14a3_insider-robles-mediumSquareAt3X.png" />
+      <enclosure url="https://static01.nyt.com/images/2026/04/14/pageoneplus/14a2_insider-robles/14a3_insider-robles-mediumSquareAt3X.png" type="image/png" length="0" />
+    </item>
+    <item>
+      <title>A look at Sudan’s war by the numbers</title>
+      <link>https://apnews.com/article/sudan-war-by-numbers-0e73629e08d25beb5fea82c550d445f1</link>
+      <guid isPermaLink="true">https://apnews.com/article/sudan-war-by-numbers-0e73629e08d25beb5fea82c550d445f1</guid>
+      <description />
+      <pubDate>Wed, 15 Apr 2026 15:12:27 +0600</pubDate>
     </item>
   </channel>
 </rss>
