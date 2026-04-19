@@ -2,18 +2,18 @@
   "per_feed": {
     "https://www.newyorker.com/feed/rss": {
       "fetched": 30,
-      "passed_age": 0,
-      "capped": 0
+      "passed_age": 6,
+      "capped": 6
     },
     "https://feeds2.feedburner.com/businessinsider": {
       "fetched": 50,
-      "passed_age": 4,
-      "capped": 4
+      "passed_age": 22,
+      "capped": 22
     },
     "https://feeds.feedburner.com/TheAtlantic": {
       "fetched": 25,
-      "passed_age": 0,
-      "capped": 0
+      "passed_age": 4,
+      "capped": 4
     },
     "https://evilgodfahim.github.io/tm/feeds/feed.xml": {
       "fetched": 327,
@@ -22,28 +22,28 @@
     },
     "https://evilgodfahim.github.io/ftint/combined.xml": {
       "fetched": 500,
-      "passed_age": 12,
-      "capped": 12
+      "passed_age": 17,
+      "capped": 17
     },
     "https://evilgodfahim.github.io/gd/merged.xml": {
       "fetched": 1000,
-      "passed_age": 11,
-      "capped": 11
+      "passed_age": 21,
+      "capped": 21
     },
     "https://evilgodfahim.github.io/nytint/combined.xml": {
       "fetched": 500,
-      "passed_age": 4,
-      "capped": 4
+      "passed_age": 7,
+      "capped": 7
     },
     "https://evilgodfahim.github.io/wpint/combined.xml": {
-      "fetched": 153,
-      "passed_age": 0,
-      "capped": 0
+      "fetched": 154,
+      "passed_age": 1,
+      "capped": 1
     },
     "https://evilgodfahim.github.io/wsjint/combined.xml": {
       "fetched": 500,
-      "passed_age": 1,
-      "capped": 1
+      "passed_age": 2,
+      "capped": 2
     },
     "https://theweek.com/rss.xml": {
       "fetched": 50,
@@ -52,8 +52,8 @@
     },
     "https://www.wired.com/feed/rss": {
       "fetched": 50,
-      "passed_age": 0,
-      "capped": 0
+      "passed_age": 5,
+      "capped": 5
     },
     "https://www.newstatesman.com/feed": {
       "fetched": 20,
@@ -66,24 +66,24 @@
       "capped": 0
     },
     "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml": {
-      "fetched": 493,
-      "passed_age": 9,
-      "capped": 9
+      "fetched": 494,
+      "passed_age": 10,
+      "capped": 10
     },
     "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml": {
       "fetched": 336,
-      "passed_age": 2,
-      "capped": 2
+      "passed_age": 1,
+      "capped": 1
     },
     "https://evilgodfahim.github.io/fto/combined.xml": {
       "fetched": 25,
-      "passed_age": 4,
-      "capped": 4
+      "passed_age": 6,
+      "capped": 6
     },
     "https://evilgodfahim.github.io/nytop/combined.xml": {
       "fetched": 49,
-      "passed_age": 3,
-      "capped": 3
+      "passed_age": 5,
+      "capped": 5
     },
     "https://evilgodfahim.github.io/wpo/combined.xml": {
       "fetched": 0,
@@ -107,20 +107,20 @@
     },
     "https://evilgodfahim.github.io/intop/filtered.xml": {
       "fetched": 500,
-      "passed_age": 12,
-      "capped": 12
+      "passed_age": 11,
+      "capped": 11
     }
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 5076
+    "DIRECT": 5078
   },
-  "total_fetched": 5076,
-  "total_passed_age": 73,
-  "total_new": 24,
-  "total_signal": 6,
-  "total_longread": 5,
-  "timestamp": "2026-04-19T08:44:57.540328",
-  "total_signal_deduped": 6,
-  "total_longread_deduped": 5
+  "total_fetched": 5078,
+  "total_passed_age": 129,
+  "total_new": 68,
+  "total_signal": 9,
+  "total_longread": 11,
+  "timestamp": "2026-04-19T12:44:59.904813",
+  "total_signal_deduped": 9,
+  "total_longread_deduped": 11
 }
