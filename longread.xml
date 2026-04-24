@@ -4,16 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Fri, 24 Apr 2026 02:02:12 +0000</lastBuildDate>
-    <item>
-      <title>The temperature is rising on AI. What comes next?</title>
-      <link>https://archive.is/o/lkW9s/https://www.washingtonpost.com/podcasts/impromptu/the-temperature-is-rising-on-ai-what-comes-next/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/podcasts/impromptu/the-temperature-is-rising-on-ai-what-comes-next/</guid>
-      <description>Anxiety around artificial intelligence is reaching a fever pitch and sparking real-world consequences. Recent violent incidents tied to opposition against data centers highlight growing public backlash, while Anthropic’s new model, Mythos, raises alarms with its ability to uncover hidden software vulnerabilities across critical systems.
-
-Host Megan McArdle is joined by Damir Marusic, an op-ed editor at Post Opinions, to discuss the risks and inevitability of AI development, and what it will take for the U.S. to stay competitive in the race with China.</description>
-      <pubDate>Wed, 15 Apr 2026 19:10:17 +0600</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Apr 2026 06:04:51 +0000</lastBuildDate>
     <item>
       <title>11 times US presidents launched military operations without Congressional approval</title>
       <link>https://www.businessinsider.com/military-operations-presidents-ordered-without-congress-authorization</link>
@@ -4280,6 +4271,15 @@ Host Megan McArdle is joined by Damir Marusic, an op-ed editor at Post Opinions,
       <guid isPermaLink="true">https://www.rt.com/news/638963-war-without-end-israel/?&amp;</guid>
       <description />
       <pubDate>Fri, 24 Apr 2026 08:02:02 +0600</pubDate>
+    </item>
+    <item>
+      <title>‘Didi vs. Modi’: A Test for the Hindu Right in India’s Bengali Heartland</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/04/24/world/asia/india-elections-modi-bengal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/24/world/asia/india-elections-modi-bengal.html</guid>
+      <description>The party of Prime Minister Narendra Modi has been making gains in a state once beyond its grasp, but many decry an audit that removed nine million voters, many of them Muslim.</description>
+      <pubDate>Fri, 24 Apr 2026 12:04:43 +0600</pubDate>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/04/23/multimedia/23india-elections-01-tkhz/23india-elections-01-tkhz-mediumSquareAt3X.jpg" />
+      <enclosure url="https://static01.nyt.com/images/2026/04/23/multimedia/23india-elections-01-tkhz/23india-elections-01-tkhz-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
