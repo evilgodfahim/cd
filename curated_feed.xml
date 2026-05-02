@@ -4,104 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: international affairs and Bangladesh news</description>
-    <lastBuildDate>Sat, 02 May 2026 06:02:49 +0000</lastBuildDate>
-    <item>
-      <title>Iranian envoy visits Russia amid stalled US talks</title>
-      <link>https://theweek.com/world-news/iranian-envoy-russia-stalled-us-talks</link>
-      <guid isPermaLink="false">HE7dD23jk9yRhnuSAdZtGh</guid>
-      <description>President Donald Trump called off diplomatic meetings with his envoys</description>
-      <pubDate>Mon, 27 Apr 2026 23:16:36 +0600</pubDate>
-      <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/HLBaS28s6V4wsFVMvh99H-1280-80.jpg" />
-      <enclosure url="https://cdn.mos.cms.futurecdn.net/HLBaS28s6V4wsFVMvh99H-1280-80.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>A Brain Implant for Depression Is About to Be Tested in Humans</title>
-      <link>https://www.wired.com/story/a-brain-implant-for-depression-is-about-to-be-tested-in-humans/</link>
-      <guid isPermaLink="false">69ef5bf11bd4101a6eaf9acb</guid>
-      <description>While many brain-computer interface companies are focused on helping paralyzed people communicate, Motif Neurotech is targeting mental health disorders.</description>
-      <pubDate>Mon, 27 Apr 2026 23:16:36 +0600</pubDate>
-      <media:thumbnail url="https://media.wired.com/photos/69ef74d7331966ee22ef9d12/master/pass/treatment%20brain%20copy.jpg" />
-      <enclosure url="https://media.wired.com/photos/69ef74d7331966ee22ef9d12/master/pass/treatment%20brain%20copy.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path</title>
-      <link>https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/</link>
-      <guid isPermaLink="false">69eb83e36481c47bff8e3c89</guid>
-      <description>David Silver has a new billion-dollar company that aims to build AI “superlearners.”</description>
-      <pubDate>Mon, 27 Apr 2026 23:16:36 +0600</pubDate>
-      <media:thumbnail url="https://media.wired.com/photos/69eba31172fa130deff56162/master/pass/Man-Behind-Alpha-Zero-Business-DavidSilver-2.jpg" />
-      <enclosure url="https://media.wired.com/photos/69eba31172fa130deff56162/master/pass/Man-Behind-Alpha-Zero-Business-DavidSilver-2.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Trump has a choice to make on Iran</title>
-      <link>https://spectator.com/article/trump-must-up-the-pressure-if-he-wants-to-win-against-iran/</link>
-      <guid isPermaLink="true">https://spectator.com/article/trump-must-up-the-pressure-if-he-wants-to-win-against-iran/</guid>
-      <description>By Jonathan Spyer</description>
-      <pubDate>Mon, 27 Apr 2026 23:16:36 +0600</pubDate>
-    </item>
-    <item>
-      <title>The EU’s methane regulation could spark an energy crisis</title>
-      <link>https://archive.is/qWySo/https://www.ft.com/content/bf1b0bb0-eea9-4336-bf5a-fad5117a33c6</link>
-      <guid isPermaLink="true">https://www.ft.com/content/bf1b0bb0-eea9-4336-bf5a-fad5117a33c6</guid>
-      <description>Its extraterritorial, prescriptive and paperwork-heavy requirements will restrict access to supply options</description>
-      <pubDate>Mon, 27 Apr 2026 23:16:36 +0600</pubDate>
-    </item>
-    <item>
-      <title>On Social Media, the War Becomes Content</title>
-      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/04/27/opinion/culture/war-and-nachos-on-my-social-media-feed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/27/opinion/culture/war-and-nachos-on-my-social-media-feed.html</guid>
-      <description>The feed makes everything, bombs and nachos and the dead, weigh the same. Which is to say: nothing.</description>
-      <pubDate>Mon, 27 Apr 2026 23:16:36 +0600</pubDate>
-    </item>
-    <item>
-      <title>40 years after Chernobyl: Inside the night the Soviet nuclear dream exploded</title>
-      <link>https://www.rt.com/russia/639156-40-years-after-chernobyl/?&amp;</link>
-      <guid isPermaLink="true">https://www.rt.com/russia/639156-40-years-after-chernobyl/?&amp;</guid>
-      <description />
-      <pubDate>Mon, 27 Apr 2026 23:16:36 +0600</pubDate>
-    </item>
-    <item>
-      <title>Russian drone attack wounds 14 while Ukrainian drones kill 2 in Russia-held area</title>
-      <link>https://abcnews.com/International/wireStory/predawn-russian-drone-strike-hits-ukraines-odesa-wounding-132412382</link>
-      <guid isPermaLink="true">https://abcnews.com/International/wireStory/predawn-russian-drone-strike-hits-ukraines-odesa-wounding-132412382</guid>
-      <description />
-      <pubDate>Mon, 27 Apr 2026 23:16:36 +0600</pubDate>
-    </item>
-    <item>
-      <title>Reopen Strait of Hormuz by reframing Iran’s tolls as reconstruction</title>
-      <link>https://www.scmp.com/opinion/world-opinion/article/3351457/reopen-strait-hormuz-reframing-irans-tolls-reconstruction</link>
-      <guid isPermaLink="true">https://www.scmp.com/opinion/world-opinion/article/3351457/reopen-strait-hormuz-reframing-irans-tolls-reconstruction</guid>
-      <description />
-      <pubDate>Mon, 27 Apr 2026 23:16:36 +0600</pubDate>
-    </item>
-    <item>
-      <title>The oil, gas and arms companies profiting from the war on Iran</title>
-      <link>https://www.middleeasteye.net/news/oil-gas-arms-companies-profiting-war-on-iran</link>
-      <guid isPermaLink="true">https://www.middleeasteye.net/news/oil-gas-arms-companies-profiting-war-on-iran</guid>
-      <description />
-      <pubDate>Mon, 27 Apr 2026 23:16:36 +0600</pubDate>
-    </item>
-    <item>
-      <title>West Asia War: US new sanction on a mega Chinese refiner can shake the world’s supply chains — and it’s bigger than oil</title>
-      <link>https://economictimes.indiatimes.com/news/international/business/west-asia-war-us-new-sanction-on-a-mega-chinese-refiner-can-shake-the-worlds-supply-chains-and-its-bigger-than-oil/articleshow/130558852.cms</link>
-      <guid isPermaLink="true">https://economictimes.indiatimes.com/news/international/business/west-asia-war-us-new-sanction-on-a-mega-chinese-refiner-can-shake-the-worlds-supply-chains-and-its-bigger-than-oil/articleshow/130558852.cms</guid>
-      <description />
-      <pubDate>Mon, 27 Apr 2026 23:16:36 +0600</pubDate>
-    </item>
-    <item>
-      <title>Shots fired in the AI war: US and China clash over code and control</title>
-      <link>https://economictimes.indiatimes.com/news/international/business/shots-fired-in-the-ai-war-us-and-china-clash-over-code-and-control/articleshow/130558097.cms</link>
-      <guid isPermaLink="true">https://economictimes.indiatimes.com/news/international/business/shots-fired-in-the-ai-war-us-and-china-clash-over-code-and-control/articleshow/130558097.cms</guid>
-      <description />
-      <pubDate>Mon, 27 Apr 2026 23:16:36 +0600</pubDate>
-    </item>
-    <item>
-      <title>Middle East, Ukrainian settlement, V-Day parade: Kremlin’s statements</title>
-      <link>https://tass.com/politics/2123105</link>
-      <guid isPermaLink="true">https://tass.com/politics/2123105</guid>
-      <description />
-      <pubDate>Mon, 27 Apr 2026 23:16:36 +0600</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 May 2026 08:59:41 +0000</lastBuildDate>
     <item>
       <title>US-Iran truce talks hit roadblock: What it means for Gulf, Trump, West Asia | Shishir Gupta explains</title>
       <link>https://www.hindustantimes.com/world-news/usiran-truce-talks-hit-roadblock-what-it-means-for-gulf-trump-west-asia-shishir-gupta-explains-101777275049271.html</link>
@@ -3949,6 +3852,105 @@
       <guid isPermaLink="true">https://www.hindustantimes.com/world-news/us-iran-war-news-live-updates-ceasefire-donald-trump-mojtaba-khamenei-tehran-pakistan-peace-talks-middle-east-101777685010818.html</guid>
       <description />
       <pubDate>Sat, 02 May 2026 12:02:39 +0600</pubDate>
+    </item>
+    <item>
+      <title>First malaria drug for babies is approved in ‘major public health milestone’</title>
+      <link>https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment</link>
+      <guid isPermaLink="true">https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment</guid>
+      <description>&lt;p&gt;WHO prequalification of Coartem Baby means newborns can be safely treated rather than using medication for older children&lt;/p&gt;&lt;p&gt;The first malaria treatment for babies has been approved by the World Health Organization, opening the door to widespread use around the globe.&lt;/p&gt;&lt;p&gt;In parts of Africa, &lt;a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4480393/"&gt;up to 18% of children under six months&lt;/a&gt; will be infected with malaria, but there has historically been no safe treatment for the smallest of them. There were &lt;a href="https://www.who.int/teams/global-malaria-programme/reports/world-malaria-report-2025"&gt;610,000 deaths&lt;/a&gt; from malaria in 2024, about three quarters of which were under-fives in Africa.&lt;/p&gt; &lt;a href="https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Sat, 02 May 2026 14:59:32 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/d96baef46133aea7b12e2018eaac1a46ca7faa2a/0_1412_3863_3091/master/3863.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=694aa33fd7bbdbf4d2ac3ab8243d7282" />
+      <enclosure url="https://i.guim.co.uk/img/media/d96baef46133aea7b12e2018eaac1a46ca7faa2a/0_1412_3863_3091/master/3863.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=694aa33fd7bbdbf4d2ac3ab8243d7282" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Australian activists released in Crete allege mistreatment by Israeli forces who intercepted Gaza flotilla</title>
+      <link>https://www.theguardian.com/world/2026/may/02/gaza-flotilla-australian-activists-released-crete-allege-mistreatment-by-israel-ntwnfb</link>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/may/02/gaza-flotilla-australian-activists-released-crete-allege-mistreatment-by-israel-ntwnfb</guid>
+      <description>&lt;p&gt;Three Australians among 175 activists taken by Israel from ships attempting to transport aid to Gaza say they have launched a hunger strike &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl"&gt;breaking news email&lt;/a&gt;, &lt;a href="https://app.adjust.com/w4u7jx3"&gt;free app&lt;/a&gt; or &lt;a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl"&gt;daily news podcast&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Three Australian activists say they have launched a hunger strike in Crete, after being left there by Israeli authorities following the interception of a flotilla attempting to transport aid to Gaza.&lt;/p&gt;&lt;p&gt;Ethan Floyd, Neve O’Connor and Zack Schofield – three of &lt;a href="https://www.theguardian.com/australia-news/2026/may/01/israel-intercepted-gaza-flotilla-navy-release-australians-greece-ntwnfb"&gt;six Australians released&lt;/a&gt; after their ships were &lt;a href="https://www.theguardian.com/australia-news/2026/apr/30/at-least-six-australian-activists-detained-by-israel-navy-after-gaza-flotilla-boats-intercepted"&gt;intercepted on Wednesday&lt;/a&gt; – said they and their colleagues were subjected to mistreatment while held for two days onboard an Israeli vessel.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2026/may/02/gaza-flotilla-australian-activists-released-crete-allege-mistreatment-by-israel-ntwnfb"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Sat, 02 May 2026 14:59:32 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/4a66fd3ca2876142b75f699a761c9ac1ff52d5fa/647_0_1515_1212/master/1515.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2cdfc396c12dba9256cd4ab103c808cf" />
+      <enclosure url="https://i.guim.co.uk/img/media/4a66fd3ca2876142b75f699a761c9ac1ff52d5fa/647_0_1515_1212/master/1515.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2cdfc396c12dba9256cd4ab103c808cf" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Germany says it foresaw Trump’s withdrawal of US troops as row over Iran comments grows – live</title>
+      <link>https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates</link>
+      <guid isPermaLink="true">https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates</guid>
+      <description>&lt;p&gt;German defence minister responds to US president’s announcement that 5,000 US troops would leave bases in Germany&lt;/p&gt;&lt;p&gt;Hello and welcome to our live coverage of events in the Middle East.&lt;/p&gt;&lt;p&gt;The German defence minister, &lt;strong&gt;Boris Pistorius,&lt;/strong&gt; said that it was &lt;strong&gt;“foreseeable” that the US would withdraw troops from Europe&lt;/strong&gt;, after the Pentagon announced it would &lt;strong&gt;pull thousands of American soldiers from Germany.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Trump said he is &lt;a href="https://www.theguardian.com/world/2026/may/01/pakistan-backchannel-us-iran-deal-peace"&gt;“not satisfied”&lt;/a&gt; with a new proposal from Iran on ending the war, as peace talks remain stalled despite a weeks-long ceasefire. &lt;/strong&gt;Iran delivered the proposal text to mediator &lt;strong&gt;Pakistan&lt;/strong&gt; on Thursday evening, Iranian state news agency Irna reported, without detailing its contents.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The US state department said it was approving military sales totalling more than $8.6bn to Middle Eastern allies&lt;/strong&gt; Israel, Qatar, Kuwait and the United Arab Emirates. It came as Washington warned European allies including the UK, Poland, Lithuania and Estonia to expect long delivery delays for US weapons as it scrambles to replenish stockpiles depleted by the Iran war, according to a report in the&lt;a href="https://www.ft.com/content/f87a8b04-e683-4e0e-8c66-647d23bfc2ff"&gt; Fianancial Times&lt;/a&gt; citing multiple sources.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;In Lebanon, 12 people were killed in Israeli strikes in the south, Lebanon’s health ministry said,&lt;/strong&gt; including in the town of Habboush, where the Israeli army had issued an evacuation order despite the continuing ceasefire. Israeli warplanes “launched a series of heavy strikes … less than an hour after” the warning, the state-run National News Agency said.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The US Treasury Office&lt;/strong&gt; warned that any shipping companies that paid tolls to Iran for passage through the strait of Hormuz, including charitable donations to organisations such as the Iranian Red Crescent Society, would risk punitive sanctions. Tehran has proposed charging fees on vessels passing through the strait, as part of a deal to end the war.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Trump wrote to US lawmakers on Friday declaring hostilities with Iran “terminated”&lt;/strong&gt;, despite no change in the US military posture, as he faces continuing pressure at home to seek congressional authorisation for the war.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The state department’s announcement on Friday included approving military sales to Qatar of Patriot air and missile defence replenishment services costing $4.01bn&lt;/strong&gt; and of advanced precision kill weapon systems (APKWS) costing $992.4m. They also included approval of the sale to Kuwait of an integrated battle command system costing $2.5bn and to Israel of APKWS costing $992.4m.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Iran’s supreme leader Ayatollah Mojtaba Khamenei urged his people to wage economic battle and “disappoint” its enemies&lt;/strong&gt;, as the war and years of sanctions take a toll. In a written statement he also said “the owners of damaged businesses should avoid, as much as possible, layoffs and separation of their workforce”.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Sat, 02 May 2026 14:59:32 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/c259c4209273e1d883e5cacea14c50cd6c072b90/452_0_6111_4888/master/6111.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=45a780672f4292d54d50638a0145fb63" />
+      <enclosure url="https://i.guim.co.uk/img/media/c259c4209273e1d883e5cacea14c50cd6c072b90/452_0_6111_4888/master/6111.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=45a780672f4292d54d50638a0145fb63" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Iran deadlock: is Trump now ‘stuck’?</title>
+      <link>https://theweek.com/politics/iran-deadlock-trump</link>
+      <guid isPermaLink="false">QCNAGgrg6MbZz6WjUGcBsT</guid>
+      <description>The president may be ‘trying to look relaxed’, but upcoming midterms and rising oil prices are ramping up pressure</description>
+      <pubDate>Sat, 02 May 2026 14:59:32 +0600</pubDate>
+      <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/bfi993wfQvBiCodrrjwXzg-1280-80.jpg" />
+      <enclosure url="https://cdn.mos.cms.futurecdn.net/bfi993wfQvBiCodrrjwXzg-1280-80.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Trump says not happy with Iran proposal, claims hostilities terminated</title>
+      <link>https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-not-happy-iran-proposal-claims-hostilities-terminated</link>
+      <guid isPermaLink="true">https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-not-happy-iran-proposal-claims-hostilities-terminated</guid>
+      <description />
+      <pubDate>Sat, 02 May 2026 14:59:32 +0600</pubDate>
+    </item>
+    <item>
+      <title>Pentagon announces deals with AI companies for classified networks</title>
+      <link>https://english.news.cn/20260502/374c5b27319b4333b273f1c224249e0b/c.html</link>
+      <guid isPermaLink="true">https://english.news.cn/20260502/374c5b27319b4333b273f1c224249e0b/c.html</guid>
+      <description />
+      <pubDate>Sat, 02 May 2026 14:59:32 +0600</pubDate>
+    </item>
+    <item>
+      <title>Analysis-Iran standoff could leave Trump worse off than before he went to war</title>
+      <link>https://www.al-monitor.com/originals/2026/05/analysis-iran-standoff-could-leave-trump-worse-he-went-war</link>
+      <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/05/analysis-iran-standoff-could-leave-trump-worse-he-went-war</guid>
+      <description />
+      <pubDate>Sat, 02 May 2026 14:59:32 +0600</pubDate>
+    </item>
+    <item>
+      <title>Israel-Iran war LIVE: U.S. warns shipping firms they could face sanctions over paying Iranian tolls in Strait of Hormuz</title>
+      <link>https://www.thehindu.com/news/international/iran-israel-us-war-ceasefire-news-strait-of-hormuz-live-updates-may-2-2026/article70930695.ece</link>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/iran-israel-us-war-ceasefire-news-strait-of-hormuz-live-updates-may-2-2026/article70930695.ece</guid>
+      <description />
+      <pubDate>Sat, 02 May 2026 14:59:32 +0600</pubDate>
+    </item>
+    <item>
+      <title>Old and new Gulf faultlines exposed by Iran war</title>
+      <link>https://asiatimes.com/2026/05/old-and-new-gulf-faultlines-exposed-by-iran-war/</link>
+      <guid isPermaLink="true">https://asiatimes.com/2026/05/old-and-new-gulf-faultlines-exposed-by-iran-war/</guid>
+      <description />
+      <pubDate>Sat, 02 May 2026 14:59:32 +0600</pubDate>
+    </item>
+    <item>
+      <title>Is US considering fresh strikes on Iran amid stalled negotiations? Trump answers</title>
+      <link>https://www.hindustantimes.com/world-news/is-us-considering-fresh-strikes-on-iran-amid-stalled-negotiations-trump-answers-101777691232589.html</link>
+      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/is-us-considering-fresh-strikes-on-iran-amid-stalled-negotiations-trump-answers-101777691232589.html</guid>
+      <description />
+      <pubDate>Sat, 02 May 2026 14:59:32 +0600</pubDate>
+    </item>
+    <item>
+      <title>Trump says deal with Iran must meet Washington’s demands</title>
+      <link>https://tass.com/world/2125459</link>
+      <guid isPermaLink="true">https://tass.com/world/2125459</guid>
+      <description />
+      <pubDate>Sat, 02 May 2026 14:59:32 +0600</pubDate>
+    </item>
+    <item>
+      <title>Not by oil alone: the message from the UAE’s exit from OPEC</title>
+      <link>https://www.tbsnews.net/worldbiz/middle-east/not-oil-alone-message-uaes-exit-opec-1427301</link>
+      <guid isPermaLink="true">https://www.tbsnews.net/worldbiz/middle-east/not-oil-alone-message-uaes-exit-opec-1427301</guid>
+      <description />
+      <pubDate>Sat, 02 May 2026 14:59:32 +0600</pubDate>
+    </item>
+    <item>
+      <title>US military signs AI deals with 7 tech firms for classified use</title>
+      <link>https://unb.com.bd/category/World/us-military-signs-ai-deals-with-7-tech-firms-for-classified-use/184994</link>
+      <guid isPermaLink="true">https://unb.com.bd/category/World/us-military-signs-ai-deals-with-7-tech-firms-for-classified-use/184994</guid>
+      <description />
+      <pubDate>Sat, 02 May 2026 14:59:32 +0600</pubDate>
     </item>
   </channel>
 </rss>
