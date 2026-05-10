@@ -4,21 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: international affairs and Bangladesh news</description>
-    <lastBuildDate>Sat, 09 May 2026 20:38:06 +0000</lastBuildDate>
-    <item>
-      <title>US still in talks with Iran — Witkoff</title>
-      <link>https://tass.com/world/2125803</link>
-      <guid isPermaLink="true">https://tass.com/world/2125803</guid>
-      <description />
-      <pubDate>Mon, 04 May 2026 08:11:41 +0600</pubDate>
-    </item>
-    <item>
-      <title>Iran War Threatens China’s 4.5 Percent Growth Target: Analysts</title>
-      <link>https://www.theepochtimes.com/china/iran-war-threatens-chinas-4-5-percent-growth-target-analysts-6020611</link>
-      <guid isPermaLink="true">https://www.theepochtimes.com/china/iran-war-threatens-chinas-4-5-percent-growth-target-analysts-6020611</guid>
-      <description />
-      <pubDate>Mon, 04 May 2026 08:11:41 +0600</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 May 2026 02:24:18 +0000</lastBuildDate>
     <item>
       <title>UAE withdraws from Organization of Arab Petroleum Exporting Countries</title>
       <link>https://tass.com/world/2125807</link>
@@ -4016,6 +4002,22 @@
       <guid isPermaLink="true">https://timesofindia.indiatimes.com/world/middle-east/us-iran-talks-likely-next-week/articleshow/130982526.cms</guid>
       <description />
       <pubDate>Sun, 10 May 2026 02:37:58 +0600</pubDate>
+    </item>
+    <item>
+      <title>Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html</guid>
+      <description>The U.S. Navy’s blockade continued to intercept ships trying to leave or enter Iranian ports, while fear of Iranian attacks kept other ships from attempting passage through the narrows.</description>
+      <pubDate>Sun, 10 May 2026 08:24:08 +0600</pubDate>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/05/09/multimedia/09mideast-shipping-file-qtfv/09mideast-shipping-file-qtfv-mediumSquareAt3X.jpg" />
+      <enclosure url="https://static01.nyt.com/images/2026/05/09/multimedia/09mideast-shipping-file-qtfv/09mideast-shipping-file-qtfv-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Are there any winners in unfinished Iran war? - analysis</title>
+      <link>https://www.jpost.com/middle-east/article-895627</link>
+      <guid isPermaLink="true">https://www.jpost.com/middle-east/article-895627</guid>
+      <description />
+      <pubDate>Sun, 10 May 2026 08:24:08 +0600</pubDate>
     </item>
   </channel>
 </rss>
