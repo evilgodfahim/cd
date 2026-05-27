@@ -91718,5 +91718,147 @@
     "description": "A deal to end the current blockade is merely an enticement for the next blockade and the one after that.",
     "published": "Wed, 27 May 2026 03:38:37 +0600",
     "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/704c7605-e0ac-4ce1-b24b-ba85359a757f",
+    "title": "UK imposes sanctions on crypto exchange tied to billionaire Justin Sun",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/704c7605-e0ac-4ce1-b24b-ba85359a757f",
+    "description": "Foreign Office announces measures against Huobi among several entities it says helped Russia evade economic pressure",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html",
+    "title": "High-Level British Spy Warns of Expanding Russia Threat",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html",
+    "description": "The director of Britain’s electronic surveillance agency warns that Russia is only getting more brazen as battlefield losses in Ukraine mount.",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/05/26/multimedia/26int-uk-intel-photo-tfzg/26int-uk-intel-photo-tfzg-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.washingtonpost.com/world/2026/05/26/lebanon-ceasefire-falters-trump-pushes-iran-deal/",
+    "title": "Lebanon ceasefire falters as Trump pushes for Iran deal",
+    "link": "https://archive.is/o/A5nuz/https://www.washingtonpost.com/world/2026/05/26/lebanon-ceasefire-falters-trump-pushes-iran-deal/",
+    "description": "Israel is “deepening its operation” in Lebanon, Prime Minister Benjamin Netanyahu said Tuesday.",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://evilgodfahim.github.io/wpint/combined.xml"
+  },
+  {
+    "id": "https://www.wsj.com/world/americas/canada-nearing-deal-to-sell-germany-liquified-natural-gas-b019799e",
+    "title": "Canada Nearing Deal to Sell Germany Liquified Natural Gas",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/americas/canada-nearing-deal-to-sell-germany-liquified-natural-gas-b019799e",
+    "description": "Canada is expected to unveil a deal on Wednesday that secures the sale of liquefied natural gas from the country’s west coast to Germany, with shipments expected to begin in the early 2030s.",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-26611633",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/americas/apple-google-warn-encryption-services-at-risk-with-canada-bill-244f7478",
+    "title": "Apple, Google Warn Encryption Services at Risk With Canada Bill",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/americas/apple-google-warn-encryption-services-at-risk-with-canada-bill-244f7478",
+    "description": "Executives from the technology companies warned that lawmakers risk putting their citizens’ privacy and security at risk under a government proposal to give police access to information on their digital devices.",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-32616363",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/iran-skirmish-strait-of-hormuz-hezbollah-lebanon-israel-u-s-deal-f5bdbcdf",
+    "title": "Iran’s ‘Skirmish’ Strategy in the Strait",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/iran-skirmish-strait-of-hormuz-hezbollah-lebanon-israel-u-s-deal-f5bdbcdf",
+    "description": "The regime tries to mine Hormuz and extend its terrorist proxy war.",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://evilgodfahim.github.io/wsjop/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-45799337",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.straitstimes.com/world/europe/uk-poland-set-to-sign-defence-treaty-to-tackle-hostile-threats-across-europe",
+    "title": "UK, Poland set to sign defence treaty to tackle hostile threats across Europe",
+    "link": "https://www.straitstimes.com/world/europe/uk-poland-set-to-sign-defence-treaty-to-tackle-hostile-threats-across-europe",
+    "description": "",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.businessinsider.com/immigration-lawyer-says-new-memo-affects-laid-off-tech-workers-2026-5",
+    "title": "I'm an immigration lawyer trying to keep up with the visa chaos. Laid-off tech workers are in a particularly tough spot — here's what you need to know.",
+    "link": "https://www.businessinsider.com/immigration-lawyer-says-new-memo-affects-laid-off-tech-workers-2026-5",
+    "description": "An immigration lawyer says the new memo stating I-485 forms will only be approved in \"extraordinary circumstances\" will have a ripple effect.",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6a16027cb4fb977f3597fcd3?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/iran-skirmish-strait-of-hormuz-hezbollah-lebanon-israel-u-s-deal-f5bdbcdf",
+    "title": "Opinion | Iran’s ‘Skirmish’ Strategy in the Strait",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/iran-skirmish-strait-of-hormuz-hezbollah-lebanon-israel-u-s-deal-f5bdbcdf",
+    "description": "The regime tries to mine Hormuz and extend its terrorist proxy war.",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-45799337",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/in-a-year-will-iran-matter-0a44dbb7",
+    "title": "Opinion | In a Year, Will Iran Matter?",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/in-a-year-will-iran-matter-0a44dbb7",
+    "description": "The war made sense for President Trump only if he thought he could get a quick win.",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-28296106",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/ai-overwatch-act-would-help-china-5e5e61fe",
+    "title": "Opinion | AI Overwatch Act Would Help China",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/ai-overwatch-act-would-help-china-5e5e61fe",
+    "description": "Stricter export limits would hurt American companies and blow the U.S. tech lead.",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-61513445",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "mPzDtzLCzKQx4TUFPvsjEb",
+    "title": "Why India’s youth are flocking to a fake political party",
+    "link": "https://theweek.com/politics/why-indias-youth-are-flocking-to-a-fake-political-party",
+    "description": "Cockroach Janta Party has tapped into youth anger at unemployment, inflation and bitter religious divides",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://theweek.com/rss.xml",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/ipKcUjeT7N23j3HELUxm4K-1280-80.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/podcasts/opinion-potomac-watch/trump-praises-iran-talks-but-what-about-its-uranium-and-the-strait-of-hormuz/D151EB0E-9C09-48B4-9108-221F2BB8DE9D",
+    "title": "Trump Praises Iran Talks, but What About Its Uranium and the Strait of Hormuz?",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/podcasts/opinion-potomac-watch/trump-praises-iran-talks-but-what-about-its-uranium-and-the-strait-of-hormuz/D151EB0E-9C09-48B4-9108-221F2BB8DE9D",
+    "description": "Donald Trump says the latest negotiations with Iran are \"proceeding nicely,\" but the details of any nuclear deal remain elusive, as U.S. forces strike new Iranian targets near the Strait of Hormuz. How should proposed terms be evaluated, particularly in comparison to President Obama's agreement, known as the JCPOA?",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://evilgodfahim.github.io/wsjop/combined.xml"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/how-does-generation-z-feel-about-ai-e443f2ba",
+    "title": "How Does Generation Z Feel About AI?",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/how-does-generation-z-feel-about-ai-e443f2ba",
+    "description": "Students debate whether artificial intelligence will drown them in slop or help them advance.",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://evilgodfahim.github.io/wsjop/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-76707188",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/the-return-of-state-backed-media-d4f75899",
+    "title": "The Return of State-Backed Media",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/the-return-of-state-backed-media-d4f75899",
+    "description": "‘We don’t really like to talk about it.’",
+    "published": "Wed, 27 May 2026 08:46:34 +0600",
+    "source": "https://evilgodfahim.github.io/wsjop/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-22345905",
+    "thumbnail_type": "image/jpeg"
   }
 ]
