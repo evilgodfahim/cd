@@ -69,7 +69,9 @@ FEED_URLS = [
 
 "https://www.thewirechina.com/feed/",
 
-"https://evilgodfahim.github.io/intop/filtered.xml"
+"https://evilgodfahim.github.io/intop/filtered.xml",
+
+"https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
 ]
 
 EXISTING_API_FEEDS = {
@@ -106,6 +108,8 @@ EXISTING_API_FEEDS = {
 "https://www.thewirechina.com/feed/",
 
 "https://evilgodfahim.github.io/intop/filtered.xml"
+
+"https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
 }
 
 KL_API_FEEDS = set()
