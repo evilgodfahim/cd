@@ -108740,5 +108740,457 @@
     "description": "Any other business",
     "published": "Wed, 10 Jun 2026 14:02:14 +0600",
     "source": "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-687489",
+    "title": "The Crisis Iran’s Leaders Can’t Ignore",
+    "link": "https://www.theatlantic.com/international/2026/06/iran-economy-crisis/687489/",
+    "description": "Two months into the cease-fire, the Iranian economy lies in tatters.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/6cshCUz8dmczAwfGUcMEQpwNkpg=/media/img/mt/2026/06/2026_06_09_Irans_Economy_is_Bad/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://time.com/article/2026/06/10/the-fight-over-ai-is-really-a-fight-over-who-governs/",
+    "title": "The Fight Over AI Is Really a Fight Over Who Governs",
+    "link": "https://time.com/article/2026/06/10/the-fight-over-ai-is-really-a-fight-over-who-governs/",
+    "description": "",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/tm/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/f7721f36-7906-4da9-8f7f-34f4c7cf7ae8",
+    "title": "Thousands of Africans flee anti-migrant South Africa",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/f7721f36-7906-4da9-8f7f-34f4c7cf7ae8",
+    "description": "About 300 Nigerians are joining wave of immigrants fleeing persecution in Africa’s richest economy",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/155db8a4-f2ff-463b-9c6c-2b1a8104750c",
+    "title": "Iran says 20,000 people left without water after US hits reservoir tanks",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/155db8a4-f2ff-463b-9c6c-2b1a8104750c",
+    "description": "Washington says its jets targeted air defence and radar sites after Iranian forces downed American helicopter",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/a4ede6e5-4d5a-47e7-96bf-2bb2e6061775",
+    "title": "Trump warns Iran will ‘pay the price’ for delay in striking peace deal",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/a4ede6e5-4d5a-47e7-96bf-2bb2e6061775",
+    "description": "US president’s remarks come after Washington and Tehran exchanged fire following downing of an American helicopter",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/9a2a49cc-2990-45b9-b931-de6828be8d37",
+    "title": "Every slice of China’s bond market has now succumbed to Japanisation",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/9a2a49cc-2990-45b9-b931-de6828be8d37",
+    "description": "A scoop of belatedly spotting something and trying to make a thing of it",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/9d565c4a-e5e1-4907-a3c7-1eb202046479",
+    "title": "Germany seeks to lead fighter jet project after ditching France",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/9d565c4a-e5e1-4907-a3c7-1eb202046479",
+    "description": "Berlin vows to look for other partners in return for role corresponding to its ‘financial contribution’",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/3ea9e5c6-0002-47b0-a19b-0b8b4bc6244e",
+    "title": "How Northern Ireland became a breeding ground for riots",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/3ea9e5c6-0002-47b0-a19b-0b8b4bc6244e",
+    "description": "Violence erupts in a repeat of 2025 disorder, aided by tendency for many politicians to be equivocal on the crimes",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/285c3372-f218-4c09-8a01-310be0d22b82",
+    "title": "Watchdog demands new powers to tackle Iran-linked charities",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/285c3372-f218-4c09-8a01-310be0d22b82",
+    "description": "Charity Commission targets actors who ‘abuse’ legal status ‘to promote extremism and terrorism’",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/jun/10/maduro-venezuela-erased",
+    "title": "The vanishing of Nicolás Maduro: how the former dictator is being erased from Venezuela",
+    "link": "https://www.theguardian.com/world/2026/jun/10/maduro-venezuela-erased",
+    "description": "<p>Billboards are being painted over and former allies seem eager to forget the man they once glorified</p><p>For years, his bewhiskered face stared down from propaganda billboards glorifying the supposedly revolutionary rule of a dictator who styled himself as “the protector of the people”.</p><p>The spin-doctored adoration was such that factories churned out plastic action figures exalting Nicolás Maduro as an “indestructible” and “iron-fisted” caped crusader nicknamed “Super Moustache”.</p> <a href=\"https://www.theguardian.com/world/2026/jun/10/maduro-venezuela-erased\">Continue reading...</a>",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/40cbad09c2a0ecebac67d491e03b73eeea058ee7/612_207_3076_2460/master/3076.jpg?width=700&quality=85&auto=format&fit=max&s=247af05d69994a5aaad850300f7cb50a",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/jun/10/car-bomb-kills-senior-russian-military-official-near-moscow",
+    "title": "Car bomb kills senior Russian military official near Moscow",
+    "link": "https://www.theguardian.com/world/2026/jun/10/car-bomb-kills-senior-russian-military-official-near-moscow",
+    "description": "<p>Video appears to show Col Damir Davydov’s BMW bursting into flames and bystanders pulling him from wreckage</p><p>A senior Russian military official has been killed in a car bombing near Moscow, according to media reports.</p><p>An explosive device planted underneath a BMW detonated at about 5.30am on Tuesday as Col Damir Davydov was driving near his home in the city of Balashikha, the independent outlet Astra reported. It was the latest in a string of assassinations targeting Russian military officials and prominent pro-war figures since the Kremlin launched its full-scale invasion of Ukraine.</p> <a href=\"https://www.theguardian.com/world/2026/jun/10/car-bomb-kills-senior-russian-military-official-near-moscow\">Continue reading...</a>",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/9139e0915c797fad91f4fe7f22a409196795facb/663_0_4303_3441/master/4303.jpg?width=700&quality=85&auto=format&fit=max&s=8bf32d2b491c689d4776583537dde367",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/global-development/2026/jun/10/two-killed-in-rare-street-demonstration-over-womens-rights-in-afghanistan",
+    "title": "Two killed in rare street demonstration over women’s rights in Afghanistan",
+    "link": "https://www.theguardian.com/global-development/2026/jun/10/two-killed-in-rare-street-demonstration-over-womens-rights-in-afghanistan",
+    "description": "<p>Taliban forces fire on crowds in Herat, who were protesting at manhandling of women arrested over hijab dress code</p><p>A Taliban crackdown on women’s dress code in Afghanistan has escalated into a rare mass street protest in the western province of Herat, with at least two people killed by security forces.</p><p>Officials made a wave of arrests in recent days targeting women and young girls accused of “improper hijab”. Residents say many families had received no information about the whereabouts or condition of those detained.</p> <a href=\"https://www.theguardian.com/global-development/2026/jun/10/two-killed-in-rare-street-demonstration-over-womens-rights-in-afghanistan\">Continue reading...</a>",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/4a1e517613ffe749bd503582d7491e93970cd57e/0_230_1200_960/master/1200.jpg?width=700&quality=85&auto=format&fit=max&s=0677d59968ff5e77c2b90c1c173bbae7",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us",
+    "title": "Iran War Live Updates: U.S. and Iran Trade Strikes in New Test of Cease-Fire",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us",
+    "description": "The U.S. military struck southern Iran, calling it a response to the downing an American helicopter. Iran said it had retaliated by launching drones and missiles at U.S. military targets in Bahrain and Jordan.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/10/multimedia/10mideast-promo/10mideast-header-lmwf-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/10/world/africa/ebola-kenya-us-protests.html",
+    "title": "‘Clumsy Diplomacy’: Inside the U.S.-Kenya Feud Over an Ebola Camp",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/10/world/africa/ebola-kenya-us-protests.html",
+    "description": "Hundreds of Kenyans have marched through the streets to oppose a quarantine facility that would be reserved exclusively for American patients.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/10/multimedia/10int-ebola-kenya-us-new1-bzwf/10int-ebola-kenya-us-new1-bzwf-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/10/world/americas/world-cup-immigration-problems.html",
+    "title": "On the Eve of the World Cup, U.S. Immigration Policy Turns Some Away",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/10/world/americas/world-cup-immigration-problems.html",
+    "description": "Some fans and participants hoping to enter the United States for the World Cup have complained that restrictive immigration rules have presented a roadblock.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/10/multimedia/10int-word-cup-immigration-1-gclz/10int-word-cup-immigration-1-gclz-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html",
+    "title": "A Twist in Ukraine’s Drone Campaign Is ‘Really Hurting the Russians’",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html",
+    "description": "Midrange attacks, using upgraded drones that Ukraine produces in huge numbers, are causing fuel shortages and complicating troop rotations.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/10/multimedia/10int-ukraine-midrange-01-qpvl/10int-ukraine-midrange-01-qpvl-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
+    "title": "At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
+    "description": "The police said they were looking for more than 10 attackers, who had stormed a community of tin shacks. Investigators were still trying to determine the motive.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/10/multimedia/10int-safrica-violence-zlkg/10int-safrica-violence-zlkg-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.washingtonpost.com/world/2026/06/10/trump-threatens-iran-after-it-targets-us-assets-middle-east/",
+    "title": "Trump says Iran will ‘pay the price’ after it targets U.S. assets in three countries",
+    "link": "https://archive.is/o/A5nuz/https://www.washingtonpost.com/world/2026/06/10/trump-threatens-iran-after-it-targets-us-assets-middle-east/",
+    "description": "Hours after Iran announced a wave of strikes, President Donald Trump said Tehran had “taken too long to negotiate a deal that would have been great for them.”",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/wpint/combined.xml"
+  },
+  {
+    "id": "https://www.washingtonpost.com/world/2026/06/10/belfast-riots-mayhem-follow-alleged-stabbing-by-sudanese-asylum-seeker/",
+    "title": "In Belfast, riots and mayhem follow alleged stabbing by Sudanese asylum seeker",
+    "link": "https://archive.is/o/A5nuz/https://www.washingtonpost.com/world/2026/06/10/belfast-riots-mayhem-follow-alleged-stabbing-by-sudanese-asylum-seeker/",
+    "description": "The torching of neighborhoods across Belfast, the capital of Northern Ireland, marked the latest anti-immigration violence to convulse the United Kingdom.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/wpint/combined.xml"
+  },
+  {
+    "id": "https://www.wsj.com/world/middle-east/three-days-of-clashes-show-the-iran-conflict-is-entering-a-dangerous-new-phase-0b677422",
+    "title": "Three Days of Clashes Show the Iran Conflict Is Entering a Dangerous New Phase",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/middle-east/three-days-of-clashes-show-the-iran-conflict-is-entering-a-dangerous-new-phase-0b677422",
+    "description": "President Trump warned Iran would “pay the price” for not reaching a peace deal, as both sides aim to tread a line between pressure and all-out war.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-42366483",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/europe/second-flare-up-of-anti-migrant-violence-signals-tensions-in-u-k-c9aa563c",
+    "title": "Second Flare-Up of Anti-Migrant Violence Signals Tensions in U.K.",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/europe/second-flare-up-of-anti-migrant-violence-signals-tensions-in-u-k-c9aa563c",
+    "description": "Public anger over rising immigration has erupted in response to crimes by immigrants, asylum seekers or British-born minorities.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-96052481",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/asia/north-koreas-uranium-enrichment-capacity-could-soon-expand-by-75-analysis-says-d4bfcf27",
+    "title": "North Korea’s Uranium Enrichment Capacity Could Soon Expand by 75%, Analysis Says",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/asia/north-koreas-uranium-enrichment-capacity-could-soon-expand-by-75-analysis-says-d4bfcf27",
+    "description": "Kim Jong Un recently inspected a new facility that could dramatically boost Pyongyang’s ability to make nuclear bombs.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-54065889",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/europe/europe-has-learned-silence-can-be-golden-in-trump-trade-spats-top-eu-legislator-says-f7a4e66e",
+    "title": "Europe Has Learned Silence Can Be Golden in Trump Trade Spats, Top EU Legislator Says",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/europe/europe-has-learned-silence-can-be-golden-in-trump-trade-spats-top-eu-legislator-says-f7a4e66e",
+    "description": "The EU has learned to be “the boring partner” in its relationship with the U.S., the president of the European Parliament said.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-35918624",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.scmp.com/news/world/united-states-canada/article/3356669/us-inflation-spikes-3-year-high-may-iran-war-energy-shock-persists",
+    "title": "US inflation spikes to 3-year high in May as Iran war energy shock persists",
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3356669/us-inflation-spikes-3-year-high-may-iran-war-energy-shock-persists",
+    "description": "",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8",
+    "title": "Ukraine launches long-range strikes on military and energy sites in Russia",
+    "link": "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8",
+    "description": "",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.scmp.com/opinion/china-opinion/article/3356381/eu-threat-trade-war-against-china-strategic-farce",
+    "title": "EU threat of trade war against China is a strategic farce",
+    "link": "https://www.scmp.com/opinion/china-opinion/article/3356381/eu-threat-trade-war-against-china-strategic-farce",
+    "description": "",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.straitstimes.com/world/russia-says-armenias-future-in-post-soviet-military-and-economic-blocs-must-be-settled-soon",
+    "title": "Russia says Armenias future in post-Soviet military and economic blocs must be settled soon",
+    "link": "https://www.straitstimes.com/world/russia-says-armenias-future-in-post-soviet-military-and-economic-blocs-must-be-settled-soon",
+    "description": "",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://english.news.cn/20260610/693af270cfab4ae8bc011dd4c44d76c1/c.html",
+    "title": "Africa CDC urges enhanced public health measures to reduce cross-border Ebola transmission",
+    "link": "https://english.news.cn/20260610/693af270cfab4ae8bc011dd4c44d76c1/c.html",
+    "description": "",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/6/10/apache-down-fighting-up-what-the-latest-us-iran-attacks-mean?traffic_source=rss",
+    "title": "Apache down, fighting up: What the latest US-Iran attacks mean",
+    "link": "https://www.aljazeera.com/news/2026/6/10/apache-down-fighting-up-what-the-latest-us-iran-attacks-mean?traffic_source=rss",
+    "description": "",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://apnews.com/article/north-korea-china-kim-jong-un-xi-jinping-30108b084677525181a82a217829bc03",
+    "title": "Analysis: Chinese President Xi’s silence on nuclear arms is a gift to North Korea’s Kim Jong Un",
+    "link": "https://apnews.com/article/north-korea-china-kim-jong-un-xi-jinping-30108b084677525181a82a217829bc03",
+    "description": "",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/06/09/trump-apache-helicopter-attack-iran-oman-lebanon-israel/",
+    "title": "U.S. Launches New ‘Self-Defense’ Strikes on Iran Over Apache Helicopter Crash - Foreign Policy",
+    "link": "https://foreignpolicy.com/2026/06/09/trump-apache-helicopter-attack-iran-oman-lebanon-israel/",
+    "description": "U.S. Launches New ‘Self-Defense’ Strikes on Iran Over Apache Helicopter Crash  Foreign Policy",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:39-687303",
+    "title": "How Britain Became as Poor as Mississippi",
+    "link": "https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/",
+    "description": "<span>A case study in self-sabotage</span>",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/eN1wntVIAR-8u0R_v7KAyobfVsY=/0x1364:2042x2512/media/img/2026/05/BrexitLead_Final/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/e7a3d4e0-1b83-4dd5-9988-4df3d11bc71a",
+    "title": "What happened to the great rebirth of American manufacturing?",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/e7a3d4e0-1b83-4dd5-9988-4df3d11bc71a",
+    "description": "Skills shortages, shifting tariffs and complex permitting processes are major barriers",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/commentisfree/2026/jun/10/economists-maths-growth-doomed-strategy-un-agencies-political-leaders",
+    "title": "We economists have done the maths: ‘growth’ is a doomed strategy – there is a better way | Olivier De Schutter and others",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/10/economists-maths-growth-doomed-strategy-un-agencies-political-leaders",
+    "description": "<p>Our roadmap has been shaped by experts across the world, from UN agencies to grassroots movements. We call on political leaders at all levels to use it</p><p>We live in an age of manufactured scarcity. In a world richer than ever before, <a href=\"https://social.desa.un.org/world-summit-2025/blog/the-sustainable-development-goals-have-improved-millions-of-lives-over-the\">roughly one 10th of the world’s population still lives in extreme destitution</a>. Millions of people cannot afford enough food, proper housing or basic healthcare, while a tiny minority accumulates unprecedented wealth and power. At the same time, droughts, megafires, floods and heatwaves remind us that our economies are pushing the planet beyond its limits.</p><p>These are not separate crises. They are symptoms of an economic model that has reached the end of the road. Poverty and inequality are not accidents; they are predictable outcomes of policy choices: how we design tax systems, regulate labour markets, value care, structure public services and decide whose needs and whose voices matter. Crucially, if governments can manufacture poverty, they can also dismantle it.</p><p><strong>Olivier De Schutter</strong> is the chair of New Economies for Eradicating Poverty; <strong>Joseph Stiglitz</strong> is a Nobel laureate in economics; <strong>Jayati Ghosh</strong> is professor of economics at University of Massachusetts Amherst; <strong>Thomas Piketty</strong> is professor of economics at the Paris School of Economics; <strong>Kate Raworth</strong> is an economist at Oxford University’s Environmental Change Institute; <strong>Jason Hickel</strong> is the author of The Divide: A Brief Guide to Global Inequality and its Solutions</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/10/economists-maths-growth-doomed-strategy-un-agencies-political-leaders\">Continue reading...</a>",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/f0c3fae204ac7b6d7f14efb12fc2ae654096b463/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=4fda3fe46fc155b2cae1383300a4c642",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2026/jun/10/pollinators-in-peril-scientists-reveal-the-hidden-human-health-costs-of-the-worlds-disappearing-bees-aoe",
+    "title": "Pollinators in peril: scientists reveal the hidden human health costs of the world’s disappearing bees",
+    "link": "https://www.theguardian.com/environment/2026/jun/10/pollinators-in-peril-scientists-reveal-the-hidden-human-health-costs-of-the-worlds-disappearing-bees-aoe",
+    "description": "<p>Crops and flowers rely on them for survival, but wild bees are declining – and  crucial nutrients will go missing from our diets as a result</p><p>There are few ways in and out of Nepal’s Jumla district. The Karnali highway, considered one of the world’s most dangerous roads, provides the only land link, splicing through the Himalayas to connect Jumla’s terraced valleys to the rest of the country. As such, the 120,000 people that live there are almost entirely self-sufficient, with most of them eating and selling what they grow.</p><p>It’s a tenuous existence, plagued by food insecurity and malnutrition. In recent years, local beekeepers have bemoaned languishing hives and dwindling honey production, observing that roughly half of their bees seem to have vanished over the past decade. These concerns, however, ignore an even more insidious impact.</p> <a href=\"https://www.theguardian.com/environment/2026/jun/10/pollinators-in-peril-scientists-reveal-the-hidden-human-health-costs-of-the-worlds-disappearing-bees-aoe\">Continue reading...</a>",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/7ac4dbe5671a6a8f73e6aecd6190a851fe9b76fa/661_1011_1862_1490/master/1862.jpg?width=700&quality=85&auto=format&fit=max&s=e3cdfca06793461f9251538498cb1202",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.newstatesman.com/?p=528663",
+    "title": "PMQs review: Starmer and Badenoch clash over defence",
+    "link": "https://www.newstatesman.com/politics/uk-politics/2026/06/pmqs-review-starmer-and-badenoch-clash-over-defence",
+    "description": "Meanwhile, the country reels from riots in Belfast",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://www.newstatesman.com/feed"
+  },
+  {
+    "id": "https://www.newstatesman.com/?p=528609",
+    "title": "Belfast’s violence, Britain’s rage",
+    "link": "https://www.newstatesman.com/politics/uk-politics/2026/06/belfasts-violence-britains-rage",
+    "description": "Northern Ireland now may be parsable to an England that has long found it alien, weird and foreign",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://www.newstatesman.com/feed"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=598608",
+    "title": "The Entwined History of Capitalism and Race in the Americas and Beyond",
+    "link": "https://www.thenation.com/article/society/american-capitalism-and-race/",
+    "description": "<p>Bill Fletcher Jr.</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/05/Fletcher-Laurent-1492-getty.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>Better to start the history of the United States in 1492 than in 1776.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/society/american-capitalism-and-race/\">The Entwined History of Capitalism and Race in the Americas and Beyond</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/05/Fletcher-Laurent-1492-getty.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=600435",
+    "title": "Tulsa at a Crossroads",
+    "link": "https://www.thenation.com/article/society/tulsa-race-massacre-reparations-monroe-racial-justice/",
+    "description": "<p>Kristal Brent Zook</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/06/tulsa-race-massacre-mass-graves.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>Reparations and restoration on Tulsa Race Massacre Observance Day.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/society/tulsa-race-massacre-reparations-monroe-racial-justice/\">Tulsa at a Crossroads</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/06/tulsa-race-massacre-mass-graves.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://spectator.com/article/belfast-and-the-truth-about-alien-cultures/",
+    "title": "Belfast and the truth about ‘alien cultures’",
+    "link": "https://spectator.com/article/belfast-and-the-truth-about-alien-cultures/",
+    "description": "By Brendan O’Neill",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml"
+  },
+  {
+    "id": "https://spectator.com/article/belfast-and-the-truth-about-alien-cultures/?edition=us",
+    "title": "The truth about ‘alien cultures’",
+    "link": "https://spectator.com/article/belfast-and-the-truth-about-alien-cultures/?edition=us",
+    "description": "By Brendan O’Neill",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+  },
+  {
+    "id": "https://spectator.com/article/how-california-disrupted-the-french-wine-industry/?edition=us&homepage-tracking=magazine_minor-featured-1",
+    "title": "How California disrupted the French wine industry",
+    "link": "https://spectator.com/article/how-california-disrupted-the-french-wine-industry/?edition=us&homepage-tracking=magazine_minor-featured-1",
+    "description": "By Christopher Sandford",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+  },
+  {
+    "id": "https://spectator.com/article/the-case-for-the-administrative-state/?edition=us&homepage-tracking=magazine_minor-article-1",
+    "title": "The case for the administrative state",
+    "link": "https://spectator.com/article/the-case-for-the-administrative-state/?edition=us&homepage-tracking=magazine_minor-article-1",
+    "description": "Deep state",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/e7a3d4e0-1b83-4dd5-9988-4df3d11bc71a",
+    "title": "Why reviving US manufacturing is so hard",
+    "link": "https://archive.is/qWySo/https://www.ft.com/content/e7a3d4e0-1b83-4dd5-9988-4df3d11bc71a",
+    "description": "Skills shortages, shifting tariffs and complex permitting processes are major barriers",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/fto/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/3ea9e5c6-0002-47b0-a19b-0b8b4bc6244e",
+    "title": "How Northern Ireland became a breeding ground for riots",
+    "link": "https://archive.is/qWySo/https://www.ft.com/content/3ea9e5c6-0002-47b0-a19b-0b8b4bc6244e",
+    "description": "Violence erupts in a repeat of 2025 disorder, aided by tendency for many politicians to be equivocal on the crimes",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/fto/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/10/opinion/cia-bill-pulte-trump.html",
+    "title": "With Bill Pulte, Trump Is Sending a Dangerous Message",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/10/opinion/cia-bill-pulte-trump.html",
+    "description": "President Trump’s decision to place Bill Pulte at the head of the U.S. intelligence community is not just another poor personnel choice. It’s a warning.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/10/opinion/california-slow-vote-primary.html",
+    "title": "California’s Excuses Are Damaging Faith in Government",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/10/opinion/california-slow-vote-primary.html",
+    "description": "Taking a week to count votes is doing it wrong.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/10/opinion/constitution-supreme-court-popular-sovereignty.html",
+    "title": "The Supreme Court Doesn’t Own the Constitution",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/10/opinion/constitution-supreme-court-popular-sovereignty.html",
+    "description": "It starts with ‘We the People’ for a reason.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/10/opinion/republicans-democrats-women-ambition.html",
+    "title": "The Impossible Path Forward for Women in Politics",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/10/opinion/republicans-democrats-women-ambition.html",
+    "description": "Republicans have spent years disparaging all things associated with women. Now Democrats are following suit.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/10/opinion/world-cup-trump-fifa.html",
+    "title": "‘A Mighty Form of Communion’: Three Writers on the World Cup’s Strange Magic",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/10/opinion/world-cup-trump-fifa.html",
+    "description": "There’s ample cause for celebration and consternation alike.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.washingtonpost.com/opinions/2026/06/10/humanities-matter-scholars-have-defend-them/",
+    "title": "The humanities matter. Scholars have to defend them.",
+    "link": "https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/2026/06/10/humanities-matter-scholars-have-defend-them/",
+    "description": "Some academics don’t believe in truth. What are they researching for?",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/wpo/combined.xml"
+  },
+  {
+    "id": "https://www.washingtonpost.com/opinions/2026/06/10/strait-hormuz-is-critical-global-fertilizer-production/",
+    "title": "The global food supply is overly reliant on this one choke point",
+    "link": "https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/2026/06/10/strait-hormuz-is-critical-global-fertilizer-production/",
+    "description": "The closed Strait of Hormuz is making fertilizer more expensive and hurting food production.",
+    "published": "Wed, 10 Jun 2026 21:01:02 +0600",
+    "source": "https://evilgodfahim.github.io/wpo/combined.xml"
   }
 ]
