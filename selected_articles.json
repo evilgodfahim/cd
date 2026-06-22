@@ -125136,5 +125136,613 @@
     "description": "",
     "published": "Mon, 22 Jun 2026 15:41:49 +0600",
     "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://time.com/article/2026/06/22/colombia-presidential-election-abelardo-de-la-espriella/",
+    "title": "Colombia Elects Trump-Backed Populist in Presidential Election",
+    "link": "https://time.com/article/2026/06/22/colombia-presidential-election-abelardo-de-la-espriella/",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/tm/feeds/feed.xml"
+  },
+  {
+    "id": "https://time.com/article/2026/06/22/iran-soccer-federation-us-world-cup-tensions-escalate/",
+    "title": "‘Law-Breaking Country’: Iran Soccer Escalates Tensions With U.S.",
+    "link": "https://time.com/article/2026/06/22/iran-soccer-federation-us-world-cup-tensions-escalate/",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/tm/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/63ba9ceb-ca60-4632-9440-db43ad499199",
+    "title": "Why Bangladesh is backing Argentina in the World Cup",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/63ba9ceb-ca60-4632-9440-db43ad499199",
+    "description": "Their national team has never qualified, so Bangladeshi fans are cheering for Messi",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/world/asia/fire-lucknow-india-kills-14.html",
+    "title": "At Least 14 People Killed in Fire in North India Educational Center",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/world/asia/fire-lucknow-india-kills-14.html",
+    "description": "A blaze in a commercial building that housed a study center in a north Indian city killed at least a dozen people, most aged 16 to 18.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-india-fire-czmw/22int-india-fire-czmw-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html",
+    "title": "Keir Starmer Resigns as UK Prime Minister",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html",
+    "description": "His departure in the coming weeks clears a path for Andy Burnham, a popular Labour Party mayor, to become the country’s seventh prime minister in a decade.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-uk-starmer-ledeall-mczf/22int-uk-starmer-ledeall-mczf-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-russia-crimea-attacks.html",
+    "title": "Ukraine Escalates Crimea Attacks, Creating a New Pressure Point for Russia",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/world/europe/ukraine-russia-crimea-attacks.html",
+    "description": "To pressure Moscow, Ukraine is stepping up an air campaign to isolate the peninsula, which Russia annexed in 2014.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-russia-crimea-01-pjhc/22int-russia-crimea-01-pjhc-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/world/middleeast/us-sanctions-reprieve-iran-oil.html",
+    "title": "U.S. Temporarily Lifts Sanctions on Iranian Oil",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/world/middleeast/us-sanctions-reprieve-iran-oil.html",
+    "description": "In a sharp reversal of American policy, the Treasury announced a 60-day reprieve, permitting the sale of Iranian crude as part of the preliminary U.S.-Iran deal toward ending the war.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/22/multimedia/22mideast-iran-oil-phjb/22mideast-iran-oil-phjb-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
+    "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
+    "description": "The delegation received visas from Belgium to attend talks with the European Union about the deportation of Afghans. Officials in Afghanistan said the meeting would take place on Tuesday.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-eu-taliban-1-lbpq/22int-eu-taliban-1-lbpq-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/world/middleeast/vance-iran-nuclear-inspections.html",
+    "title": "Vance Says Iran Will Allow Nuclear Watchdog to Restart Inspections",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/world/middleeast/vance-iran-nuclear-inspections.html",
+    "description": "Vice President JD Vance said Iran had agreed to invite experts from the U.N. agency to resume operations in the country. Tehran and the nuclear watchdog have not commented.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/22/multimedia/22mideast-Iran-gpwb/22mideast-Iran-gpwb-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/world/europe/jeffrey-donaldson-child-abuse-rape-guilty-dup.html",
+    "title": "Jeffrey Donaldson, Longtime Northern Irish Political Leader, Is Convicted of Child Sex Abuse",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/world/europe/jeffrey-donaldson-child-abuse-rape-guilty-dup.html",
+    "description": "Mr. Donaldson, 63, was found guilty after a weekslong jury trial in Northern Ireland.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/22/multimedia/22xp-donaldson-tjbp/22xp-donaldson-tjbp-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/world/europe/spain-abalos-sentenced-corruption-sanchez.html",
+    "title": "Former Ally to Spain’s Prime Minister Is Sentenced to 24 Years in Prison on Bribery Charges",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/world/europe/spain-abalos-sentenced-corruption-sanchez.html",
+    "description": "José Luis Ábalos, once a minister in the government of Prime Minister Pedro Sánchez, was convicted of bribery. The decision compounds a crisis for Mr. Sánchez’ circle.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/22/multimedia/22spain-minister-01-hjwc/22spain-minister-01-hjwc-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/world/europe/dutch-netherlands-apology-indonesia-moluccan.html",
+    "title": "Dutch Prime Minister Apologizes for Mistreatment of Moluccan Soldiers",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/world/europe/dutch-netherlands-apology-indonesia-moluccan.html",
+    "description": "Rob Jetten’s acknowledgment of the historical injustice is part of a larger reckoning with the Netherlands’ colonial past.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/22/multimedia/22xp-apology-001-zkpv/22xp-apology-001-zkpv-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/world/europe/israel-lebanon-hezbollah-truce.html",
+    "title": "Israel Holds to Lebanon Truce, With Troops Kept on Defense",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/world/europe/israel-lebanon-hezbollah-truce.html",
+    "description": "Israel and Hezbollah, the Iran-backed Lebanese militant group, appeared to maintain a tense cease-fire for a second day. Israel’s military has new orders that restrict troops to defensive actions.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/22/multimedia/22mideast--lgck/22mideast--lgck-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/world/europe/starmer-resigns-uk-prime-ministers-how-long.html",
+    "title": "How Many Prime Ministers Has the UK Had Since Brexit?",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/world/europe/starmer-resigns-uk-prime-ministers-how-long.html",
+    "description": "The years since the Brexit vote have been some of the most tumultuous in Britain’s recent political history. Here’s a look at the revolving door in Downing Street.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/22/world/22uk-starmer-pms-aifnaioo/22uk-starmer-pms-aifnaioo-mediumSquareAt3X-v4.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html",
+    "title": "First Round of U.S.-Iran Talks Ends With High Hopes and Big Challenges",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html",
+    "description": "Mediators reported progress toward reaching a final deal within 60 days. They also said that negotiators had dwelled on issues that were supposed to be settled.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-iran-talks-assess-01-mfhb/22int-iran-talks-assess-01-mfhb-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.washingtonpost.com/world/2026/06/22/who-is-andy-burnham-uks-king-north-likely-next-prime-minister/",
+    "title": "Who is Andy Burnham, U.K.’s ‘King of the North’ and likely next prime minister?",
+    "link": "https://archive.is/o/A5nuz/https://www.washingtonpost.com/world/2026/06/22/who-is-andy-burnham-uks-king-north-likely-next-prime-minister/",
+    "description": "The runaway favorite to succeed Prime Minister Keir Starmer is a longtime mayor equally comfortable in the corridors of Westminster and in working-class northern England.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/wpint/combined.xml"
+  },
+  {
+    "id": "https://www.washingtonpost.com/world/2026/06/22/7th-prime-minister-10-years-enter-downing-street-revolving-door/",
+    "title": "U.K. will get its seventh prime minister in 10 years. Here’s how they fell.",
+    "link": "https://archive.is/o/A5nuz/https://www.washingtonpost.com/world/2026/06/22/7th-prime-minister-10-years-enter-downing-street-revolving-door/",
+    "description": "Looking back over the past decade, it’s hard not to wonder whether Larry the Cat has been the most stabilizing presence in British politics.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/wpint/combined.xml"
+  },
+  {
+    "id": "https://www.wsj.com/world/middle-east/vance-says-iran-agreed-to-allow-nuclear-inspectors-back-in-209db17c",
+    "title": "Vance Says Iran Agreed to Allow Nuclear Inspectors Back In",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/middle-east/vance-says-iran-agreed-to-allow-nuclear-inspectors-back-in-209db17c",
+    "description": "The vice president said Iran’s invite to inspectors from the International Atomic Energy Agency was a “major milestone.”",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-57085368",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "y3FP8rHPT5pEMdsNb4eDjX",
+    "title": "US, Iran cite progress in talks roiled by Trump, Lebanon",
+    "link": "https://theweek.com/world-news/us-iran-progress-talks-trump-lebanon",
+    "description": "The sides agreed to a “roadmap” toward a final deal",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://theweek.com/rss.xml",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/Lb4RHfGZDkUimaVZa8swPJ-1280-80.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.newstatesman.com/?p=529907",
+    "title": "Keir Starmer peaked at “unknown”",
+    "link": "https://www.newstatesman.com/politics/polling/2026/06/keir-starmer-peaked-at-unknown",
+    "description": "Charting the Prime Minister's downfall",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://www.newstatesman.com/feed"
+  },
+  {
+    "id": "https://spectator.com/article/watch-andy-burnham-sworn-in/",
+    "title": "Watch: Andy Burnham sworn in",
+    "link": "https://spectator.com/article/watch-andy-burnham-sworn-in/",
+    "description": "By Steerpike",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml"
+  },
+  {
+    "id": "https://spectator.com/article/the-42-reasons-why-keir-starmer-failed/",
+    "title": "The 42 reasons why Keir Starmer failed",
+    "link": "https://spectator.com/article/the-42-reasons-why-keir-starmer-failed/",
+    "description": "By Tim Shipman",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml"
+  },
+  {
+    "id": "https://spectator.com/article/sir-keir-starmer-i-quit/",
+    "title": "Sir Keir Starmer: I quit",
+    "link": "https://spectator.com/article/sir-keir-starmer-i-quit/",
+    "description": "By Steerpike",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml"
+  },
+  {
+    "id": "https://spectator.com/article/the-last-days-of-starmer-a-view-from-inside-the-no-10-bunker/",
+    "title": "The last days of Starmer: A view from inside the No.10 bunker",
+    "link": "https://spectator.com/article/the-last-days-of-starmer-a-view-from-inside-the-no-10-bunker/",
+    "description": "Politics",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml"
+  },
+  {
+    "id": "https://spectator.com/article/what-i-saw-at-the-montreal-shooting/?edition=us",
+    "title": "What I saw at the Montréal shooting",
+    "link": "https://spectator.com/article/what-i-saw-at-the-montreal-shooting/?edition=us",
+    "description": "By Ben Clerkin",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+  },
+  {
+    "id": "https://spectator.com/article/is-zelensky-about-to-attack-belarus/?edition=us",
+    "title": "Is Zelensky about to attack Belarus?",
+    "link": "https://spectator.com/article/is-zelensky-about-to-attack-belarus/?edition=us",
+    "description": "By Mark Galeotti",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+  },
+  {
+    "id": "https://spectator.com/article/how-a-trump-loving-lawyer-nicknamed-the-tiger-became-colombias-president/?edition=us",
+    "title": "How a Trump-loving lawyer nicknamed ‘The Tiger’ became Colombia’s president",
+    "link": "https://spectator.com/article/how-a-trump-loving-lawyer-nicknamed-the-tiger-became-colombias-president/?edition=us",
+    "description": "By Catherine Ellis",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/a718bd51-c56e-4d02-b23f-028c7936bab2",
+    "title": "America’s allies look to declare independence from the US",
+    "link": "https://archive.is/qWySo/https://www.ft.com/content/a718bd51-c56e-4d02-b23f-028c7936bab2",
+    "description": "Traditional partners are rethinking their economic ties",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/fto/combined.xml"
+  },
+  {
+    "id": "https://www.themoscowtimes.com/2026/06/22/inside-the-ukrainian-deep-strike-campaign-that-has-moscow-on-the-back-foot-a93061",
+    "title": "Inside the Ukrainian Deep-Strike Campaign That Has Moscow on the Back Foot",
+    "link": "https://www.themoscowtimes.com/2026/06/22/inside-the-ukrainian-deep-strike-campaign-that-has-moscow-on-the-back-foot-a93061",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://southfront.press/how-moscow-answered-ukrainian-and-nato-drone-strikes-on-its-territory/",
+    "title": "Moscow’s Four-Day Retaliation For Ukrainian And NATO Drone Strikes On Russian Territory",
+    "link": "https://southfront.press/how-moscow-answered-ukrainian-and-nato-drone-strikes-on-its-territory/",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/counting-the-cost/2026/6/22/will-a-us-iran-deal-transform-the-iranian-economy?traffic_source=rss",
+    "title": "Will a US-Iran deal transform the Iranian economy?",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/22/will-a-us-iran-deal-transform-the-iranian-economy?traffic_source=rss",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.rt.com/news/641977-iran-learned-to-stop-worrying/?&",
+    "title": "How Iran learned to stop worrying and live with war",
+    "link": "https://www.rt.com/news/641977-iran-learned-to-stop-worrying/?&",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://tass.com/politics/2149971",
+    "title": "Russian, Iranian diplomats discuss US-Iran memorandum",
+    "link": "https://tass.com/politics/2149971",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump",
+    "title": "‘Institutional threat’: election of far-right leader raises fears for democracy in Colombia",
+    "link": "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://time.com/article/2026/06/22/how-did-we-get-here-a-timeline-of-the-u-s--iran-war/",
+    "title": "From Overnight Airstrikes to Peace Talks: A Timeline of the U.S.-Iran War",
+    "link": "https://time.com/article/2026/06/22/how-did-we-get-here-a-timeline-of-the-u-s--iran-war/",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.al-monitor.com/originals/2026/06/whats-status-strait-hormuz-after-us-iran-talks",
+    "title": "What’s the status of Strait of Hormuz after US-Iran talks?",
+    "link": "https://www.al-monitor.com/originals/2026/06/whats-status-strait-hormuz-after-us-iran-talks",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.dw.com/en/iran-us-talks-to-end-war-beset-by-tension-mistrust/a-77661546?maca=en-rss-en-world-4025-rdf",
+    "title": "Iran-US talks to end war beset by tension, mistrust",
+    "link": "https://www.dw.com/en/iran-us-talks-to-end-war-beset-by-tension-mistrust/a-77661546?maca=en-rss-en-world-4025-rdf",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://tass.com/world/2149915",
+    "title": "Israel’s position could derail US-Iran deal — expert",
+    "link": "https://tass.com/world/2149915",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.straitstimes.com/world/europe/pm-magyar-moves-to-oust-hungarys-president-launch-anti-graft-office",
+    "title": "PM Magyar moves to oust Hungarys president, launch anti-graft office",
+    "link": "https://www.straitstimes.com/world/europe/pm-magyar-moves-to-oust-hungarys-president-launch-anti-graft-office",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.rt.com/news/641967-iran-us-talks-going-nowhere/?&",
+    "title": "The US-Iran talks are going nowhere",
+    "link": "https://www.rt.com/news/641967-iran-us-talks-going-nowhere/?&",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "http://www.democracynow.org/2026/6/22/iran_update",
+    "title": "Document of Capitulation: Spencer Ackerman & Behrooz Ghamari-Tabrizi on the U.S.-Iran Deal",
+    "link": "http://www.democracynow.org/2026/6/22/iran_update",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/6/22/aje-onl-aje_onl_lebanon_wrap-220626?traffic_source=rss",
+    "title": "Lebanon Latest: Israeli attacks surge despite ceasefire efforts",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/aje-onl-aje_onl_lebanon_wrap-220626?traffic_source=rss",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://apnews.com/article/us-iran-talks-vance-trump-latest-21-june-2026-39f9632b4df3a61a07a2c271da1d5637",
+    "title": "The Latest: Iran says ‘major progress’ to end Lebanon war during talks",
+    "link": "https://apnews.com/article/us-iran-talks-vance-trump-latest-21-june-2026-39f9632b4df3a61a07a2c271da1d5637",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.hindustantimes.com/world-news/american-police-killings-are-rising-even-as-murder-rates-fall-101782114923982.html",
+    "title": "American police killings are rising, even as murder rates fall",
+    "link": "https://www.hindustantimes.com/world-news/american-police-killings-are-rising-even-as-murder-rates-fall-101782114923982.html",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over?traffic_source=rss",
+    "title": "Why has Keir Starmer resigned as UK prime minister, and who will take over?",
+    "link": "https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over?traffic_source=rss",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.aljazeera.com/gallery/2026/6/22/ebola-cases-surpass-1000-in-congo-amid-violence-and-displacement?traffic_source=rss",
+    "title": "Ebola cases surpass 1,000 in DR Congo amid violence and displacement",
+    "link": "https://www.aljazeera.com/gallery/2026/6/22/ebola-cases-surpass-1000-in-congo-amid-violence-and-displacement?traffic_source=rss",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.fananews.com/language/en/prime-minister-and-minister-of-foreign-affairs-and-us-officials-hold-joint-phone-call-with-lebanese-president/",
+    "title": "Prime Minister and Minister of Foreign Affairs and US Officials Hold Joint Phone Call with Lebanese President - Fana News -",
+    "link": "https://www.fananews.com/language/en/prime-minister-and-minister-of-foreign-affairs-and-us-officials-hold-joint-phone-call-with-lebanese-president/",
+    "description": "Prime Minister and Minister of Foreign Affairs and US Officials Hold Joint Phone Call with Lebanese President  Fana News -",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "https://www.geopoliticalmonitor.com/iran-war-mou-harbinger-of-a-new-mideast-order-geopolitics-weekly/",
+    "title": "Iran War MOU: Harbinger of a New Mideast Order | Geopolitics Weekly - Geopolitical Monitor",
+    "link": "https://www.geopoliticalmonitor.com/iran-war-mou-harbinger-of-a-new-mideast-order-geopolitics-weekly/",
+    "description": "Iran War MOU: Harbinger of a New Mideast Order | Geopolitics Weekly  Geopolitical Monitor",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "https://www.businessinsider.com/ukraine-showing-west-cheap-sensors-key-future-air-war-2026-6",
+    "title": "Ukraine is showing the West why cheap sensors could be key to defending the skies in future wars",
+    "link": "https://www.businessinsider.com/ukraine-showing-west-cheap-sensors-key-future-air-war-2026-6",
+    "description": "Ukraine is using a vast network of cheap sensors to detect incoming drone threats. Western officials say the West should consider doing the same.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6a33fef3f4bed3c6152cb749?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-687623",
+    "title": "What Will Happen to Birthright Citizenship?",
+    "link": "https://www.theatlantic.com/podcasts/2026/06/what-will-happen-to-birthright-citizenship/687623/",
+    "description": "The Supreme Court considers the Fourteenth Amendment.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/0mwRPtoHEp3dWV02OfJ7P415L0I=/345x100:3995x2153/media/img/mt/2026/06/Radio_Atlantic_Vertical_TK-1/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://time.com/article/2026/06/22/why-young-people-are-sounding-the-alarm-on-ai/",
+    "title": "Young People Are Sounding the Alarm on AI. We Should Listen to Them",
+    "link": "https://time.com/article/2026/06/22/why-young-people-are-sounding-the-alarm-on-ai/",
+    "description": "",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/tm/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/a718bd51-c56e-4d02-b23f-028c7936bab2",
+    "title": "America’s allies look to declare independence from the US",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/a718bd51-c56e-4d02-b23f-028c7936bab2",
+    "description": "Traditional partners are rethinking their economic ties",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/d481a0de-f175-44d7-9188-0c3c60d0b00d",
+    "title": "A Nobel laureate’s tale of surviving Ceauşescu’s Romania",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/d481a0de-f175-44d7-9188-0c3c60d0b00d",
+    "description": "Herta Müller’s The Village on the Edge of the World is a searing chronicle of resilience and humanity that offers a corrective to nostalgia for communism",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/science/2026/jun/22/interstellar-comet-may-be-oldest-object-seen-in-our-solar-system-research-finds",
+    "title": "Interstellar comet may be oldest object seen in our solar system, scientists say",
+    "link": "https://www.theguardian.com/science/2026/jun/22/interstellar-comet-may-be-oldest-object-seen-in-our-solar-system-research-finds",
+    "description": "<p>Observations suggest comet spent billions of years on ‘vast unimaginable trajectories’ around our galaxy</p><p>An interstellar comet that blazed past the sun last year could be nearly three times older than our solar system and is unlike anything ever before seen in our cosmic back yard, astronomers said on Monday.</p><p>The comet 3I/Atlas is just the third visitor from beyond our solar system that humanity has ever observed, its unusual brightness offering scientists an unprecedented opportunity to study something that came from elsewhere in the galaxy.</p> <a href=\"https://www.theguardian.com/science/2026/jun/22/interstellar-comet-may-be-oldest-object-seen-in-our-solar-system-research-finds\">Continue reading...</a>",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/1d715497446687f1ed1150a28cf56a7311a785a6/51_0_1179_943/master/1179.jpg?width=700&quality=85&auto=format&fit=max&s=7f2d27325baf3abd29a510f6d8ef1ef1",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/commentisfree/2026/jun/22/the-guardian-view-on-the-death-of-carlo-ginzburg-a-historian-who-taught-us-to-think-about-outsiders",
+    "title": "The Guardian view on the death of Carlo Ginzburg: a historian who taught us to think about outsiders | Editorial",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/22/the-guardian-view-on-the-death-of-carlo-ginzburg-a-historian-who-taught-us-to-think-about-outsiders",
+    "description": "<p>The work of one of Italy’s greatest scholars focused on ordinary lives oppressed by power and prejudice. That approach resonates today</p><p>Reflecting on the genesis of his most famous work, Carlo Ginzburg wrote that by immersing himself in the trial of a 16th-century miller burned by the Roman Inquisition, he turned a possible footnote into a book. Fifty years on, after being translated around the world, <a href=\"https://transnationalhistory.net/doing/2020/02/15/the-cheese-and-the-worms/\">The Cheese and The Worms</a> still stands as a supreme exemplar of historical research devoted to the lives of “the persecuted and the vanquished”.</p><p>Ginzburg’s <a href=\"https://www.lemonde.fr/en/obituaries/article/2026/06/17/italian-historian-carlo-ginzburg-founding-figure-of-microhistory-has-died_6754597_15.html\">death last week</a>, at the age of 87, means that one of the last living links with a remarkable postwar generation of historians has gone. In its passion for reconstructing the fabric of lives previously thought too marginal to bother with, his writing had affinities with EP Thompson’s “<a href=\"https://newhistories.sites.sheffield.ac.uk/volumes/2009-10/volume-1/issue-7-theory/history-from-below\">history from below</a>” movement and the <a href=\"https://www.britannica.com/topic/Annales-school\">Annales school</a> in France. As the rise of 21st-century authoritarianism creates new generations of scapegoats and misfits, the approach of one of Italy’s&nbsp;greatest scholars speaks directly to our times.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/22/the-guardian-view-on-the-death-of-carlo-ginzburg-a-historian-who-taught-us-to-think-about-outsiders\">Continue reading...</a>",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/489b68c081ad12d988b92c96141c9f941d3e8954/292_0_2917_2333/master/2917.jpg?width=700&quality=85&auto=format&fit=max&s=065f028630c5d52d4ad014e540603b0a",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2026/jun/22/trapped-by-floods-and-fearing-death-in-the-heat-the-australians-taking-legal-action-over-the-climate-crisis",
+    "title": "Trapped by floods and fearing death in the heat: the Australians taking legal action over the climate crisis",
+    "link": "https://www.theguardian.com/environment/2026/jun/22/trapped-by-floods-and-fearing-death-in-the-heat-the-australians-taking-legal-action-over-the-climate-crisis",
+    "description": "<p>Ten people affected in different ways by extreme weather are taking a case against the federal government to the UN</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>As flood waters rose in <a href=\"https://www.theguardian.com/australia-news/2022/feb/28/brisbane-flood-2022-bne-river-peak-floods-update-property-flooding-warning-queensland\">Brisbane’s West End in February 2022</a>, Brendon Donohue was trapped alone in his second-storey apartment for 10 days. The 33-year-old is legally blind and his movement is limited by <a href=\"https://en.wikipedia.org/wiki/Peters-plus_syndrome\">Peters plus syndrome</a>. He received evacuation alerts on his phone in the middle of the night. But with the lift, intercom and front entrance shut down he had no safe way out of the building.</p><p>“It was terrifying,” he says. “The whole street was badly impacted with water. The power went out, which made me not able to contact anyone. I ran out of food but couldn’t get any into the building.”</p> <a href=\"https://www.theguardian.com/environment/2026/jun/22/trapped-by-floods-and-fearing-death-in-the-heat-the-australians-taking-legal-action-over-the-climate-crisis\">Continue reading...</a>",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/a0fee4e0d356503d37da08b81c1a1b81b6a57a3b/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=f45c5dde4e685cc485f03705c9f5da37",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/russia/what-it-takes-to-bring-a-ukrainian-home-from-russian-captivity-7fbfcb4d",
+    "title": "What It Takes to Bring a Ukrainian Home From Russian Captivity",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/russia/what-it-takes-to-bring-a-ukrainian-home-from-russian-captivity-7fbfcb4d",
+    "description": "Watch to see what life looks like after a prisoner swap, one of the few areas of cooperation between Russia and Ukraine.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-90803596",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/china/chinese-gaokao-test-quiz-c38937db",
+    "title": "Can You Pass the Test That Strikes Fear Into China’s High-Schoolers?",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/china/chinese-gaokao-test-quiz-c38937db",
+    "description": "Try a selection of questions from the notoriously difficult “Gaokao” university entrance exam.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-94302524",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://spectator.com/article/why-i-take-frog-poison/?edition=us&homepage-tracking=magazine_minor-article-2",
+    "title": "Why I take frog poison",
+    "link": "https://spectator.com/article/why-i-take-frog-poison/?edition=us&homepage-tracking=magazine_minor-article-2",
+    "description": "Leap of faith",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/video/opinion/the-radical-act-of-enjoying-this-life.html",
+    "title": "The Radical Act of Enjoying This Life",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/video/opinion/the-radical-act-of-enjoying-this-life.html",
+    "description": "On “The Ezra Klein Show,” the Times Opinion columnist Ezra Klein asks the novelist Gary Shteyngart about his philosophy of enjoyment and why it can feel like such a radical act to simply be present.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/video/opinion/100000010970914/why-democrats-need-a-politics-of-joy.html",
+    "title": "Why Democrats Need a Politics of Joy",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/video/opinion/100000010970914/why-democrats-need-a-politics-of-joy.html",
+    "description": "The joylessness of metrics-obsessed, achievement-oriented elite culture is eroding the simple joys of living, the novelist Gary Shteyngart argues on “The Ezra Klein Show.” And, he says, this antipathy toward pleasure is a problem for Democrats.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/opinion/trump-iran-war.html",
+    "title": "Taking Trump to Task Over the Iran War",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/opinion/trump-iran-war.html",
+    "description": "Readers react to President Trump’s threats against Iran, and other aspects of the war. Also: A memory of Dad; the New York-New Jersey tussle.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/opinion/schools-testing-accountability.html",
+    "title": "The ‘No Child Left Behind’ Nostalgia Is Delusional",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/opinion/schools-testing-accountability.html",
+    "description": "Test scores are poor measures of an education.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/opinion/alan-greenspan-federal-reserve.html",
+    "title": "The Moment Alan Greenspan Should Be Remembered For",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/opinion/alan-greenspan-federal-reserve.html",
+    "description": "A crucial episode in the famous Fed chair’s legacy.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/opinion/ai-doom-jobs-economy.html",
+    "title": "A.I. Doomaxxing Is Bad for Our Economy",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/opinion/ai-doom-jobs-economy.html",
+    "description": "The economic impact of A.I. is less concerning than consumers’ fear-based reactions to it.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/22/opinion/infants-genetic-screening.html",
+    "title": "Doctors Can Test Your Baby for Hundreds of Genetic Anomalies. Should They?",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/22/opinion/infants-genetic-screening.html",
+    "description": "A National Institutes of Health study will evaluate whether to screen tens of thousands of healthy infants for genetic diseases.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.washingtonpost.com/opinions/2026/06/22/alan-greenspan-paved-way-fed-independence/",
+    "title": "Alan Greenspan understood power and was not afraid to wield it",
+    "link": "https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/2026/06/22/alan-greenspan-paved-way-fed-independence/",
+    "description": "The former Fed chairman’s style offers a lesson in how Washington functions and how institutions grow.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/wpo/combined.xml"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/chinas-ambitious-ai-blueprint-bba89ca2",
+    "title": "China’s Ambitious AI Blueprint",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/chinas-ambitious-ai-blueprint-bba89ca2",
+    "description": "Beijing identifies key sectors for creating a ‘people-vehicle-home’ ecosystem.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/wsjop/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-36394192",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/at-the-new-york-times-the-culture-war-never-ends-64e29d9d",
+    "title": "At the New York Times, the Culture War Never Ends",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/at-the-new-york-times-the-culture-war-never-ends-64e29d9d",
+    "description": "Father’s Day is one more opportunity to promote transgender ideology.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/wsjop/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-31765952",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/stuttering-is-in-the-genes-09c72d77",
+    "title": "Stuttering Is in the Genes",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/stuttering-is-in-the-genes-09c72d77",
+    "description": "Scientists are learning more about the condition, which my grandfather passed on to me and possibly my son.",
+    "published": "Tue, 23 Jun 2026 03:57:33 +0600",
+    "source": "https://evilgodfahim.github.io/wsjop/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-02589384",
+    "thumbnail_type": "image/jpeg"
   }
 ]
