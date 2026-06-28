@@ -132838,5 +132838,91 @@
     "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
     "thumbnail": "https://images.wsj.net/im-79881420",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0",
+    "title": "US carries out second day of strikes against Iran",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0",
+    "description": "Military action in response to Iranian attacks on shipping is a further blow to hopes of sustained ceasefire",
+    "published": "Sun, 28 Jun 2026 13:45:29 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2",
+    "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2",
+    "description": "A clampdown on top U.S. AI is fueling concern that Washington is handing Beijing a cyberwarfare advantage.",
+    "published": "Sun, 28 Jun 2026 13:45:29 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-85420555",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html",
+    "title": "The Real A.I. Race Isn’t America vs. China",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html",
+    "description": "Washington is starting to follow a similar playbook to Beijing when it comes to artificial intelligence policy.",
+    "published": "Sun, 28 Jun 2026 13:45:29 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.wsj.com/world/europe/the-openness-that-powered-germanys-economy-is-now-its-biggest-weakness-33918619",
+    "title": "The Openness That Powered Germany’s Economy Is Now Its Biggest Weakness",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/europe/the-openness-that-powered-germanys-economy-is-now-its-biggest-weakness-33918619",
+    "description": "The country that once led the world in exports has been stuck in neutral since before the Covid-19 pandemic.",
+    "published": "Sun, 28 Jun 2026 13:45:29 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-54193245",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/china/a-rising-stars-abrupt-fall-shows-xis-crackdown-on-overambitious-officials-3d7dfb92",
+    "title": "A Rising Star’s Abrupt Fall Shows Xi’s Crackdown on Overambitious Officials",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/china/a-rising-stars-abrupt-fall-shows-xis-crackdown-on-overambitious-officials-3d7dfb92",
+    "description": "Purges aimed at rooting out corruption and disloyalty have pushed many officials to focus on finding ways to please Beijing.",
+    "published": "Sun, 28 Jun 2026 13:45:29 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-27824643",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://spectator.com/article/is-the-us-israel-special-relationship-over/",
+    "title": "Is the US-Israel special relationship over?",
+    "link": "https://spectator.com/article/is-the-us-israel-special-relationship-over/",
+    "description": "By Yossi Melman",
+    "published": "Sun, 28 Jun 2026 13:45:29 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml"
+  },
+  {
+    "id": "https://spectator.com/article/it-turns-out-being-a-hunter-gather-wasnt-so-great-after-all/",
+    "title": "It turns out being a hunter-gatherer wasn’t so great after all",
+    "link": "https://spectator.com/article/it-turns-out-being-a-hunter-gather-wasnt-so-great-after-all/",
+    "description": "By Mike Pitts",
+    "published": "Sun, 28 Jun 2026 13:45:29 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml"
+  },
+  {
+    "id": "https://spectator.com/article/grandma-moses-art-shaped-american-history/?edition=us",
+    "title": "How Grandma Moses’s art shaped American history",
+    "link": "https://spectator.com/article/grandma-moses-art-shaped-american-history/?edition=us",
+    "description": "By Anastasia Brown",
+    "published": "Sun, 28 Jun 2026 13:45:29 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/e66860fe-bc24-40c2-93f6-400a9e28ea2a",
+    "title": "Why keeping Europe cool need not be a luxury",
+    "link": "https://archive.is/qWySo/https://www.ft.com/content/e66860fe-bc24-40c2-93f6-400a9e28ea2a",
+    "description": "In the clean energy system the continent is trying to build, air conditioning basically comes for free",
+    "published": "Sun, 28 Jun 2026 13:45:29 +0600",
+    "source": "https://evilgodfahim.github.io/fto/combined.xml"
+  },
+  {
+    "id": "https://www.straitstimes.com/world/europe/why-is-europe-warming-twice-as-fast-as-the-world-average",
+    "title": "Why is Europe warming twice as fast as the world average?",
+    "link": "https://www.straitstimes.com/world/europe/why-is-europe-warming-twice-as-fast-as-the-world-average",
+    "description": "",
+    "published": "Sun, 28 Jun 2026 13:45:29 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
   }
 ]
