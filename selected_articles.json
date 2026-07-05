@@ -141670,5 +141670,69 @@
     "description": "Legacy of martyred Khamenei's foreign policy vision  Tehran Times",
     "published": "Sun, 05 Jul 2026 02:47:33 +0600",
     "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
+    "title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
+    "description": "As days of public mourning ceremonies began, Iranians viewed the casket of Ayatollah Ali Khamenei, who was killed at the start of the U.S.-Israeli attacks.",
+    "published": "Sun, 05 Jul 2026 08:28:41 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/04/multimedia/04int-khamenei-funeral-fmvh/04int-khamenei-funeral-fmvh-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.washingtonpost.com/world/2026/07/04/putin-visits-military-installation-vowing-take-more-ukraine/",
+    "title": "Putin visits military installation, vowing to take more of Ukraine",
+    "link": "https://archive.is/o/A5nuz/https://www.washingtonpost.com/world/2026/07/04/putin-visits-military-installation-vowing-take-more-ukraine/",
+    "description": "The Russian president donned military fatigues as he tried to counter a narrative that Moscow is stumbling in its war after Ukrainian drone strikes set off an acute fuel shortage.",
+    "published": "Sun, 05 Jul 2026 08:28:41 +0600",
+    "source": "https://evilgodfahim.github.io/wpint/combined.xml"
+  },
+  {
+    "id": "https://www.middleeasteye.net/news/irans-funeral-diplomacy-quran-verses-ranked-allies-rivals-and-message-saudi-arabia",
+    "title": "Iran’s funeral diplomacy: The Quran verses that ranked allies, rivals and sent Saudi Arabia a message - Middle East Eye",
+    "link": "https://www.middleeasteye.net/news/irans-funeral-diplomacy-quran-verses-ranked-allies-rivals-and-message-saudi-arabia",
+    "description": "Iran’s funeral diplomacy: The Quran verses that ranked allies, rivals and sent Saudi Arabia a message  Middle East Eye",
+    "published": "Sun, 05 Jul 2026 08:28:41 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "https://www.dailynewsegypt.com/2026/07/04/egypt-eu-review-strategic-partnership-regional-security-and-us-iran-diplomacy/",
+    "title": "Egypt, EU review strategic partnership, regional security and US-Iran diplomacy - Dailynewsegypt",
+    "link": "https://www.dailynewsegypt.com/2026/07/04/egypt-eu-review-strategic-partnership-regional-security-and-us-iran-diplomacy/",
+    "description": "Egypt, EU review strategic partnership, regional security and US-Iran diplomacy  Dailynewsegypt",
+    "published": "Sun, 05 Jul 2026 08:28:41 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-687810",
+    "title": "Pope Leo’s July 4 Message to America Was Unmistakable",
+    "link": "https://www.theatlantic.com/ideas/2026/07/pope-leo-lampedusa-july-4/687810/",
+    "description": "By spending the semiquincentennial mourning the plight of migrants, Leo sent a clear challenge to his native country.",
+    "published": "Sun, 05 Jul 2026 08:28:41 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/uUuytZO8V1zZ54kbNTXTRC2GQGk=/media/img/mt/2026/07/2026_07_02_The_Popes_Admonition_to_America_on_Its_Birthday/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+    "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+    "link": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+    "description": "<p>Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities</p><p>Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert.</p><p>The fourth-century quarters had residential and religious structures, including a basilica-style church in the Dakhla oasis. Archaeologists also found coins, pottery fragments and tools.</p> <a href=\"https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert\">Continue reading...</a>",
+    "published": "Sun, 05 Jul 2026 08:28:41 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/143b8d47a8a54be65405a4fe6d0bb23cf02fe1f2/146_0_716_573/master/716.jpg?width=700&quality=85&auto=format&fit=max&s=4588c19ae26dccc2ca59dde3c6a49b7f",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/cryptocurrency-sanctions-evasion-d02b60f1",
+    "title": "How Rogue Nations Are Using Cryptocurrencies to Evade Sanctions",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/cryptocurrency-sanctions-evasion-d02b60f1",
+    "description": "Blacklisted entities handled $100 billion in crypto in 2025, financing terrorism and weapons.",
+    "published": "Sun, 05 Jul 2026 08:28:41 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-30915037",
+    "thumbnail_type": "image/jpeg"
   }
 ]
