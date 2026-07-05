@@ -4,14 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Sun, 05 Jul 2026 07:19:24 +0000</lastBuildDate>
-    <item>
-      <title>Businesses operating in 'permanent high-risk environment' as AI, geopolitics and regulation converge - Insurance Business</title>
-      <link>https://www.insurancebusinessmag.com/uk/news/cyber/businesses-operating-in-permanent-highrisk-environment-as-ai-geopolitics-and-regulation-converge-580380.aspx</link>
-      <guid isPermaLink="true">https://www.insurancebusinessmag.com/uk/news/cyber/businesses-operating-in-permanent-highrisk-environment-as-ai-geopolitics-and-regulation-converge-580380.aspx</guid>
-      <description>Businesses operating in 'permanent high-risk environment' as AI, geopolitics and regulation converge  Insurance Business</description>
-      <pubDate>Fri, 26 Jun 2026 16:45:46 +0600</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 10:05:40 +0000</lastBuildDate>
     <item>
       <title>Why poor countries won’t restructure</title>
       <link>https://archive.is/o/ggFl1/https://www.ft.com/content/784c43af-7a68-4ca5-aa24-49704c567ebb</link>
@@ -4150,6 +4143,15 @@
       <pubDate>Sun, 05 Jul 2026 08:28:41 +0600</pubDate>
       <media:thumbnail url="https://images.wsj.net/im-30915037" />
       <enclosure url="https://images.wsj.net/im-30915037" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>There’s a Global Network of Fungi Under Your Feet. This Is the First Complete Map</title>
+      <link>https://www.wired.com/story/theres-a-global-network-of-fungi-under-your-feet-this-is-the-first-complete-map/</link>
+      <guid isPermaLink="false">6a456749eb0e5a0a10613dfd</guid>
+      <description>A new study has succeeded in mapping, on a global scale, the fungal network that supports plant life and helps regulate our planet’s climate.</description>
+      <pubDate>Sun, 05 Jul 2026 16:05:31 +0600</pubDate>
+      <media:thumbnail url="https://media.wired.com/photos/6a456749ca2139b68f2de7ec/master/pass/large-ui-01%20(1).png" />
+      <enclosure url="https://media.wired.com/photos/6a456749ca2139b68f2de7ec/master/pass/large-ui-01%20(1).png" type="image/png" length="0" />
     </item>
   </channel>
 </rss>
