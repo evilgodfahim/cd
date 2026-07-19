@@ -4,50 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Sun, 19 Jul 2026 09:46:53 +0000</lastBuildDate>
-    <item>
-      <title>How cartel drug smuggling actually works, according to a former trafficker</title>
-      <link>https://www.businessinsider.com/how-cartel-drug-smuggling-actually-works-according-to-a-trafficker-2026-7</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/how-cartel-drug-smuggling-actually-works-according-to-a-trafficker-2026-7</guid>
-      <description>Jacob Diaz is a former cartel logistics operator who explains how drugs and millions in cartel cash were smuggled across the US-Mexico border.</description>
-      <pubDate>Thu, 09 Jul 2026 20:40:52 +0600</pubDate>
-      <media:thumbnail url="https://i.insider.com/6a4d5ed5965805a2c542dcc3?format=jpeg" />
-      <enclosure url="https://i.insider.com/6a4d5ed5965805a2c542dcc3?format=jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Who Can Hold ICE Accountable?</title>
-      <link>https://www.theatlantic.com/podcasts/2026/07/who-can-hold-ice-accountable/687853/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-687853</guid>
-      <description>A new shooting in Texas. Still no proper investigations into the shootings in Minnesota.</description>
-      <pubDate>Thu, 09 Jul 2026 20:40:52 +0600</pubDate>
-      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/dh6S7fVFESy-YNEUthsAhcYEw4o=/media/img/mt/2026/07/Radio_Atlantic_Horizontal_ICE_accountibility/original.png" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/dh6S7fVFESy-YNEUthsAhcYEw4o=/media/img/mt/2026/07/Radio_Atlantic_Horizontal_ICE_accountibility/original.png" type="image/png" length="0" />
-    </item>
-    <item>
-      <title>What if It’s Not the Phones?</title>
-      <link>https://www.theatlantic.com/technology/2026/07/phones-haidt-play-gray/687846/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-687846</guid>
-      <description>An evolutionary psychologist is challenging the popular understanding of kids and technology.</description>
-      <pubDate>Thu, 09 Jul 2026 20:40:52 +0600</pubDate>
-      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/K_GFCveEYVFK3rXwcti2I0DI-lI=/media/img/mt/2026/07/2026_06_25_Tiffany_phones_final2/original.jpg" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/K_GFCveEYVFK3rXwcti2I0DI-lI=/media/img/mt/2026/07/2026_06_25_Tiffany_phones_final2/original.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Our Oldest Ally</title>
-      <link>https://www.theatlantic.com/ideas/2026/07/america-france-enduring-relationship/687844/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-687844</guid>
-      <description>America still needs France.</description>
-      <pubDate>Thu, 09 Jul 2026 20:40:52 +0600</pubDate>
-      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/xX79H2ylk9RlTvoIt49I5akc_Uk=/media/img/mt/2026/07/2026_07_08_Our_Oldest_Ally/original.jpg" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/xX79H2ylk9RlTvoIt49I5akc_Uk=/media/img/mt/2026/07/2026_07_08_Our_Oldest_Ally/original.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Burnham must not succumb to a populist techlash</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/ace4cbf4-2884-447e-86cf-3a97f1ec6ef8</link>
-      <guid isPermaLink="true">https://www.ft.com/content/ace4cbf4-2884-447e-86cf-3a97f1ec6ef8</guid>
-      <description>It would be a crime to lose the UK’s envied tech and life science status within Europe</description>
-      <pubDate>Thu, 09 Jul 2026 20:40:52 +0600</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 13:02:47 +0000</lastBuildDate>
     <item>
       <title>Europe’s ‘China shock’ panic is ill-informed</title>
       <link>https://archive.is/o/ggFl1/https://www.ft.com/content/5817f869-7b5d-4260-87b3-1500750172e0</link>
@@ -4146,6 +4103,51 @@ A history of cinema audiences could also be interesting – ranging from those w
       <guid isPermaLink="true">https://blogs.timesofisrael.com/negotiation-geometry-what-the-newton-raphson-method-tells-us-about-geopolitics/</guid>
       <description>Negotiation Geometry: What the Newton–Raphson Method Tells Us about Geopolitics  The Times of Israel</description>
       <pubDate>Sun, 19 Jul 2026 15:46:45 +0600</pubDate>
+    </item>
+    <item>
+      <title>Could AI be conscious?</title>
+      <link>https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious</guid>
+      <description>&lt;p&gt;Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications&lt;/p&gt;&lt;p&gt;In January, the AI company Anthropic published a &lt;a href="https://www.anthropic.com/constitution"&gt;new constitution&lt;/a&gt; for Claude, its most advanced large language model (LLM), which contained the comment: “We are caught in a difficult position where we neither want&amp;nbsp;to&amp;nbsp;overstate the likelihood of Claude’s moral patienthood nor dismiss it out of hand.” A month later, Anthropic’s CEO Dario Amodei went on a podcast and said his company couldn’t rule out the possibility that Claude was conscious. Philosopher David Chalmers, who coined the phrase “the hard problem of consciousness”, has said there is a significant chance of conscious LLMs within a decade. And what about Claude itself? When asked during testing to estimate the probability that it&amp;nbsp;is a &lt;em&gt;moral patient&lt;/em&gt;, meaning that its wellbeing matters&amp;nbsp;in its own right, it gave numbers ranging from 5% to 40% and stressed how uncertain it was.&lt;/p&gt;&lt;p&gt;Modern AI systems are extraordinarily complex, and they are advancing fast. In terms of structural complexity and computational scale, by some measures a few are already in the range of a mouse brain, and at recent growth rates, they could reach the range of a human brain within five to 10 years.&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 19:02:37 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/baf01a2fa2c02f915864fa10d32a7dc4ccfc0297/267_0_1531_1224/master/1531.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99c6067861d92eb55b9376cb7844a9a9" />
+      <enclosure url="https://i.guim.co.uk/img/media/baf01a2fa2c02f915864fa10d32a7dc4ccfc0297/267_0_1531_1224/master/1531.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99c6067861d92eb55b9376cb7844a9a9" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Molten salt and human sweat: the weird batteries that could store renewable energy</title>
+      <link>https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy</link>
+      <guid isPermaLink="true">https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy</guid>
+      <description>&lt;p&gt;From Nevada to Manchester, developers are trialling innovative solutions to clean energy’s biggest challenge&lt;/p&gt;&lt;p&gt;In the deserts of the United Arab Emirates a sprawling &lt;a href="https://www.reuters.com/sustainability/climate-energy/how-falling-battery-costs-are-igniting-race-round-the-clock-solar-power--ecmii-2026-03-10/"&gt;clean energy project&lt;/a&gt;, stretching across an area roughly the size of 12,600 football fields, will play host to a breakthrough allowing solar energy to power the equivalent of half a million homes through the night.&lt;/p&gt;&lt;p&gt;The Gulf state has been steadily combining 5.2GW of solar power capacity with 19GWh of battery storage to create the largest battery scheme in the world.&lt;/p&gt; &lt;a href="https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 19:02:37 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/2e05257e4e5ae836c2486e4e243f7b6209605108/844_0_3484_2788/master/3484.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8569f3c63df8935b275429b862f9da1c" />
+      <enclosure url="https://i.guim.co.uk/img/media/2e05257e4e5ae836c2486e4e243f7b6209605108/844_0_3484_2788/master/3484.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8569f3c63df8935b275429b862f9da1c" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>How Trump and his administration have mired the US in multiple crises</title>
+      <link>https://www.theguardian.com/us-news/2026/jul/19/how-trump-and-his-administration-have-mired-the-us-in-multiple-crises</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/jul/19/how-trump-and-his-administration-have-mired-the-us-in-multiple-crises</guid>
+      <description>&lt;p&gt;From manufactured election insecurity to an outbreak of ‘explosive’ diarrhea, Americans are bearing the brunt of harmful policies&lt;/p&gt;&lt;p&gt;Between widespread cuts to vital government agencies, various disease and illness outbreaks, and new environmental disaster vulnerabilities, the United States is facing a convergence of crises with widespread repercussions.&lt;/p&gt;&lt;p&gt;Yet the Trump administration has hamstrung the federal government from addressing these crises – and in some cases is actively fanning them. Over the past year, the administration has moved to &lt;a href="https://www.theguardian.com/us-news/2025/jun/10/trump-fires-usaid-overseas-employees"&gt;shrink the federal workforce&lt;/a&gt;, roll back &lt;a href="https://www.npr.org/2026/07/11/nx-s1-5890025/trump-administration-imperiled-wildlife"&gt;environmental protections&lt;/a&gt; and policies intended to fight the &lt;a href="https://www.pbs.org/newshour/show/trump-rolls-back-landmark-policy-regulating-greenhouse-emissions"&gt;climate crisis&lt;/a&gt;, reduced &lt;a href="https://www.nytimes.com/2026/05/29/us/politics/trump-university-research-funding.html"&gt;funding&lt;/a&gt; for &lt;a href="https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html"&gt;scientific research&lt;/a&gt; and is seeking to advance legislation that would impose new voting restrictions.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2026/jul/19/how-trump-and-his-administration-have-mired-the-us-in-multiple-crises"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 19:02:37 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/a9f7cd5db175c791da418b4472366f23262d36d0/552_0_6882_5504/master/6882.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f66498c2f1a681d8cd726f89b942301" />
+      <enclosure url="https://i.guim.co.uk/img/media/a9f7cd5db175c791da418b4472366f23262d36d0/552_0_6882_5504/master/6882.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f66498c2f1a681d8cd726f89b942301" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The Secret Mission Behind the U.A.E.’s AI Breakthrough</title>
+      <link>https://archive.is/o/soww3/https://www.wsj.com/articles/the-secret-mission-behind-the-u-a-e-s-ai-breakthrough-bf6f2e09</link>
+      <guid isPermaLink="true">https://www.wsj.com/articles/the-secret-mission-behind-the-u-a-e-s-ai-breakthrough-bf6f2e09</guid>
+      <description>Plus, pastors are turning to AI to write sermons, and the World Cup final is here.</description>
+      <pubDate>Sun, 19 Jul 2026 19:02:37 +0600</pubDate>
+      <media:thumbnail url="https://images.wsj.net/im-92681437" />
+      <enclosure url="https://images.wsj.net/im-92681437" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>A Portrait of a Beach City Defying Russia’s Attempts to Ensnare It</title>
+      <link>https://archive.is/o/soww3/https://www.wsj.com/world/europe/a-portrait-of-a-beach-city-defying-russias-attempts-to-ensnare-it-ef331b58</link>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/a-portrait-of-a-beach-city-defying-russias-attempts-to-ensnare-it-ef331b58</guid>
+      <description>The vital Ukrainian port of Odesa has many faces: a seaside resort, a center of culture and an economic prize coveted by the Kremlin.</description>
+      <pubDate>Sun, 19 Jul 2026 19:02:37 +0600</pubDate>
+      <media:thumbnail url="https://images.wsj.net/im-74219802" />
+      <enclosure url="https://images.wsj.net/im-74219802" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
