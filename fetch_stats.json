@@ -2,13 +2,13 @@
   "per_feed": {
     "https://www.newyorker.com/feed/rss": {
       "fetched": 30,
-      "passed_age": 1,
-      "capped": 1
+      "passed_age": 8,
+      "capped": 8
     },
     "https://feeds2.feedburner.com/businessinsider": {
       "fetched": 50,
-      "passed_age": 16,
-      "capped": 16
+      "passed_age": 11,
+      "capped": 11
     },
     "https://feeds.feedburner.com/TheAtlantic": {
       "fetched": 25,
@@ -22,23 +22,23 @@
     },
     "https://evilgodfahim.github.io/ftint/combined.xml": {
       "fetched": 500,
-      "passed_age": 14,
-      "capped": 14
+      "passed_age": 26,
+      "capped": 26
     },
     "https://evilgodfahim.github.io/gd/merged.xml": {
       "fetched": 1000,
-      "passed_age": 22,
-      "capped": 22
+      "passed_age": 23,
+      "capped": 23
     },
     "https://evilgodfahim.github.io/nytint/combined.xml": {
       "fetched": 500,
-      "passed_age": 6,
-      "capped": 6
-    },
-    "https://evilgodfahim.github.io/wpint/combined.xml": {
-      "fetched": 437,
       "passed_age": 0,
       "capped": 0
+    },
+    "https://evilgodfahim.github.io/wpint/combined.xml": {
+      "fetched": 438,
+      "passed_age": 1,
+      "capped": 1
     },
     "https://evilgodfahim.github.io/wsjint/combined.xml": {
       "fetched": 500,
@@ -47,53 +47,53 @@
     },
     "https://theweek.com/rss.xml": {
       "fetched": 50,
-      "passed_age": 2,
-      "capped": 2
-    },
-    "https://www.wired.com/feed/rss": {
-      "fetched": 50,
-      "passed_age": 1,
-      "capped": 1
-    },
-    "https://www.newstatesman.com/feed": {
-      "fetched": 20,
-      "passed_age": 3,
-      "capped": 3
-    },
-    "https://www.thenation.com/rss/articles": {
-      "fetched": 50,
-      "passed_age": 0,
-      "capped": 0
-    },
-    "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml": {
-      "fetched": 500,
       "passed_age": 5,
       "capped": 5
     },
-    "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml": {
-      "fetched": 500,
-      "passed_age": 2,
-      "capped": 2
+    "https://www.wired.com/feed/rss": {
+      "fetched": 50,
+      "passed_age": 5,
+      "capped": 5
     },
-    "https://evilgodfahim.github.io/fto/combined.xml": {
-      "fetched": 25,
+    "https://www.newstatesman.com/feed": {
+      "fetched": 20,
       "passed_age": 0,
       "capped": 0
     },
+    "https://www.thenation.com/rss/articles": {
+      "fetched": 50,
+      "passed_age": 2,
+      "capped": 2
+    },
+    "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml": {
+      "fetched": 500,
+      "passed_age": 13,
+      "capped": 13
+    },
+    "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml": {
+      "fetched": 500,
+      "passed_age": 1,
+      "capped": 1
+    },
+    "https://evilgodfahim.github.io/fto/combined.xml": {
+      "fetched": 25,
+      "passed_age": 7,
+      "capped": 7
+    },
     "https://evilgodfahim.github.io/nytop/combined.xml": {
       "fetched": 69,
-      "passed_age": 8,
-      "capped": 8
+      "passed_age": 7,
+      "capped": 7
     },
     "https://evilgodfahim.github.io/wpo/combined.xml": {
-      "fetched": 17,
-      "passed_age": 4,
-      "capped": 4
+      "fetched": 16,
+      "passed_age": 0,
+      "capped": 0
     },
     "https://evilgodfahim.github.io/wsjop/combined.xml": {
       "fetched": 500,
-      "passed_age": 10,
-      "capped": 10
+      "passed_age": 1,
+      "capped": 1
     },
     "https://evilgodfahim.github.io/lemonde/combined.xml": {
       "fetched": 0,
@@ -107,8 +107,8 @@
     },
     "https://evilgodfahim.github.io/intop/filtered.xml": {
       "fetched": 500,
-      "passed_age": 12,
-      "capped": 12
+      "passed_age": 5,
+      "capped": 5
     },
     "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml": {
       "fetched": 500,
@@ -121,11 +121,11 @@
     "DIRECT": 6373
   },
   "total_fetched": 6373,
-  "total_passed_age": 120,
-  "total_new": 43,
+  "total_passed_age": 129,
+  "total_new": 84,
   "total_signal": 12,
-  "total_longread": 3,
-  "timestamp": "2026-07-24T06:21:00.026831",
+  "total_longread": 4,
+  "timestamp": "2026-07-24T10:10:54.478008",
   "total_signal_deduped": 12,
-  "total_longread_deduped": 3
+  "total_longread_deduped": 4
 }
