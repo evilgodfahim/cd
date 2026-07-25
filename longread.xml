@@ -4,16 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Sat, 25 Jul 2026 16:50:45 +0000</lastBuildDate>
-    <item>
-      <title>OpenAI and Anthropic Put Prophets Before Profits</title>
-      <link>https://archive.is/o/soww3/https://www.wsj.com/opinion/openai-and-anthropic-put-prophets-before-profits-1617003e</link>
-      <guid isPermaLink="true">https://www.wsj.com/opinion/openai-and-anthropic-put-prophets-before-profits-1617003e</guid>
-      <description>Unaccountable ‘mission’ directors could bring a Ben &amp; Jerry’s-style meltdown without helping humanity.</description>
-      <pubDate>Thu, 16 Jul 2026 02:52:36 +0600</pubDate>
-      <media:thumbnail url="https://opinion-images.wsj.net/im-45211248" />
-      <enclosure url="https://opinion-images.wsj.net/im-45211248" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Sat, 25 Jul 2026 20:42:53 +0000</lastBuildDate>
     <item>
       <title>Why lessons learned on October 7 prevent Israeli withdrawal from Syria - analysis</title>
       <link>https://www.jpost.com/middle-east/article-902644</link>
@@ -4211,6 +4202,15 @@ Host Megan McArdle talks with Keith Humphreys, a Stanford professor and psycholo
       <guid isPermaLink="true">https://time.com/article/2026/07/24/understanding-the-fraught-politics-of-powering-ai/</guid>
       <description />
       <pubDate>Sat, 25 Jul 2026 22:50:35 +0600</pubDate>
+    </item>
+    <item>
+      <title>Conditions for European Wildfires Created by Summer of Extremes</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html</guid>
+      <description>The wildfires are scorching parts of France and Spain that had already faced usually hot and dry summers.</description>
+      <pubDate>Sun, 26 Jul 2026 02:42:42 +0600</pubDate>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/07/25/multimedia/25europe-wildfires-conditions-topart-lqch/25europe-wildfires-conditions-topart-lqch-mediumSquareAt3X.jpg" />
+      <enclosure url="https://static01.nyt.com/images/2026/07/25/multimedia/25europe-wildfires-conditions-topart-lqch/25europe-wildfires-conditions-topart-lqch-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
