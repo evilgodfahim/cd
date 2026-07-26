@@ -4,28 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Sun, 26 Jul 2026 02:06:45 +0000</lastBuildDate>
-    <item>
-      <title>Confessions II gets thrillingly close to vintage Madonna</title>
-      <link>https://spectator.com/article/confessions-ii-gets-thrillingly-close-to-vintage-madonna/</link>
-      <guid isPermaLink="true">https://spectator.com/article/confessions-ii-gets-thrillingly-close-to-vintage-madonna/</guid>
-      <description>By Graeme Thomson</description>
-      <pubDate>Thu, 16 Jul 2026 07:58:37 +0600</pubDate>
-    </item>
-    <item>
-      <title>The Odyssey is shallow and tiring</title>
-      <link>https://spectator.com/article/the-odyssey-is-shallow-and-tiring/</link>
-      <guid isPermaLink="true">https://spectator.com/article/the-odyssey-is-shallow-and-tiring/</guid>
-      <description>By Deborah Ross</description>
-      <pubDate>Thu, 16 Jul 2026 07:58:37 +0600</pubDate>
-    </item>
-    <item>
-      <title>The greatest symphony that no one’s heard of</title>
-      <link>https://spectator.com/article/the-greatest-symphony-that-no-ones-heard-of/</link>
-      <guid isPermaLink="true">https://spectator.com/article/the-greatest-symphony-that-no-ones-heard-of/</guid>
-      <description>By Damian Thompson</description>
-      <pubDate>Thu, 16 Jul 2026 07:58:37 +0600</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Jul 2026 06:30:57 +0000</lastBuildDate>
     <item>
       <title>There is no car more beautiful than an Aston Martin</title>
       <link>https://spectator.com/article/there-is-no-car-more-beautiful-than-an-aston-martin/</link>
@@ -4211,6 +4190,31 @@ Host Megan McArdle talks with Keith Humphreys, a Stanford professor and psycholo
       <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss</guid>
       <description />
       <pubDate>Sun, 26 Jul 2026 08:06:36 +0600</pubDate>
+    </item>
+    <item>
+      <title>20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html</guid>
+      <description>The Bundibugyo Ebola virus takes its name from this small town, where it was first discovered in 2007. Now, the species has returned to eastern Congo, halting life on a busy border.</description>
+      <pubDate>Sun, 26 Jul 2026 12:30:48 +0600</pubDate>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/07/23/multimedia/00int-ebola-uganda-town-promo-tblv/00int-ebola-uganda-town-promo-tblv-mediumSquareAt3X.jpg" />
+      <enclosure url="https://static01.nyt.com/images/2026/07/23/multimedia/00int-ebola-uganda-town-promo-tblv/00int-ebola-uganda-town-promo-tblv-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The rise of the political mega-donor</title>
+      <link>https://theweek.com/politics/the-rise-of-the-political-mega-donor</link>
+      <guid isPermaLink="false">nqSHVqKhqmwd1ozBALjEFs</guid>
+      <description>Limits on public funding open the door to influx of private wealth, with cryptocurrency adding a new complication to transparency</description>
+      <pubDate>Sun, 26 Jul 2026 12:30:48 +0600</pubDate>
+      <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/B8zz6nhNXsBhjhtngxjNeB-1280-80.jpg" />
+      <enclosure url="https://cdn.mos.cms.futurecdn.net/B8zz6nhNXsBhjhtngxjNeB-1280-80.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US</title>
+      <link>https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce</link>
+      <guid isPermaLink="true">https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce</guid>
+      <description />
+      <pubDate>Sun, 26 Jul 2026 12:30:48 +0600</pubDate>
     </item>
   </channel>
 </rss>
