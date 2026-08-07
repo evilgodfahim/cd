@@ -4,66 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Fri, 07 Aug 2026 16:46:30 +0000</lastBuildDate>
-    <item>
-      <title>The anti-abortion crusade’s new fight</title>
-      <link>https://www.hindustantimes.com/world-news/us-news/the-anti-abortion-crusade-s-new-fight-101785402071508.html</link>
-      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/us-news/the-anti-abortion-crusade-s-new-fight-101785402071508.html</guid>
-      <description />
-      <pubDate>Thu, 30 Jul 2026 19:43:22 +0600</pubDate>
-    </item>
-    <item>
-      <title>Myanmar’s junta slowly but surely winning its war with ASEAN</title>
-      <link>https://asiatimes.com/2026/07/myanmars-junta-slowly-but-surely-winning-its-war-with-asean/</link>
-      <guid isPermaLink="true">https://asiatimes.com/2026/07/myanmars-junta-slowly-but-surely-winning-its-war-with-asean/</guid>
-      <description />
-      <pubDate>Thu, 30 Jul 2026 19:43:22 +0600</pubDate>
-    </item>
-    <item>
-      <title>Inside OpenAI’s Hack of Hugging Face</title>
-      <link>https://www.newyorker.com/news/the-lede/inside-openai-hack-of-hugging-face</link>
-      <guid isPermaLink="false">6a69191d80d4cce62d603020</guid>
-      <description>Hugging Face’s chief science officer recounts the cybercrime that signals a terrifying new era for A.I.</description>
-      <pubDate>Thu, 30 Jul 2026 23:19:23 +0600</pubDate>
-      <media:thumbnail url="https://media.newyorker.com/photos/6a6a1ba61ad925e171ac0392/master/pass/Witt_h_16493159.jpg" />
-      <enclosure url="https://media.newyorker.com/photos/6a6a1ba61ad925e171ac0392/master/pass/Witt_h_16493159.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Mitch McConnell: The Musical</title>
-      <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/mitch-mcconnell-the-musical</link>
-      <guid isPermaLink="false">6a6ae35c664f975807db02d4</guid>
-      <description>Ode to a sitting senator.</description>
-      <pubDate>Thu, 30 Jul 2026 23:19:23 +0600</pubDate>
-      <media:thumbnail url="https://media.newyorker.com/photos/6a6ae32c664f975807db02cf/master/pass/260730_Blitt_Kvetchbook_McConnellMusical.jpg" />
-      <enclosure url="https://media.newyorker.com/photos/6a6ae32c664f975807db02cf/master/pass/260730_Blitt_Kvetchbook_McConnellMusical.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The US Army put new battlefield tech to the test. Now it's deciding what isn't making the cut.</title>
-      <link>https://www.businessinsider.com/us-army-assessing-new-ai-enabled-battlefield-tech-2026-7</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/us-army-assessing-new-ai-enabled-battlefield-tech-2026-7</guid>
-      <description>The new command and control system has been developed with close industry partners and saw major testing at Fort Irwin, California.</description>
-      <pubDate>Thu, 30 Jul 2026 23:19:23 +0600</pubDate>
-      <media:thumbnail url="https://i.insider.com/6a6b5e6554f987526177baad?format=jpeg" />
-      <enclosure url="https://i.insider.com/6a6b5e6554f987526177baad?format=jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Situational Awareness was forced to sell most of its stocks to Citadel. The fund got to keep its best asset.</title>
-      <link>https://www.businessinsider.com/situational-awareness-keeps-anthropic-stake-portfolio-sale-citadel-2026-7</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/situational-awareness-keeps-anthropic-stake-portfolio-sale-citadel-2026-7</guid>
-      <description>Ken Griffin's fund bought a majority of Leopold Aschenbrenner's public equities book, but none of the firm's private holdings.</description>
-      <pubDate>Thu, 30 Jul 2026 23:19:23 +0600</pubDate>
-      <media:thumbnail url="https://i.insider.com/6a6b7d8da62e6e00bc538782?format=jpeg" />
-      <enclosure url="https://i.insider.com/6a6b7d8da62e6e00bc538782?format=jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>AI's real threat to the job market isn't job loss, it's lower paychecks, new research says</title>
-      <link>https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7</guid>
-      <description>Roles with a high exposure to AI have seen sharp declines in real wages in recent years, according to a new whitepaper from Apollo.</description>
-      <pubDate>Thu, 30 Jul 2026 23:19:23 +0600</pubDate>
-      <media:thumbnail url="https://i.insider.com/6a6b627154f987526177bad8?format=jpeg" />
-      <enclosure url="https://i.insider.com/6a6b627154f987526177bad8?format=jpeg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 20:34:05 +0000</lastBuildDate>
     <item>
       <title>Meta's future AI data center lease obligations swell to over a quarter trillion dollars</title>
       <link>https://www.businessinsider.com/meta-future-ai-data-center-leases-quarter-trillion-dollars-2026-7</link>
@@ -4191,6 +4132,63 @@ Gomorrah (or Gomorra – La Serie, as it was in Italian, so one can never rememb
       <guid isPermaLink="true">https://www.foreignaffairs.com/china/chinas-legal-weapon</guid>
       <description>China’s Legal Weapon  Foreign Affairs</description>
       <pubDate>Fri, 07 Aug 2026 22:46:21 +0600</pubDate>
+    </item>
+    <item>
+      <title>The Internet Is in Crisis</title>
+      <link>https://www.theatlantic.com/culture/2026/08/perez-hilton-livestream/688223/</link>
+      <guid isPermaLink="false">tag:theatlantic.com,2026:50-688223</guid>
+      <description>For 15 minutes, the celebrity-gossip blogger Perez Hilton livestreamed his violent self-harm without anyone intervening.</description>
+      <pubDate>Sat, 08 Aug 2026 02:33:49 +0600</pubDate>
+      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/YqyjojBJOd-20pOboAvulZ1igBs=/media/img/mt/2026/08/2026_08_07_Perez_Hilton/original.jpg" />
+      <enclosure url="https://cdn.theatlantic.com/thumbor/YqyjojBJOd-20pOboAvulZ1igBs=/media/img/mt/2026/08/2026_08_07_Perez_Hilton/original.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>How Social Media Makes Our Lives Smaller</title>
+      <link>https://www.theatlantic.com/podcasts/2026/08/how-social-media-makes-our-lives-smaller/688213/</link>
+      <guid isPermaLink="false">tag:theatlantic.com,2026:50-688213</guid>
+      <description>In the posting era, there’s room only for redemption and improvement narratives.</description>
+      <pubDate>Sat, 08 Aug 2026 02:33:49 +0600</pubDate>
+      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/eSCkoSLVYQcPw9-QoEmhRPzcFlo=/media/img/mt/2026/08/2026_8_7_GB_Kathryn_Jezer_Morton/original.jpg" />
+      <enclosure url="https://cdn.theatlantic.com/thumbor/eSCkoSLVYQcPw9-QoEmhRPzcFlo=/media/img/mt/2026/08/2026_8_7_GB_Kathryn_Jezer_Morton/original.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Why California Is Still a Climate Bellwether</title>
+      <link>https://time.com/article/2026/08/07/california-climate-change-policy/</link>
+      <guid isPermaLink="true">https://time.com/article/2026/08/07/california-climate-change-policy/</guid>
+      <description />
+      <pubDate>Sat, 08 Aug 2026 02:33:49 +0600</pubDate>
+    </item>
+    <item>
+      <title>‘The Odyssey’ has kicked off a debate among authors</title>
+      <link>https://theweek.com/culture-life/film/the-odyssey-author-debate-nolan-wilson</link>
+      <guid isPermaLink="false">boUE5ioSNRi4u4sbAqAqRk</guid>
+      <description>The discourse might be proof that anti-intellectualism hasn’t won</description>
+      <pubDate>Sat, 08 Aug 2026 02:33:49 +0600</pubDate>
+      <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/frnp2VVpoqsYyFftGyf3j6-1280-80.jpg" />
+      <enclosure url="https://cdn.mos.cms.futurecdn.net/frnp2VVpoqsYyFftGyf3j6-1280-80.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The Chinese Philosopher Americans Can’t Stop Fighting About</title>
+      <link>https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/</link>
+      <guid isPermaLink="false">6a737f692d86c5682fc4860c</guid>
+      <description>Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous in the US—and quickly turned her into a political Rorschach test.</description>
+      <pubDate>Sat, 08 Aug 2026 02:33:49 +0600</pubDate>
+      <media:thumbnail url="https://media.wired.com/photos/6a73a1931940912fe3731ad5/master/pass/Made-In-China-Christopher-Nolan-Interview-That-Broke-Chinese-Internet-Business.jpg" />
+      <enclosure url="https://media.wired.com/photos/6a73a1931940912fe3731ad5/master/pass/Made-In-China-Christopher-Nolan-Interview-That-Broke-Chinese-Internet-Business.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Passing the Clarity Act on digital assets is a matter of national security</title>
+      <link>https://archive.is/qWySo/https://www.ft.com/content/8b61001e-6d7c-4ca9-8c4b-853b4555f318</link>
+      <guid isPermaLink="true">https://www.ft.com/content/8b61001e-6d7c-4ca9-8c4b-853b4555f318</guid>
+      <description>If the US does not set terms, crypto activity will migrate beyond American laws and law enforcement to lightly regulated foreign venues</description>
+      <pubDate>Sat, 08 Aug 2026 02:33:49 +0600</pubDate>
+    </item>
+    <item>
+      <title>MHP executive addresses Ukraine's economic diplomacy priorities - WATTPoultry.com</title>
+      <link>https://www.wattagnet.com/regions/europe/news/15831936/mhp-executive-addresses-ukraines-economic-diplomacy-priorities</link>
+      <guid isPermaLink="true">https://www.wattagnet.com/regions/europe/news/15831936/mhp-executive-addresses-ukraines-economic-diplomacy-priorities</guid>
+      <description>MHP executive addresses Ukraine's economic diplomacy priorities  WATTPoultry.com</description>
+      <pubDate>Sat, 08 Aug 2026 02:33:49 +0600</pubDate>
     </item>
   </channel>
 </rss>
