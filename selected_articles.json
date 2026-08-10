@@ -188378,5 +188378,123 @@
     "source": "https://evilgodfahim.github.io/gd/merged.xml",
     "thumbnail": "https://i.guim.co.uk/img/media/baddc8d21e35612e513afe73ed63ef9e92c199ab/524_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=d42030b9096db2a1abe06961e6046512",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/6e943917-2eeb-4654-b4ad-a4af76b4b946?syn-25a6b1a6=1",
+    "title": "FirstFT: Ex-CIA officials warn Donald Trump is dismantling US guardrails",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/6e943917-2eeb-4654-b4ad-a4af76b4b946?syn-25a6b1a6=1",
+    "description": "Also in today’s newsletter: Kashmir protests test Pakistan’s military rulers and the bank behind China’s AI listings bonanza",
+    "published": "Mon, 10 Aug 2026 07:11:45 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
+    "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
+    "description": "The United States and Israel attacked Iran on Feb. 28, starting a monthslong war that spread to neighboring countries and rocked global markets.",
+    "published": "Mon, 10 Aug 2026 07:11:45 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/04/24/multimedia/24israel-iran-timeline-HFO-03-ghcb/24israel-iran-timeline-HFO-03-ghcb-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html",
+    "title": "Still Waiting for Peace in Gaza",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html",
+    "description": "A photojournalist with The New York Times details the displacement and danger, in words and images, that have come to define his home.",
+    "published": "Mon, 10 Aug 2026 07:11:45 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/06/multimedia/10int-theworld-gaza-saher-promo/10int-theworld-gaza-saher-promo-mediumSquareAt3X-v2.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/americas-military-is-dangerously-exposed-26706217?mod=rss_worldnews",
+    "title": "Opinion | America’s Military Is Dangerously Exposed",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/americas-military-is-dangerously-exposed-26706217?mod=rss_worldnews",
+    "description": "The Iran war proves it, and the Chinese threat is greater. We need new thinking about defense.",
+    "published": "Mon, 10 Aug 2026 07:11:45 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-79997229",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/china-presses-a-weakness-in-americas-tech-policy-2391ed0e?mod=rss_worldnews",
+    "title": "Opinion | China Presses a Weakness in America’s Tech Policy",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/china-presses-a-weakness-in-americas-tech-policy-2391ed0e?mod=rss_worldnews",
+    "description": "Washington’s semiconductor strategy must address not only who controls chip-making but also who controls the language those chips speak.",
+    "published": "Mon, 10 Aug 2026 07:11:45 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-99450830",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://spectator.com/article/america-lead-over-china-ai-race-fragile/?edition=us",
+    "title": "America’s lead over China in the AI race is fragile",
+    "link": "https://spectator.com/article/america-lead-over-china-ai-race-fragile/?edition=us",
+    "description": "By Geoffrey Cain",
+    "published": "Mon, 10 Aug 2026 07:11:45 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/americas-military-is-dangerously-exposed-26706217?mod=rss_opinion",
+    "title": "America’s Military Is Dangerously Exposed",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/americas-military-is-dangerously-exposed-26706217?mod=rss_opinion",
+    "description": "The Iran war proves it, and the Chinese threat is greater. We need new thinking about defense.",
+    "published": "Mon, 10 Aug 2026 07:11:45 +0600",
+    "source": "https://evilgodfahim.github.io/wsjop/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-79997229",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/china-presses-a-weakness-in-americas-tech-policy-2391ed0e?mod=rss_opinion",
+    "title": "China Presses a Weakness in America’s Tech Policy",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/china-presses-a-weakness-in-americas-tech-policy-2391ed0e?mod=rss_opinion",
+    "description": "Washington’s semiconductor strategy must address not only who controls chip-making but also who controls the language those chips speak.",
+    "published": "Mon, 10 Aug 2026 07:11:45 +0600",
+    "source": "https://evilgodfahim.github.io/wsjop/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-99450830",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss",
+    "title": "What’s driving unrest in Pakistan-administered Kashmir?",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss",
+    "description": "",
+    "published": "Mon, 10 Aug 2026 07:11:45 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://archive.is/o/N6yE6/https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
+    "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
+    "description": "",
+    "published": "Mon, 10 Aug 2026 07:11:45 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html",
+    "title": "Still Waiting for Peace in Gaza",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html",
+    "description": "",
+    "published": "Mon, 10 Aug 2026 07:11:45 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.fnlondon.com/articles/can-finance-survive-and-thrive-through-the-geopolitics-supercycle-edd1bad9",
+    "title": "Can finance survive and thrive through the geopolitics supercycle? - Financial News London",
+    "link": "https://www.fnlondon.com/articles/can-finance-survive-and-thrive-through-the-geopolitics-supercycle-edd1bad9",
+    "description": "Can finance survive and thrive through the geopolitics supercycle?  Financial News London",
+    "published": "Mon, 10 Aug 2026 07:11:45 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "RbZrJJoG6NCz436cAfW9tR",
+    "title": "Archaeologists reveal ‘lost’ civilisation in the Amazon",
+    "link": "https://theweek.com/history/archaeologists-reveal-lost-civilisation-in-the-amazon",
+    "description": "New laser scanning finds massive geometric earthworks, suggesting populous pre-colonial society that ‘resembled ancient Greece’",
+    "published": "Mon, 10 Aug 2026 07:11:45 +0600",
+    "source": "https://theweek.com/rss.xml",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/HuV8jPiyZ2pXx9YApsUYTb-1280-80.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
