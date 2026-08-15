@@ -4,25 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Fri, 14 Aug 2026 20:24:54 +0000</lastBuildDate>
-    <item>
-      <title>OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts</title>
-      <link>https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/</link>
-      <guid isPermaLink="false">6a6b62c925171f31c973c6ee</guid>
-      <description>Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.</description>
-      <pubDate>Thu, 06 Aug 2026 07:55:39 +0600</pubDate>
-      <media:thumbnail url="https://media.wired.com/photos/6a7212abe42d27e4fc6b545a/master/pass/Security_OpenAIBrowserCouldBeHijacked_v1.gif" />
-      <enclosure url="https://media.wired.com/photos/6a7212abe42d27e4fc6b545a/master/pass/Security_OpenAIBrowserCouldBeHijacked_v1.gif" type="image/gif" length="0" />
-    </item>
-    <item>
-      <title>A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide</title>
-      <link>https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/</link>
-      <guid isPermaLink="false">6a6b79cc8d680985ebc8f808</guid>
-      <description>For nearly two years, researcher Vangelis Stykas has maintained access to North Korean hackers’ servers. His work shows they pulled off intrusions in a shocking number of systems across the globe.</description>
-      <pubDate>Thu, 06 Aug 2026 07:55:39 +0600</pubDate>
-      <media:thumbnail url="https://media.wired.com/photos/6a7248a3342a397a2d7fbff9/master/pass/Security_ALookInsideNorthKoreanHackersServer_v1.gif" />
-      <enclosure url="https://media.wired.com/photos/6a7248a3342a397a2d7fbff9/master/pass/Security_ALookInsideNorthKoreanHackersServer_v1.gif" type="image/gif" length="0" />
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 00:51:46 +0000</lastBuildDate>
     <item>
       <title>Thomson Reuters Employees Demand That ICE “Leave Our Cities”</title>
       <link>https://www.thenation.com/article/politics/thomson-reuters-ice-immigration-voting-data/</link>
@@ -4212,6 +4194,22 @@ Host Megan McArdle is joined by Tyler Austin Harper, staff writer at The Atlanti
       <pubDate>Sat, 15 Aug 2026 02:24:46 +0600</pubDate>
       <media:thumbnail url="https://opinion-images.wsj.net/im-22850538" />
       <enclosure url="https://opinion-images.wsj.net/im-22850538" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>When a Rare Wolf Got Too Close, Denmark Faced a Conservation Dilemma</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/08/14/world/europe/rare-wolf-denmark-conservation-dilemma.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/europe/rare-wolf-denmark-conservation-dilemma.html</guid>
+      <description>The authorities tracked the animal after a string of close encounters with residents, reigniting a bitter debate over how a small, densely populated country should live with wolves.</description>
+      <pubDate>Sat, 15 Aug 2026 06:51:38 +0600</pubDate>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-denmark-wolf-new-kblw/14int-denmark-wolf-new-kblw-mediumSquareAt3X.jpg" />
+      <enclosure url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-denmark-wolf-new-kblw/14int-denmark-wolf-new-kblw-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Liberalism Is Worth Saving. Here’s How. - Foreign Policy</title>
+      <link>https://foreignpolicy.com/2026/08/14/liberalism-saving-antidemocratic-industry-economy-elite/</link>
+      <guid isPermaLink="true">https://foreignpolicy.com/2026/08/14/liberalism-saving-antidemocratic-industry-economy-elite/</guid>
+      <description>Liberalism Is Worth Saving. Here’s How.  Foreign Policy</description>
+      <pubDate>Sat, 15 Aug 2026 06:51:38 +0600</pubDate>
     </item>
   </channel>
 </rss>
