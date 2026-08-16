@@ -7,8 +7,8 @@
     },
     "https://feeds2.feedburner.com/businessinsider": {
       "fetched": 50,
-      "passed_age": 5,
-      "capped": 5
+      "passed_age": 4,
+      "capped": 4
     },
     "https://feeds.feedburner.com/TheAtlantic": {
       "fetched": 25,
@@ -22,23 +22,23 @@
     },
     "https://evilgodfahim.github.io/ftint/combined.xml": {
       "fetched": 500,
-      "passed_age": 0,
-      "capped": 0
+      "passed_age": 10,
+      "capped": 10
     },
     "https://evilgodfahim.github.io/gd/merged.xml": {
       "fetched": 1000,
-      "passed_age": 8,
-      "capped": 8
+      "passed_age": 14,
+      "capped": 14
     },
     "https://evilgodfahim.github.io/nytint/combined.xml": {
       "fetched": 500,
-      "passed_age": 4,
-      "capped": 4
+      "passed_age": 2,
+      "capped": 2
     },
     "https://evilgodfahim.github.io/wpint/combined.xml": {
       "fetched": 500,
-      "passed_age": 1,
-      "capped": 1
+      "passed_age": 0,
+      "capped": 0
     },
     "https://evilgodfahim.github.io/wsjint/combined.xml": {
       "fetched": 500,
@@ -47,8 +47,8 @@
     },
     "https://theweek.com/rss.xml": {
       "fetched": 50,
-      "passed_age": 0,
-      "capped": 0
+      "passed_age": 5,
+      "capped": 5
     },
     "https://www.wired.com/feed/rss": {
       "fetched": 50,
@@ -67,23 +67,23 @@
     },
     "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml": {
       "fetched": 500,
-      "passed_age": 5,
-      "capped": 5
+      "passed_age": 12,
+      "capped": 12
     },
     "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml": {
       "fetched": 500,
-      "passed_age": 2,
-      "capped": 2
+      "passed_age": 4,
+      "capped": 4
     },
     "https://evilgodfahim.github.io/fto/combined.xml": {
       "fetched": 25,
-      "passed_age": 0,
-      "capped": 0
+      "passed_age": 3,
+      "capped": 3
     },
     "https://evilgodfahim.github.io/nytop/combined.xml": {
       "fetched": 70,
-      "passed_age": 1,
-      "capped": 1
+      "passed_age": 4,
+      "capped": 4
     },
     "https://evilgodfahim.github.io/wpo/combined.xml": {
       "fetched": 14,
@@ -107,13 +107,13 @@
     },
     "https://evilgodfahim.github.io/intop/filtered.xml": {
       "fetched": 500,
-      "passed_age": 6,
-      "capped": 6
+      "passed_age": 5,
+      "capped": 5
     },
     "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml": {
       "fetched": 500,
-      "passed_age": 0,
-      "capped": 0
+      "passed_age": 5,
+      "capped": 5
     }
   },
   "per_method": {
@@ -121,11 +121,11 @@
     "DIRECT": 6414
   },
   "total_fetched": 6414,
-  "total_passed_age": 35,
-  "total_new": 11,
-  "total_signal": 4,
-  "total_longread": 2,
-  "timestamp": "2026-08-16T04:29:18.635875",
-  "total_signal_deduped": 4,
-  "total_longread_deduped": 2
+  "total_passed_age": 71,
+  "total_new": 51,
+  "total_signal": 12,
+  "total_longread": 4,
+  "timestamp": "2026-08-16T08:21:02.368406",
+  "total_signal_deduped": 12,
+  "total_longread_deduped": 4
 }
