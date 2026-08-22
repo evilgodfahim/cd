@@ -79,7 +79,7 @@ FEED_URLS = [
 
 "https://www.forbes.com/business/feed/",
 
-"https://www.mckinsey.com/insights/rss"
+"https://www.mckinsey.com/insights/rss",
 
 "https://knowledge.wharton.upenn.edu/feed/",
 
