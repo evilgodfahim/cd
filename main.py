@@ -71,7 +71,29 @@ FEED_URLS = [
 
 "https://evilgodfahim.github.io/intop/filtered.xml",
 
-"https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+"https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml",
+
+"http://feeds.harvardbusiness.org/harvardbusiness",
+
+"https://sloanreview.mit.edu/feed/",
+
+"https://www.forbes.com/business/feed/",
+
+"https://www.mckinsey.com/insights/rss"
+
+"https://knowledge.wharton.upenn.edu/feed/",
+
+"https://www.nakedcapitalism.com/feed",
+
+"https://www.fastcompany.com/latest/rss",
+
+"https://www.businessinsider.com/rss",
+
+"https://www.inc.com/rss",
+
+"https://www.entrepreneur.com/latest.rss",
+
+"https://www.econlib.org/feed/"
 ]
 
 EXISTING_API_FEEDS = {
@@ -109,7 +131,29 @@ EXISTING_API_FEEDS = {
 
 "https://evilgodfahim.github.io/intop/filtered.xml"
 
-"https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+"https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml",
+
+"http://feeds.harvardbusiness.org/harvardbusiness",
+
+"https://sloanreview.mit.edu/feed/",
+
+"https://www.forbes.com/business/feed/",
+
+"https://www.mckinsey.com/insights/rss",
+
+"https://knowledge.wharton.upenn.edu/feed/",
+
+"https://www.nakedcapitalism.com/feed",
+
+"https://www.fastcompany.com/latest/rss",
+
+"https://www.businessinsider.com/rss",
+
+"https://www.inc.com/rss",
+
+"https://www.entrepreneur.com/latest.rss",
+
+"https://www.econlib.org/feed/"
 }
 
 KL_API_FEEDS = set()
