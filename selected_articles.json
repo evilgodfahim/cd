@@ -204632,5 +204632,71 @@
     "source": "https://www.inc.com/rss",
     "thumbnail": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/GettyImages-2214666139.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
+    "title": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
+    "link": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
+    "description": "<p>Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm</p><p>Tropical Storm Moke is poised to slam into the south of Hawaii’s islands with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was devastated by <a href=\"https://www.theguardian.com/us-news/2026/aug/19/hawaii-power-outages-storm-lala-damage\">Hurricane Lala</a>.</p><p>The tropical storm is gathering strength as it advances west, according to the National Weather Service (NWS).</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke\">Continue reading...</a>",
+    "published": "Sun, 23 Aug 2026 06:54:43 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/3d723808db1facc37b64f967bc238175cc40afb1/46_0_1920_1536/master/1920.jpg?width=700&quality=85&auto=format&fit=max&s=2da8aa9a9b9a085698487745c1755bb7",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.scmp.com/news/china/diplomacy/article/3364908/how-pacific-nations-walk-tightrope-between-western-security-and-chinese-trade",
+    "title": "How Pacific nations walk a tightrope between Western security and Chinese trade",
+    "link": "https://www.scmp.com/news/china/diplomacy/article/3364908/how-pacific-nations-walk-tightrope-between-western-security-and-chinese-trade",
+    "description": "",
+    "published": "Sun, 23 Aug 2026 06:54:43 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.straitstimes.com/world/middle-east/growing-confrontation-between-israel-and-turkey-could-reshape-middle-east",
+    "title": "Growing confrontation between Israel and Turkey could reshape Middle East",
+    "link": "https://www.straitstimes.com/world/middle-east/growing-confrontation-between-israel-and-turkey-could-reshape-middle-east",
+    "description": "",
+    "published": "Sun, 23 Aug 2026 06:54:43 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+    "title": "A mysterious free AI model is impressing developers. And nobody knows who made it.",
+    "link": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+    "description": "Ox Alpha, a mysterious AI model, debuted on OpenRouter on Thursday. Its origins are unknown, though some suspect a Chinese lab.",
+    "published": "Sun, 23 Aug 2026 06:54:43 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6a8a0a144569a4ec219f93c8?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
+    "title": "Trump’s Top Trade Representative Details Offer That Canada Refused",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
+    "description": "In an interview, Jamieson Greer, Trump’s trade representative, laid out details of the trade offer that the United States made to Canada before talks crumbled.",
+    "published": "Sun, 23 Aug 2026 06:54:43 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/22/multimedia/22dc-greer-qbjk/22dc-greer-qbjk-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "content_6a8a28e9d7c252488356b939",
+    "title": "Beyond The Honeymoon Period: Ambient AI And The Next Frontier",
+    "link": "https://www.forbes.com/sites/saibala/2026/08/22/beyond-the-honeymoon-period-ambient-ai-and-the-next-frontier/",
+    "description": "Ambient scribing technology can significantly improve operational efficiency and physician workloads.",
+    "published": "Sun, 23 Aug 2026 06:54:43 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/658a0d69a3d97320c059dac2/0x0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+    "title": "A mysterious free AI model is impressing developers. And nobody knows who made it.",
+    "link": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+    "description": "Ox Alpha, a mysterious AI model, debuted on OpenRouter on Thursday. Its origins are unknown, though some suspect a Chinese lab.",
+    "published": "Sun, 23 Aug 2026 06:54:43 +0600",
+    "source": "https://www.businessinsider.com/rss",
+    "thumbnail": "https://i.insider.com/6a8a0a144569a4ec219f93c8?format=jpeg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
