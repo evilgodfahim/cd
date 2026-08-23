@@ -7,13 +7,13 @@
     },
     "https://feeds2.feedburner.com/businessinsider": {
       "fetched": 50,
-      "passed_age": 10,
-      "capped": 10
+      "passed_age": 4,
+      "capped": 4
     },
     "https://feeds.feedburner.com/TheAtlantic": {
       "fetched": 25,
-      "passed_age": 1,
-      "capped": 1
+      "passed_age": 0,
+      "capped": 0
     },
     "https://evilgodfahim.github.io/tm/feeds/feed.xml": {
       "fetched": 500,
@@ -22,8 +22,8 @@
     },
     "https://evilgodfahim.github.io/ftint/combined.xml": {
       "fetched": 500,
-      "passed_age": 2,
-      "capped": 2
+      "passed_age": 0,
+      "capped": 0
     },
     "https://evilgodfahim.github.io/gd/merged.xml": {
       "fetched": 1000,
@@ -42,8 +42,8 @@
     },
     "https://evilgodfahim.github.io/wsjint/combined.xml": {
       "fetched": 500,
-      "passed_age": 3,
-      "capped": 3
+      "passed_age": 1,
+      "capped": 1
     },
     "https://theweek.com/rss.xml": {
       "fetched": 50,
@@ -67,13 +67,13 @@
     },
     "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml": {
       "fetched": 500,
-      "passed_age": 1,
-      "capped": 1
+      "passed_age": 4,
+      "capped": 4
     },
     "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml": {
       "fetched": 500,
-      "passed_age": 1,
-      "capped": 1
+      "passed_age": 2,
+      "capped": 2
     },
     "https://evilgodfahim.github.io/fto/combined.xml": {
       "fetched": 25,
@@ -82,8 +82,8 @@
     },
     "https://evilgodfahim.github.io/nytop/combined.xml": {
       "fetched": 68,
-      "passed_age": 4,
-      "capped": 4
+      "passed_age": 2,
+      "capped": 2
     },
     "https://evilgodfahim.github.io/wpo/combined.xml": {
       "fetched": 17,
@@ -107,8 +107,8 @@
     },
     "https://evilgodfahim.github.io/intop/filtered.xml": {
       "fetched": 500,
-      "passed_age": 10,
-      "capped": 10
+      "passed_age": 5,
+      "capped": 5
     },
     "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml": {
       "fetched": 500,
@@ -127,8 +127,8 @@
     },
     "https://www.forbes.com/business/feed/": {
       "fetched": 25,
-      "passed_age": 22,
-      "capped": 22
+      "passed_age": 20,
+      "capped": 20
     },
     "https://www.mckinsey.com/insights/rss": {
       "fetched": 50,
@@ -147,18 +147,18 @@
     },
     "https://www.fastcompany.com/latest/rss": {
       "fetched": 20,
-      "passed_age": 0,
-      "capped": 0
+      "passed_age": 1,
+      "capped": 1
     },
     "https://www.businessinsider.com/rss": {
       "fetched": 20,
-      "passed_age": 9,
-      "capped": 9
+      "passed_age": 3,
+      "capped": 3
     },
     "https://www.inc.com/rss": {
       "fetched": 40,
-      "passed_age": 8,
-      "capped": 8
+      "passed_age": 3,
+      "capped": 3
     },
     "https://www.entrepreneur.com/latest.rss": {
       "fetched": 10,
@@ -176,11 +176,11 @@
     "DIRECT": 6730
   },
   "total_fetched": 6730,
-  "total_passed_age": 81,
-  "total_new": 17,
-  "total_signal": 3,
+  "total_passed_age": 55,
+  "total_new": 25,
+  "total_signal": 2,
   "total_longread": 4,
-  "timestamp": "2026-08-23T00:54:56.393315",
-  "total_signal_deduped": 3,
+  "timestamp": "2026-08-23T04:30:29.253434",
+  "total_signal_deduped": 2,
   "total_longread_deduped": 4
 }
