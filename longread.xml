@@ -4,30 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Sun, 23 Aug 2026 20:14:45 +0000</lastBuildDate>
-    <item>
-      <title>Norway: Defense And Diplomacy In The High North And Beyond - Hoover Institution</title>
-      <link>https://www.hoover.org/research/norway-defense-and-diplomacy-high-north-and-beyond</link>
-      <guid isPermaLink="true">https://www.hoover.org/research/norway-defense-and-diplomacy-high-north-and-beyond</guid>
-      <description>Norway: Defense And Diplomacy In The High North And Beyond  Hoover Institution</description>
-      <pubDate>Fri, 14 Aug 2026 15:02:08 +0600</pubDate>
-    </item>
-    <item>
-      <title>The State Department as an instrument of American power - GIS Reports</title>
-      <link>https://www.gisreportsonline.com/r/state-department-trump-power/</link>
-      <guid isPermaLink="true">https://www.gisreportsonline.com/r/state-department-trump-power/</guid>
-      <description>The State Department as an instrument of American power  GIS Reports</description>
-      <pubDate>Fri, 14 Aug 2026 15:02:08 +0600</pubDate>
-    </item>
-    <item>
-      <title>A.O.C.’s Eggs and the Working Woman’s Inconvenient Truth</title>
-      <link>https://www.newyorker.com/culture/the-lede</link>
-      <guid isPermaLink="false">6a7ddc0ebdcdebdd1d6067f5</guid>
-      <description>By preserving her fertility, the youngest woman elected to Congress is facing trade-offs familiar to many women. By doing it publicly, she’s driving conservatives crazy.</description>
-      <pubDate>Fri, 14 Aug 2026 18:50:07 +0600</pubDate>
-      <media:thumbnail url="https://media.newyorker.com/photos/6a7e27c370e2e2761e05b88b/master/pass/TNY-AOC_BT-Final.jpg" />
-      <enclosure url="https://media.newyorker.com/photos/6a7e27c370e2e2761e05b88b/master/pass/TNY-AOC_BT-Final.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 00:53:17 +0000</lastBuildDate>
     <item>
       <title>What’s the Value of an Hour?</title>
       <link>https://www.newyorker.com/culture/open-questions/whats-the-value-of-an-hour</link>
@@ -4490,6 +4467,31 @@ What exactly, though, needs to be strengthened? The West is an idea, not a locat
       <pubDate>Mon, 24 Aug 2026 02:14:31 +0600</pubDate>
       <media:thumbnail url="https://opinion-images.wsj.net/im-68232783" />
       <enclosure url="https://opinion-images.wsj.net/im-68232783" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Sam Altman says he's worried about AI being controlled by a few powerful players</title>
+      <link>https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8</guid>
+      <description>OpenAI CEO Sam Altman said that fears about AI going off the rails could lead people to trade liberty for safety.</description>
+      <pubDate>Mon, 24 Aug 2026 06:53:05 +0600</pubDate>
+      <media:thumbnail url="https://i.insider.com/6a8b68098a99fa493d60f476?format=jpeg" />
+      <enclosure url="https://i.insider.com/6a8b68098a99fa493d60f476?format=jpeg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>How New Zealand’s biggest city solved its housing crisis</title>
+      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/ec25a937-3dbd-417c-82a1-db223b62cca6?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/ec25a937-3dbd-417c-82a1-db223b62cca6?syn-25a6b1a6=1</guid>
+      <description>Rezoning has changed the face of Auckland though critics warn lessons hard to replicate</description>
+      <pubDate>Mon, 24 Aug 2026 06:53:05 +0600</pubDate>
+    </item>
+    <item>
+      <title>The Price of Bread</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html</guid>
+      <description>War, climate shocks and trade disputes are pounding the world’s breadbaskets and pushing the global food system into dangerous territory.</description>
+      <pubDate>Mon, 24 Aug 2026 06:53:05 +0600</pubDate>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-theworld-breadbasket-01-kwmt-promo/24int-theworld-breadbasket-01-kwmt-promo-mediumSquareAt3X.jpg" />
+      <enclosure url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-theworld-breadbasket-01-kwmt-promo/24int-theworld-breadbasket-01-kwmt-promo-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
