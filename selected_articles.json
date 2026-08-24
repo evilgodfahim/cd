@@ -205616,5 +205616,53 @@
     "source": "https://www.businessinsider.com/rss",
     "thumbnail": "https://i.insider.com/6a8b68098a99fa493d60f476?format=jpeg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/4e3c99fe-1a8d-4fb2-b99a-da1c1da4db8e?syn-25a6b1a6=1",
+    "title": "Burnham to pledge support for long-range missile construction in Ukraine",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/4e3c99fe-1a8d-4fb2-b99a-da1c1da4db8e?syn-25a6b1a6=1",
+    "description": "UK prime minister will shrug off warnings from Russia in first overseas visit",
+    "published": "Mon, 24 Aug 2026 10:38:00 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/aug/24/ukraine-war-briefing-nord-stream-bombings-were-not-us-zelenskyy-insists",
+    "title": "Ukraine war briefing: Nord Stream bombings were not us, Zelenskyy insists",
+    "link": "https://www.theguardian.com/world/2026/aug/24/ukraine-war-briefing-nord-stream-bombings-were-not-us-zelenskyy-insists",
+    "description": "<p>After two arrests, Ukraine’s president says Germany ‘well aware’ Kyiv was not involved in planning or execution of sabotage mission. What we know on day 1,643</p> <a href=\"https://www.theguardian.com/world/2026/aug/24/ukraine-war-briefing-nord-stream-bombings-were-not-us-zelenskyy-insists\">Continue reading...</a>",
+    "published": "Mon, 24 Aug 2026 10:38:00 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/49c7e96a0eb92c98e2ca868ab4c721ecccb5e20d/94_0_2873_2299/master/2873.jpg?width=700&quality=85&auto=format&fit=max&s=b267605ca99653d8cf2aee8e8620ad1f",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2026/aug/24/trump-plans-critical-minerals-deep-sea-mining-pacific-islands",
+    "title": "US territories hit out at Trump plan to explore deep sea mining in the Pacific",
+    "link": "https://www.theguardian.com/environment/2026/aug/24/trump-plans-critical-minerals-deep-sea-mining-pacific-islands",
+    "description": "<p>US agency releases plan to lease millions of hectares of seabed off the coast of the Northern Mariana Islands and Guam</p><p>A US government plan to lease out millions of hectares of seabed near the Mariana Trench for deep sea exploration has drawn opposition from US territories in the Pacific, as the Trump administration remains locked in a race with China for control of critical ocean minerals.</p><p>On Tuesday, the Marine Mineral Administration (MMA), an agency under the US department of the interior, released a proposal to auction deep sea mining leases for 28m hectares (69m acres) of seafloor off the coast of the Northern Mariana Islands and Guam.</p> <a href=\"https://www.theguardian.com/environment/2026/aug/24/trump-plans-critical-minerals-deep-sea-mining-pacific-islands\">Continue reading...</a>",
+    "published": "Mon, 24 Aug 2026 10:38:00 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/6477bf1a810003e7b073c564f349c808c12a3a34/127_0_3749_3000/master/3749.jpg?width=700&quality=85&auto=format&fit=max&s=bb4786b5b6b740489cc2cc2cc65297c4",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/24/world/asia/indonesia-el-nino-borneo-fire.html",
+    "title": "As El Niño Dries Indonesia, Wildfires Intensify",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/08/24/world/asia/indonesia-el-nino-borneo-fire.html",
+    "description": "The unusual weather pattern and dried out peatlands, a kind of wetland, have been behind some of the country’s worst fire seasons. This year could be one.",
+    "published": "Mon, 24 Aug 2026 10:38:00 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/21/multimedia/00int-indonesia-fires-pbzg/00int-indonesia-fires-pbzg-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/europe/europe-chastised-trumps-climate-rollback-now-its-delaying-its-own-green-goals-835b6724?mod=rss_worldnews",
+    "title": "Europe Chastised Trump’s Climate Rollback. Now It’s Delaying Its Own Green Goals.",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/europe/europe-chastised-trumps-climate-rollback-now-its-delaying-its-own-green-goals-835b6724?mod=rss_worldnews",
+    "description": "Developed nations are increasingly balking at the cost of measures to cut down on fossil fuels.",
+    "published": "Mon, 24 Aug 2026 10:38:00 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-31772793",
+    "thumbnail_type": "image/jpeg"
   }
 ]
