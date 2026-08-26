@@ -39,7 +39,7 @@ except Exception:
 FEED_URLS = [
     "https://www.newyorker.com/feed/rss",
 
-"https://feeds2.feedburner.com/businessinsider",
+    "https://feeds2.feedburner.com/businessinsider",
     "https://feeds.feedburner.com/TheAtlantic",
     "https://evilgodfahim.github.io/tm/feeds/feed.xml",
     "https://evilgodfahim.github.io/ftint/combined.xml",
@@ -48,58 +48,65 @@ FEED_URLS = [
     "https://evilgodfahim.github.io/wpint/combined.xml",
     "https://evilgodfahim.github.io/wsjint/combined.xml",
 
-"https://theweek.com/rss.xml",
+    "https://theweek.com/rss.xml",
 
-"https://www.wired.com/feed/rss",
+    "https://www.wired.com/feed/rss",
 
-"https://www.newstatesman.com/feed",
+    "https://www.newstatesman.com/feed",
 
-"https://www.thenation.com/rss/articles",
+    "https://www.thenation.com/rss/articles",
 
-"https://evilgodfahim.github.io/sp/feeds/spectator_en.xml",
+    "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml",
 
-"https://evilgodfahim.github.io/sp/feeds/spectator_us.xml",
+    "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml",
 
-"https://evilgodfahim.github.io/fto/combined.xml",
+    "https://evilgodfahim.github.io/fto/combined.xml",
     "https://evilgodfahim.github.io/nytop/combined.xml",
     "https://evilgodfahim.github.io/wpo/combined.xml",
     "https://evilgodfahim.github.io/wsjop/combined.xml",
 
-"https://evilgodfahim.github.io/lemonde/combined.xml",
+    "https://evilgodfahim.github.io/lemonde/combined.xml",
 
-"https://www.thewirechina.com/feed/",
+    "https://www.thewirechina.com/feed/",
 
-"https://evilgodfahim.github.io/intop/filtered.xml",
+    "https://evilgodfahim.github.io/intop/filtered.xml",
 
-"https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml",
+    "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml",
 
-"http://feeds.harvardbusiness.org/harvardbusiness",
+    "http://feeds.harvardbusiness.org/harvardbusiness",
 
-"https://sloanreview.mit.edu/feed/",
+    "https://sloanreview.mit.edu/feed/",
 
-"https://www.forbes.com/business/feed/",
+    "https://www.forbes.com/business/feed/",
 
-"https://www.mckinsey.com/insights/rss",
+    "https://www.mckinsey.com/insights/rss",
 
-"https://knowledge.wharton.upenn.edu/feed/",
+    "https://knowledge.wharton.upenn.edu/feed/",
 
-"https://www.nakedcapitalism.com/feed",
+    "https://www.nakedcapitalism.com/feed",
 
-"https://www.fastcompany.com/latest/rss",
+    "https://www.fastcompany.com/latest/rss",
 
-"https://www.businessinsider.com/rss",
+    "https://www.businessinsider.com/rss",
 
-"https://www.inc.com/rss",
+    "https://www.inc.com/rss",
 
-"https://www.entrepreneur.com/latest.rss",
+    "https://www.entrepreneur.com/latest.rss",
 
-"https://www.econlib.org/feed/"
+    "https://www.econlib.org/feed/",
+
+    "https://foreignpolicy.com/feed/",
+    "https://www.foreignaffairs.com/rss.xml",
+    "https://evilgodfahim.github.io/diplo/combined.xml",
+    "https://evilgodfahim.github.io/diplo/combined.xml",
+    "https://evilgodfahim.github.io/ps/combined.xml",
+    "https://evilgodfahim.github.io/eco/combined.xml"
 ]
 
 EXISTING_API_FEEDS = {
     "https://www.newyorker.com/feed/rss",
 
-"https://feeds2.feedburner.com/businessinsider",
+    "https://feeds2.feedburner.com/businessinsider",
     "https://feeds.feedburner.com/TheAtlantic",
     "https://evilgodfahim.github.io/tm/feeds/feed.xml",
     "https://evilgodfahim.github.io/ftint/combined.xml",
@@ -108,52 +115,59 @@ EXISTING_API_FEEDS = {
     "https://evilgodfahim.github.io/wpint/combined.xml",
     "https://evilgodfahim.github.io/wsjint/combined.xml",
 
-"https://theweek.com/rss.xml",
+    "https://theweek.com/rss.xml",
 
-"https://www.wired.com/feed/rss",
+    "https://www.wired.com/feed/rss",
 
-"https://www.newstatesman.com/feed",
+    "https://www.newstatesman.com/feed",
 
-"https://www.thenation.com/rss/articles",
+    "https://www.thenation.com/rss/articles",
 
-"https://evilgodfahim.github.io/sp/feeds/spectator_en.xml",
+    "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml",
 
-"https://evilgodfahim.github.io/sp/feeds/spectator_us.xml",
+    "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml",
 
-"https://evilgodfahim.github.io/fto/combined.xml",
+    "https://evilgodfahim.github.io/fto/combined.xml",
     "https://evilgodfahim.github.io/nytop/combined.xml",
     "https://evilgodfahim.github.io/wpo/combined.xml",
     "https://evilgodfahim.github.io/wsjop/combined.xml",
 
-"https://evilgodfahim.github.io/lemonde/combined.xml",
+    "https://evilgodfahim.github.io/lemonde/combined.xml",
 
-"https://www.thewirechina.com/feed/",
+    "https://www.thewirechina.com/feed/",
 
-"https://evilgodfahim.github.io/intop/filtered.xml"
+    "https://evilgodfahim.github.io/intop/filtered.xml",
 
-"https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml",
+    "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml",
 
-"http://feeds.harvardbusiness.org/harvardbusiness",
+    "http://feeds.harvardbusiness.org/harvardbusiness",
 
-"https://sloanreview.mit.edu/feed/",
+    "https://sloanreview.mit.edu/feed/",
 
-"https://www.forbes.com/business/feed/",
+    "https://www.forbes.com/business/feed/",
 
-"https://www.mckinsey.com/insights/rss",
+    "https://www.mckinsey.com/insights/rss",
 
-"https://knowledge.wharton.upenn.edu/feed/",
+    "https://knowledge.wharton.upenn.edu/feed/",
 
-"https://www.nakedcapitalism.com/feed",
+    "https://www.nakedcapitalism.com/feed",
 
-"https://www.fastcompany.com/latest/rss",
+    "https://www.fastcompany.com/latest/rss",
 
-"https://www.businessinsider.com/rss",
+    "https://www.businessinsider.com/rss",
 
-"https://www.inc.com/rss",
+    "https://www.inc.com/rss",
 
-"https://www.entrepreneur.com/latest.rss",
+    "https://www.entrepreneur.com/latest.rss",
 
-"https://www.econlib.org/feed/"
+    "https://www.econlib.org/feed/",
+
+    "https://foreignpolicy.com/feed/",
+    "https://www.foreignaffairs.com/rss.xml",
+    "https://evilgodfahim.github.io/diplo/combined.xml",
+    "https://evilgodfahim.github.io/diplo/combined.xml",
+    "https://evilgodfahim.github.io/ps/combined.xml",
+    "https://evilgodfahim.github.io/eco/combined.xml"
 }
 
 KL_API_FEEDS = set()
@@ -176,7 +190,7 @@ MAX_FEED_ITEMS        = 500
 # -- PROMPT --------------------------------------------------------------------
 
 PROMPT = """You are a news classification engine. Classify each headline into exactly one bucket.
-SIGNAL — news that matters globally or within Bangladesh: major international events, geopolitical developments involving multiple countries, or Bangladesh developments that meaningfully affect a large portion of the population (major policy shifts, economic crises, political upheaval, governance changes). Isolated incidents, local events, or routine Bangladesh news do not qualify. The bar is HIGH; (LOWEST < LOWER < LOW < AVERAGE < HIGH < SUPER HIGH < ULTRA HIGH < EXTREME).
+SIGNAL — significant geopolitical, foreign policy, or international crisis developments: diplomatic shifts, foreign policy decisions, or major policy announcements with cross-border or global consequence; conflict escalations, ceasefires, or military developments involving states or blocs; actions or decisions by major international bodies (UN, IMF, World Bank, NATO, WTO, EU, ASEAN, etc.); economic crises, sanctions regimes, or systemic shocks with regional or global spillover; and Bangladesh developments that meaningfully affect a large portion of the population (major policy shifts, economic crises, political upheaval, governance changes). Purely domestic politics of any single country with no meaningful cross-border effect, isolated incidents, and local events do not qualify. The bar is HIGH; (LOWEST < LOWER < LOW < AVERAGE < HIGH < SUPER HIGH < ULTRA HIGH < EXTREME).
 LONGREAD — worth reading but not urgent: high-quality in-depth reporting, investigations, features, or thoughtful essays on culture, science, history, or society that reward careful reading. Excludes celebrity profiles, trend pieces, and routine human-interest stories. Single person reladed titles are strictly prohibited, unless the person holds or held a position that can/could affect the concurrent situation of the world. No insignificant cultural,  entertainment, single person who is not known to a significant portion of the world or Bangladeshi people will be added.
 In the case of longreads, the bar is between ULTRA HIGH and EXTREME 
 NOISE — everything else: any non-Bangladesh country's internal politics, elections, policy disputes, business news, or market moves — plus isolated Bangladesh incidents, sports, entertainment, celebrity gossip, lifestyle, routine official statements, and clickbait.
