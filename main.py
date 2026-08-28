@@ -175,7 +175,7 @@ KL_API_FEEDS = set()
 # -- CONFIG --------------------------------------------------------------------
 
 DEDUP_MODEL           = "gemini-3-flash-preview"
-MISTRAL_MODEL         = "mistral-large-latest"
+MISTRAL_MODEL         = "gemini-3.6-flash"
 PROCESSED_FILE        = "processed_articles.json"
 SELECTED_FILE         = "selected_articles.json"
 OUTPUT_XML            = "curated_feed.xml"
@@ -564,7 +564,7 @@ def get_new_articles(all_articles, processed_data):
 # -- CLASSIFICATION ------------------------------------------------------------
 
 def extract_json_object(text):
-    """Parse {"signal": [...], "longread": [...]} from Mistral response."""
+    """Parse {"signal": [...], "longread": [...]} from Gemini response."""
     text = text.replace("```json", "").replace("```", "").strip()
     match = re.search(r"\{.*\}", text, flags=re.DOTALL)
     if match:
@@ -589,26 +589,26 @@ def extract_json_object(text):
 
 
 def send_to_mistral(articles):
-    """Single Mistral call. Returns {"signal": [...], "longread": [...]}."""
-    api_key = os.environ.get("MS")
+    """Single Gemini call. Returns {"signal": [...], "longread": [...]}."""
+    api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key or not articles:
         return {"signal": [], "longread": []}
 
     try:
-        client      = Mistral(api_key=api_key)
+        client      = genai.Client(api_key=api_key)
         titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
 
-        response = client.chat.complete(
+        response = client.models.generate_content(
             model=MISTRAL_MODEL,
-            messages=[{"role": "user", "content": PROMPT.format(titles=titles_text)}],
-            response_format={"type": "json_object"},
+            contents=PROMPT.format(titles=titles_text),
+            config={"response_mime_type": "application/json"},
         )
 
-        text = response.choices[0].message.content or ""
+        text = response.text if hasattr(response, "text") else ""
         return extract_json_object(text)
 
     except Exception as e:
-        print(f"Mistral classification error: {e}")
+        print(f"Gemini classification error: {e}")
         return {"signal": [], "longread": []}
 
 
