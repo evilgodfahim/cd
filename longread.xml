@@ -4,14 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Sat, 29 Aug 2026 22:10:50 +0000</lastBuildDate>
-    <item>
-      <title>How online fandom shaped our world</title>
-      <link>https://archive.is/qWySo/https://www.ft.com/content/b07952da-9e06-4269-9b6c-c4dccbf5d087</link>
-      <guid isPermaLink="true">https://www.ft.com/content/b07952da-9e06-4269-9b6c-c4dccbf5d087</guid>
-      <description>What looks like random algorithmic attention can actually be the work of obsessive digital devotees</description>
-      <pubDate>Mon, 17 Aug 2026 22:19:32 +0600</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Aug 2026 02:56:39 +0000</lastBuildDate>
     <item>
       <title>Opinion | Israel is a nation in trauma, but it shouldn't give up on diplomacy - haaretz.com</title>
       <link>https://www.haaretz.com/opinion/2026-08-17/ty-article-opinion/.premium/israel-is-a-nation-in-trauma-but-it-shouldnt-give-up-on-diplomacy/000001a0-1007-d0aa-abfb-be170e520000</link>
@@ -4637,6 +4630,15 @@ Now, however, America, like Europe, finds itself consumed by a popular war again
       <guid isPermaLink="true">https://spectator.com/article/chernobyl-faces-an-uncertain-future/?homepage-tracking=magazine_minor-article-1</guid>
       <description>Fallout</description>
       <pubDate>Sun, 30 Aug 2026 04:10:20 +0600</pubDate>
+    </item>
+    <item>
+      <title>The Intricacies Of Artificial General Intelligence And Curing Disease</title>
+      <link>https://www.forbes.com/sites/saibala/2026/08/29/the-intricacies-of-artificial-general-intelligence-and-curing-disease/</link>
+      <guid isPermaLink="false">content_6a934ebca10b34eecb3f93f0</guid>
+      <description>Artificial general intelligence (AGI) may enable human-level reasoning and critical thinking across multiple cognitive domains.</description>
+      <pubDate>Sun, 30 Aug 2026 08:56:12 +0600</pubDate>
+      <media:thumbnail url="https://imageio.forbes.com/specials-images/imageserve/6a934ee855bfeaed51cbb297/0x0.jpg" />
+      <enclosure url="https://imageio.forbes.com/specials-images/imageserve/6a934ee855bfeaed51cbb297/0x0.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
