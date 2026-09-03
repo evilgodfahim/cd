@@ -175,7 +175,7 @@ KL_API_FEEDS = set()
 # -- CONFIG --------------------------------------------------------------------
 
 DEDUP_MODEL           = "gemini-3-flash-preview"
-MISTRAL_MODEL         = "mistral-large-latest"
+MISTRAL_MODEL         = "mistral-medium-latest"
 PROCESSED_FILE        = "processed_articles.json"
 SELECTED_FILE         = "selected_articles.json"
 OUTPUT_XML            = "curated_feed.xml"
