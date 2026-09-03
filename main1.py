@@ -3,8 +3,7 @@
 RSS Feed Processor — Longread Pipeline
 
 All articles from all feeds go to one Mistral call.
-Mistral classifies each headline into signal, longread, or noise.
-A Gemini call deduplicates near-identical signal titles.
+Mistral classifies each headline into signal, longread, or noise and deduplicates them.
 
 Outputs:
   curated_feed.xml  - signal articles
@@ -22,7 +21,6 @@ import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import xml.etree.ElementTree as ET
-from google import genai
 from mistralai.client import Mistral
 from email.utils import parsedate_to_datetime
 from urllib.parse import urljoin, urlparse
@@ -174,7 +172,6 @@ KL_API_FEEDS = set()
 
 # -- CONFIG --------------------------------------------------------------------
 
-DEDUP_MODEL           = "gemini-3-flash-preview"
 MISTRAL_MODEL         = "mistral-medium-latest"
 PROCESSED_FILE        = "processed_articles.json"
 SELECTED_FILE         = "selected_articles.json"
@@ -199,6 +196,7 @@ Rules:
 - Use only the headline text. Indices are 0-based.
 - Omit all noise indices from the output entirely.
 - Return only valid JSON. No markdown, no backticks, no preamble.
+- DEDUPLICATION: Identify groups of titles that cover the same story or event (near-duplicates, rephrased versions, or very similar headlines). For each such group, keep only the FIRST occurrence (lowest index) and discard the rest.
 Tricky cases to guide you:
 - Bangladesh policy or economic decision with broad national impact → SIGNAL.
 - An isolated Bangladesh incident or local event → NOISE, not SIGNAL.
@@ -218,20 +216,6 @@ Output: {{"signal": [0, 1, 5], "longread": [2]}}
 
 Input: ["Gaza ceasefire collapses as fighting resumes", "Bangladesh government slashes fuel subsidies nationwide", "A deep dive into the life of a Sundarbans honey collector", "France passes new immigration law", "How microplastics are entering the human bloodstream", "Local man wins national baking competition"]
 Output: {{"signal": [0, 1], "longread": [2, 4]}}
-
-Article titles:
-{titles}
-"""
-
-DEDUP_PROMPT = """You are a news deduplication engine. You will receive a numbered list of article titles.
-Your task: identify groups of titles that cover the same story or event (near-duplicates, rephrased versions, or very similar headlines). For each such group, keep only the FIRST occurrence (lowest index) and discard the rest.
-Titles that cover clearly distinct topics must all be kept.
-
-Rules:
-- Return only the indices (0-based) of titles to KEEP, as a JSON array of integers.
-- Always keep at least one title from each duplicate group (the one with the lowest index).
-- If all titles are unique, return all indices.
-- Return only valid JSON. No markdown, no backticks, no preamble. Example output: [0, 1, 3, 5]
 
 Article titles:
 {titles}
@@ -589,7 +573,7 @@ def extract_json_object(text):
 
 
 def send_to_mistral(articles):
-    """Single Mistral call. Returns {"signal": [...], "longread": [...]}."""
+    """Single Mistral call. Returns {"signal": [...], "longread": [...]}. Already deduplicated via prompt."""
     api_key = os.environ.get("MS")
     if not api_key or not articles:
         return {"signal": [], "longread": []}
@@ -611,61 +595,6 @@ def send_to_mistral(articles):
         print(f"Mistral classification error: {e}")
         return {"signal": [], "longread": []}
 
-
-def deduplicate_articles(articles):
-    if not articles:
-        return articles
-
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        return articles
-
-    try:
-        client      = genai.Client(api_key=api_key)
-        titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
-
-        response = client.models.generate_content(
-            model=DEDUP_MODEL,
-            contents=DEDUP_PROMPT.format(titles=titles_text),
-            config={"response_mime_type": "application/json"},
-        )
-
-        raw = response.text if hasattr(response, "text") else ""
-        raw = raw.replace("```json", "").replace("```", "").strip()
-
-        keep_indices = None
-        try:
-            parsed = json.loads(raw)
-            if isinstance(parsed, list):
-                keep_indices = [i for i in parsed if isinstance(i, int) and 0 <= i < len(articles)]
-        except Exception:
-            pass
-
-        if keep_indices is None:
-            m = re.search(r"\[[\d,\s]+\]", raw)
-            if m:
-                try:
-                    keep_indices = [
-                        i for i in json.loads(m.group(0))
-                        if isinstance(i, int) and 0 <= i < len(articles)
-                    ]
-                except Exception:
-                    pass
-
-        if keep_indices is None:
-            print("Dedup: could not parse response, keeping all articles.")
-            return articles
-
-        keep_indices = sorted(set(keep_indices))
-        deduped = [articles[i] for i in keep_indices]
-        dropped = len(articles) - len(deduped)
-        if dropped:
-            print(f"Dedup: removed {dropped} near-duplicate title(s).")
-        return deduped
-
-    except Exception as e:
-        print(f"Gemini dedup error: {e}")
-        return articles
 
 # -- XML -----------------------------------------------------------------------
 
@@ -812,9 +741,6 @@ def main():
         print("No signal or longread articles this run. Skipping all file writes.")
         print_stats()
         return
-
-    print(f"Deduplicating {len(signal_articles)} signal article(s)...")
-    signal_articles = deduplicate_articles(signal_articles)
 
     STATS["total_signal_deduped"]   = len(signal_articles)
     STATS["total_longread_deduped"] = len(longread_articles)
