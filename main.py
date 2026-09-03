@@ -2,9 +2,9 @@
 """
 RSS Feed Processor — Longread Pipeline
 
-All articles from all feeds go to one Mistral call.
-Mistral classifies each headline into signal, longread, or noise.
-A Gemini call deduplicates near-identical signal titles.
+All articles from all feeds go to one Mistral/Gemini call.
+The model classifies each headline into signal, longread, or noise,
+and simultaneously deduplicates near-identical titles in a single pass.
 
 Outputs:
   curated_feed.xml  - signal articles
@@ -174,7 +174,6 @@ KL_API_FEEDS = set()
 
 # -- CONFIG --------------------------------------------------------------------
 
-DEDUP_MODEL           = "gemini-3-flash-preview"
 MISTRAL_MODEL         = "gemini-3-flash-preview"
 PROCESSED_FILE        = "processed_articles.json"
 SELECTED_FILE         = "selected_articles.json"
@@ -189,42 +188,30 @@ MAX_FEED_ITEMS        = 500
 
 # -- PROMPT --------------------------------------------------------------------
 
-PROMPT = """You are a news classification engine. Classify each numbered headline into exactly one category: SIGNAL, LONGREAD, or NOISE.
+PROMPT = """You are a strict news classification and deduplication engine. Your task is to filter and deduplicate news articles in a single pass. Classify each numbered headline into exactly one category: SIGNAL, LONGREAD, or NOISE.
 
 CATEGORIES:
 
-1. SIGNAL: Major macroeconomic, policy, institutional, or geopolitical breaking news.
+1. SIGNAL: Major macroeconomic, policy, institutional, or geopolitical breaking news of BROAD SCALE.
    - Bangladesh: National policy rollouts, central bank actions, macroeconomic data, national governance changes, national-scale crises.
    - International: Foreign policy shifts, state conflicts/ceasefires, major decisions by global bodies (UN, IMF, World Bank, NATO, WTO), global market shocks.
+   - STRICT EXCLUSION: Exclude minor, localized, or less significant news. If an event does not have a clear broad-scale national or cross-border impact, it is NOISE.
 
 2. LONGREAD: High-quality, in-depth feature journalism, investigative reporting, historical analyses, science/tech essays, or deep cultural pieces providing enduring context.
    - Excludes: Gossip, routine human-interest stories, local profiles on non-prominent figures, and basic news recaps.
 
 3. NOISE: Everything else.
-   - Isolated crimes, single accidents, local protests, single-institution events.
+   - Less significant or narrow-scope news, isolated crimes, single accidents, local protests, single-institution events.
    - Sports, entertainment, celebrity gossip, lifestyle, routine statements.
    - Foreign domestic politics/business without broad cross-border or global impact.
 
 RULES:
+- FILTERING: Be extremely strict. Omit all NOISE indices from the final output.
+- DEDUPLICATION: Identify groups of titles that cover the same story or event. For each group, keep ONLY the FIRST occurrence (lowest index) in the relevant category array and DISCARD the rest.
 - If a title qualifies as both SIGNAL and LONGREAD, prioritize SIGNAL.
-- Omit all NOISE indices from the final output.
 - Return only valid JSON. Do not include markdown code blocks (```json), backticks, or introductory text.
 
-Output format: {{"signal": [indices], "longread": [indices]}}
-
-Article titles:
-{titles}
-"""
-
-DEDUP_PROMPT = """You are a news deduplication engine. You will receive a numbered list of article titles.
-Your task: identify groups of titles that cover the same story or event (near-duplicates, rephrased versions, or very similar headlines). For each such group, keep only the FIRST occurrence (lowest index) and discard the rest.
-Titles that cover clearly distinct topics must all be kept.
-
-Rules:
-- Return only the indices (0-based) of titles to KEEP, as a JSON array of integers.
-- Always keep at least one title from each duplicate group (the one with the lowest index).
-- If all titles are unique, return all indices.
-- Return only valid JSON. No markdown, no backticks, no preamble. Example output: [0, 1, 3, 5]
+Output format: {{"signal": [indices_to_keep], "longread": [indices_to_keep]}}
 
 Article titles:
 {titles}
@@ -232,7 +219,7 @@ Article titles:
 
 # -- CONSTANTS -----------------------------------------------------------------
 
-MEDIA_NS    = "http://search.yahoo.com/mrss/"
+MEDIA_NS    = "[http://search.yahoo.com/mrss/](http://search.yahoo.com/mrss/)"
 MEDIA_TAG   = "{%s}" % MEDIA_NS
 ET.register_namespace("media", MEDIA_NS)
 
@@ -668,7 +655,7 @@ def extract_json_object(text):
 
     for key in ("signal", "longread"):
         m = re.search(
-            rf'"{key}"\s*:\s*(.*?)',
+            rf'"{key}"\s*:\s*(\[.*?\])',
             text,
             flags=re.DOTALL
         )
@@ -687,7 +674,7 @@ def extract_json_object(text):
 
 
 def send_to_mistral(articles):
-    """Single Gemini call. Returns {"signal": [...], "longread": [...]}."""
+    """Single Gemini call. Returns {"signal": [...], "longread": [...]}. Filters and dedups in one go."""
 
     api_key = os.environ.get("GEMINI_API_KEY")
 
@@ -697,114 +684,45 @@ def send_to_mistral(articles):
             "longread": []
         }
 
-    try:
-        client = genai.Client(api_key=api_key)
+    client = genai.Client(api_key=api_key)
 
-        titles_text = "\n".join(
-            [
-                f"{i}. {a.get('title', '')}"
-                for i, a in enumerate(articles)
-            ]
-        )
+    titles_text = "\n".join(
+        [
+            f"{i}. {a.get('title', '')}"
+            for i, a in enumerate(articles)
+        ]
+    )
 
-        response = client.models.generate_content(
-            model=MISTRAL_MODEL,
-            contents=PROMPT.format(titles=titles_text),
-            config={
-                "response_mime_type": "application/json"
-            },
-        )
-
-        text = response.text if hasattr(response, "text") else ""
-
-        return extract_json_object(text)
-
-    except Exception as e:
-        print(f"Gemini classification error: {e}")
-
-        return {
-            "signal": [],
-            "longread": []
-        }
-
-
-def deduplicate_articles(articles):
-    if not articles:
-        return articles
-
-    api_key = os.environ.get("GEMINI_API_KEY")
-
-    if not api_key:
-        return articles
-
-    try:
-        client = genai.Client(api_key=api_key)
-
-        titles_text = "\n".join(
-            [
-                f"{i}. {a.get('title', '')}"
-                for i, a in enumerate(articles)
-            ]
-        )
-
-        response = client.models.generate_content(
-            model=DEDUP_MODEL,
-            contents=DEDUP_PROMPT.format(titles=titles_text),
-            config={
-                "response_mime_type": "application/json"
-            },
-        )
-
-        raw = response.text if hasattr(response, "text") else ""
-        raw = raw.replace("```json", "").replace("```", "").strip()
-
-        keep_indices = None
-
+    for attempt in range(2):
         try:
-            parsed = json.loads(raw)
+            response = client.models.generate_content(
+                model=MISTRAL_MODEL,
+                contents=PROMPT.format(titles=titles_text),
+                config={
+                    "response_mime_type": "application/json"
+                },
+            )
 
-            if isinstance(parsed, list):
-                keep_indices = [
-                    i
-                    for i in parsed
-                    if isinstance(i, int)
-                    and 0 <= i < len(articles)
-                ]
+            text = response.text if hasattr(response, "text") else ""
+            return extract_json_object(text)
 
-        except Exception:
-            pass
+        except Exception as e:
+            error_str = str(e)
+            if "503" in error_str and attempt == 0:
+                print(f"503 error encountered, retrying in 60s... ({e})")
+                time.sleep(60)
+                continue
+            else:
+                print(f"Gemini classification error: {e}")
+                return {
+                    "signal": [],
+                    "longread": []
+                }
 
-        if keep_indices is None:
-            m = re.search(r"[\d,\s]+", raw)
-
-            if m:
-                try:
-                    keep_indices = [
-                        i
-                        for i in json.loads(m.group(0))
-                        if isinstance(i, int)
-                        and 0 <= i < len(articles)
-                    ]
-                except Exception:
-                    pass
-
-        if keep_indices is None:
-            print("Dedup: could not parse response, keeping all articles.")
-            return articles
-
-        keep_indices = sorted(set(keep_indices))
-        deduped = [articles[i] for i in keep_indices]
-
-        dropped = len(articles) - len(deduped)
-
-        if dropped:
-            print(f"Dedup: removed {dropped} near-duplicate title(s).")
-
-        return deduped
-
-    except Exception as e:
-        print(f"Gemini dedup error: {e}")
-        return articles
+    return {
+        "signal": [],
+        "longread": []
+    }
 
 # -- XML -----------------------------------------------------------------------
 
@@ -813,7 +731,7 @@ def _fresh_channel(root, feed_title, feed_description):
 
     ET.SubElement(channel, "title").text = feed_title
     ET.SubElement(channel, "link").text = (
-        "https://yourusername.github.io/yourrepo/"
+        "[https://yourusername.github.io/yourrepo/](https://yourusername.github.io/yourrepo/)"
     )
     ET.SubElement(channel, "description").text = feed_description
 
@@ -1121,15 +1039,8 @@ def main():
         print_stats()
         return
 
-    print(
-        f"Deduplicating "
-        f"{len(signal_articles)} signal article(s)..."
-    )
-
-    signal_articles = deduplicate_articles(
-        signal_articles
-    )
-
+    # Deduplication is now handled in the single classification pass,
+    # so we just map the stats directly.
     STATS["total_signal_deduped"]   = len(signal_articles)
     STATS["total_longread_deduped"] = len(longread_articles)
 
