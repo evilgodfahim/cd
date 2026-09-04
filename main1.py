@@ -186,7 +186,7 @@ MAX_FEED_ITEMS        = 500
 
 # -- PROMPT --------------------------------------------------------------------
 
-PROMPT = """Classify each numbered headline. Return only valid JSON: {"signal": [...], "longread": [...]}
+PROMPT = """Classify each numbered headline. Return only valid JSON: {{"signal": [...], "longread": [...]}}
 
 SIGNAL (bar: HIGH–EXTREME): Cross-border geopolitical events — diplomatic shifts, conflict escalations, international body decisions (UN, IMF, NATO, EU, WTO, ASEAN…), sanctions, systemic economic shocks with global spillover. Bangladesh events that meaningfully affect a large share of its population (major policy shift, economic crisis, political upheaval). Any single country's internal politics with no cross-border effect → NOISE.
 
@@ -202,33 +202,33 @@ Rules:
 
 Examples:
 ["US–China sign landmark trade deal","How the Ottoman Empire collapsed","Bangladesh central bank raises rates amid inflation crisis","UK Conservatives elect new leader","UN warns of famine across Horn of Africa"]
-→ {"signal":[0,2,4],"longread":[1]}
+→ {{"signal":[0,2,4],"longread":[1]}}
 
 ["India–Pakistan exchange fire at LoC","Dhaka garment workers strike shuts hundreds of factories","Secret history of Antarctic exploration","IMF approves emergency loan for Bangladesh","Celebrity couple divorces"]
-→ {"signal":[0,1,3],"longread":[2]}
+→ {{"signal":[0,1,3],"longread":[2]}}
 
 Titles:
 {titles}"""
 
 # -- CONSTANTS -----------------------------------------------------------------
 
-MEDIA_NS    = "http://search.yahoo.com/mrss/"
-MEDIA_TAG   = "{%s}" % MEDIA_NS
+MEDIA_NS = "http://search.yahoo.com/mrss/"
+MEDIA_TAG = "{%s}" % MEDIA_NS
 ET.register_namespace("media", MEDIA_NS)
 
 BD_TZ = timezone(timedelta(hours=6))
 
 STATS = {
-    "per_feed":              {},
-    "per_method":            {"KL": 0, "DIRECT": 0},
-    "total_fetched":         0,
-    "total_passed_age":      0,
-    "total_new":             0,
-    "total_signal":          0,
-    "total_longread":        0,
-    "total_signal_deduped":  0,
+    "per_feed": {},
+    "per_method": {"KL": 0, "DIRECT": 0},
+    "total_fetched": 0,
+    "total_passed_age": 0,
+    "total_new": 0,
+    "total_signal": 0,
+    "total_longread": 0,
+    "total_signal_deduped": 0,
     "total_longread_deduped": 0,
-    "timestamp":             None,
+    "timestamp": None,
 }
 
 # -- I/O -----------------------------------------------------------------------
@@ -238,58 +238,119 @@ def load_processed_articles():
         try:
             with open(PROCESSED_FILE, "r", encoding="utf-8") as f:
                 data = json.load(f)
+
             return {
-                "article_ids":   data.get("article_ids", []),
+                "article_ids": data.get("article_ids", []),
                 "article_links": data.get("article_links", []),
-                "last_updated":  data.get("last_updated"),
+                "last_updated": data.get("last_updated"),
             }
+
         except Exception:
             pass
-    return {"article_ids": [], "article_links": [], "last_updated": None}
+
+    return {
+        "article_ids": [],
+        "article_links": [],
+        "last_updated": None
+    }
 
 
 def save_processed_articles(data):
-    data["article_ids"]   = list(dict.fromkeys(data.get("article_ids", [])))
-    data["article_links"] = list(dict.fromkeys(data.get("article_links", [])))
-    data["last_updated"]  = datetime.utcnow().isoformat()
-    with open(PROCESSED_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+    data["article_ids"] = list(
+        dict.fromkeys(
+            data.get("article_ids", [])
+        )
+    )
+
+    data["article_links"] = list(
+        dict.fromkeys(
+            data.get("article_links", [])
+        )
+    )
+
+    data["last_updated"] = datetime.utcnow().isoformat()
+
+    with open(
+        PROCESSED_FILE,
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(
+            data,
+            f,
+            indent=2,
+            ensure_ascii=False
+        )
 
 
 def save_selected_articles(articles):
     existing = []
+
     if Path(SELECTED_FILE).exists():
         try:
-            with open(SELECTED_FILE, "r", encoding="utf-8") as f:
+            with open(
+                SELECTED_FILE,
+                "r",
+                encoding="utf-8"
+            ) as f:
                 existing = json.load(f)
+
         except Exception:
             pass
 
-    existing_links = {a.get("link") for a in existing}
+    existing_links = {
+        a.get("link")
+        for a in existing
+    }
+
     merged = existing + [
         a for a in articles
         if a.get("link") not in existing_links
     ]
 
-    with open(SELECTED_FILE, "w", encoding="utf-8") as f:
-        json.dump(merged, f, indent=2, ensure_ascii=False)
+    with open(
+        SELECTED_FILE,
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(
+            merged,
+            f,
+            indent=2,
+            ensure_ascii=False
+        )
 
 
 def save_stats():
     STATS["timestamp"] = datetime.utcnow().isoformat()
 
     existing = {}
+
     if Path(STATS_FILE).exists():
         try:
-            with open(STATS_FILE, "r", encoding="utf-8") as f:
+            with open(
+                STATS_FILE,
+                "r",
+                encoding="utf-8"
+            ) as f:
                 existing = json.load(f)
+
         except Exception:
             pass
 
     existing.update(STATS)
 
-    with open(STATS_FILE, "w", encoding="utf-8") as f:
-        json.dump(existing, f, indent=2, ensure_ascii=False)
+    with open(
+        STATS_FILE,
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(
+            existing,
+            f,
+            indent=2,
+            ensure_ascii=False
+        )
 
 # -- UTILITIES -----------------------------------------------------------------
 
@@ -305,9 +366,23 @@ def normalize_link(link, base=None):
     if base and not urlparse(link).netloc:
         link = urljoin(base, link)
 
-    link = re.sub(r"([?&])utm_[^=]+=[^&]+", r"\1", link)
-    link = re.sub(r"([?&])fbclid=[^&]+", r"\1", link)
-    link = re.sub(r"[?&]$", "", link)
+    link = re.sub(
+        r"([?&])utm_[^=]+=[^&]+",
+        r"\1",
+        link
+    )
+
+    link = re.sub(
+        r"([?&])fbclid=[^&]+",
+        r"\1",
+        link
+    )
+
+    link = re.sub(
+        r"[?&]$",
+        "",
+        link
+    )
 
     return link.split("#")[0]
 
@@ -327,7 +402,9 @@ def parse_date(entry):
                     time.mktime(st),
                     tz=timezone.utc
                 )
+
                 return dt, False
+
             except Exception:
                 pass
 
@@ -345,9 +422,13 @@ def parse_date(entry):
                 dt = parsedate_to_datetime(val)
 
                 if dt.tzinfo is None:
-                    dt = dt.replace(tzinfo=timezone.utc)
+                    dt = dt.replace(
+                        tzinfo=timezone.utc
+                    )
 
-                return dt.astimezone(timezone.utc), False
+                return dt.astimezone(
+                    timezone.utc
+                ), False
 
             except Exception:
                 pass
@@ -357,15 +438,22 @@ def parse_date(entry):
                     dt = dateutil_parser.parse(val)
 
                     if dt.tzinfo is None:
-                        dt = dt.replace(tzinfo=timezone.utc)
+                        dt = dt.replace(
+                            tzinfo=timezone.utc
+                        )
 
-                    return dt.astimezone(timezone.utc), False
+                    return dt.astimezone(
+                        timezone.utc
+                    ), False
 
                 except Exception:
                     pass
 
     if ALLOW_MISSING_DATES:
-        return datetime.now(timezone.utc), True
+        return (
+            datetime.now(timezone.utc),
+            True
+        )
 
     return None, False
 
@@ -399,10 +487,13 @@ def get_mime_for_url(url):
 
     if path.endswith(".png"):
         return "image/png"
+
     if path.endswith(".gif"):
         return "image/gif"
+
     if path.endswith(".webp"):
         return "image/webp"
+
     if path.endswith(".svg"):
         return "image/svg+xml"
 
@@ -413,13 +504,19 @@ def extract_image_url(entry, base_link=None):
     mt = entry.get("media_thumbnail")
 
     if mt:
-        if isinstance(mt, list) and mt[0].get("url"):
+        if (
+            isinstance(mt, list)
+            and mt[0].get("url")
+        ):
             return normalize_link(
                 mt[0]["url"],
                 base=base_link
             )
 
-        if isinstance(mt, dict) and mt.get("url"):
+        if (
+            isinstance(mt, dict)
+            and mt.get("url")
+        ):
             return normalize_link(
                 mt["url"],
                 base=base_link
@@ -428,13 +525,19 @@ def extract_image_url(entry, base_link=None):
     mc = entry.get("media_content")
 
     if mc:
-        if isinstance(mc, list) and mc[0].get("url"):
+        if (
+            isinstance(mc, list)
+            and mc[0].get("url")
+        ):
             return normalize_link(
                 mc[0]["url"],
                 base=base_link
             )
 
-        if isinstance(mc, dict) and mc.get("url"):
+        if (
+            isinstance(mc, dict)
+            and mc.get("url")
+        ):
             return normalize_link(
                 mc["url"],
                 base=base_link
@@ -483,7 +586,10 @@ def extract_image_url(entry, base_link=None):
     if content:
         if isinstance(content, list):
             for c in content:
-                if isinstance(c, dict) and c.get("value"):
+                if (
+                    isinstance(c, dict)
+                    and c.get("value")
+                ):
                     found = find_image_in_html(
                         c.get("value"),
                         base=base_link
@@ -525,7 +631,11 @@ def extract_image_url(entry, base_link=None):
 
 # -- FETCHING ------------------------------------------------------------------
 
-def fetch_via_kl(kl_endpoint, target_feed_url, timeout=20):
+def fetch_via_kl(
+    kl_endpoint,
+    target_feed_url,
+    timeout=20
+):
     if not kl_endpoint:
         return None
 
@@ -546,8 +656,13 @@ def fetch_via_kl(kl_endpoint, target_feed_url, timeout=20):
             timeout=timeout
         )
 
-        if resp.status_code == 200 and resp.text:
-            return feedparser.parse(resp.text)
+        if (
+            resp.status_code == 200
+            and resp.text
+        ):
+            return feedparser.parse(
+                resp.text
+            )
 
     except Exception:
         pass
@@ -560,8 +675,13 @@ def fetch_via_kl(kl_endpoint, target_feed_url, timeout=20):
             timeout=timeout
         )
 
-        if resp.status_code == 200 and resp.text:
-            return feedparser.parse(resp.text)
+        if (
+            resp.status_code == 200
+            and resp.text
+        ):
+            return feedparser.parse(
+                resp.text
+            )
 
     except Exception:
         pass
@@ -574,7 +694,9 @@ def fetch_feed(url):
     method_used = "DIRECT"
 
     if url_norm in EXISTING_API_FEEDS:
-        feed = feedparser.parse(url_norm)
+        feed = feedparser.parse(
+            url_norm
+        )
         method_used = "DIRECT"
 
     elif url_norm in KL_API_FEEDS:
@@ -591,15 +713,25 @@ def fetch_feed(url):
                 method_used = "KL"
 
         if not feed:
-            feed = feedparser.parse(url_norm)
+            feed = feedparser.parse(
+                url_norm
+            )
+
             method_used = "DIRECT"
 
     else:
-        feed = feedparser.parse(url_norm)
+        feed = feedparser.parse(
+            url_norm
+        )
+
         method_used = "DIRECT"
 
     entries_count = len(
-        getattr(feed, "entries", [])
+        getattr(
+            feed,
+            "entries",
+            []
+        )
     )
 
     STATS["per_feed"].setdefault(
@@ -611,27 +743,38 @@ def fetch_feed(url):
         }
     )
 
-    STATS["per_feed"][url_norm]["fetched"] += entries_count
+    STATS["per_feed"][url_norm][
+        "fetched"
+    ] += entries_count
 
     STATS["per_method"].setdefault(
         method_used,
         0
     )
 
-    STATS["per_method"][method_used] += entries_count
-    STATS["total_fetched"] += entries_count
+    STATS["per_method"][
+        method_used
+    ] += entries_count
+
+    STATS["total_fetched"] += (
+        entries_count
+    )
 
     return feed
 
 
 def fetch_all_feeds():
-    now = datetime.now(timezone.utc)
+    now = datetime.now(
+        timezone.utc
+    )
 
     cutoff = now - timedelta(
         hours=MAX_AGE_HOURS
     )
 
-    bd_now = datetime.now(BD_TZ)
+    bd_now = datetime.now(
+        BD_TZ
+    )
 
     bd_now_str = bd_now.strftime(
         "%a, %d %b %Y %H:%M:%S +0600"
@@ -649,7 +792,10 @@ def fetch_all_feeds():
             if not dt:
                 continue
 
-            if (not ALLOW_OLDER) and dt < cutoff:
+            if (
+                not ALLOW_OLDER
+                and dt < cutoff
+            ):
                 continue
 
             desc = ""
@@ -662,7 +808,10 @@ def fetch_all_feeds():
 
             elif (
                 e.get("content")
-                and isinstance(e.get("content"), list)
+                and isinstance(
+                    e.get("content"),
+                    list
+                )
             ):
                 desc = "\n".join(
                     [
@@ -679,7 +828,10 @@ def fetch_all_feeds():
                 )
 
                 if isinstance(det, dict):
-                    desc = det.get("value", "") or ""
+                    desc = (
+                        det.get("value", "")
+                        or ""
+                    )
 
             link = normalize_link(
                 e.get("link") or ""
@@ -698,23 +850,38 @@ def fetch_all_feeds():
 
             article = {
                 "id": str(article_id),
-                "title": e.get("title", "") or "",
+                "title": (
+                    e.get("title", "")
+                    or ""
+                ),
                 "link": link,
-                "description": desc or "",
+                "description": (
+                    desc
+                    or ""
+                ),
                 "published": bd_now_str,
                 "source": url,
             }
 
             if inferred:
-                article["published_inferred"] = True
+                article[
+                    "published_inferred"
+                ] = True
 
             if image_url:
-                article["thumbnail"] = image_url
-                article["thumbnail_type"] = (
-                    get_mime_for_url(image_url)
+                article[
+                    "thumbnail"
+                ] = image_url
+
+                article[
+                    "thumbnail_type"
+                ] = get_mime_for_url(
+                    image_url
                 )
 
-            feed_items.append(article)
+            feed_items.append(
+                article
+            )
 
         passed = len(feed_items)
 
@@ -723,19 +890,31 @@ def fetch_all_feeds():
             MAX_ARTICLES_PER_FEED
         )
 
-        STATS["per_feed"][url]["passed_age"] = passed
-        STATS["per_feed"][url]["capped"] = capped
+        STATS["per_feed"][url][
+            "passed_age"
+        ] = passed
 
-        STATS["total_passed_age"] += passed
+        STATS["per_feed"][url][
+            "capped"
+        ] = capped
+
+        STATS[
+            "total_passed_age"
+        ] += passed
 
         all_articles.extend(
-            feed_items[:MAX_ARTICLES_PER_FEED]
+            feed_items[
+                :MAX_ARTICLES_PER_FEED
+            ]
         )
 
     return all_articles
 
 
-def get_new_articles(all_articles, processed_data):
+def get_new_articles(
+    all_articles,
+    processed_data
+):
     processed_ids = set(
         processed_data.get(
             "article_ids",
@@ -802,12 +981,18 @@ def extract_json_object(text):
                 return {
                     "signal": [
                         i
-                        for i in obj.get("signal", [])
+                        for i in obj.get(
+                            "signal",
+                            []
+                        )
                         if isinstance(i, int)
                     ],
                     "longread": [
                         i
-                        for i in obj.get("longread", [])
+                        for i in obj.get(
+                            "longread",
+                            []
+                        )
                         if isinstance(i, int)
                     ],
                 }
@@ -889,12 +1074,16 @@ def send_to_mistral(articles):
         )
 
         text = (
-            response.choices[0]
-            .message.content
+            response
+            .choices[0]
+            .message
+            .content
             or ""
         )
 
-        return extract_json_object(text)
+        return extract_json_object(
+            text
+        )
 
     except Exception as e:
         print(
@@ -1031,8 +1220,12 @@ def generate_xml_feed(
 
     existing_links: set[str] = set()
 
-    for item in channel.findall("item"):
-        link_el = item.find("link")
+    for item in channel.findall(
+        "item"
+    ):
+        link_el = item.find(
+            "link"
+        )
 
         if (
             link_el is not None
@@ -1050,7 +1243,10 @@ def generate_xml_feed(
             or ""
         ).strip()
 
-        if not link or link in existing_links:
+        if (
+            not link
+            or link in existing_links
+        ):
             continue
 
         item = ET.SubElement(
@@ -1118,8 +1314,12 @@ def generate_xml_feed(
             )
 
             mime = (
-                a.get("thumbnail_type")
-                or get_mime_for_url(thumb)
+                a.get(
+                    "thumbnail_type"
+                )
+                or get_mime_for_url(
+                    thumb
+                )
             )
 
             ET.SubElement(
@@ -1132,7 +1332,10 @@ def generate_xml_feed(
                 }
             )
 
-        existing_links.add(link)
+        existing_links.add(
+            link
+        )
+
         added += 1
 
     all_items = channel.findall(
@@ -1145,8 +1348,12 @@ def generate_xml_feed(
     )
 
     if overflow > 0:
-        for old_item in all_items[:overflow]:
-            channel.remove(old_item)
+        for old_item in all_items[
+            :overflow
+        ]:
+            channel.remove(
+                old_item
+            )
 
     now_text = datetime.utcnow().strftime(
         "%a, %d %b %Y %H:%M:%S +0000"
@@ -1170,6 +1377,7 @@ def generate_xml_feed(
             tree,
             space="  "
         )
+
     except AttributeError:
         pass
 
