@@ -4,21 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: international affairs and Bangladesh news</description>
-    <lastBuildDate>Sat, 05 Sep 2026 21:03:27 +0000</lastBuildDate>
-    <item>
-      <title>UN, Nepal warn of climate threat after deadly floods</title>
-      <link>https://www.straitstimes.com/asia/south-asia/un-nepal-warn-of-climate-threat-after-deadly-floods</link>
-      <guid isPermaLink="true">https://www.straitstimes.com/asia/south-asia/un-nepal-warn-of-climate-threat-after-deadly-floods</guid>
-      <description />
-      <pubDate>Sun, 30 Aug 2026 08:56:12 +0600</pubDate>
-    </item>
-    <item>
-      <title>Is the Irtysh River the choke-free Arctic shipping gateway that China needs?</title>
-      <link>https://www.scmp.com/news/china/diplomacy/article/3365692/irtysh-river-choke-free-arctic-shipping-gateway-china-needs</link>
-      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3365692/irtysh-river-choke-free-arctic-shipping-gateway-china-needs</guid>
-      <description />
-      <pubDate>Sun, 30 Aug 2026 08:56:12 +0600</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Sep 2026 23:43:23 +0000</lastBuildDate>
     <item>
       <title>US sanctions are hurting Iran, but economic collapse alone may not topple regime, expert says</title>
       <link>https://www.jpost.com/middle-east/iran-news/article-906970</link>
@@ -4138,6 +4124,20 @@ In a bid to show voters Reform UK is serious about delivering change, Farage wil
       <pubDate>Sun, 06 Sep 2026 03:03:05 +0600</pubDate>
       <media:thumbnail url="https://images.wsj.net/im-69244379" />
       <enclosure url="https://images.wsj.net/im-69244379" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>US regulator sues ISS as it steps up scrutiny of proxy advisers</title>
+      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/ecab45a4-6786-4151-a998-f64279457435?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/ecab45a4-6786-4151-a998-f64279457435?syn-25a6b1a6=1</guid>
+      <description>The SEC accuses the firm of ignoring a subpoena as part of its ‘fact-finding investigation’</description>
+      <pubDate>Sun, 06 Sep 2026 05:41:30 +0600</pubDate>
+    </item>
+    <item>
+      <title>Military Situation In Ukraine And Ukrainian Attacks On Russian Territory On September 5, 2026 (Maps Update)</title>
+      <link>https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-september-5-2026-maps-update/</link>
+      <guid isPermaLink="true">https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-september-5-2026-maps-update/</guid>
+      <description />
+      <pubDate>Sun, 06 Sep 2026 05:41:30 +0600</pubDate>
     </item>
   </channel>
 </rss>
