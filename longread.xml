@@ -1,464 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:media="[http://search.yahoo.com/mrss/](http://search.yahoo.com/mrss/)" xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0">
+<rss xmlns:media="[http://search.yahoo.com/mrss/](http://search.yahoo.com/mrss/)" version="2.0">
   <channel>
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Wed, 09 Sep 2026 14:20:32 +0000</lastBuildDate>
-    <item>
-      <title>The Shadow of 9/11 on Future US Foreign Policy - Stimson Center</title>
-      <link>https://www.stimson.org/2026/the-shadow-of-9-11-on-future-us-foreign-policy/</link>
-      <guid isPermaLink="true">https://www.stimson.org/2026/the-shadow-of-9-11-on-future-us-foreign-policy/</guid>
-      <description>The Shadow of 9/11 on Future US Foreign Policy  Stimson Center</description>
-      <pubDate>Fri, 04 Sep 2026 04:21:21 +0600</pubDate>
-    </item>
-    <item>
-      <title>Beyond Nation-States: A New Reading List for Understanding Global Politics Today - New America</title>
-      <link>https://www.newamerica.org/insights/international-politics-books-2026/</link>
-      <guid isPermaLink="true">https://www.newamerica.org/insights/international-politics-books-2026/</guid>
-      <description>Beyond Nation-States: A New Reading List for Understanding Global Politics Today  New America</description>
-      <pubDate>Fri, 04 Sep 2026 04:21:21 +0600</pubDate>
-    </item>
-    <item>
-      <title>Gloria Steinem’s Final Essay</title>
-      <link>https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay</link>
-      <guid isPermaLink="false">6a9a12572dac950b38fb0361</guid>
-      <description>When you’re lucky enough to have lived a long life, as I have done, your role is to remind us how far we have come.</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-      <ns0:thumbnail url="https://media.newyorker.com/photos/6a9a140c418f8294220a5514/master/pass/Steinem_GettyImages-1186362404.jpg" />
-      <enclosure url="https://media.newyorker.com/photos/6a9a140c418f8294220a5514/master/pass/Steinem_GettyImages-1186362404.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>What Really Happened in Minneapolis</title>
-      <link>https://www.newyorker.com/newsletter/the-daily/what-really-happened-in-minneapolis</link>
-      <guid isPermaLink="false">6a99accfa2ea376384402e25</guid>
-      <description>From the daily newsletter: the inside story of the federal takeover of Minneapolis, from those who lived through it.</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-      <ns0:thumbnail url="https://media.newyorker.com/photos/66bbc14a3a338ff378df3b0c/master/pass/newsletter-flagship-daily-header2.png" />
-      <enclosure url="https://media.newyorker.com/photos/66bbc14a3a338ff378df3b0c/master/pass/newsletter-flagship-daily-header2.png" type="image/png" length="0" />
-    </item>
-    <item>
-      <title>The Vicious Cycle Trump May Restart</title>
-      <link>https://www.theatlantic.com/newsletters/2026/09/venezuela-trump-oil-cycle/688516/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-688516</guid>
-      <description>The American seizure of Venezuelan oil is likely the first step in a familiar, unhappy chain of events.</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-      <ns0:thumbnail url="https://cdn.theatlantic.com/thumbor/ao0yFEv9ho6HFK38PrFt9wa82vQ=/media/newsletters/2026/09/2026_09_03_The_Daily_Venezuelas_Vicious_Cycle/original.jpg" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/ao0yFEv9ho6HFK38PrFt9wa82vQ=/media/newsletters/2026/09/2026_09_03_The_Daily_Venezuelas_Vicious_Cycle/original.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How the Early Dreams of the Internet Changed</title>
-      <link>https://www.theatlantic.com/newsletters/2026/09/early-computers-1984-apple/688515/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-688515</guid>
-      <description>Technology was once seen as countercultural. What happened?</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-      <ns0:thumbnail url="https://cdn.theatlantic.com/thumbor/XOnf9ebUfPx9rSMV0kmnwGjuJ7E=/media/newsletters/2026/09/2026_09_02_Time_Travel_mpg/original.jpg" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/XOnf9ebUfPx9rSMV0kmnwGjuJ7E=/media/newsletters/2026/09/2026_09_02_Time_Travel_mpg/original.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Genetically modified pig kidney keeps man alive for record nine months</title>
-      <link>https://www.theguardian.com/science/2026/sep/03/genetically-modified-pig-kidney-keeps-man-alive-record-nine-months</link>
-      <guid isPermaLink="true">https://www.theguardian.com/science/2026/sep/03/genetically-modified-pig-kidney-keeps-man-alive-record-nine-months</guid>
-      <description>&lt;p&gt;Organ kept Tim Andrews off dialysis and acted as a ‘bridge’ while he waited for a human transplant in the US&lt;/p&gt;&lt;p&gt;A genetically modified kidney from a pig called Wilma has kept a 66-year-old man with kidney failure alive for a record nine months and successfully acted as a “bridge” to a human transplant in a world first.&lt;/p&gt;&lt;p&gt;Tim Andrews was seriously ill with end-stage kidney disease caused by type 2 diabetes and had only a 9% chance of receiving a human kidney within five years, against a more than 40% risk of dying or being removed from the waiting list.&lt;/p&gt; &lt;a href="https://www.theguardian.com/science/2026/sep/03/genetically-modified-pig-kidney-keeps-man-alive-record-nine-months"&gt;Continue reading...&lt;/a&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-      <ns0:thumbnail url="https://i.guim.co.uk/img/media/7cb26b0aac2557b5ca6d4c07cd29ae0d8162c9c1/248_428_3466_2773/master/3466.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a568c7976dffd84c54b39716a3a6ff34" />
-      <enclosure url="https://i.guim.co.uk/img/media/7cb26b0aac2557b5ca6d4c07cd29ae0d8162c9c1/248_428_3466_2773/master/3466.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a568c7976dffd84c54b39716a3a6ff34" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient</title>
-      <link>https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/</link>
-      <guid isPermaLink="false">6a9890692f048bd98be061da</guid>
-      <description>Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor.</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-      <ns0:thumbnail url="https://media.wired.com/photos/6a99964bab64da8be39c7ad7/master/pass/20250125_kaf_transplant_001_srgb.jpg" />
-      <enclosure url="https://media.wired.com/photos/6a99964bab64da8be39c7ad7/master/pass/20250125_kaf_transplant_001_srgb.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Joke That Started a Political Movement</title>
-      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/video/opinion/100000011101922/the-joke-that-started-a-political-movement.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/opinion/100000011101922/the-joke-that-started-a-political-movement.html</guid>
-      <description>“For more than a decade, the people in India were scared of questioning the government. Now, finally, people are no longer scared,” Abhijeet Dipke, a 30-year-old Indian university graduate whose viral X post led to the creation of the Cockroach Janta Party, tells Opinion Video.</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-    </item>
-    <item>
-      <title>Divided</title>
-      <link>https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/2026/09/03/michael-ramirez-cartoon-democratic-party-far-left/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/09/03/michael-ramirez-cartoon-democratic-party-far-left/</guid>
-      <description>Michael Ramirez cartoon on Democratic Party, far left.</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-    </item>
-    <item>
-      <title>25 Years of Thinking About 9/11</title>
-      <link>https://archive.is/o/vL57B/https://www.wsj.com/opinion/25-years-of-thinking-about-9-11-c95cc9c7</link>
-      <guid isPermaLink="true">https://www.wsj.com/opinion/25-years-of-thinking-about-9-11-c95cc9c7</guid>
-      <description>‘The 3,000 were dead. They were exploded into air. They became a cloud. We breathed them in.’</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-      <ns0:thumbnail url="https://opinion-images.wsj.net/im-95608744" />
-      <enclosure url="https://opinion-images.wsj.net/im-95608744" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Data-Center Dividend for Workers</title>
-      <link>https://archive.is/o/vL57B/https://www.wsj.com/opinion/data-centers-wages-jobs-loudoun-county-virginia-c6737c59</link>
-      <guid isPermaLink="true">https://www.wsj.com/opinion/data-centers-wages-jobs-loudoun-county-virginia-c6737c59</guid>
-      <description>Jobs and wages are booming in counties that welcome AI.</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-      <ns0:thumbnail url="https://opinion-images.wsj.net/im-39208882" />
-      <enclosure url="https://opinion-images.wsj.net/im-39208882" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Bureaucrats Beyond the Beltway</title>
-      <link>https://archive.is/o/vL57B/https://www.wsj.com/opinion/bureaucrats-beyond-the-beltway-136ab8c6</link>
-      <guid isPermaLink="true">https://www.wsj.com/opinion/bureaucrats-beyond-the-beltway-136ab8c6</guid>
-      <description>The U.S. Department of Agriculture is moving half of its employees out of Washington, setting an example for the Federal Reserve and other agencies.</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-      <ns0:thumbnail url="https://opinion-images.wsj.net/im-77869967" />
-      <enclosure url="https://opinion-images.wsj.net/im-77869967" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>A Murder in Times Square and a Sick Culture</title>
-      <link>https://archive.is/o/vL57B/https://www.wsj.com/opinion/erin-piacenti-times-square-murder-bank-of-america-lexi-alexander-fd39ef9c</link>
-      <guid isPermaLink="true">https://www.wsj.com/opinion/erin-piacenti-times-square-murder-bank-of-america-lexi-alexander-fd39ef9c</guid>
-      <description>A new mother is killed and some celebrate because they hate Israel.</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-      <ns0:thumbnail url="https://opinion-images.wsj.net/im-93121264" />
-      <enclosure url="https://opinion-images.wsj.net/im-93121264" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Trump Picks the Wrong Christian Charity</title>
-      <link>https://archive.is/o/vL57B/https://www.wsj.com/opinion/trump-picks-the-wrong-christian-charity-7f6a0aef</link>
-      <guid isPermaLink="true">https://www.wsj.com/opinion/trump-picks-the-wrong-christian-charity-7f6a0aef</guid>
-      <description>World Vision has a history of sloppy vetting to the benefit of terror groups.</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-      <ns0:thumbnail url="https://opinion-images.wsj.net/im-11495469" />
-      <enclosure url="https://opinion-images.wsj.net/im-11495469" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Commentary: China’s real robot revolution is not about humanoids</title>
-      <link>https://www.channelnewsasia.com/commentary/china-humanoid-robot-revolution-6360141</link>
-      <guid isPermaLink="true">https://www.channelnewsasia.com/commentary/china-humanoid-robot-revolution-6360141</guid>
-      <description />
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-    </item>
-    <item>
-      <title>'What Does China Want?' A Foreign Affairs podcast With Jessica Chen Weiss | - cwp.sipa.columbia.edu</title>
-      <link>https://cwp.sipa.columbia.edu/news/what-does-china-want-foreign-affairs-podcast-jessica-chen-weiss</link>
-      <guid isPermaLink="true">https://cwp.sipa.columbia.edu/news/what-does-china-want-foreign-affairs-podcast-jessica-chen-weiss</guid>
-      <description>'What Does China Want?' A Foreign Affairs podcast With Jessica Chen Weiss |  cwp.sipa.columbia.edu</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-    </item>
-    <item>
-      <title>The BTS Paradox: Does Their Use in Public Diplomacy Strain South Korean Soft Power? - uscpublicdiplomacy.org</title>
-      <link>https://uscpublicdiplomacy.org/blog/bts-paradox-does-their-use-public-diplomacy-strain-south-korean-soft-power</link>
-      <guid isPermaLink="true">https://uscpublicdiplomacy.org/blog/bts-paradox-does-their-use-public-diplomacy-strain-south-korean-soft-power</guid>
-      <description>The BTS Paradox: Does Their Use in Public Diplomacy Strain South Korean Soft Power?  uscpublicdiplomacy.org</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-    </item>
-    <item>
-      <title>What Remains After the Exchange? - uscpublicdiplomacy.org</title>
-      <link>https://uscpublicdiplomacy.org/blog/what-remains-after-exchange</link>
-      <guid isPermaLink="true">https://uscpublicdiplomacy.org/blog/what-remains-after-exchange</guid>
-      <description>What Remains After the Exchange?  uscpublicdiplomacy.org</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-    </item>
-    <item>
-      <title>Falling in Love With a Country is Not Serendipity, It is Good Public Diplomacy - uscpublicdiplomacy.org</title>
-      <link>https://uscpublicdiplomacy.org/blog/falling-love-country-not-serendipity-it-good-public-diplomacy</link>
-      <guid isPermaLink="true">https://uscpublicdiplomacy.org/blog/falling-love-country-not-serendipity-it-good-public-diplomacy</guid>
-      <description>Falling in Love With a Country is Not Serendipity, It is Good Public Diplomacy  uscpublicdiplomacy.org</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-    </item>
-    <item>
-      <title>Edwidge Danticat on Haitian Americans in a Time of Peril</title>
-      <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/edwidge-danticat-on-haitian-americans-in-a-time-of-peril</link>
-      <guid isPermaLink="false">6a9862a8ffd9fd9f98c6c360</guid>
-      <description>The writer, who recently released a new novel, speaks with The New Yorker’s Doreen St. Félix about the meaning of home in an era when Haitian Americans are targeted for mass deportation.</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://media.newyorker.com/photos/69e2a9c9bd6ef2e6093aac5d/master/pass/Radio-Hour-Secondary-Segment%201.png" />
-      <enclosure url="https://media.newyorker.com/photos/69e2a9c9bd6ef2e6093aac5d/master/pass/Radio-Hour-Secondary-Segment%201.png" type="image/png" length="0" />
-    </item>
-    <item>
-      <title>Sarah Longwell, a Former Republican, on “How to Eat an Elephant”</title>
-      <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/sarah-longwell-a-former-republican-on-how-to-eat-an-elephant</link>
-      <guid isPermaLink="false">6a9861b31aee8f398479e16c</guid>
-      <description>Working with focus groups, Longwell keeps a bead on what voters are really thinking, and how to combat Trumpism. She presents the playbook to the New Yorker staff writer Evan Osnos.</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://media.newyorker.com/photos/6a99e1bb2dac950b38fb0025/master/pass/RADIO_HOUR_Eating_Elephant_FINAL_A_260903.jpg" />
-      <enclosure url="https://media.newyorker.com/photos/6a99e1bb2dac950b38fb0025/master/pass/RADIO_HOUR_Eating_Elephant_FINAL_A_260903.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Blockbuster Audacity of “Hope”</title>
-      <link>https://www.newyorker.com/magazine/2026/09/14/hope-movie-review</link>
-      <guid isPermaLink="false">6a96d499ad1da158d55fd8c4</guid>
-      <description>In Na Hong-jin’s monster movie, violent small-town comedy and big-budget Hollywood imperialism collide.</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://media.newyorker.com/photos/6a987b1b602725334a146f5b/master/pass/r50023.jpg" />
-      <enclosure url="https://media.newyorker.com/photos/6a987b1b602725334a146f5b/master/pass/r50023.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Have We Destroyed Childhood?</title>
-      <link>https://www.newyorker.com/culture/open-questions/have-we-destroyed-childhood</link>
-      <guid isPermaLink="false">6a99c8c2bed3a1b31e19544e</guid>
-      <description>We blame smartphones—but the problem might be us.</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://media.newyorker.com/photos/6a99c8e8e601304eecd61540/master/pass/OpenQuestions_Childhood_final-4.png" />
-      <enclosure url="https://media.newyorker.com/photos/6a99c8e8e601304eecd61540/master/pass/OpenQuestions_Childhood_final-4.png" type="image/png" length="0" />
-    </item>
-    <item>
-      <title>Donald Trump’s Capital Makeover</title>
-      <link>https://www.newyorker.com/magazine/2026/09/14/donald-trumps-capital-makeover</link>
-      <guid isPermaLink="false">6a96d433928cfead8e07d03d</guid>
-      <description>A coterie of advisers, planners, and architects is enabling the President’s passion project—renovating D.C. in his own image.</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://media.newyorker.com/photos/6a99e752f8b73a4b7857425f/master/pass/r50018.jpg" />
-      <enclosure url="https://media.newyorker.com/photos/6a99e752f8b73a4b7857425f/master/pass/r50018.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How Donald Trump Outmaneuvers the Supreme Court</title>
-      <link>https://www.newyorker.com/news/the-lede/how-donald-trump-outmaneuvers-the-supreme-court</link>
-      <guid isPermaLink="false">6a98891e0cebc5ff78784348</guid>
-      <description>In both the ballroom and the mail-in-ballot cases, the President has tested the Justices’ willingness to stop him in his tracks.</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://media.newyorker.com/photos/6a98894d7cb5d7d36a400018/master/pass/Marcus-Ballroom.jpg" />
-      <enclosure url="https://media.newyorker.com/photos/6a98894d7cb5d7d36a400018/master/pass/Marcus-Ballroom.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>What Tech Titans Don’t Understand About Sci-Fi</title>
-      <link>https://www.theatlantic.com/newsletters/2026/09/the-books-briefing-tech-titans-sci-fi-asimov-lepore/688525/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-688525</guid>
-      <description>The genre frequently exposes the rot within supposedly perfect futures.</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/NCOnTg9-k_5KtUQIvJKVyGOgd88=/media/img/mt/2026/09/2026_09_04_The_Books_Briefing_Sci_Fi_Utopia_and_UBI/original.jpg" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/NCOnTg9-k_5KtUQIvJKVyGOgd88=/media/img/mt/2026/09/2026_09_04_The_Books_Briefing_Sci_Fi_Utopia_and_UBI/original.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Why So Many Men Are Unraveling</title>
-      <link>https://www.theatlantic.com/podcasts/2026/09/why-so-many-men-are-unraveling/688520/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-688520</guid>
-      <description>The disinhibited men looking for purpose in all the wrong places</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/tpvpRhGoJpqeHcXEdJzTPJW9pgE=/media/img/mt/2026/09/2026_9_4_GB_Jon_Ronson/original.png" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/tpvpRhGoJpqeHcXEdJzTPJW9pgE=/media/img/mt/2026/09/2026_9_4_GB_Jon_Ronson/original.png" type="image/png" length="0" />
-    </item>
-    <item>
-      <title>The Dark Side of Mindfulness</title>
-      <link>https://www.theatlantic.com/ideas/2026/09/meditation-willoughby-britton-downsides/688474/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-688474</guid>
-      <description>A prominent psychologist and meditation teacher set out to research the benefits of the practice. What she found alarmed her.</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/mqzpABqLKpV4D9IxAZLXieN-EtQ=/media/img/mt/2026/08/2026_07_09_what_if_meditation_was_bad_h/original.jpg" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/mqzpABqLKpV4D9IxAZLXieN-EtQ=/media/img/mt/2026/08/2026_07_09_what_if_meditation_was_bad_h/original.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Missing Ingredient of Modern Life</title>
-      <link>https://www.theatlantic.com/magazine/2026/10/modern-life-maxxing-antidote/688344/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:39-688344</guid>
-      <description>Why we need wonder</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/mUUpJ-PY911NB_TED-5cLAu6MfA=/media/img/2026/09/1026_DIS_Bogost_Wonder/original.jpg" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/mUUpJ-PY911NB_TED-5cLAu6MfA=/media/img/2026/09/1026_DIS_Bogost_Wonder/original.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Dead-Internet Theory Is Back</title>
-      <link>https://www.theatlantic.com/technology/2026/09/chatgpt-imessage-ai-texting/688507/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-688507</guid>
-      <description>Am I talking to you, or ChatGPT?</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/0l3wnAgiImakZmn_YyMgI3WMHqI=/media/img/mt/2026/09/2026_08_31_AI_texting_panic_2/original.gif" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/0l3wnAgiImakZmn_YyMgI3WMHqI=/media/img/mt/2026/09/2026_08_31_AI_texting_panic_2/original.gif" type="image/gif" length="0" />
-    </item>
-    <item>
-      <title>AI Will Transform Work, But It Can't Replace Relationships</title>
-      <link>https://time.com/article/2026/09/04/ai-will-transform-work-but-it-can-t-replace-relationships/</link>
-      <guid isPermaLink="true">https://time.com/article/2026/09/04/ai-will-transform-work-but-it-can-t-replace-relationships/</guid>
-      <description />
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-    </item>
-    <item>
-      <title>Tennessee is about to execute its first woman since 1819. Her case raises troubling questions | Austin Sarat</title>
-      <link>https://www.theguardian.com/commentisfree/2026/sep/04/tennessee-executes-first-woman-since-1819</link>
-      <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2026/sep/04/tennessee-executes-first-woman-since-1819</guid>
-      <description>&lt;p&gt;Christa Pike’s planned execution is emblematic of America’s broken death penalty system&lt;/p&gt;&lt;p&gt;On 30 September, the state of Tennessee &lt;a href="https://www.amnestyusa.org/urgent-actions/usa-woman-facing-execution-for-crime-at-age-18/"&gt;plans&lt;/a&gt; to put Christa Pike to death. She &lt;a href="https://deathpenaltyinfo.org/executions/upcoming-executions/outcomes-of-warrants/outcomes-of-death-warrants-in-2026"&gt;would&lt;/a&gt; be the third person brought to the death chamber in the Volunteer state this year, one of which was stopped after it was botched.&lt;/p&gt;&lt;p&gt;She &lt;a href="https://www.tn.gov/correction/about-us/executions.html"&gt;would&lt;/a&gt; join 17 others who have been put to death there since 1960. None of them were women.&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/sep/04/tennessee-executes-first-woman-since-1819"&gt;Continue reading...&lt;/a&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://i.guim.co.uk/img/media/63ba9ee3739491327d9bd395bbb648ec25a7ae84/0_215_1010_808/master/1010.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b69e2b070e186d98aa3cc1f962360489" />
-      <enclosure url="https://i.guim.co.uk/img/media/63ba9ee3739491327d9bd395bbb648ec25a7ae84/0_215_1010_808/master/1010.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b69e2b070e186d98aa3cc1f962360489" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Smarter machines are going to need wiser humans</title>
-      <link>https://spectator.com/article/smarter-machines-going-need-smarter-humans/?edition=us</link>
-      <guid isPermaLink="true">https://spectator.com/article/smarter-machines-going-need-smarter-humans/?edition=us</guid>
-      <description>By Jamie Metzl</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-    </item>
-    <item>
-      <title>The intrepid volunteers who risk all to preserve Ukraine’s cultural heritage</title>
-      <link>https://spectator.com/article/the-intrepid-volunteers-who-risk-all-to-preserve-ukraines-cultural-heritage/?edition=us&amp;homepage-tracking=magazine_minor-article-1</link>
-      <guid isPermaLink="true">https://spectator.com/article/the-intrepid-volunteers-who-risk-all-to-preserve-ukraines-cultural-heritage/?edition=us&amp;homepage-tracking=magazine_minor-article-1</guid>
-      <description>Books</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-    </item>
-    <item>
-      <title>This Is the Real Point of College</title>
-      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/09/04/opinion/college-freshman-education.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/opinion/college-freshman-education.html</guid>
-      <description>It’s all about the practice of freedom.</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-    </item>
-    <item>
-      <title>The Search for New Cures Is Broken</title>
-      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/09/04/opinion/clinical-trials-drugs-science.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/opinion/clinical-trials-drugs-science.html</guid>
-      <description>It is too hard for medical researchers to launch clinical trials.</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-    </item>
-    <item>
-      <title>Avoiding the Next Famine - Foreign Affairs</title>
-      <link>https://www.foreignaffairs.com/united-states/avoiding-next-famine</link>
-      <guid isPermaLink="true">https://www.foreignaffairs.com/united-states/avoiding-next-famine</guid>
-      <description>Avoiding the Next Famine  Foreign Affairs</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-    </item>
-    <item>
-      <title>Why the United States Should Recognize Somaliland - Foreign Policy</title>
-      <link>https://foreignpolicy.com/2026/09/04/somaliland-somalia-iran-houthis-united-states-israel/</link>
-      <guid isPermaLink="true">https://foreignpolicy.com/2026/09/04/somaliland-somalia-iran-houthis-united-states-israel/</guid>
-      <description>Why the United States Should Recognize Somaliland  Foreign Policy</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-    </item>
-    <item>
-      <title>Beijing Versus Washington: The New Economics of Iran’s Sanctions War - Modern Diplomacy</title>
-      <link>https://moderndiplomacy.eu/2026/09/04/beijing-versus-washington-the-new-economics-of-irans-sanctions-war/</link>
-      <guid isPermaLink="true">https://moderndiplomacy.eu/2026/09/04/beijing-versus-washington-the-new-economics-of-irans-sanctions-war/</guid>
-      <description>Beijing Versus Washington: The New Economics of Iran’s Sanctions War  Modern Diplomacy</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-    </item>
-    <item>
-      <title>A Pig’s Kidney Saved This Man’s Life. The Transplant Tech Behind It Could Save 90,000 More</title>
-      <link>https://www.inc.com/chloe-aiello/a-pigs-kidney-saved-this-mans-life-the-transplant-tech-behind-it-could-save-90000-more/91401786</link>
-      <guid isPermaLink="true">https://www.inc.com/chloe-aiello/a-pigs-kidney-saved-this-mans-life-the-transplant-tech-behind-it-could-save-90000-more/91401786</guid>
-      <description>&lt;p&gt;The organ came from a Yucatan miniature pig named Wilma, and genetic editing helped make it possible. &lt;/p&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/09/pig-kidney-transplant-worked-inc-2210002764.jpg" />
-      <enclosure url="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/09/pig-kidney-transplant-worked-inc-2210002764.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>What Was the War on Terror?</title>
-      <link>https://foreignpolicy.com/2026/09/04/war-on-terror-bush-obama-iraq-afghanistan-al-qaeda-history/</link>
-      <guid isPermaLink="true">https://foreignpolicy.com/?p=1239974</guid>
-      <description>A defining period in U.S. foreign policy has ended, but it remains misunderstood.</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://foreignpolicy.com/wp-content/uploads/2026/09/War-on-Terror-GettyImages-1328599.png" />
-      <enclosure url="https://foreignpolicy.com/wp-content/uploads/2026/09/War-on-Terror-GettyImages-1328599.png" type="image/png" length="0" />
-    </item>
-    <item>
-      <title>The Conservative Case for International Law</title>
-      <link>https://foreignpolicy.com/2026/09/04/conservative-case-for-international-law/</link>
-      <guid isPermaLink="true">https://foreignpolicy.com/?p=1239952</guid>
-      <description>Why the U.S. right should rediscover the virtues of a global legal order.</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://foreignpolicy.com/wp-content/uploads/2026/09/1-conservative-international-law-GettyImages-2185940161.jpg" />
-      <enclosure url="https://foreignpolicy.com/wp-content/uploads/2026/09/1-conservative-international-law-GettyImages-2185940161.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How Developing Countries Can Do More With Less</title>
-      <link>https://archive.is/o/xWwb1/https://www.project-syndicate.org/commentary/equitable-evaluation-is-crucial-to-decolonize-development-in-africa-by-takunda-chirau-et-al-2026-09</link>
-      <guid isPermaLink="true">https://www.project-syndicate.org/commentary/equitable-evaluation-is-crucial-to-decolonize-development-in-africa-by-takunda-chirau-et-al-2026-09</guid>
-      <description>&lt;p&gt;Evaluation frameworks for development projects have long been influenced by donor priorities. But foreign-aid cuts have created an opportunity for African countries to implement equitable evaluation practices, both to channel limited resources more effectively and to shape the future of global development governance.&lt;/p&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-    </item>
-    <item>
-      <title>America’s Naval Disaster</title>
-      <link>https://archive.is/o/xWwb1/https://www.project-syndicate.org/commentary/trump-plans-to-resurrect-american-shipbuilding-could-sink-it-further-by-anne-o-krueger-2026-09</link>
-      <guid isPermaLink="true">https://www.project-syndicate.org/commentary/trump-plans-to-resurrect-american-shipbuilding-could-sink-it-further-by-anne-o-krueger-2026-09</guid>
-      <description>&lt;p&gt;Plagued by exorbitant costs and chronic delays, American shipbuilders cannot produce enough vessels to keep pace with China. US President Donald Trump’s push to rebuild the industry does little to address its underlying problems and threatens to squander hundreds of billions of dollars.&lt;/p&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-    </item>
-    <item>
-      <title>There’s No Such Thing as an AI ‘Lab’</title>
-      <link>https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-688528</guid>
-      <description>The term lends an air of scientific rigor to what are really billion-dollar corporations.</description>
-      <pubDate>Sat, 05 Sep 2026 04:16:27 +0600</pubDate>
-      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/E1Aw1-2sR16indCQLJ9YHPAh5Dk=/media/img/mt/2026/09/2026_08_31_Sun_AI_Companies_Should_Stop_Calling_Themselves_Labs_final/original.png" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/E1Aw1-2sR16indCQLJ9YHPAh5Dk=/media/img/mt/2026/09/2026_08_31_Sun_AI_Companies_Should_Stop_Calling_Themselves_Labs_final/original.png" type="image/png" length="0" />
-    </item>
-    <item>
-      <title>Trump’s Antitrust Gambit May Backfire</title>
-      <link>https://www.theatlantic.com/ideas/2026/09/live-nation-trump-antitrust-monopolies/688508/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-688508</guid>
-      <description>What the Live Nation case says about the fate of monopolies now</description>
-      <pubDate>Sat, 05 Sep 2026 04:16:27 +0600</pubDate>
-      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/Y9SEV0-OqelvlSZqCp1O-xWjrZo=/media/img/mt/2026/09/2026_08_28_doj_trump_mpg/original.jpg" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/Y9SEV0-OqelvlSZqCp1O-xWjrZo=/media/img/mt/2026/09/2026_08_28_doj_trump_mpg/original.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>More stock ownership, weaker monetary policy?</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/ed41bea0-4b8d-47dc-9989-018bd85e52fd?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/ed41bea0-4b8d-47dc-9989-018bd85e52fd?syn-25a6b1a6=1</guid>
-      <description>A counterintuitive quirk</description>
-      <pubDate>Sat, 05 Sep 2026 04:16:27 +0600</pubDate>
-    </item>
-    <item>
-      <title>Luckin Coffee killed our lunch spot. Here’s what that says about geopolitics</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/0ace3335-e3c9-4b75-ae02-0d4655885990</link>
-      <guid isPermaLink="true">https://www.ft.com/content/0ace3335-e3c9-4b75-ae02-0d4655885990</guid>
-      <description>Half a decade on from a fraud scandal, the Chinese chain is thriving in New York City — and pushing out the locals</description>
-      <pubDate>Sat, 05 Sep 2026 04:16:27 +0600</pubDate>
-    </item>
-    <item>
-      <title>The university degree is losing its lustre</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/54cf40cd-149f-40db-b603-21aecd5f66ec?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/54cf40cd-149f-40db-b603-21aecd5f66ec?syn-25a6b1a6=1</guid>
-      <description>Technological and economic shifts are eroding the graduate premium</description>
-      <pubDate>Sat, 05 Sep 2026 04:16:27 +0600</pubDate>
-    </item>
-    <item>
-      <title>Why the US and Iran keep escalating</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/f8b2e4ad-6af2-4cf5-aae2-d1d359b31fa4?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/f8b2e4ad-6af2-4cf5-aae2-d1d359b31fa4?syn-25a6b1a6=1</guid>
-      <description>As Trump hardens his stance over negotiations, Tehran remains determined to keep the Strait of Hormuz closed</description>
-      <pubDate>Sat, 05 Sep 2026 04:16:27 +0600</pubDate>
-    </item>
-    <item>
-      <title>America must learn AI lessons from Astro Boy</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/68751904-522a-41cc-85e0-08015fe75059?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/68751904-522a-41cc-85e0-08015fe75059?syn-25a6b1a6=1</guid>
-      <description>Asian cultures harbour a very different attitude towards technologies that are regarded as threatening in the west</description>
-      <pubDate>Sat, 05 Sep 2026 04:16:27 +0600</pubDate>
-    </item>
-    <item>
-      <title>The rise of Texas</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/fff531fc-988c-4016-9b5b-25f2274f4d47?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/fff531fc-988c-4016-9b5b-25f2274f4d47?syn-25a6b1a6=1</guid>
-      <description>For 30 years the state has profited from going the extra mile for business. Data centres are putting that to the test</description>
-      <pubDate>Sat, 05 Sep 2026 04:16:27 +0600</pubDate>
-    </item>
-    <item>
-      <title>When does rage help us, and when does it harm us? Ukraine has taught me the answers | Charlotte Higgins</title>
-      <link>https://www.theguardian.com/commentisfree/2026/sep/04/ukraine-artists-rage-requiem-resistance-literature-homer</link>
-      <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2026/sep/04/ukraine-artists-rage-requiem-resistance-literature-homer</guid>
-      <description>&lt;p&gt;Fury at Russia’s death and destruction has fuelled art, action and resistance. But eventually, rage’s fire is all-consuming&lt;/p&gt;&lt;p&gt;Twice, I have heard Ukrainians perform Verdi’s Requiem. Once &lt;a href="https://philharmonia.lviv.ua/en/event/verdi-rekviiem/"&gt;in Lviv&lt;/a&gt;, last Maundy Thursday, and once last month, under the great dome of St Paul’s Cathedral in London. In &lt;a href="https://www.stpauls.co.uk/whats-on/ukrainian-freedom-orchestra-verdis-requiem"&gt;St Paul’s&lt;/a&gt;, performed by the Ukrainian Freedom Orchestra with the Philharmonia Chorus, the great &lt;em&gt;Dies irae&lt;/em&gt;&lt;em&gt; &lt;/em&gt;– “day of anger” – unfurled in an operatic gale of fury, reverberating so powerfully around Wren’s lofty spaces that the music felt like thunder echoing between mountain peaks.&lt;/p&gt;&lt;p&gt;In Lviv, where it was performed by a Ukrainian chorus and orchestra, the evening began with a call to remember the war dead. Lviv’s lay a mile up the road: 153 graves when I first visited in autumn 2022, and by this year more than 1,000. Ranks and ranks of soldiers killed in their 20s, 30s and 40s, each grave planted with flowers and plants, flags flying above. On that occasion, &lt;em&gt;Dies irae&lt;/em&gt; – in the more sober acoustic of the Lviv Philharmonic Hall – seemed to contain the furious ache of grief. Certainly I have never heard a more wrathful day of anger.&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/sep/04/ukraine-artists-rage-requiem-resistance-literature-homer"&gt;Continue reading...&lt;/a&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 04:16:27 +0600</pubDate>
-      <media:thumbnail url="https://i.guim.co.uk/img/media/7d32c78b6c7eba24b3214a7256acaf032cdfd601/0_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4276e52cd34e4e97d69d0996dbbdc41" />
-      <enclosure url="https://i.guim.co.uk/img/media/7d32c78b6c7eba24b3214a7256acaf032cdfd601/0_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4276e52cd34e4e97d69d0996dbbdc41" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Britain’s schools are failing its young people – and 1m Neets are paying the price | Simon Jenkins</title>
-      <link>https://www.theguardian.com/commentisfree/2026/sep/04/britain-schools-young-people-neets-exams-training</link>
-      <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2026/sep/04/britain-schools-young-people-neets-exams-training</guid>
-      <description>&lt;p&gt;Obsessed with exams, devoid of vocational training: there is a total mismatch between schools and life beyond their gates&lt;/p&gt;&lt;p&gt;Blame the schools. &lt;a href="https://www.theguardian.com/society/2026/may/28/a-record-of-failure-whats-in-the-first-part-of-alan-milburns-neet-report"&gt;Alan Milburn’s report on Neets&lt;/a&gt;, published in May, was one of the most damning comments on the welfare state I have read. It described a new generation of a million mostly poor Britons now encouraged to fare worse, not better, than their parents. This means, &lt;a href="https://www.gov.uk/government/publications/young-people-and-work-interim-report/young-people-and-work-interim-report"&gt;said Milburn&lt;/a&gt;, that “the great British promise” – the advance of generations – is being broken. A sizeable chunk of the population is going backwards.&lt;/p&gt;&lt;p&gt;The number of young people not in education, employment or training – one in eight of all 16- to 24-year-olds – is rising fast and will be 1.25 million by 2030. More than 80% of them claim to want to find a job, education or training. A third even have “good GCSEs”, but 44% of them are on state benefits, now costing £8.1bn. Many of them suffer from anxiety and other disabilities, according to the NHS. The number of young people with special educational needs has doubled in 10 years. Mental ill-health is bordering on pandemic levels.&lt;/p&gt;&lt;p&gt;Simon Jenkins is a Guardian columnist&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/sep/04/britain-schools-young-people-neets-exams-training"&gt;Continue reading...&lt;/a&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 04:16:27 +0600</pubDate>
-      <media:thumbnail url="https://i.guim.co.uk/img/media/3ee4730c8f19ce6a11e4508f6dddc51c18df4da9/558_0_4070_3258/master/4070.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1de8b977c3ae5ec9417661ae32a81fbb" />
-      <enclosure url="https://i.guim.co.uk/img/media/3ee4730c8f19ce6a11e4508f6dddc51c18df4da9/558_0_4070_3258/master/4070.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1de8b977c3ae5ec9417661ae32a81fbb" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>‘Capitalism is dying’: in Luton, these former car workers have a moral tale for our times | Aditya Chakrabortty</title>
-      <link>https://www.theguardian.com/commentisfree/2026/sep/04/capitalism-luton-car-workers-vauxhall-motors-labour-unions-reform</link>
-      <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2026/sep/04/capitalism-luton-car-workers-vauxhall-motors-labour-unions-reform</guid>
-      <description>&lt;p&gt;Abandoned by the company they worked for, let down by Labour and their unions – now they watch their friends turn to Reform for answers&lt;/p&gt;&lt;p&gt;After everything, why would anyone still back Nigel Farage? In some of the comments below my piece &lt;a href="https://www.theguardian.com/commentisfree/2026/aug/27/does-nigel-farage-know-what-people-really-think-of-him-i-do-and-he-wont-like-it"&gt;last week&lt;/a&gt; about Reform UK, I spot the usual answers: Farage’s supporters are dim, racist, deplorable. Yet away from Westminster and the news cycle, Reform voters are being manufactured – not with headlines or crypto funds but through the failure of institutions they once trusted to protect them. To see what I mean, leave SW1 and go 40 miles up the road, to Luton.&lt;/p&gt;&lt;p&gt;In a deserted hotel bar, five men are reminiscing about how their world ended. Their minds are on a Friday afternoon in March last year, as the place where they had worked for two or three decades apiece, making friends and even meeting future wives, is about to shut for good.&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/sep/04/capitalism-luton-car-workers-vauxhall-motors-labour-unions-reform"&gt;Continue reading...&lt;/a&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 04:16:27 +0600</pubDate>
-      <media:thumbnail url="https://i.guim.co.uk/img/media/796212e65d002cad745839abdff20ee3f13d5753/472_0_5800_4640/master/5800.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=30c9fc264c41c1d90602ee1ad3df1cd2" />
-      <enclosure url="https://i.guim.co.uk/img/media/796212e65d002cad745839abdff20ee3f13d5753/472_0_5800_4640/master/5800.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=30c9fc264c41c1d90602ee1ad3df1cd2" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Wed, 09 Sep 2026 21:35:28 +0000</lastBuildDate>
     <item>
       <title>UK has not done enough to prepare for shocks to food supplies, says watchdog</title>
       <link>https://www.theguardian.com/business/2026/sep/04/uk-not-done-enough-to-prepare-for-shocks-to-food-supplies-says-watchdog</link>
@@ -4394,6 +3940,482 @@ The jazz industry, meanwhile, is gorging on their centenaries with recordings, n
       <guid isPermaLink="true">https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/09/analysing-africa-newsletter-inside-nigerias-secret-radio-station</guid>
       <description>Ore Ogunbiyi, our Africa correspondent, on how the guerrilla journalism of Radio Kudirat became a democratic beacon</description>
       <pubDate>Wed, 09 Sep 2026 20:18:04 +0600</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian troops can’t easily leave the front for medical care. They want more of it brought to them.</title>
+      <link>https://www.businessinsider.com/ukrainian-troops-cant-leave-front-want-medical-care-brought-forward-2026-9</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/ukrainian-troops-cant-leave-front-want-medical-care-brought-forward-2026-9</guid>
+      <description>Soldiers are spending longer periods in combat areas, making it difficult to treat illness, a battalion spokesperson said.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://i.insider.com/6aa16696cc23a829a3b8f29d?format=jpeg" />
+      <enclosure url="https://i.insider.com/6aa16696cc23a829a3b8f29d?format=jpeg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The Real Legacy of Lonnie Bunch</title>
+      <link>https://www.theatlantic.com/culture/2026/09/lonnie-bunch-smithsonian-legacy/688550/</link>
+      <guid isPermaLink="false">tag:theatlantic.com,2026:50-688550</guid>
+      <description>The Smithsonian secretary protected an American institution from more than Donald Trump.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/ynObkOhOeLjIAkmL7cI-KssWx1s=/media/img/mt/2026/09/2026_09_08_Lonnie_Bunch-1/original.jpg" />
+      <enclosure url="https://cdn.theatlantic.com/thumbor/ynObkOhOeLjIAkmL7cI-KssWx1s=/media/img/mt/2026/09/2026_09_08_Lonnie_Bunch-1/original.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Dating Apps Are Dying</title>
+      <link>https://time.com/article/2026/09/09/dating-apps-are-dying/</link>
+      <guid isPermaLink="true">https://time.com/article/2026/09/09/dating-apps-are-dying/</guid>
+      <description />
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>AI Is at a Turning Point</title>
+      <link>https://time.com/article/2026/09/09/ai-is-at-a-turning-point/</link>
+      <guid isPermaLink="true">https://time.com/article/2026/09/09/ai-is-at-a-turning-point/</guid>
+      <description />
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>An Anthropic Researcher Quit Over Fears AI Could Kill Us. Here’s Why</title>
+      <link>https://time.com/article/2026/09/09/ai-anthropic-openai-jacob-coxon/</link>
+      <guid isPermaLink="true">https://time.com/article/2026/09/09/ai-anthropic-openai-jacob-coxon/</guid>
+      <description />
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>A season in hell: inside the 11 September Guardian Weekly</title>
+      <link>https://www.theguardian.com/news/2026/sep/09/a-season-in-hell-inside-the-11-september-guardian-weekly</link>
+      <guid isPermaLink="true">https://www.theguardian.com/news/2026/sep/09/a-season-in-hell-inside-the-11-september-guardian-weekly</guid>
+      <description>&lt;p&gt;Tourism feels the heat of a changing climate. &lt;strong&gt;Plus:&lt;/strong&gt; Germany’s poll shock sparks  fear and dismay&lt;/p&gt;&lt;p&gt;• &lt;a href="https://support.theguardian.com/uk/subscribe/weekly?promoCode=WWM53X"&gt;&lt;strong&gt;Get the Guardian Weekly delivered to your home address&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;California’s Big Sur coastline is often called a slice of heaven. But this year – beset by wildfires, road closures and disruptions to tourist amenities – it has endured a long summer of hell. Now questions are being asked about how many visitors it can sustain in the face of the climate crisis.&lt;/p&gt;&lt;p&gt;For our big story this week, &lt;a href="https://www.theguardian.com/profile/andrew-gumbel"&gt;Andrew Gumbel&lt;/a&gt; visits Big Sur, where the tourist industry accounts for about 90% of the local economy, to hear why the community fears its ethos is under threat.&lt;/p&gt; &lt;a href="https://www.theguardian.com/news/2026/sep/09/a-season-in-hell-inside-the-11-september-guardian-weekly"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/52ae057389daea8c3be3e66db69dfc1835dd2b6a/0_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba446dbccf46345dc91ecde4e9a8d48f" />
+      <enclosure url="https://i.guim.co.uk/img/media/52ae057389daea8c3be3e66db69dfc1835dd2b6a/0_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba446dbccf46345dc91ecde4e9a8d48f" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Indonesian foragers may have sucked on mind-altering nuts 25,000 years ago, research finds</title>
+      <link>https://www.theguardian.com/science/2026/sep/09/indonesian-foragers-mind-altering-nuts-research-finds</link>
+      <guid isPermaLink="true">https://www.theguardian.com/science/2026/sep/09/indonesian-foragers-mind-altering-nuts-research-finds</guid>
+      <description>&lt;p&gt;Analysis of two skeletons reveals tooth wear and traces of psychoactive substance in what may be earliest known evidence for human drug taking&lt;/p&gt;&lt;p&gt;What may be the earliest known evidence for human drug taking has been traced to ancient Indonesian foragers who sucked on mind-altering nuts as long as 25,000 years ago.&lt;/p&gt;&lt;p&gt;Analysis of two exceptionally rare skeletons from the Indonesian island of Sulawesi revealed dramatic tooth wear and traces of a psychoactive substance in the individuals’ remaining teeth, suggesting they routinely sucked on hard, abrasive betel nuts.&lt;/p&gt; &lt;a href="https://www.theguardian.com/science/2026/sep/09/indonesian-foragers-mind-altering-nuts-research-finds"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/27ab524c736c8bc4fd9a9b41d382929ff221e127/0_1876_4000_3200/master/4000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b418e8d13e8f991924ef888a9c2e42ea" />
+      <enclosure url="https://i.guim.co.uk/img/media/27ab524c736c8bc4fd9a9b41d382929ff221e127/0_1876_4000_3200/master/4000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b418e8d13e8f991924ef888a9c2e42ea" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Death and fear stalk Haitians in Ohio city amid Trump’s anti-immigrant crackdown</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/09/haitians-ohio-city-trump-anti-immigrant-crackdown</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/09/haitians-ohio-city-trump-anti-immigrant-crackdown</guid>
+      <description>&lt;p&gt;Springfield community mourns one of its own after Pierre Damas Bel, who was forced to wear electronic ankle bracelet by ICE, walked into traffic and was killed by truck&lt;/p&gt;&lt;p&gt;For 20-year-old Pierre Damas Bel, the humiliation of starting college last month with an electronic ankle bracelet – attached by ICE agents this summer – was deeply traumatic.&lt;/p&gt;&lt;p&gt;“I’m walking through the streets of the United States with a GPS monitor on my leg, carrying a feeling of shame and humiliation that I never imagined I would experience,” he wrote on Instagram in July.&lt;/p&gt;&lt;p&gt;&lt;em&gt;In the UK and Ireland,&lt;a href="https://www.samaritans.org/"&gt; Samaritans&lt;/a&gt; can be contacted on freephone 116 123. In the US, you can call or text the&lt;a href="https://988lifeline.org/"&gt; 988 Suicide &amp;amp; Crisis Lifeline&lt;/a&gt; at 988 or chat at&lt;a href="https://988lifeline.org/"&gt; 988lifeline.org&lt;/a&gt;. In Australia, the crisis support service&lt;a href="https://www.lifeline.org.au/"&gt; Lifeline&lt;/a&gt; is 13 11 14. Other international helplines can be found at&lt;a href="http://www.befrienders.org/"&gt; befrienders.org&lt;/a&gt;&lt;/em&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2026/sep/09/haitians-ohio-city-trump-anti-immigrant-crackdown"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/201f37c69b9e7be277f3a1501b153a19e4da17f9/0_0_4905_3924/master/4905.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=06ddf946db5ce43ee9459ba7c7217f55" />
+      <enclosure url="https://i.guim.co.uk/img/media/201f37c69b9e7be277f3a1501b153a19e4da17f9/0_0_4905_3924/master/4905.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=06ddf946db5ce43ee9459ba7c7217f55" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>‘Dress good to run fast’: How Black athletes became style icons</title>
+      <link>https://www.theguardian.com/news/2026/sep/08/dress-good-to-run-fast-how-black-athletes-became-style-icons</link>
+      <guid isPermaLink="true">https://www.theguardian.com/news/2026/sep/08/dress-good-to-run-fast-how-black-athletes-became-style-icons</guid>
+      <description>&lt;p&gt;From Naomi Osaka’s NBA-inspired entrance to Dennis Rodman’s punk aesthetic, Black sportspeople have long used fashion to express identity, defiance and joy&lt;/p&gt;&lt;p&gt;When Long Wave lead writer Nesrine Malik asked me if I’d seen Japanese-Haitian tennis star Naomi Osaka’s incredible pre-match look, I began to wax lyrical about the kimono she donned at Wimbledon a couple of months ago. No, not that look – Nesrine was talking about the &lt;a href="https://www.theguardian.com/sport/2026/sep/01/naomi-osaka-us-open-outfit-allen-iverson"&gt;NBA-inspired hoodie&lt;/a&gt; she wore at the US Open, taking to the court head bowed and hands in pockets, with the theatre of a WWE wrestler. By the time I sat down to write, Osaka had worn another viral walk-on outfit.&lt;/p&gt;&lt;p&gt;The star isn’t the first to acquire as many headlines for her clothes as for her performance. Osaka draws on a long tradition of Black athletes giving crowds their money’s worth through playful and provocative fashion statements. I delved into the history of why so many Black communities have a culture of “presenting”, and how defiance through fashion has&lt;strong&gt; &lt;/strong&gt;found a natural home in sport.&lt;/p&gt; &lt;a href="https://www.theguardian.com/news/2026/sep/08/dress-good-to-run-fast-how-black-athletes-became-style-icons"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/db23f5eef5ccf5c8f4bbee1eb67819e0ddae9bfc/0_0_3750_3000/master/3750.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f943e928acf1c394321d18707b4d8d75" />
+      <enclosure url="https://i.guim.co.uk/img/media/db23f5eef5ccf5c8f4bbee1eb67819e0ddae9bfc/0_0_3750_3000/master/3750.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f943e928acf1c394321d18707b4d8d75" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Seven of my colleagues were killed in Gaza. There and in Ukraine, aid workers are no longer safe | José Andrés</title>
+      <link>https://www.theguardian.com/commentisfree/2026/sep/09/gaza-ukraine-aid-workers-world-central-kitchen-workers-idf-geneva-conventions</link>
+      <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2026/sep/09/gaza-ukraine-aid-workers-world-central-kitchen-workers-idf-geneva-conventions</guid>
+      <description>&lt;p&gt;It now seems the 2024 attack on World Central Kitchen workers was a deliberate IDF tactic. The protections of the Geneva conventions have become paper thin&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;José Andrés is the founder of the food aid charity World Central Kitchen&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;In times of war, the hard and vital work of supplying food, water and medicine has been protected by international agreements for &lt;a href="https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949/article-55/commentary/2025"&gt;almost 80 years&lt;/a&gt;. Yet those protections have been systematically and repeatedly ignored in the two most bloody wars of recent years: Ukraine and Gaza.&lt;/p&gt;&lt;p&gt;Russia has attacked healthcare targets in Ukraine more than 3,200 times since the full-scale invasion in February 2022, &lt;a href="https://news.un.org/en/story/2026/08/1168226"&gt;according to the World Health Organization&lt;/a&gt;: about twice a day on average. That includes many “double-tap” attacks on the same target in quick succession, which are especially lethal for first responders.&lt;/p&gt;&lt;p&gt;José Andrés is the founder of the food aid charity World Central Kitchen, and a Michelin-starred chef&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our&lt;a href="https://www.theguardian.com/tone/letters"&gt; letters&lt;/a&gt; section, please &lt;a href="mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary."&gt;click here&lt;/a&gt;.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/sep/09/gaza-ukraine-aid-workers-world-central-kitchen-workers-idf-geneva-conventions"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/b2869ca2bc471f7fd27036ad779aa9f49da8a7ba/888_0_4560_3648/master/4560.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=931198be78eb01fd4bcd68b4d1a2ae6b" />
+      <enclosure url="https://i.guim.co.uk/img/media/b2869ca2bc471f7fd27036ad779aa9f49da8a7ba/888_0_4560_3648/master/4560.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=931198be78eb01fd4bcd68b4d1a2ae6b" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Peter’s farm is on ‘flood country’. As Australia’s sea levels rise, safe land is vanishing and costs are huge</title>
+      <link>https://www.theguardian.com/environment/2026/sep/10/peters-farm-is-on-flood-country-as-australias-sea-levels-rise-safe-land-is-vanishing-and-costs-are-huge</link>
+      <guid isPermaLink="true">https://www.theguardian.com/environment/2026/sep/10/peters-farm-is-on-flood-country-as-australias-sea-levels-rise-safe-land-is-vanishing-and-costs-are-huge</guid>
+      <description>&lt;p&gt;Climate Council forecasts more than 267,000 coastal properties will be damaged by flooding by 2100, costing hundreds of billions of dollars&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl"&gt;breaking news email&lt;/a&gt;, &lt;a href="https://app.adjust.com/w4u7jx3"&gt;free app&lt;/a&gt; or &lt;a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl"&gt;daily news podcast&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;When grazier Peter Lake moved to the Clarence Valley in the New South Wales northern rivers region in 2007, he knew was “buying in flood country with … eyes open”.&lt;/p&gt;&lt;p&gt;His cattle farm, about halfway between Yamba and Grafton, borders the Coldstream River and has flooded five times since 2009.&lt;/p&gt; &lt;a href="https://www.theguardian.com/environment/2026/sep/10/peters-farm-is-on-flood-country-as-australias-sea-levels-rise-safe-land-is-vanishing-and-costs-are-huge"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/f9eafa6373f70e1d2e489b322032bbe4624e57ad/738_311_4001_3201/master/4001.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ccdb4465cab77604a43c1fd66150bf0" />
+      <enclosure url="https://i.guim.co.uk/img/media/f9eafa6373f70e1d2e489b322032bbe4624e57ad/738_311_4001_3201/master/4001.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ccdb4465cab77604a43c1fd66150bf0" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>‘I’m astonished by the vitriol’: author Rozina Ali on the rise of Islamophobia after 9/11</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/09/islamophobia-9-11-rozina-ali-interview</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/09/islamophobia-9-11-rozina-ali-interview</guid>
+      <description>&lt;p&gt;In her new book Seasons of Fury, Ali traces the impact of anti-Muslim policies in the US, from the 1967 Israel-Arab war and the ‘war on terror’ to Trump&lt;/p&gt;&lt;p&gt;Growing up in the early 2000s in California, surrounded by piles of history books about the Kennedy family and her Buffy the Vampire Slayer DVDs, Rozina Ali’s childhood felt idyllic. She and her family had moved from Pakistan to the US when Ali was five years old and ever since she had immersed herself in her new world.&lt;/p&gt;&lt;p&gt;“I really, really also believed in American exceptionalism,” said Ali, now a journalist working for New York Times Magazine, in a recent interview with &lt;a href="https://www.theguardian.com/us-news/series/stateside"&gt;Stateside with Kai and Carter&lt;/a&gt;, a Guardian podcast. So when her parents sat Ali and her siblings down in the hours after the September 11, 2001 terror attacks, almost every word coming out of their mouths felt wrong.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2026/sep/09/islamophobia-9-11-rozina-ali-interview"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/5e0e6381ab18cbb4d0fabf49696cc8e69cce791c/0_67_2650_2120/master/2650.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=798cb44155d79737ee71e03306648e87" />
+      <enclosure url="https://i.guim.co.uk/img/media/5e0e6381ab18cbb4d0fabf49696cc8e69cce791c/0_67_2650_2120/master/2650.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=798cb44155d79737ee71e03306648e87" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Opinion | Leipzig Attack Is a Warning of the Drone Threat Against Europe</title>
+      <link>https://archive.is/o/soww3/https://www.wsj.com/opinion/leipzig-attack-is-a-warning-of-the-drone-threat-against-europe-ec883dce?mod=rss_worldnews</link>
+      <guid isPermaLink="true">https://www.wsj.com/opinion/leipzig-attack-is-a-warning-of-the-drone-threat-against-europe-ec883dce?mod=rss_worldnews</guid>
+      <description>Pure luck saved Germany from a catastrophe. The European Union needs a comprehensive strategy.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://opinion-images.wsj.net/im-66395957" />
+      <enclosure url="https://opinion-images.wsj.net/im-66395957" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The origins of American paranoia</title>
+      <link>https://www.newstatesman.com/culture/books/rereadings/2026/09/the-origins-of-american-paranoia</link>
+      <guid isPermaLink="true">https://www.newstatesman.com/?p=535462</guid>
+      <description>It isn't economic hardship driving voters towards Trump, it's an anxiety about status, fed by the rootlessness and heterogeneity of American life</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>The children of 9/11</title>
+      <link>https://www.newstatesman.com/culture/tv/2026/09/the-children-of-9-11</link>
+      <guid isPermaLink="true">https://www.newstatesman.com/?p=535469</guid>
+      <description>A generation can't remember the events of that day, and yet it still changed their lives</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>What if the communist project succeeded?</title>
+      <link>https://www.newstatesman.com/culture/books/book-of-the-day/2026/09/what-if-communist-project-succeeded</link>
+      <guid isPermaLink="true">https://www.newstatesman.com/?p=535458</guid>
+      <description>Running through Paul Mason’s chronicle of communism lurks a regret that things didn’t turn out better</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>From the archive: Gloria Steinem’s outrageous acts</title>
+      <link>https://www.newstatesman.com/archive/2026/09/from-the-archive-gloria-steinems-outrageous-acts</link>
+      <guid isPermaLink="true">https://www.newstatesman.com/?p=535419</guid>
+      <description>April 1984: Anne Smith on the American feminist</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>The Venice Biennale and the society of the spectacle</title>
+      <link>https://www.newstatesman.com/culture/art-design/2026/09/the-venice-biennale-and-the-society-of-the-spectacle</link>
+      <guid isPermaLink="true">https://www.newstatesman.com/?p=535481</guid>
+      <description>The 2026 Venice Biennale explores the vexed relationship between witnessing a broken world and being complicit in it</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>Valeria Luiselli’s Sicilian odyssey</title>
+      <link>https://www.newstatesman.com/culture/books/book-of-the-day/2026/09/valeria-luisellis-sicilian-odyssey</link>
+      <guid isPermaLink="true">https://www.newstatesman.com/?p=535456</guid>
+      <description>Inspired by the classics, a mother and daughter set out to find where they belong</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>My night in jail with Gloria Steinem</title>
+      <link>https://www.newstatesman.com/culture/life/2026/09/my-night-in-jail-with-gloria-steinem</link>
+      <guid isPermaLink="true">https://www.newstatesman.com/?p=535450</guid>
+      <description>It was a surprising place to meet my hero, but she lived up to every expectation</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>9/11 divides Americans now</title>
+      <link>https://www.newstatesman.com/international-content/only-in-america/2026/09/9-11-divides-americans-now</link>
+      <guid isPermaLink="true">https://www.newstatesman.com/?p=535442</guid>
+      <description>One man’s 9/11 is another man’s “inside job” – even within Trump’s government</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>Palestine’s children have suffered untold horrors</title>
+      <link>https://www.newstatesman.com/international-politics/2026/09/palestines-children-have-suffered-untold-horrors</link>
+      <guid isPermaLink="true">https://www.newstatesman.com/?p=535452</guid>
+      <description>The young are too often the greatest casualties of war</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>Why social mobility is key to growth and innovation</title>
+      <link>https://www.newstatesman.com/spotlight/economic-growth/2026/09/why-social-mobility-is-key-to-growth-and-innovation</link>
+      <guid isPermaLink="true">https://www.newstatesman.com/?p=535613</guid>
+      <description>Successfully transforming Britain demands stronger local economies and a new approach to opportunity</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>The fight between humans and AI will be bigger than the culture wars</title>
+      <link>https://www.newstatesman.com/technology/2026/09/the-fight-between-humans-and-ai-will-be-bigger-than-the-culture-wars</link>
+      <guid isPermaLink="true">https://www.newstatesman.com/?p=535435</guid>
+      <description>We should expect some kind of popular anti-tech revolt</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>Phone-tracking parents are raising a generation of infantilised teens</title>
+      <link>https://www.newstatesman.com/politics/future-perfect/2026/09/phone-tracking-parents-are-raising-a-generation-of-infantilised-teens</link>
+      <guid isPermaLink="true">https://www.newstatesman.com/?p=535423</guid>
+      <description>Full adulthood is being pushed further out of reach</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>The Data Center Conundrum</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/09/09/opinion/data-center-ai-resistance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/09/opinion/data-center-ai-resistance.html</guid>
+      <description>Let’s learn from Nordic Countries: If America actually supported workers, we’d have a better shot at embracing technological change.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>I Worked on Safety at OpenAI. The Fix Isn’t Hard.</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/09/09/opinion/openai-ai-companies-safety-regulation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/09/opinion/openai-ai-companies-safety-regulation.html</guid>
+      <description>Even without government regulation, private companies can act on their own to address A.I. safety concerns.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>The 9/11 trial that never happened</title>
+      <link>https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/2026/09/09/911-attack-terror-suspects-should-have-faced-trial-federal-courts/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/09/09/911-attack-terror-suspects-should-have-faced-trial-federal-courts/</guid>
+      <description>President Obama’s wavering and Congress’s fear killed the court case Americans deserved to hear.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s way of fighting war can’t match what’s coming</title>
+      <link>https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/2026/09/09/how-russia-is-erasing-ukraines-battlefield-advantage/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/09/09/how-russia-is-erasing-ukraines-battlefield-advantage/</guid>
+      <description>Russia is shifting its strategy to erase Kyiv’s battlefield advantages.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>The strange truth behind our obsession with UFOs and aliens</title>
+      <link>https://archive.is/o/lkW9s/https://www.washingtonpost.com/podcasts/impromptu/the-strange-truth-behind-our-obsession-with-ufos-and-aliens/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/podcasts/impromptu/the-strange-truth-behind-our-obsession-with-ufos-and-aliens/</guid>
+      <description>It doesn’t take much to ignite a new wave of alien conspiracy theories on social media. But beyond the internet speculation lies a serious scientific question: If billions of planets could support life, why haven’t we found any?
+
+Host Megan McArdle revisits her conversation with astrophysicist and author of “The Little Book of Aliens,” Adam Frank, to explore why he thinks extraterrestrial life probably exists — and why UFO sightings offer little evidence. They discuss how scientists are searching for alien life, why microbes may be far more common than intelligent civilizations and what extraterrestrials might look like if we ever find them.
+
+This episode was originally published on June 10, 2026.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>The Emergency Supreme Court Order of Sept. 12, 2001</title>
+      <link>https://archive.is/o/vL57B/https://www.wsj.com/opinion/why-the-supreme-court-stayed-an-execution-on-sept-12-2001-eb80725d</link>
+      <guid isPermaLink="true">https://www.wsj.com/opinion/why-the-supreme-court-stayed-an-execution-on-sept-12-2001-eb80725d</guid>
+      <description>Chief Justice Rehnquist was adamant about not letting terrorists disrupt the judicial routine.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://opinion-images.wsj.net/im-32544671" />
+      <enclosure url="https://opinion-images.wsj.net/im-32544671" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Europe is playing a dangerous game with Russia</title>
+      <link>https://www.rt.com/news/645352-europe-is-playing-dangerous-game/?&amp;</link>
+      <guid isPermaLink="true">https://www.rt.com/news/645352-europe-is-playing-dangerous-game/?&amp;</guid>
+      <description />
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>Melting Glaciers and Monster Floods Threaten Nepal’s Big Bet on Hydropower</title>
+      <link>https://www.hindustantimes.com/world-news/melting-glaciers-and-monster-floods-threaten-nepal-s-big-bet-on-hydropower-101788947860346.html</link>
+      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/melting-glaciers-and-monster-floods-threaten-nepal-s-big-bet-on-hydropower-101788947860346.html</guid>
+      <description />
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>World leaders are losing their terror of nuclear war</title>
+      <link>https://www.hindustantimes.com/world-news/world-leaders-are-losing-their-terror-of-nuclear-war-101788942932457.html</link>
+      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/world-leaders-are-losing-their-terror-of-nuclear-war-101788942932457.html</guid>
+      <description />
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>Who Believes in Gulf Futurism? - E-International Relations</title>
+      <link>https://www.e-ir.org/p/who-believes-in-gulf-futurism</link>
+      <guid isPermaLink="true">https://www.e-ir.org/p/who-believes-in-gulf-futurism</guid>
+      <description>Who Believes in Gulf Futurism?  E-International Relations</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>How 9/11 shaped 25 years of U.S. foreign policy - Monadnock Ledger-Transcript</title>
+      <link>https://ledgertranscript.com/2026/09/09/war-on-terror-long-term-effects/</link>
+      <guid isPermaLink="true">https://ledgertranscript.com/2026/09/09/war-on-terror-long-term-effects/</guid>
+      <description>How 9/11 shaped 25 years of U.S. foreign policy  Monadnock Ledger-Transcript</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>Geopolitics of Nathu-La: A Strategic Gateway to South Asia - tibet.net</title>
+      <link>https://tibet.net/geopolitics-of-nathu-la-a-strategic-gateway-to-south-asia/</link>
+      <guid isPermaLink="true">https://tibet.net/geopolitics-of-nathu-la-a-strategic-gateway-to-south-asia/</guid>
+      <description>Geopolitics of Nathu-La: A Strategic Gateway to South Asia  tibet.net</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>Is China’s AI Rise Deepening the US Technology Security Battle? - moderndiplomacy.eu</title>
+      <link>https://moderndiplomacy.eu/2026/09/09/is-chinas-ai-rise-deepening-the-us-technology-security-battle/</link>
+      <guid isPermaLink="true">https://moderndiplomacy.eu/2026/09/09/is-chinas-ai-rise-deepening-the-us-technology-security-battle/</guid>
+      <description>Is China’s AI Rise Deepening the US Technology Security Battle?  moderndiplomacy.eu</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>How al-Qaeda Ended - Foreign Affairs</title>
+      <link>https://www.foreignaffairs.com/united-states/sept-11-how-al-qaeda-ended</link>
+      <guid isPermaLink="true">https://www.foreignaffairs.com/united-states/sept-11-how-al-qaeda-ended</guid>
+      <description>How al-Qaeda Ended  Foreign Affairs</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>Building profitable EVs: Ten structural design moves to cut material costs</title>
+      <link>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/building-profitable-evs-ten-structural-design-moves-to-cut-material-costs</link>
+      <guid isPermaLink="true">https://www.mckinsey.com/insights/51f6ae5b-6978-4e13-91ba-3ebdb1e511aa</guid>
+      <description>With incentives declining and input costs rising, electric vehicle profitability is under pressure. Targeted design levers can reduce material costs by 10 to 25 percent while preserving performance.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>AI designed a drug that could reverse aging. Early clinical trials are promising</title>
+      <link>https://www.fastcompany.com/91603598/ai-designed-anti-aging-drug-early-clinical-trials-are-promising-biological-age-clock</link>
+      <guid isPermaLink="true">https://www.fastcompany.com/91603598/ai-designed-anti-aging-drug-early-clinical-trials-are-promising-biological-age-clock</guid>
+      <description>&lt;p class="wp-block-paragraph"&gt;Artificial intelligence has long been imagined as the future of medicine. The idea that &lt;a href="https://www.fastcompany.com/section/artificial-intelligence" title="AI"&gt;AI&lt;/a&gt; will someday cure cancer is widespread enough that Anthropic CEO Dario Amodei &lt;a href="https://x.com/DarioAmodei/status/2088758819304443967?s=20" rel="noreferrer noopener" target="_blank"&gt;recently posted&lt;/a&gt; that “saying that AI will cure cancer is more a cliché than it is inspiring,” while OpenAI CEO Sam Altman &lt;a href="https://www.businessinsider.com/openai-sam-altman-cure-cancer-ai-backlash-2026-9" rel="noreferrer noopener" target="_blank"&gt;claimed&lt;/a&gt; that curing cancer wouldn’t be “enough” and that “we should set our sights higher.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Despite the hype, an AI-based miracle cure has yet to arise. But a different medical breakthrough may be on the horizon, courtesy of an AI-designed drug that early trials suggest could reverse the effects of aging.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-turning-back-the-clock"&gt;Turning back the clock&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The drug, called rentosertib, was created by Insilico Medicine, an AI-based company that designs and develops drugs. It developed the molecular structure for Rentosertib, for example, with assistance from AI.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Last year, researchers tested rentosertib in a clinical trial using so-called “aging clocks” to measure the drug’s effect on participants’ aging, and the results were published this week in &lt;a href="https://www.nature.com/articles/s41587-026-03286-y#Abs1" rel="noreferrer noopener" target="_blank"&gt;&lt;em&gt;Nature Biotechnology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Aging clocks use AI technology to estimate how quickly a person’s body is aging (and how close they are to dying), using various biological, physiological, and psychological markers. The researchers used six different aging clocks to generate predicted ages for participants at the start and end of a 12-week trial period.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Though each aging clock completes a different analysis of a person’s biological markers, all six clocks predicted reduced ages for all 42 participants at the end of the trial, relative to their predicted ages before taking the drug. Those who received a placebo or no treatment, meanwhile, saw their predicted ages increase or stay the same.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-too-good-to-be-true"&gt;Too good to be true?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Though biohacking is all the rage these days, the scientific community is split on the accuracy and usefulness of aging clocks. With no universally agreed-upon way to measure a person’s biological age, the study’s results should be taken with a grain of salt.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Rentosertib has also only been tested on a very small and specific sample of people. Insilico’s clinical trial was also testing the drug’s potential for treating a lung disease called idiopathic pulmonary fibrosis, which all of the participants had, meaning the drug has yet to be tested on healthy patients.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Regardless of the drug’s efficacy, it’s still years away from regulatory approval. But if rentosertib really does reduce aging, we’ve got nothing but time on our hands.&lt;/p&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91603598-ai-generated-drug-biological-clock.jpg" />
+      <enclosure url="https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91603598-ai-generated-drug-biological-clock.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>What India Gets Out of BRICS</title>
+      <link>https://foreignpolicy.com/2026/09/09/india-brics-summit-new-delhi-global-south/</link>
+      <guid isPermaLink="true">https://foreignpolicy.com/?p=1240315</guid>
+      <description>Ahead of the group’s leaders’ summit, New Delhi is pulling out the stops.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://foreignpolicy.com/wp-content/uploads/2026/09/brics-summit-india-delhi-GettyImages-2293733344.jpg" />
+      <enclosure url="https://foreignpolicy.com/wp-content/uploads/2026/09/brics-summit-india-delhi-GettyImages-2293733344.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Why Germany Isn’t Punishing Russia Harder</title>
+      <link>https://foreignpolicy.com/2026/09/09/germany-russia-leipzig-drone-attack-response-hybrid-warfare-eu/</link>
+      <guid isPermaLink="true">https://foreignpolicy.com/?p=1240269</guid>
+      <description>Domestic politics constrains Berlin’s ability to respond to an attempted drone attack.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://foreignpolicy.com/wp-content/uploads/2026/09/germany-berlin-russia-leipzig-protests-response-GettyImages-2292958038.jpg" />
+      <enclosure url="https://foreignpolicy.com/wp-content/uploads/2026/09/germany-berlin-russia-leipzig-protests-response-GettyImages-2292958038.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>How Could Iran Happen? An Autopsy.</title>
+      <link>https://foreignpolicy.com/2026/09/09/trump-iran-deep-state-purges-intelligence-bureaucracy/</link>
+      <guid isPermaLink="true">https://foreignpolicy.com/?p=1240258</guid>
+      <description>The president’s war on the “deep state” led directly to his debacle in the Middle East.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://foreignpolicy.com/wp-content/uploads/2026/09/trump-iran-deep-state-purges-intelligence-bureaucracy-2263584455.jpg" />
+      <enclosure url="https://foreignpolicy.com/wp-content/uploads/2026/09/trump-iran-deep-state-purges-intelligence-bureaucracy-2263584455.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Why the South Korea-US Alliance Needs the Dark Eagle</title>
+      <link>https://archive.is/o/5WQRS/https://thediplomat.com/2026/09/why-the-south-korea-us-alliance-needs-the-dark-eagle/</link>
+      <guid isPermaLink="true">https://thediplomat.com/2026/09/why-the-south-korea-us-alliance-needs-the-dark-eagle/</guid>
+      <description>Focusing strictly on China’s anxieties misses a far more urgent reality: South Korea faces an existential threat from North Korea.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://images.thediplomat.com/v1/td-list-l-2/2026/09/thediplomat_2026-09-09-220037.jpg" />
+      <enclosure url="https://images.thediplomat.com/v1/td-list-l-2/2026/09/thediplomat_2026-09-09-220037.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Rethinking Russia, Re-evaluating Risk: The Changing Face of Kyrgyz Migration</title>
+      <link>https://archive.is/o/5WQRS/https://thediplomat.com/2026/09/rethinking-russia-re-evaluating-risk-the-changing-face-of-kyrgyz-migration/</link>
+      <guid isPermaLink="true">https://thediplomat.com/2026/09/rethinking-russia-re-evaluating-risk-the-changing-face-of-kyrgyz-migration/</guid>
+      <description>The war in Ukraine has produced a much longer-term transformation of the institutional and political environment in which migration takes place.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://images.thediplomat.com/v1/td-list-l-2/2026/09/thediplomat_2026-09-09-213021.jpg" />
+      <enclosure url="https://images.thediplomat.com/v1/td-list-l-2/2026/09/thediplomat_2026-09-09-213021.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Which Document Proves Indian Citizenship? There Isn’t 1 Answer</title>
+      <link>https://archive.is/o/5WQRS/https://thediplomat.com/2026/09/which-document-proves-indian-citizenship-there-isnt-1-answer/</link>
+      <guid isPermaLink="true">https://thediplomat.com/2026/09/which-document-proves-indian-citizenship-there-isnt-1-answer/</guid>
+      <description>Indian laws never specified any single document as proof of citizenship, but the Modi government’s citizenship screening drive has turned it into a big question.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://images.thediplomat.com/v1/td-list-l-2/2023/11/thediplomat_2023-11-27-152323.jpg" />
+      <enclosure url="https://images.thediplomat.com/v1/td-list-l-2/2023/11/thediplomat_2023-11-27-152323.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Japan-Korea: Working Together as Like-Minded Countries?</title>
+      <link>https://archive.is/o/5WQRS/https://thediplomat.com/2026/09/japan-korea-working-together-as-like-minded-countries/</link>
+      <guid isPermaLink="true">https://thediplomat.com/2026/09/japan-korea-working-together-as-like-minded-countries/</guid>
+      <description>Japan and South Korea share more than enough to work together on North Korea — but less than is often assumed.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://images.thediplomat.com/v1/td-list-l-2/2026/09/thediplomat_2026-09-09-190639.jpeg" />
+      <enclosure url="https://images.thediplomat.com/v1/td-list-l-2/2026/09/thediplomat_2026-09-09-190639.jpeg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The Debate About New Provinces in Pakistan</title>
+      <link>https://archive.is/o/5WQRS/https://thediplomat.com/2026/09/the-debate-about-new-provinces-in-pakistan/</link>
+      <guid isPermaLink="true">https://thediplomat.com/2026/09/the-debate-about-new-provinces-in-pakistan/</guid>
+      <description>The real question is not simply how many provinces Pakistan needs, but whether its political system can make smaller units more accountable, representative and effective.</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+      <media:thumbnail url="https://images.thediplomat.com/v1/td-list-l-2/2024/07/thediplomat_2024-07-01-044928.jpg" />
+      <enclosure url="https://images.thediplomat.com/v1/td-list-l-2/2024/07/thediplomat_2024-07-01-044928.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>How 9/11 Fractured the Global Order</title>
+      <link>https://archive.is/o/xWwb1/https://www.project-syndicate.org/commentary/9-11-us-russia-china-todays-fractured-global-order-by-javier-solana-and-angel-saz-carranza-1-2026-09</link>
+      <guid isPermaLink="true">https://www.project-syndicate.org/commentary/9-11-us-russia-china-todays-fractured-global-order-by-javier-solana-and-angel-saz-carranza-1-2026-09</guid>
+      <description>&lt;p&gt;The terrorist attack on the United States 25 years ago remains among the most consequential events of this century. By fundamentally altering the trajectories of the United States and Russia, as well as that of a rising China, al-Qaeda’s attack set in motion developments that would produce the geopolitical tumult we live in today.&lt;/p&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>China’s Permanent Manufacturing Revolution</title>
+      <link>https://archive.is/o/xWwb1/https://www.project-syndicate.org/commentary/china-manufacturing-prowess-will-drive-down-industrial-employment-everywhere-by-adair-turner-2026-09</link>
+      <guid isPermaLink="true">https://www.project-syndicate.org/commentary/china-manufacturing-prowess-will-drive-down-industrial-employment-everywhere-by-adair-turner-2026-09</guid>
+      <description>&lt;p&gt;In developed economies, manufacturing employment will decline, regardless of industrial strategies pursued. China's competitiveness means that any expectation that manufacturing will absorb more than a trivial fraction of the large increases in the working-age population still occurring in India or Africa is a delusion.&lt;/p&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>Europe Needs Dual-Use Defense Spending</title>
+      <link>https://archive.is/o/xWwb1/https://www.project-syndicate.org/commentary/how-eu-defense-spending-can-deliver-economic-dynamism-by-krzysztof-krawczyk-2026-09</link>
+      <guid isPermaLink="true">https://www.project-syndicate.org/commentary/how-eu-defense-spending-can-deliver-economic-dynamism-by-krzysztof-krawczyk-2026-09</guid>
+      <description>&lt;p&gt;Some EU countries, such as Poland, are using their expanded defense budgets to buy more foreign hardware. A better approach would be to foster a thriving innovation ecosystem which ensures that the technologies, institutions, and people that underpin a strong military benefit the civilian economy as well.&lt;/p&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>The World 9/11 Didn’t Make</title>
+      <link>https://archive.is/o/xWwb1/https://www.project-syndicate.org/commentary/911-terrorist-attack-did-not-change-the-course-of-history-by-richard-haass-2026-09</link>
+      <guid isPermaLink="true">https://www.project-syndicate.org/commentary/911-terrorist-attack-did-not-change-the-course-of-history-by-richard-haass-2026-09</guid>
+      <description>&lt;p&gt;Looking back at the past quarter-century, it becomes apparent that the 9/11 terrorist attack against the United States was not a transformative event. Far more important developments have intervened, not least America’s rejection of the postwar order that it had a large hand in building.&lt;/p&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>Is traffic through Hormuz really back to normal?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/09/is-traffic-through-hormuz-really-back-to-normal</link>
+      <guid isPermaLink="true">https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/09/is-traffic-through-hormuz-really-back-to-normal</guid>
+      <description>America would like the world to think so as oil prices top $100 again</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>A transplanted pig kidney buys time for a human one to become available</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/09/a-transplanted-pig-kidney-buys-time-for-a-human-one-to-become-available</link>
+      <guid isPermaLink="true">https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/09/a-transplanted-pig-kidney-buys-time-for-a-human-one-to-become-available</guid>
+      <description>That strengthens the case for such cross-species organ swaps</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
+    </item>
+    <item>
+      <title>Only children in China prefer to marry other only children</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/09/only-children-in-china-prefer-to-marry-other-only-children</link>
+      <guid isPermaLink="true">https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/09/only-children-in-china-prefer-to-marry-other-only-children</guid>
+      <description>And yes, they do have a choice</description>
+      <pubDate>Thu, 10 Sep 2026 03:34:44 +0600</pubDate>
     </item>
   </channel>
 </rss>
