@@ -1,77 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:media="[http://search.yahoo.com/mrss/](http://search.yahoo.com/mrss/)" xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0">
+<rss xmlns:media="[http://search.yahoo.com/mrss/](http://search.yahoo.com/mrss/)" version="2.0">
   <channel>
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: international affairs and Bangladesh news</description>
-    <lastBuildDate>Sat, 12 Sep 2026 16:08:52 +0000</lastBuildDate>
-    <item>
-      <title>Peace in Sudan Can Only Flower After a Weapons Embargo - Foreign Policy</title>
-      <link>https://foreignpolicy.com/2026/09/03/sudan-war-united-nations-security-council-arms-weapons-embargo-trump-administration-united-states-foreign-policy/</link>
-      <guid isPermaLink="true">https://foreignpolicy.com/2026/09/03/sudan-war-united-nations-security-council-arms-weapons-embargo-trump-administration-united-states-foreign-policy/</guid>
-      <description>Peace in Sudan Can Only Flower After a Weapons Embargo  Foreign Policy</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-    </item>
-    <item>
-      <title>Vance pours cold water on diplomacy with Iran as battle over Hormuz continues - Washington Times</title>
-      <link>https://www.washingtontimes.com/news/2026/sep/3/vance-pours-cold-water-diplomacy-iran-battle-hormuz-continues/</link>
-      <guid isPermaLink="true">https://www.washingtontimes.com/news/2026/sep/3/vance-pours-cold-water-diplomacy-iran-battle-hormuz-continues/</guid>
-      <description>Vance pours cold water on diplomacy with Iran as battle over Hormuz continues  Washington Times</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-    </item>
-    <item>
-      <title>Russia, Ukraine eye diplomacy effort - semafor.com</title>
-      <link>https://www.semafor.com/article/09/03/2026/russia-ukraine-eye-diplomacy-effort</link>
-      <guid isPermaLink="true">https://www.semafor.com/article/09/03/2026/russia-ukraine-eye-diplomacy-effort</guid>
-      <description>Russia, Ukraine eye diplomacy effort  semafor.com</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-    </item>
-    <item>
-      <title>The USS Abraham Lincoln Is a Troubling Metaphor for the Iran War - Foreign Policy</title>
-      <link>https://foreignpolicy.com/2026/09/03/uss-abraham-lincoln-iran-war-trump-hegseth-driscoll/</link>
-      <guid isPermaLink="true">https://foreignpolicy.com/2026/09/03/uss-abraham-lincoln-iran-war-trump-hegseth-driscoll/</guid>
-      <description>The USS Abraham Lincoln Is a Troubling Metaphor for the Iran War  Foreign Policy</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-    </item>
-    <item>
-      <title>Pacific island nations seek to turn geopolitics into funding to offset climate change harm - New Haven Register</title>
-      <link>https://www.nhregister.com/news/world/article/pacific-island-nations-seek-to-turn-geopolitics-22415498.php</link>
-      <guid isPermaLink="true">https://www.nhregister.com/news/world/article/pacific-island-nations-seek-to-turn-geopolitics-22415498.php</guid>
-      <description>Pacific island nations seek to turn geopolitics into funding to offset climate change harm  New Haven Register</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-    </item>
-    <item>
-      <title>‘New Generation Warfare’: Rear Admiral Reacts To Liepzig Airport Drone Attack Germany Blames On Russia</title>
-      <link>https://www.forbes.com/sites/forbestv/2026/09/03/new-generation-warfare-rear-admiral-reacts-to-liepzig-airport-drone-attack-germany-blames-on-russia/</link>
-      <guid isPermaLink="false">content_6a99f043ba9e3c45ffa4d624</guid>
-      <description>On “Forbes Newsroom,” Rear Admiral (Ret.) Mark Montgomery discussed the attempted drone attack on Leipzig airport that Germany has blamed on Russia.</description>
-      <pubDate>Fri, 04 Sep 2026 09:12:58 +0600</pubDate>
-      <ns0:thumbnail url="https://imageio.forbes.com/specials-images/imageserve/6926328161f257bbdf473fe9/0x0.jpg?width=960" />
-      <enclosure url="https://imageio.forbes.com/specials-images/imageserve/6926328161f257bbdf473fe9/0x0.jpg?width=960" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>August's blowout jobs report was good news for blue-collar workers, while white-collar professionals fell behind</title>
-      <link>https://www.businessinsider.com/job-growth-losses-august-industries-labor-market-2026-9</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/job-growth-losses-august-industries-labor-market-2026-9</guid>
-      <description>The US added 162,000 jobs in August, led by leisure and hospitality. White-collar fields were the only major industries to lose jobs.</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-      <media:thumbnail url="https://i.insider.com/6a9ad2ed755b3072e51cc56d?format=jpeg" />
-      <enclosure url="https://i.insider.com/6a9ad2ed755b3072e51cc56d?format=jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Russian drone strikes Ukraine’s security service headquarters</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/51270bb6-225c-4270-ae4e-fe063dfd2a33?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/51270bb6-225c-4270-ae4e-fe063dfd2a33?syn-25a6b1a6=1</guid>
-      <description>SBU building in central Kyiv suffers direct hit as Moscow launches near-constant raids by small numbers of fast drones</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-    </item>
-    <item>
-      <title>Venezuela’s jumbo oil deal does little to appease its creditors</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/f84c4053-3e14-4666-9543-7e958a1dadb2?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/f84c4053-3e14-4666-9543-7e958a1dadb2?syn-25a6b1a6=1</guid>
-      <description>Ordinary bondholders will want evidence that Caracas can produce and sell enough oil, in dollars, to repay what is left of their debt</description>
-      <pubDate>Sat, 05 Sep 2026 01:22:49 +0600</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Sep 2026 19:06:06 +0000</lastBuildDate>
     <item>
       <title>Andrew Bailey warns of populist threat to central bank independence</title>
       <link>https://archive.is/o/ggFl1/https://www.ft.com/content/a6be8465-63ea-4c5f-8a3e-b46cd5475c7e?syn-25a6b1a6=1</link>
@@ -4365,6 +4298,75 @@
       <guid isPermaLink="true">https://amwaj.media/en/article/inside-story-gcc-iran-iraq-to-gather-in-oman-as-trump-sours-on-diplomacy</guid>
       <description>Inside story: GCC-Iran-Iraq to gather in Oman as Trump sours on diplomacy  Amwaj.media</description>
       <pubDate>Sat, 12 Sep 2026 22:08:19 +0600</pubDate>
+    </item>
+    <item>
+      <title>AI leaders rally around calls to slow things down</title>
+      <link>https://www.businessinsider.com/ai-slow-down-dario-amodei-sam-altman-elon-musk-2026-9</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/ai-slow-down-dario-amodei-sam-altman-elon-musk-2026-9</guid>
+      <description>Anthropic CEO Dario Amodei called for an AI slowdown on Saturday. OpenAI CEO Sam Altman and SpaceXAI CEO Elon Musk, and others, also chimed in.</description>
+      <pubDate>Sun, 13 Sep 2026 01:05:34 +0600</pubDate>
+      <media:thumbnail url="https://i.insider.com/6aa585d2ec15fe2d3cf16ae8?format=jpeg" />
+      <enclosure url="https://i.insider.com/6aa585d2ec15fe2d3cf16ae8?format=jpeg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>India’s central bank tells Tata Sons to take conglomerate public</title>
+      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1</guid>
+      <description>RBI rejects group’s appeal against forced listing, setting the stage for what could become India’s biggest IPO</description>
+      <pubDate>Sun, 13 Sep 2026 01:05:34 +0600</pubDate>
+    </item>
+    <item>
+      <title>Brics push for Gulf peace as war worries mount</title>
+      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/f32bef26-d2b8-47a6-b938-3dcd5e870685?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/f32bef26-d2b8-47a6-b938-3dcd5e870685?syn-25a6b1a6=1</guid>
+      <description>India-China rapprochement faces obstacles over economic and geopolitical rivalry</description>
+      <pubDate>Sun, 13 Sep 2026 01:05:34 +0600</pubDate>
+    </item>
+    <item>
+      <title>Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html</guid>
+      <description>Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature.</description>
+      <pubDate>Sun, 13 Sep 2026 01:05:34 +0600</pubDate>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/09/13/multimedia/13int-iran-assess-02-kztm/13int-iran-assess-02-kztm-mediumSquareAt3X.jpg" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/13/multimedia/13int-iran-assess-02-kztm/13int-iran-assess-02-kztm-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html</guid>
+      <description>A drone attack from Iraq forced Saudi Arabia to close its East-West pipeline, the kingdom said, threatening a key workaround to Iran’s Persian Gulf blockade.</description>
+      <pubDate>Sun, 13 Sep 2026 01:05:34 +0600</pubDate>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/09/12/world/12int-saudi-pipeline-explainer-afak/12int-saudi-pipeline-explainer-afak-mediumSquareAt3X.jpg" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/12/world/12int-saudi-pipeline-explainer-afak/12int-saudi-pipeline-explainer-afak-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>As Iran proxies activate in Yemen and Iraq, Trump’s Mideast morass deepens</title>
+      <link>https://archive.is/o/A5nuz/https://www.washingtonpost.com/world/2026/09/12/with-no-clear-path-out-us-war-iran-messy-mideast-gets-messier/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/world/2026/09/12/with-no-clear-path-out-us-war-iran-messy-mideast-gets-messier/</guid>
+      <description>Two of the most important corridors for international energy shipments are blocked by Iran and its proxies, oil prices are up and the global economy is reeling.</description>
+      <pubDate>Sun, 13 Sep 2026 01:05:34 +0600</pubDate>
+    </item>
+    <item>
+      <title>Iran-Oman understanding does not provide for immediate reopening of Strait of Hormuz, Tasnim reports</title>
+      <link>https://www.middleeasteye.net/live-blog/live-blog-update/iran-oman-understanding-does-not-provide-immediate-reopening-strait</link>
+      <guid isPermaLink="true">https://www.middleeasteye.net/live-blog/live-blog-update/iran-oman-understanding-does-not-provide-immediate-reopening-strait</guid>
+      <description />
+      <pubDate>Sun, 13 Sep 2026 01:05:34 +0600</pubDate>
+    </item>
+    <item>
+      <title>Brics demands greater say in global affairs as bloc’s leaders meet in Delhi - The Independent</title>
+      <link>https://www.independent.co.uk/asia/india/brics-india-russia-china-modi-putin-xi-jinping-b3049059.html</link>
+      <guid isPermaLink="true">https://www.independent.co.uk/asia/india/brics-india-russia-china-modi-putin-xi-jinping-b3049059.html</guid>
+      <description>Brics demands greater say in global affairs as bloc’s leaders meet in Delhi  The Independent</description>
+      <pubDate>Sun, 13 Sep 2026 01:05:34 +0600</pubDate>
+    </item>
+    <item>
+      <title>Foreign Affairs Minister Khanal calls for Nepal-China strategic partnership on cross-border early warning systems and climate security - radionepalonline.com</title>
+      <link>https://radionepalonline.com/en/2026/09/12/435858.html</link>
+      <guid isPermaLink="true">https://radionepalonline.com/en/2026/09/12/435858.html</guid>
+      <description>Foreign Affairs Minister Khanal calls for Nepal-China strategic partnership on cross-border early warning systems and climate security  radionepalonline.com</description>
+      <pubDate>Sun, 13 Sep 2026 01:05:34 +0600</pubDate>
     </item>
   </channel>
 </rss>
