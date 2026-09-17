@@ -185,6 +185,7 @@ MAX_AGE_HOURS         = 25
 ALLOW_MISSING_DATES   = True
 ALLOW_OLDER           = False
 MAX_FEED_ITEMS        = 500
+FEED_BASE_URL         = "https://evilgodfahim.github.io/"
 
 # -- PROMPT --------------------------------------------------------------------
 
@@ -219,8 +220,12 @@ Article titles:
 
 # -- CONSTANTS -----------------------------------------------------------------
 
-MEDIA_NS    = "[http://search.yahoo.com/mrss/](http://search.yahoo.com/mrss/)"
-MEDIA_TAG   = "{%s}" % MEDIA_NS
+# Correct mrss namespace URI — plain URL, no markdown wrapping.
+# _BAD_MEDIA_NS is the corrupted value that may exist in already-written XML
+# files; sanitize_existing_xml() rewrites those files before we parse them.
+MEDIA_NS     = "http://search.yahoo.com/mrss/"
+_BAD_MEDIA_NS = "[http://search.yahoo.com/mrss/](http://search.yahoo.com/mrss/)"
+MEDIA_TAG    = "{%s}" % MEDIA_NS
 ET.register_namespace("media", MEDIA_NS)
 
 BD_TZ = timezone(timedelta(hours=6))
@@ -237,6 +242,28 @@ STATS = {
     "total_longread_deduped": 0,
     "timestamp":              None,
 }
+
+# -- XML SANITIZER -------------------------------------------------------------
+
+def sanitize_existing_xml(path):
+    """
+    If a previously written XML file contains the old corrupted namespace URI
+    (a Markdown-rendered link that ended up as the xmlns:media value), rewrite
+    it with the correct bare URL before we try to parse or extend the file.
+
+    This runs once at startup and is a no-op once all files are clean.
+    """
+    p = Path(path)
+    if not p.exists():
+        return
+    try:
+        content = p.read_text(encoding="utf-8")
+        if _BAD_MEDIA_NS in content:
+            fixed = content.replace(_BAD_MEDIA_NS, MEDIA_NS)
+            p.write_text(fixed, encoding="utf-8")
+            print(f"[sanitize] Fixed bad media namespace in {path}")
+    except Exception as exc:
+        print(f"[sanitize] Could not fix {path}: {exc}")
 
 # -- I/O -----------------------------------------------------------------------
 
@@ -730,9 +757,7 @@ def _fresh_channel(root, feed_title, feed_description):
     channel = ET.SubElement(root, "channel")
 
     ET.SubElement(channel, "title").text = feed_title
-    ET.SubElement(channel, "link").text = (
-        "[https://yourusername.github.io/yourrepo/](https://yourusername.github.io/yourrepo/)"
-    )
+    ET.SubElement(channel, "link").text = FEED_BASE_URL
     ET.SubElement(channel, "description").text = feed_description
 
     return channel
@@ -981,6 +1006,11 @@ def print_stats():
 # -- MAIN ----------------------------------------------------------------------
 
 def main():
+    # Rewrite any existing XML files that contain the corrupted namespace URI
+    # from a prior run. Safe to call unconditionally — no-op if already clean.
+    sanitize_existing_xml(OUTPUT_XML)
+    sanitize_existing_xml(LONGREAD_XML)
+
     processed_data = load_processed_articles()
 
     all_articles = fetch_all_feeds()
