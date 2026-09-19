@@ -4,16 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: international affairs and Bangladesh news</description>
-    <lastBuildDate>Sat, 19 Sep 2026 17:53:55 +0000</lastBuildDate>
-    <item>
-      <title>‘Just worry upon worry’: Europe faces a bleak winter as supply shock pushes factories to the brink</title>
-      <link>https://www.theguardian.com/business/2026/sep/11/just-worry-upon-worry-europe-faces-a-bleak-winter-as-supply-shock-pushes-factories-to-the-brink</link>
-      <guid isPermaLink="true">https://www.theguardian.com/business/2026/sep/11/just-worry-upon-worry-europe-faces-a-bleak-winter-as-supply-shock-pushes-factories-to-the-brink</guid>
-      <description>&lt;p&gt;From Shropshire to Hamburg, depleting reserves and spiralling costs are spawning a continent-wide energy crisis&lt;/p&gt;&lt;p&gt;Bridgnorth Aluminium has faced down Brexit, Covid and repeated energy shocks in recent years. But this winter is bringing extra “stress and pressure”, says its head of sales, Adrian Musgrave.&lt;/p&gt;&lt;p&gt;Musgrave’s company makes rolled aluminium, used in packaging, construction and the manufacture of items such as cars and batteries. Like many stretched industrial businesses across Europe, Bridgnorth Aluminium faces a looming threat of soaring energy bills, which Musgrave describes as “just worry upon worry”.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/sep/11/just-worry-upon-worry-europe-faces-a-bleak-winter-as-supply-shock-pushes-factories-to-the-brink"&gt;Continue reading...&lt;/a&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 19:26:32 +0600</pubDate>
-      <media:thumbnail url="https://i.guim.co.uk/img/media/53da6739157ae70a5c127693343c9ac0ba087f5d/395_0_3950_3160/master/3950.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6a2fa8d3eefb03a53176c5de92646526" />
-      <enclosure url="https://i.guim.co.uk/img/media/53da6739157ae70a5c127693343c9ac0ba087f5d/395_0_3950_3160/master/3950.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6a2fa8d3eefb03a53176c5de92646526" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Sat, 19 Sep 2026 20:22:15 +0000</lastBuildDate>
     <item>
       <title>Russia accused of ‘rapidly growing’ attacks on civilian infrastructure after five killed in Ukraine – Europe live</title>
       <link>https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates</link>
@@ -4052,6 +4043,15 @@
       <pubDate>Sat, 19 Sep 2026 23:53:25 +0600</pubDate>
       <media:thumbnail url="https://images.wsj.net/im-49339083" />
       <enclosure url="https://images.wsj.net/im-49339083" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Trump announces a new 'AI Force,' but says he will not 'stifle' AI</title>
+      <link>https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026</guid>
+      <description>President Trump said he will not "hinder or stifle" AI development after some leaders of frontier AI labs called for US government regulation.</description>
+      <pubDate>Sun, 20 Sep 2026 02:21:49 +0600</pubDate>
+      <media:thumbnail url="https://i.insider.com/6aaed03d4a3706ac06f8523a?format=jpeg" />
+      <enclosure url="https://i.insider.com/6aaed03d4a3706ac06f8523a?format=jpeg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
