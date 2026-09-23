@@ -682,7 +682,7 @@ def extract_json_object(text):
 
     for key in ("signal", "longread"):
         m = re.search(
-            rf'"{key}"\s*:\s*(\[.*?\])',
+            rf'"{key}"\s*:\s*(.*?)',
             text,
             flags=re.DOTALL
         )
@@ -734,17 +734,8 @@ def send_to_mistral(articles):
             return extract_json_object(text)
 
         except Exception as e:
-            error_str = str(e)
-            if "503" in error_str and attempt == 0:
-                print(f"503 error encountered, retrying in 60s... ({e})")
-                time.sleep(60)
-                continue
-            else:
-                print(f"Gemini classification error: {e}")
-                return {
-                    "signal": [],
-                    "longread": []
-                }
+            print(f"Gemini classification error: {e}")
+            sys.exit(1)
 
     return {
         "signal": [],
