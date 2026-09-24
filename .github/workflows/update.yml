@@ -52,7 +52,7 @@ jobs:
 
           for attempt in $(seq 1 $max_attempts); do
             echo "Attempt $attempt/$max_attempts"
-            if python main1.py; then
+            if python main.py; then
               exit 0
             fi
 
