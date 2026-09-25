@@ -701,46 +701,29 @@ def extract_json_object(text):
 
 
 def send_to_mistral(articles):
-    """Single Gemini call. Returns {"signal": [...], "longread": [...]}. Filters and dedups in one go."""
-
     api_key = os.environ.get("GEMINI_API_KEY")
-
     if not api_key or not articles:
-        return {
-            "signal": [],
-            "longread": []
-        }
+        return {"signal": [], "longread": []}
 
     client = genai.Client(api_key=api_key)
-
     titles_text = "\n".join(
-        [
-            f"{i}. {a.get('title', '')}"
-            for i, a in enumerate(articles)
-        ]
+        f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)
     )
 
     for attempt in range(2):
         try:
-            response = client.models.generate_content(
-                model=MISTRAL_MODEL,
-                contents=PROMPT.format(titles=titles_text),
-                config={
-                    "response_mime_type": "application/json"
-                },
+            chat = client.chats.create(model=MISTRAL_MODEL)
+            response = chat.send_message(
+                PROMPT.format(titles=titles_text),
+                config={"response_mime_type": "application/json"},
             )
-
             text = response.text if hasattr(response, "text") else ""
             return extract_json_object(text)
-
         except Exception as e:
             print(f"Gemini classification error: {e}")
             sys.exit(1)
 
-    return {
-        "signal": [],
-        "longread": []
-    }
+    return {"signal": [], "longread": []}
 
 # -- XML -----------------------------------------------------------------------
 
