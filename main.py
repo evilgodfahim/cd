@@ -189,7 +189,7 @@ FEED_BASE_URL         = "https://evilgodfahim.github.io/"
 
 # -- PROMPT --------------------------------------------------------------------
 
-PROMPT = """You are a strict news classification and deduplication engine. Your task is to filter and deduplicate news articles in a single pass. Classify each numbered headline into exactly one category: SIGNAL, LONGREAD, or NOISE.
+PROMPT = """You are a strict news classification and deduplication engine. Your task is to filter and deduplicate news articles in a single pass. Classify each numbered headline into exactly one category: SIGNAL, LONGREAD, or NOISE. The bar of selection is Super High [Extreme Low < Super Low < Low < Normal < High < Super High < Ultimate High]
 
 CATEGORIES:
 
