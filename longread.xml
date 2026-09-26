@@ -4,14 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Sat, 26 Sep 2026 20:12:54 +0000</lastBuildDate>
-    <item>
-      <title>America’s secret weapon in the nuclear race</title>
-      <link>https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/2026/09/17/spacex-opportunity-fusion-nuclear-deterrence/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/09/17/spacex-opportunity-fusion-nuclear-deterrence/</guid>
-      <description>Washington can tap a unique advantage as Beijing races ahead on fusion: private enterprise.</description>
-      <pubDate>Thu, 17 Sep 2026 22:38:52 +0600</pubDate>
-    </item>
+    <lastBuildDate>Sat, 26 Sep 2026 22:59:48 +0000</lastBuildDate>
     <item>
       <title>How the Houthis went from a small mountain militia in Yemen to a major regional threat - explainer</title>
       <link>https://www.jpost.com/middle-east/article-908899</link>
@@ -5224,6 +5217,15 @@ The promise of AI is fewer tasks and more freedom. Instead, many of us are using
       <pubDate>Sat, 26 Sep 2026 23:42:24 +0600</pubDate>
       <media:thumbnail url="https://i.guim.co.uk/img/media/32eccf934e9631dee75792a9a27d4aa1f759765d/0_828_2131_1705/master/2131.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6a36af491c791a46aa41872964e83bcc" />
       <enclosure url="https://i.guim.co.uk/img/media/32eccf934e9631dee75792a9a27d4aa1f759765d/0_828_2131_1705/master/2131.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6a36af491c791a46aa41872964e83bcc" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>A Study of 7,000 Children Challenges a Basic Assumption About ADHD and Attention</title>
+      <link>https://www.inc.com/avery-miles/a-study-of-7000-children-challenges-a-basic-assumption-about-adhd-and-attention/91385198</link>
+      <guid isPermaLink="true">https://www.inc.com/avery-miles/a-study-of-7000-children-challenges-a-basic-assumption-about-adhd-and-attention/91385198</guid>
+      <description>&lt;p&gt;Brain scans suggest ADHD-related connectivity is distinct from the networks associated with basic attention skills in nine- and ten-year-old children.&lt;/p&gt;</description>
+      <pubDate>Sun, 27 Sep 2026 04:59:36 +0600</pubDate>
+      <media:thumbnail url="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/child-adhd-study-inc.jpg" />
+      <enclosure url="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/child-adhd-study-inc.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
