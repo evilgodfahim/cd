@@ -7,28 +7,28 @@
     },
     "https://feeds2.feedburner.com/businessinsider": {
       "fetched": 50,
-      "passed_age": 32,
-      "capped": 32
+      "passed_age": 36,
+      "capped": 36
     },
     "https://feeds.feedburner.com/TheAtlantic": {
       "fetched": 25,
-      "passed_age": 6,
-      "capped": 6
+      "passed_age": 7,
+      "capped": 7
     },
     "https://evilgodfahim.github.io/tm/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 1,
-      "capped": 1
+      "passed_age": 2,
+      "capped": 2
     },
     "https://evilgodfahim.github.io/ftint/combined.xml": {
       "fetched": 500,
-      "passed_age": 26,
-      "capped": 26
+      "passed_age": 23,
+      "capped": 23
     },
     "https://evilgodfahim.github.io/gd/merged.xml": {
       "fetched": 1000,
-      "passed_age": 35,
-      "capped": 35
+      "passed_age": 48,
+      "capped": 48
     },
     "https://evilgodfahim.github.io/nytint/combined.xml": {
       "fetched": 500,
@@ -37,13 +37,13 @@
     },
     "https://evilgodfahim.github.io/wpint/combined.xml": {
       "fetched": 500,
-      "passed_age": 2,
-      "capped": 2
+      "passed_age": 4,
+      "capped": 4
     },
     "https://evilgodfahim.github.io/wsjint/combined.xml": {
       "fetched": 500,
-      "passed_age": 7,
-      "capped": 7
+      "passed_age": 6,
+      "capped": 6
     },
     "https://theweek.com/rss.xml": {
       "fetched": 50,
@@ -67,13 +67,13 @@
     },
     "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml": {
       "fetched": 500,
-      "passed_age": 14,
-      "capped": 14
+      "passed_age": 15,
+      "capped": 15
     },
     "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml": {
       "fetched": 500,
-      "passed_age": 10,
-      "capped": 10
+      "passed_age": 3,
+      "capped": 3
     },
     "https://evilgodfahim.github.io/fto/combined.xml": {
       "fetched": 25,
@@ -82,8 +82,8 @@
     },
     "https://evilgodfahim.github.io/nytop/combined.xml": {
       "fetched": 68,
-      "passed_age": 8,
-      "capped": 8
+      "passed_age": 7,
+      "capped": 7
     },
     "https://evilgodfahim.github.io/wpo/combined.xml": {
       "fetched": 8,
@@ -92,8 +92,8 @@
     },
     "https://evilgodfahim.github.io/wsjop/combined.xml": {
       "fetched": 500,
-      "passed_age": 6,
-      "capped": 6
+      "passed_age": 16,
+      "capped": 16
     },
     "https://evilgodfahim.github.io/lemonde/combined.xml": {
       "fetched": 0,
@@ -107,13 +107,13 @@
     },
     "https://evilgodfahim.github.io/intop/filtered.xml": {
       "fetched": 500,
-      "passed_age": 22,
-      "capped": 22
+      "passed_age": 20,
+      "capped": 20
     },
     "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml": {
       "fetched": 500,
-      "passed_age": 33,
-      "capped": 33
+      "passed_age": 36,
+      "capped": 36
     },
     "http://feeds.harvardbusiness.org/harvardbusiness": {
       "fetched": 100,
@@ -147,8 +147,8 @@
     },
     "https://www.fastcompany.com/latest/rss": {
       "fetched": 20,
-      "passed_age": 4,
-      "capped": 4
+      "passed_age": 3,
+      "capped": 3
     },
     "https://www.businessinsider.com/rss": {
       "fetched": 20,
@@ -157,8 +157,8 @@
     },
     "https://www.inc.com/rss": {
       "fetched": 40,
-      "passed_age": 20,
-      "capped": 20
+      "passed_age": 19,
+      "capped": 19
     },
     "https://www.entrepreneur.com/latest.rss": {
       "fetched": 10,
@@ -192,8 +192,8 @@
     },
     "https://evilgodfahim.github.io/eco/combined.xml": {
       "fetched": 500,
-      "passed_age": 2,
-      "capped": 2
+      "passed_age": 4,
+      "capped": 4
     }
   },
   "per_method": {
@@ -201,11 +201,11 @@
     "DIRECT": 8136
   },
   "total_fetched": 8136,
-  "total_passed_age": 319,
-  "total_new": 83,
-  "total_signal": 8,
-  "total_longread": 11,
-  "timestamp": "2026-09-27T17:17:51.208426",
-  "total_signal_deduped": 8,
-  "total_longread_deduped": 11
+  "total_passed_age": 340,
+  "total_new": 67,
+  "total_signal": 7,
+  "total_longread": 14,
+  "timestamp": "2026-09-27T20:15:25.890978",
+  "total_signal_deduped": 7,
+  "total_longread_deduped": 14
 }
