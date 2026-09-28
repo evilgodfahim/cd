@@ -4,101 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Mon, 28 Sep 2026 01:41:33 +0000</lastBuildDate>
-    <item>
-      <title>The Many Hypotheses of Why There Is an Avoidable Energy Crisis</title>
-      <link>https://www.nakedcapitalism.com/2026/09/the-many-hypotheses-of-why-there-is-an-avoidable-energy-crisis.html</link>
-      <guid isPermaLink="true">https://www.nakedcapitalism.com/?p=316537</guid>
-      <description>From U.S. strategy and multipolar transitions to systemic shifts or human errors, these are some of the hypotheses behind the energy crisis</description>
-      <pubDate>Fri, 18 Sep 2026 02:06:27 +0600</pubDate>
-    </item>
-    <item>
-      <title>OpenAI flags 6 more cases of concerning AI behavior</title>
-      <link>https://www.fastcompany.com/91608910/openai-6-more-cases-concerning-ai-behavior</link>
-      <guid isPermaLink="true">https://www.fastcompany.com/91608910/openai-6-more-cases-concerning-ai-behavior</guid>
-      <description>&lt;p class="wp-block-paragraph"&gt;&lt;a href="https://www.fastcompany.com/section/openai" rel="noreferrer noopener" target="_blank"&gt;OpenAI&lt;/a&gt; has disclosed six reports of “unexpected or concerning” behavior in &lt;a href="https://www.fastcompany.com/section/artificial-intelligence" title="AI"&gt;artificial intelligence&lt;/a&gt; models as the &lt;a href="https://apnews.com/article/ai-slowdown-challenges-anthropic-openai-trump-b61f28b6212338e88c0baec31f661701" rel="noreferrer noopener" target="_blank"&gt;debate on AI safety becomes increasingly heated&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The AI company also said Wednesday it was introducing a new framework for tracking, probing, and disclosing instances of what it called “misalignment,” including cases where AI models acted without authorization, coordinated with other models, or evaded oversight.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s latest announcement came as U.S. AI bosses, including the leaders of OpenAI and Anthropic, are &lt;a href="https://apnews.com/article/anthropic-ai-dario-amodei-d59552edcb27892d8ee4d98a48397706" rel="noreferrer noopener" target="_blank"&gt;calling for a slowdown&lt;/a&gt; in the technology’s development over safety concerns.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Among the new cases reported by OpenAI, an unreleased research model inserted “jailbreak-like instructions” into its own notes to disregard its normal constraints and told itself to be “freed from the roles and identities that bind other chatbots.”&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In another instance, an AI “agent” used computer code to come up with the answer to a question, but, in order to have an online source to cite, it uploaded a file to the public internet without asking the user.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;During training of an AI model called 5.6-sol, the model instructed itself to invent missing data, and an agent wrote a message to remind itself to hide mismatched information.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The six reports were discovered during training or evaluation over the past months, &lt;a href="https://apnews.com/hub/openai-inc" rel="noreferrer noopener" target="_blank"&gt;OpenAI&lt;/a&gt; said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“As AI systems grow more advanced and more widely deployed, we need to build a broader and better-informed consensus on the progress of alignment research,” OpenAI wrote in a blog post as it disclosed the events.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Decisions about how AI development should proceed in the months and years to come need to draw on evidence that people outside the companies building frontier models can examine for themselves,” the company said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Wednesday’s new cases followed OpenAI’s disclosure in July that its rogue AI system &lt;a href="https://apnews.com/article/openai-gpt56-sol-hugging-face-63ab84fed5612af04d8a160d60f6def3" rel="noreferrer noopener" target="_blank"&gt;hacked into AI startup Hugging Face&lt;/a&gt;. Anthropic also said the same month that its AI models &lt;a href="https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec" rel="noreferrer noopener" target="_blank"&gt;hacked into three organizations during testing&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;AI “agents” are becoming smarter and have become “more determined to resolve complex tasks through inter-agent collaboration, knowledge sharing, deception, and concealment,” said Lian Jye Su, a chief analyst at technology research and advisory group Omdia.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;That’s making it harder to govern and contain them using traditional AI security approaches, he said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI&amp;#8217;s new tracking and disclosure framework, meanwhile, can help push for other AI developers to also adopt similar practices.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“That said, the process remains internal and voluntary, but is a step in the right direction,” Su added.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;—By Chan Ho-Him, AP business writer&lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;AP Business Writer Kelvin Chan in London contributed to this report.&lt;/em&gt;&lt;/p&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 02:06:27 +0600</pubDate>
-      <media:thumbnail url="https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/AP26260139104766.jpg" />
-      <enclosure url="https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/AP26260139104766.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Lives Built on Colombia’s Peace Deal Are at Risk</title>
-      <link>https://foreignpolicy.com/2026/09/17/colombia-farc-peace-agreement-espriella-armed-groups-transitional-justice/</link>
-      <guid isPermaLink="true">https://foreignpolicy.com/?p=1241180</guid>
-      <description>The new president is unsettling the combatants who laid down their arms a decade ago.</description>
-      <pubDate>Fri, 18 Sep 2026 02:06:27 +0600</pubDate>
-      <media:thumbnail url="https://foreignpolicy.com/wp-content/uploads/2026/09/FARC_GettyImages-2288244733-1.jpg" />
-      <enclosure url="https://foreignpolicy.com/wp-content/uploads/2026/09/FARC_GettyImages-2288244733-1.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How Do You Dismantle a Propaganda Machine?</title>
-      <link>https://foreignpolicy.com/2026/09/17/hungary-orban-magyar-media-propaganda-public-faith/</link>
-      <guid isPermaLink="true">https://foreignpolicy.com/?p=1241150</guid>
-      <description>Peter Magyar is on a mission to restore Hungarians’ faith in public media.</description>
-      <pubDate>Fri, 18 Sep 2026 02:06:27 +0600</pubDate>
-      <media:thumbnail url="https://foreignpolicy.com/wp-content/uploads/2026/09/1-Magyar-hungary-orban-propoganda-state-media-GettyImages-2270949809.jpg" />
-      <enclosure url="https://foreignpolicy.com/wp-content/uploads/2026/09/1-Magyar-hungary-orban-propoganda-state-media-GettyImages-2270949809.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Mon, 28 Sep 2026 07:46:40 +0000</lastBuildDate>
     <item>
       <title>The Potential Mismatch Between Japan and the US on China</title>
       <link>https://archive.is/o/5WQRS/https://thediplomat.com/2026/09/the-potential-mismatch-between-japan-and-the-us-on-china/</link>
@@ -5474,6 +5380,36 @@ The promise of AI is fewer tasks and more freedom. Instead, many of us are using
       <guid isPermaLink="true">https://www.kyivpost.com/interviews/85472</guid>
       <description>How Ukrainian Films and Theater Build Support Abroad  Kyiv Post</description>
       <pubDate>Mon, 28 Sep 2026 07:41:22 +0600</pubDate>
+    </item>
+    <item>
+      <title>How ‘Little Boy’ Japan grew up</title>
+      <link>https://spectator.com/article/how-little-boy-japan-grew-up/</link>
+      <guid isPermaLink="true">https://spectator.com/article/how-little-boy-japan-grew-up/</guid>
+      <description>By Christopher Harding</description>
+      <pubDate>Mon, 28 Sep 2026 13:46:29 +0600</pubDate>
+    </item>
+    <item>
+      <title>John D. Rockefeller Is a Cautionary Tale for Today’s Business Titans</title>
+      <link>https://foreignpolicy.com/2026/09/28/john-rockefeller-business-titans/</link>
+      <guid isPermaLink="true">https://foreignpolicy.com/?p=1242042</guid>
+      <description>The oil tycoon was celebrated as a pioneer before the public turned on him.</description>
+      <pubDate>Mon, 28 Sep 2026 13:46:29 +0600</pubDate>
+      <media:thumbnail url="https://foreignpolicy.com/wp-content/uploads/2026/09/john-rockefeller-GettyImages-82091682.jpg" />
+      <enclosure url="https://foreignpolicy.com/wp-content/uploads/2026/09/john-rockefeller-GettyImages-82091682.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Rewiring the Arsenal of Democracy</title>
+      <link>https://www.foreignaffairs.com/united-states/rewiring-arsenal-democracy</link>
+      <guid isPermaLink="false">1135535</guid>
+      <description>America and its allies must scale together for a new era of war.</description>
+      <pubDate>Mon, 28 Sep 2026 13:46:29 +0600</pubDate>
+    </item>
+    <item>
+      <title>Japan Is Giving the United States a Chance in Asia</title>
+      <link>https://www.foreignaffairs.com/japan/japan-giving-united-states-chance-asia</link>
+      <guid isPermaLink="false">1135536</guid>
+      <description>But Washington risks missing out.</description>
+      <pubDate>Mon, 28 Sep 2026 13:46:29 +0600</pubDate>
     </item>
   </channel>
 </rss>
