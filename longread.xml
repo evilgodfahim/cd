@@ -4,81 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Wed, 07 Oct 2026 00:09:06 +0000</lastBuildDate>
-    <item>
-      <title>A middle-class guide to apocalypse prepping</title>
-      <link>https://spectator.com/article/a-middle-class-guide-to-apocalypse-prepping/</link>
-      <guid isPermaLink="true">https://spectator.com/article/a-middle-class-guide-to-apocalypse-prepping/</guid>
-      <description>By Lisa Haseldine</description>
-      <pubDate>Thu, 01 Oct 2026 17:50:35 +0600</pubDate>
-    </item>
-    <item>
-      <title>We may be the last generation of mathematical heroes</title>
-      <link>https://www.fastcompany.com/91612740/we-may-be-the-last-generation-of-mathematical-heroes-technology-ai-mathematics</link>
-      <guid isPermaLink="true">https://www.fastcompany.com/91612740/we-may-be-the-last-generation-of-mathematical-heroes-technology-ai-mathematics</guid>
-      <description>&lt;p class="wp-block-paragraph"&gt;A generation from now, the mathematician may no longer be anyone&amp;#8217;s idea of a hero. In our era, physicists and mathematicians have had a certain hero charm. &lt;a href="https://www.fastcompany.com/section/artificial-intelligence" title="AI"&gt;AI&lt;/a&gt; is taking it away, and fast. I should know. I&amp;#8217;m one of those heroes.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For most of history, math was for nerds. Basic calculations may have been essential to commerce, but the advanced, esoteric stuff, like number theory, algebraic topology, and blackboards covered with the chalk squiggles you see in movies, was never sexy. That changed in the late 1600s, when mathematicians like Newton and Leibniz became heroes of the Enlightenment. Later came Gauss, Riemann, and Cantor. Their discoveries drove innovation. Their math could explain the orbits of the planets, predict eclipses, and help design the machines of the Industrial Age. Generations later, physicists joined the pantheon. Einstein gave the world the general theory of relativity. Oppenheimer led the effort that produced the atomic bomb. Turing developed the mathematical foundations on which the modern computer is built. Shannon&amp;#8217;s information theory powers today&amp;#8217;s mobile phones, the internet, and satellite communications.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;I wasn&amp;#8217;t even one of the nerds. I was the sporty kid, happiest playing soccer. But by the time I was choosing a path, math had acquired a glamour of its own, and it pulled me in. As a mathematician, I entered the world of academic research convinced that I&amp;#8217;d joined a hallowed elite of heroes, at the vanguard of science and technology, discovering new worlds that might one day reshape the way we live our lives. Today all that has changed. I never believed artificial intelligence could outsmart us. But it has.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;I have been shocked to learn what AI is capable of doing. It has disproved a conjecture at the heart of the Erdős unit-distance problem, which had defied mathematicians for 80 years. The Hungarian mathematician Paul Erdős posed the deceptively simple problem back in 1946: When points are arranged on a plane, how many pairs of them can be exactly one unit apart? In May, an OpenAI model disproved Erdős&amp;#8217;s conjecture, showing that far more such pairs were possible than mathematicians had previously believed. To borrow a line from the British punk band The Stranglers, it&amp;#8217;s a case of no more (mathematical) heroes anymore. Then, in August, OpenAI said its new Astra model had resolved or made substantial progress on 10 long-standing problems in mathematics and theoretical computer science.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;My shock deepened when I read the computer scientist Henry Yuen&amp;#8217;s reaction. Several of those problems sit in theoretical computer science, my own academic field, and he wrote that they hit home in a way earlier announcements had not. AI has, for example, produced the first known example of what&amp;#8217;s called a non-sofic group, a mathematical structure too complex to be approximated by any finite system. Mathematicians had searched for one for 27 years without success. AI found it. And again in theoretical computer science, AI made a breakthrough involving &amp;#8220;the permanent,&amp;#8221; a notoriously difficult mathematical function. It proved that even the most efficient arithmetic formulas for calculating it must have a certain minimum size, setting a new lower limit that mathematicians had not previously been able to prove.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;What we see so far is just the tip of a very large iceberg. If we must credit machines rather than geniuses like Terence Tao, the &amp;#8220;Mozart of Math,&amp;#8221; with the biggest breakthroughs, then the place of mathematicians in society will change dramatically.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For the time being, we do still have something of a role. Our hand is still on the steering wheel, feeding AI with prompts, setting its trajectory, deciding which problems to pursue and checking what it produces. But our grip is getting looser.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;There is one job the machines have made more important. Every one of Astra&amp;#8217;s 10 proofs came with a machine-checkable certificate, because a proof no human wrote is worth something only if we can trust it. Verifying proofs, and building systems that let us trust what we cannot check by hand, has been the focus of my career. As machines generate more of the mathematics, that work moves from the margins to the center.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In time, the mathematician hero of the last 400 or so years may morph into more of a conductor figure, still directing the orchestra, baton in hand, but acknowledging that he or she is no longer part of the creative heavy lifting. I suspect tomorrow&amp;#8217;s professors of mathematics may become curators and interpreters of discoveries made elsewhere. Much like a professor of classics explains Homer’s Odyssey but knows she’ll never join the ranks of epic poets, professors of math will explain old results by Newton and the latest hot ones by AI, but will not be able to compete in producing those kinds of breakthroughs on their own. There is still an infinite amount we don&amp;#8217;t know about mathematics, but we seem to have reached the tipping point where AI will discover much of it before we do.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For me, doing mathematics was fulfilling because of its elegance. But I must confess that a part of me also relished the glory of being a mathematician hero, of being a colleague and disciple of the great figures who had advanced technology and society. They seemed to me almost like demigods, for discovering and unleashing the power of the universe.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;I now realize, with both gratitude and sorrow, that those of us who aspire to mathematician hero status, and indeed those who have reached those lofty heights, may well be the last such generation. The age of the mathematician hero may turn out to have been a passing chapter. Maybe I should have stuck with soccer.&lt;/p&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 17:50:35 +0600</pubDate>
-      <media:thumbnail url="https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91612740-we-may-be-the-last-generation-of-mathematical-heroes-technology-ai-mathematics.jpg" />
-      <enclosure url="https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91612740-we-may-be-the-last-generation-of-mathematical-heroes-technology-ai-mathematics.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>What Trump Misunderstands About Modern Media</title>
-      <link>https://www.theatlantic.com/newsletters/2026/10/when-the-president-tries-to-control-the-stories/688853/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-688853</guid>
-      <description>The president is eager to both undermine the credibility of the press and bask in its plaudits.</description>
-      <pubDate>Thu, 01 Oct 2026 23:43:50 +0600</pubDate>
-      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/i1j12KBrPVH3kvYBDPfIDJ3M0T0=/media/newsletters/2026/10/2026_09_30_TTT_The_Presidency_and_the_Press/original.jpg" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/i1j12KBrPVH3kvYBDPfIDJ3M0T0=/media/newsletters/2026/10/2026_09_30_TTT_The_Presidency_and_the_Press/original.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Pete Hegseth, Idea Guy</title>
-      <link>https://www.theatlantic.com/newsletters/2026/10/pete-hegseth-state-of-force-address/688852/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-688852</guid>
-      <description>His State of the Force address was a partisan disgrace—with a few good ideas buried in it.</description>
-      <pubDate>Thu, 01 Oct 2026 23:43:50 +0600</pubDate>
-      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/_tj0Nr4PWqJM6hdograOQZbXf4E=/media/img/mt/2026/10/2026_09_30_Hegseth_State_of_The_Force-1/original.jpg" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/_tj0Nr4PWqJM6hdograOQZbXf4E=/media/img/mt/2026/10/2026_09_30_Hegseth_State_of_The_Force-1/original.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Wed, 07 Oct 2026 06:01:52 +0000</lastBuildDate>
     <item>
       <title>A Dissatisfying Apocalypse</title>
       <link>https://www.theatlantic.com/books/2026/10/hernan-diaz-disappointing-dystopan-novel-ply-book-review/688843/</link>
@@ -5365,6 +5291,34 @@
       <guid isPermaLink="true">https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/06/a-nobel-for-the-discovery-of-high-energy-neutrinos</guid>
       <description>The ghostly particles shed light on the distant universe</description>
       <pubDate>Wed, 07 Oct 2026 06:08:52 +0600</pubDate>
+    </item>
+    <item>
+      <title>How a Soviet physicist’s 1960 idea led to the birth of neutrino astronomy and this year’s Nobel Prize in physics</title>
+      <link>https://meduza.io/en/feature/2026/10/07/how-a-soviet-physicist-s-1960-idea-led-to-the-birth-of-neutrino-astronomy-and-this-year-s-nobel-prize-in-physics</link>
+      <guid isPermaLink="true">https://meduza.io/en/feature/2026/10/07/how-a-soviet-physicist-s-1960-idea-led-to-the-birth-of-neutrino-astronomy-and-this-year-s-nobel-prize-in-physics</guid>
+      <description />
+      <pubDate>Wed, 07 Oct 2026 12:00:51 +0600</pubDate>
+    </item>
+    <item>
+      <title>Brazil between Washington, Beijing and Moscow: What the election reveals</title>
+      <link>https://english.pravda.ru/world/169659-brazil-election-abstention-crisis/</link>
+      <guid isPermaLink="true">https://english.pravda.ru/world/169659-brazil-election-abstention-crisis/</guid>
+      <description />
+      <pubDate>Wed, 07 Oct 2026 12:00:51 +0600</pubDate>
+    </item>
+    <item>
+      <title>How to Avoid Disaster in the Next Iran War - Foreign Policy</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlRHTXZCS0t0bGFieG0za016SUVpTDhHb2plcE9YYzRBZ3ZnUXZFTGhtNjQtV1FFV0plVGVBSnAybHR4SThiVTctWjlLRWtNcHZ0c01HRzllLVBPTXF6RDBKc1ZxRC1xQjNfYTd1MjdnV1paTmduemktS3hVOVFDcHZfVHpGZFQyRjhRcF9n?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlRHTXZCS0t0bGFieG0za016SUVpTDhHb2plcE9YYzRBZ3ZnUXZFTGhtNjQtV1FFV0plVGVBSnAybHR4SThiVTctWjlLRWtNcHZ0c01HRzllLVBPTXF6RDBKc1ZxRC1xQjNfYTd1MjdnV1paTmduemktS3hVOVFDcHZfVHpGZFQyRjhRcF9n?oc=5</guid>
+      <description>How to Avoid Disaster in the Next Iran War  Foreign Policy</description>
+      <pubDate>Wed, 07 Oct 2026 12:00:51 +0600</pubDate>
+    </item>
+    <item>
+      <title>Vladimir Putin and the pariah problem</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/10/06/vladimir-putin-and-the-pariah-problem</link>
+      <guid isPermaLink="true">https://archive.is/o/nuunc/https://www.economist.com/international/2026/10/06/vladimir-putin-and-the-pariah-problem</guid>
+      <description>Emphasising the Russian leader’s wickedness must not come at Ukraine’s expense</description>
+      <pubDate>Wed, 07 Oct 2026 12:00:51 +0600</pubDate>
     </item>
   </channel>
 </rss>
