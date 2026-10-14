@@ -270448,5 +270448,129 @@
     "source": "https://foreignpolicy.com/feed/",
     "thumbnail": "https://foreignpolicy.com/wp-content/uploads/2026/10/china-surveillance-GettyImages-1146927507.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
+    "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
+    "description": "AI lab discovered a recording device concealed behind a television in a conference room",
+    "published": "Wed, 14 Oct 2026 10:26:53 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+    "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+    "description": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
+    "published": "Wed, 14 Oct 2026 10:26:53 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-sanctions-gfkc/13dc-sanctions-gfkc-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/americas/cocaine-trade-is-booming-despite-airstrikes-72ec0826?mod=rss_worldnews",
+    "title": "Why U.S. Airstrikes Are Failing to Stop the Global Cocaine Boom",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/americas/cocaine-trade-is-booming-despite-airstrikes-72ec0826?mod=rss_worldnews",
+    "description": "Smugglers are shifting routes and using new tactics to evade military targeting, resulting in record supplies and plunging prices.",
+    "published": "Wed, 14 Oct 2026 10:26:53 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-27340640",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/pope-leo-xiv-lung-cancer-a465cbe8?mod=rss_worldnews",
+    "title": "Pope Leo Diagnosed With Lung Cancer After Surgery",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/pope-leo-xiv-lung-cancer-a465cbe8?mod=rss_worldnews",
+    "description": "The 71-year-old pontiff underwent an operation to remove the lower lobe of his right lung.",
+    "published": "Wed, 14 Oct 2026 10:26:53 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-17760971",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/nato-general-speech-alexus-grynkewich-russia-vladimir-putin-5cedfeca?mod=rss_worldnews",
+    "title": "Opinion | NATO’s Message to Putin? ‘We Will Fight’",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/nato-general-speech-alexus-grynkewich-russia-vladimir-putin-5cedfeca?mod=rss_worldnews",
+    "description": "Gen. Alexus Grynkewich sends a strong deterrent message, but does Mr. Trump agree?",
+    "published": "Wed, 14 Oct 2026 10:26:53 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-81583961",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.washingtonpost.com/opinions/2026/10/13/eu-packaging-regulations-are-nightmare-small-businesses/",
+    "title": "The E.U.’s regulatory nightmare in packaging",
+    "link": "https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/2026/10/13/eu-packaging-regulations-are-nightmare-small-businesses/",
+    "description": "Sweeping new rules have ensnared small businesses and led some companies to stop recycling.",
+    "published": "Wed, 14 Oct 2026 10:26:53 +0600",
+    "source": "https://evilgodfahim.github.io/wpo/combined.xml"
+  },
+  {
+    "id": "https://www.washingtonpost.com/opinions/2026/10/13/new-delhi-voter-roll-protests-modi-undemocratic-moment/",
+    "title": "Indians took to the streets. Then came the government crackdown.",
+    "link": "https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/2026/10/13/new-delhi-voter-roll-protests-modi-undemocratic-moment/",
+    "description": "Turning the capital into a fortress hasn’t had the intended effect for Narendra Modi’s government.",
+    "published": "Wed, 14 Oct 2026 10:26:53 +0600",
+    "source": "https://evilgodfahim.github.io/wpo/combined.xml"
+  },
+  {
+    "id": "https://www.washingtonpost.com/opinions/2026/10/13/military-drones-are-attacking-civilian-airports/",
+    "title": "The Riyadh airport attack exposes a new flight path for terror",
+    "link": "https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/2026/10/13/military-drones-are-attacking-civilian-airports/",
+    "description": "Civilian airports are becoming targets for military drones.",
+    "published": "Wed, 14 Oct 2026 10:26:53 +0600",
+    "source": "https://evilgodfahim.github.io/wpo/combined.xml"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMHMwMmpwQUJPbVRDWDE1NkRfVkFCcnJkMDZRUm5neUFTUTYyRFMxeDVvWVZXZ09CUHRnOUVGQmpGMmZ2UGhNSWgtalZlUTBWZ1VGU2Rqd3dTUlJDeF8yWXVMSWRoM2Q5T29pRWxMU0RISlNjTHd4QWxkZ2Q4aWozQi1wWkx6dWswUmx0ZVpIZXFCRVRTNUtsWjE0ejNTZGRBNVlWam9nMWNHZVJMNTd1bnM4aV9FTDBNa0ljZzJVRXNpRFBneGRoVnRB?oc=5",
+    "title": "Ministry of Foreign Affairs of Ukraine - Andrii Sybiha Holds Meeting with Paweł Kowal, Chairman of the Foreign Affairs Committee of the Sejm of the Republic of Poland - Міністерство закордонних справ України",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMHMwMmpwQUJPbVRDWDE1NkRfVkFCcnJkMDZRUm5neUFTUTYyRFMxeDVvWVZXZ09CUHRnOUVGQmpGMmZ2UGhNSWgtalZlUTBWZ1VGU2Rqd3dTUlJDeF8yWXVMSWRoM2Q5T29pRWxMU0RISlNjTHd4QWxkZ2Q4aWozQi1wWkx6dWswUmx0ZVpIZXFCRVRTNUtsWjE0ejNTZGRBNVlWam9nMWNHZVJMNTd1bnM4aV9FTDBNa0ljZzJVRXNpRFBneGRoVnRB?oc=5",
+    "description": "Ministry of Foreign Affairs of Ukraine - Andrii Sybiha Holds Meeting with Paweł Kowal, Chairman of the Foreign Affairs Committee of the Sejm of the Republic of Poland  Міністерство закордонних справ України",
+    "published": "Wed, 14 Oct 2026 10:26:53 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/oct/13/ukrainian-strikes-russian-datacentres-online-disinformation-bots",
+    "title": "Did Ukrainian strikes on Russian datacentres reduce online disinformation?",
+    "link": "https://www.theguardian.com/world/2026/oct/13/ukrainian-strikes-russian-datacentres-online-disinformation-bots",
+    "description": "<p>While some viral online graphs suggest less bot activity, Zelenskyy’s claims of improved social media discourse do not entirely pass muster</p><p>Over the weekend, Ukraine carried out at least three airstrikes on datacentres belonging to the Russian search engine company Yandex. Reports <a href=\"https://meduza.io/en/news/2026/10/08/ukraine-strikes-yandex-data-center-in-russia-sparking-fire\">suggest</a> at least two of these datacentres took significant damage, with Telegram footage appearing to show one on fire. Yandex acknowledged the strikes, and Russian media reported that several websites appeared affected by the downed datacentres.</p><p>On Monday, Volodymyr Zelenskyy suggested the strikes had dampened <a href=\"https://www.theguardian.com/media/2026/aug/07/far-right-narrative-russia-online-accounts-ceuta-migration-crisis-analysis\">Russia’s massive disinformation</a> operation, <a href=\"https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid\">saying</a>: “It suddenly became a little easier to breathe on many social platforms. There was less hate, less division and fewer provocations.”</p> <a href=\"https://www.theguardian.com/world/2026/oct/13/ukrainian-strikes-russian-datacentres-online-disinformation-bots\">Continue reading...</a>",
+    "published": "Wed, 14 Oct 2026 10:26:53 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/6d9a26c93b442c2ad2b2407a0f7c9c36a1c85d7d/1848_349_3305_2644/master/3305.jpg?width=700&quality=85&auto=format&fit=max&s=b107f8f2b8328dab9101161bb4427e26",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.washingtonpost.com/opinions/2026/10/13/executions-can-turn-terrorists-into-martyrs-live-stream-increases-risk/",
+    "title": "What my daughter’s killing tells me about live-streaming an execution",
+    "link": "https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/2026/10/13/executions-can-turn-terrorists-into-martyrs-live-stream-increases-risk/",
+    "description": "The live-streamed execution plan and more, in readers' eyes.",
+    "published": "Wed, 14 Oct 2026 10:26:53 +0600",
+    "source": "https://evilgodfahim.github.io/wpo/combined.xml"
+  },
+  {
+    "id": "https://www.washingtonpost.com/opinions/2026/10/13/supreme-court-cases-watch-this-term/",
+    "title": "‘Not an easy issue’: Five writers share the Supreme Court cases they’re watching",
+    "link": "https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/2026/10/13/supreme-court-cases-watch-this-term/",
+    "description": "Which ones should you be paying attention to?",
+    "published": "Wed, 14 Oct 2026 10:26:53 +0600",
+    "source": "https://evilgodfahim.github.io/wpo/combined.xml"
+  },
+  {
+    "id": "https://www.washingtonpost.com/opinions/interactive/2026/10/13/will-artificial-intelligence-take-gen-z-jobs-depends-who-you-ask/",
+    "title": "The future job market will break career ladders. Find out who could fall.",
+    "link": "https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/interactive/2026/10/13/will-artificial-intelligence-take-gen-z-jobs-depends-who-you-ask/",
+    "description": "Entry-level pain has not been uniform across all industries.",
+    "published": "Wed, 14 Oct 2026 10:26:53 +0600",
+    "source": "https://evilgodfahim.github.io/wpo/combined.xml"
+  },
+  {
+    "id": "https://www.entrepreneur.com/building-a-business/entrepreneurship/what-really-separates-successful-ceos-from-the-rest-a-private-equity-founders-unfiltered-take",
+    "title": "What Really Separates Successful CEOs From the Rest — A Private Equity Founder’s Unfiltered Take",
+    "link": "https://www.entrepreneur.com/building-a-business/entrepreneurship/what-really-separates-successful-ceos-from-the-rest-a-private-equity-founders-unfiltered-take",
+    "description": "Tide Rock CEO Ryan Peddycord shares the principles that shaped his career and the no-debt private equity strategy most firms keep to themselves.",
+    "published": "Wed, 14 Oct 2026 10:26:53 +0600",
+    "source": "https://www.entrepreneur.com/latest.rss",
+    "thumbnail": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/what-separates-successful-ceos-1026_g2249461764.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
