@@ -270572,5 +270572,293 @@
     "source": "https://www.entrepreneur.com/latest.rss",
     "thumbnail": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/what-separates-successful-ceos-1026_g2249461764.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/ukraine-nato-artificial-intelligence-model-13-russian-drones-where-when-2026-10",
+    "title": "Ukraine wants to use AI to predict where Russian drones will hit the battlefield with 'high probability'",
+    "link": "https://www.businessinsider.com/ukraine-nato-artificial-intelligence-model-13-russian-drones-where-when-2026-10",
+    "description": "Dubbed Model No. 13, it's trained to forecast the time, location, and intensity of the strike, as well as which Russia might use, per officials.",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6acef8d4adb77227909a511f?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/treasury-fined-bank-of-america-1-2-billion-2026-10",
+    "title": "The Treasury just fined BofA $1.2 billion, saying it didn't report Chinese money laundering networks",
+    "link": "https://www.businessinsider.com/treasury-fined-bank-of-america-1-2-billion-2026-10",
+    "description": "A BofA spokesperson said the fine would impact the bank's coming quarterly earnings.",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6acef299e50b02f612be2fe2?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/dd316a64-cdf8-4bcb-bbc7-81dcb18243e5?syn-25a6b1a6=1",
+    "title": "Olympus shares suffer biggest drop since 2011 after FDA warning",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/dd316a64-cdf8-4bcb-bbc7-81dcb18243e5?syn-25a6b1a6=1",
+    "description": "Japanese medical devices maker tumbles 13.5% as private equity circles company",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/45e8941a-9f4d-4186-baec-eef5be5ce495?syn-25a6b1a6=1",
+    "title": "Le Pen casts doubt on future EU funding for Ukraine",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/45e8941a-9f4d-4186-baec-eef5be5ce495?syn-25a6b1a6=1",
+    "description": "Also in this newsletter: EU leaders urged to rethink carbon costs for industry",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/8c3c631c-e37f-4209-aefd-112c4c58020c?syn-25a6b1a6=1",
+    "title": "Germany puts Ukrainian ex-officer in the dock over Nord Stream sabotage",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/8c3c631c-e37f-4209-aefd-112c4c58020c?syn-25a6b1a6=1",
+    "description": "Serhii Kuznietsov is accused of leading group of divers who placed explosives on the Russian gas pipelines in the Baltic Sea",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
+    "title": "US grocery prices poised to climb as soaring fuel costs drive inflation",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
+    "description": "Food manufacturers warn of impact on consumers ahead of midterm elections",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html",
+    "title": "China’s Exports Soar, Putting Its Trade Surplus on Track for a Record",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html",
+    "description": "China’s exports grew last month at the fastest pace in almost any month since the end of the global financial crisis.",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-china-trade-fcvw/14biz-china-trade-fcvw-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/14/world/africa/ethiopia-eritrea-tigray-invasion.html",
+    "title": "From Allies to Enemies: Ethiopia and Eritrea Edge Toward War",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/14/world/africa/ethiopia-eritrea-tigray-invasion.html",
+    "description": "The two nations fought alongside each other during a brutal conflict in Tigray that left hundreds of thousands of people dead just a few years ago. Now they are on the brink of fighting each other.",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-ethiopia-1-tfkq/14int-ethiopia-1-tfkq-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html",
+    "title": "Leo XIV’s Lung Cancer Diagnosis Tests a Papacy Still Taking Shape",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html",
+    "description": "For a pope who appeared to have time on his side, cancer has raised questions about his longevity and brought a new urgency to his plans for the Church.",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-pope-assess-01-qzbl/13int-pope-assess-01-qzbl-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/news/international/business/vietnam-says-trade-negotiations-with-united-states-almost-completed/articleshow/134932127.cms",
+    "title": "Vietnam says trade negotiations with United States almost completed",
+    "link": "https://economictimes.indiatimes.com/news/international/business/vietnam-says-trade-negotiations-with-united-states-almost-completed/articleshow/134932127.cms",
+    "description": "",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20261014-trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland",
+    "title": "Trump says massive oil, gas and mineral exploration to begin in Greenland",
+    "link": "https://www.france24.com/en/europe/20261014-trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland",
+    "description": "",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://asiatimes.com/2026/10/imf-warns-of-debt-fueled-ai-spending-as-bubble-fears-grow/",
+    "title": "IMF warns of debt-fueled AI spending as bubble fears grow",
+    "link": "https://asiatimes.com/2026/10/imf-warns-of-debt-fueled-ai-spending-as-bubble-fears-grow/",
+    "description": "",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "content_6acf41e81475deddd2065a09",
+    "title": "Kamala Harris Says ‘Window Is Shutting’ On AI Safety—Urges Cooperation With China",
+    "link": "https://www.forbes.com/sites/siladityaray/2026/10/14/kamala-harris-says-window-is-shutting-on-ai-safety-urges-cooperation-with-china/",
+    "description": "Speaking at an event in South Korea, the former vice president and Democratic presidential nominee reiterated calls for a slowdown in frontier AI development.",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6acf425ef97b7cdfc98043de/0x0.jpg?width=960&precrop=2963%2C1666%2Cx0%2Cy24",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/ukraine-starlink-access-slowed-down-affecting-military-operations-elon-musk-2026-10",
+    "title": "Ukraine says a sudden Starlink speed limit is disrupting drone missions",
+    "link": "https://www.businessinsider.com/ukraine-starlink-access-slowed-down-affecting-military-operations-elon-musk-2026-10",
+    "description": "Ukraine's military relies heavily on Elon Musk's Starlink for battlefield communications and drone operations.",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://www.businessinsider.com/rss",
+    "thumbnail": "https://i.insider.com/6acf3b94adb77227909a516c?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/camino-house-assisted-living-facility-singapore-shophouse-community-eldercare-2026-10",
+    "title": "Inside the Singapore shophouse where assisted living comes with a social club",
+    "link": "https://www.businessinsider.com/camino-house-assisted-living-facility-singapore-shophouse-community-eldercare-2026-10",
+    "description": "\"The fulfilling part is when they have good relationships, when they say they feel a sense of belonging,\" cofounder Mariel Chee said.",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6a97e647b56943d508c4a817?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/76cd58f0-3a5c-4715-8879-d83c90ab6f2c",
+    "title": "Maybe R-star never even existed?",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/76cd58f0-3a5c-4715-8879-d83c90ab6f2c",
+    "description": "Ruffer chimes in",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/487d3e9e-99cc-4a53-bd54-365196e81f5b?syn-25a6b1a6=1",
+    "title": "Pakistan’s demographic time bomb",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/487d3e9e-99cc-4a53-bd54-365196e81f5b?syn-25a6b1a6=1",
+    "description": "Young people are already angry about the country’s lack of jobs, and their numbers are growing rapidly",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/3257335a-0295-4013-b3bf-2d9b3ee83609",
+    "title": "The treasures of Istanbul from the water",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/3257335a-0295-4013-b3bf-2d9b3ee83609",
+    "description": "More than a relaxing boat ride, a cruise along the Bosphorus is the best way to trace the metamorphosis of this cultural capital into the European-Asian megacity it is today",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/oct/14/landmines-ukraine-demining-drones-ai",
+    "title": "Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed?",
+    "link": "https://www.theguardian.com/world/2026/oct/14/landmines-ukraine-demining-drones-ai",
+    "description": "<p>Faced with deadlier threats, demining groups are coming up with new ways of working using drones and AI</p><p>Crouched over on her hands and knees in a field of weeds, Olena Kabanova is digging into the ground. With a shovel and a steady hand, the 58-year-old digs out a neat square around the spot where a mine detector has sensed a suspicious object.</p><p>Four years ago, this field in eastern Ukraine was occupied by Russian soldiers. Now back under Ukrainian control, it is littered with landmines. Civilians such as Kabanova are trying to make the land usable again.</p> <a href=\"https://www.theguardian.com/world/2026/oct/14/landmines-ukraine-demining-drones-ai\">Continue reading...</a>",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/46134225b48b134289a14fc9742e86eaf0eb737f/1330_739_2439_1951/master/2439.jpg?width=700&quality=85&auto=format&fit=max&s=5d2c4aa2a2fda10ad428751ea69b2b53",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/commentisfree/2026/oct/14/in-germany-the-mood-is-dark-but-the-weimar-narrative-is-a-far-right-trap",
+    "title": "In Germany the mood is dark. But the Weimar narrative is a far right trap | Klaus Brinkbäumer",
+    "link": "https://www.theguardian.com/commentisfree/2026/oct/14/in-germany-the-mood-is-dark-but-the-weimar-narrative-is-a-far-right-trap",
+    "description": "<p>The final season of the TV epic Babylon Berlin is taking us back to 1933. Our confidence is falling apart, but that’s where the parallels end</p><p>There is one experience we in Germany can all find mildly satisfying this autumn, as we watch the dark and terrifying <a href=\"https://www.theguardian.com/tv-and-radio/2026/aug/31/goodbye-to-babylon-berlin-the-1920s-tv-drama-that-has-eerily-foreshadowed-real-life-politics\">final season of the hit TV series Babylon Berlin</a>. We know everything those fearless (a few of them) or frightened (many more) and opportunistic (the majority) people on the screen do not. We know their future.</p><p>Made by the public broadcaster ARD, Babylon Berlin has run for over 10 years, brilliantly fictionalising how Germany sleepwalked into nazism and the second world war. The fifth and last season begins in January 1933 with Adolf Hitler appointed <em>Reichskanzler</em>.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/oct/14/in-germany-the-mood-is-dark-but-the-weimar-narrative-is-a-far-right-trap\">Continue reading...</a>",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/6747a5993857c1c2bd15bcbdeefa3118fd5566f0/573_0_2878_2303/master/2878.jpg?width=700&quality=85&auto=format&fit=max&s=dbf59947646c3b1fe66c08fecc3808cf",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=611754",
+    "title": "Wendell Berry’s Unrelenting Vision",
+    "link": "https://www.thenation.com/article/society/wendell-berrys-unrelenting-vision/",
+    "description": "<p>Richard Kreitner</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/10/Kreitner-OBP-Wendell_Berry.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>The poet wrote for <em>The Nation</em> for decades, always demonstrating conscience and prescience.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/society/wendell-berrys-unrelenting-vision/\">Wendell Berry’s Unrelenting Vision</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/10/Kreitner-OBP-Wendell_Berry.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=611887",
+    "title": "The Plundering Oligarch You Haven’t Heard Of",
+    "link": "https://www.thenation.com/article/society/jeffrey-leerink-oligarch-svb-steward-hanscom-field/",
+    "description": "<p>Chuck Collins</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/10/steward-getty.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>Private-equity magnate Jeffrey Leerink has been busy pillaging healthcare and the life sciences.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/society/jeffrey-leerink-oligarch-svb-steward-hanscom-field/\">The Plundering Oligarch You Haven’t Heard Of</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/10/steward-getty.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=611004",
+    "title": "The Architectural Follies of Trump’s Washington, DC",
+    "link": "https://www.thenation.com/article/culture/trump-capital-washington-dc/",
+    "description": "<p>Karrie Jacobs</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/09/Jacobs-DC-getty.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>The president plans to remake the capital in his own image, but is all he is doing destroying what’s already there?</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/culture/trump-capital-washington-dc/\">The Architectural Follies of Trump’s Washington, DC</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/09/Jacobs-DC-getty.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://spectator.com/article/how-regenerative-farming-could-save-rural-britain/",
+    "title": "How regenerative farming could save rural Britain",
+    "link": "https://spectator.com/article/how-regenerative-farming-could-save-rural-britain/",
+    "description": "Agriculture",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/14/opinion/netanyahu-eisenkot-israel-election.html",
+    "title": "Israelis Feel Abandoned. That’s Why They Might Turn to This Bereaved General",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/14/opinion/netanyahu-eisenkot-israel-election.html",
+    "description": "How a bereaved general has won over Israelis.",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://news.cgtn.com/news/2026-10-14/How-China-s-growth-shapes-global-cooperation-and-our-shared-future--1Re9ayVJ0pa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "title": "How Chinas growth shapes global cooperation and our shared future",
+    "link": "https://news.cgtn.com/news/2026-10-14/How-China-s-growth-shapes-global-cooperation-and-our-shared-future--1Re9ayVJ0pa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "description": "",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.middleeastmonitor.com/20261014-americas-broken-promises-irans-resolve-and-the-dangerous-game-over-the-strait-of-hormuz/",
+    "title": "America’s broken promises, Iran’s resolve, and the dangerous game over the Strait of Hormuz",
+    "link": "https://www.middleeastmonitor.com/20261014-americas-broken-promises-irans-resolve-and-the-dangerous-game-over-the-strait-of-hormuz/",
+    "description": "",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://foreignpolicy.com/?p=1243312",
+    "title": "The Autumn Myanmar Turned Pretty",
+    "link": "https://foreignpolicy.com/2026/10/14/myanmar-diplomatic-breakthroughs-min-aung-hlaing/",
+    "description": "It’s been a week of diplomatic breakthroughs for the junta.",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://foreignpolicy.com/feed/",
+    "thumbnail": "https://foreignpolicy.com/wp-content/uploads/2026/10/myanmar-malaysia-GettyImages-2298512907-1.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "1135580",
+    "title": "Ukraine Can Turn Imminent Peril to Its Advantage",
+    "link": "https://www.foreignaffairs.com/ukraine/ukraine-can-turn-imminent-peril-its-advantage",
+    "description": "How a true “energy cease-Fire” can curb Putin.",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://www.foreignaffairs.com/rss.xml"
+  },
+  {
+    "id": "1135581",
+    "title": "China’s Next Frontier",
+    "link": "https://www.foreignaffairs.com/china/chinas-next-frontier",
+    "description": "Technology experts Kathleen Curlee and Sam Bresnick argue that China is catching up to the United States in space, commercially and militarily. This poses a threat to U.S. military operations, which rely on space-based capabilities. Washington must invest in space defense and also reduce its reliance on the domain.",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://www.foreignaffairs.com/rss.xml"
+  },
+  {
+    "id": "https://thediplomat.com/2026/10/what-the-ukrainian-strikes-on-yandex-tell-us-about-central-asias-digital-infrastructure/",
+    "title": "What the Ukrainian Strikes on Yandex Tell Us About Central Asia’s Digital Infrastructure",
+    "link": "https://archive.is/o/5WQRS/https://thediplomat.com/2026/10/what-the-ukrainian-strikes-on-yandex-tell-us-about-central-asias-digital-infrastructure/",
+    "description": "Drone strikes on Yandex data centers near Moscow triggered service outages in Central Asia, too.",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/diplo/combined.xml",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/10/thediplomat_2026-10-14-053350.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thediplomat.com/2026/10/drones-and-missiles-are-rewriting-the-military-balance-on-the-korean-peninsula/",
+    "title": "Drones and Missiles Are Rewriting the Military Balance on the Korean Peninsula",
+    "link": "https://archive.is/o/5WQRS/https://thediplomat.com/2026/10/drones-and-missiles-are-rewriting-the-military-balance-on-the-korean-peninsula/",
+    "description": "North Korea’s ability to disperse, conceal, and employ its drones, missiles, and nuclear weapons is outpacing South Korea’s capacity to destroy them.",
+    "published": "Wed, 14 Oct 2026 15:42:03 +0600",
+    "source": "https://evilgodfahim.github.io/diplo/combined.xml",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/09/thediplomat_2026-09-09-224548.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
