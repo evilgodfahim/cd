@@ -272114,5 +272114,147 @@
     "source": "https://evilgodfahim.github.io/gd/merged.xml",
     "thumbnail": "https://i.guim.co.uk/img/media/86836f83a9760d8cd85db7fcb60947f81e48adb7/1008_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=042a569d3297b43d50e01ed85adcc279",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+    "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+    "description": "President Volodymyr Zelensky made the announcement in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/economy/asias-uneven-economic-resilience-faces-stress-tests-imf-says-1a158927?mod=rss_worldnews",
+    "title": "Asia’s Uneven Economic Resilience Faces Stress Tests, IMF Says",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/economy/asias-uneven-economic-resilience-faces-stress-tests-imf-says-1a158927?mod=rss_worldnews",
+    "description": "Asian economies have adapted to war-driven energy disruptions more effectively than anticipated, despite their heavy reliance on the Middle East for fuel.",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-69456533",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://timesofindia.indiatimes.com/world/middle-east/how-chinese-parts-are-fuelling-houthi-ambitions-to-strike-israel-and-saudi-arabia/articleshow/134955625.cms",
+    "title": "How Chinese parts are fuelling Houthi ambitions to strike Israel and Saudi Arabia",
+    "link": "https://timesofindia.indiatimes.com/world/middle-east/how-chinese-parts-are-fuelling-houthi-ambitions-to-strike-israel-and-saudi-arabia/articleshow/134955625.cms",
+    "description": "",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://abcnews.com/International/wireStory/china-opens-joint-airfield-laos-construction-ongoing-eyes-137275971",
+    "title": "China opens joint airfield in Laos with eyes on its military role",
+    "link": "https://abcnews.com/International/wireStory/china-opens-joint-airfield-laos-construction-ongoing-eyes-137275971",
+    "description": "",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://thediplomat.com/2026/10/vietnam-set-to-sign-free-trade-pact-with-european-bloc-this-week/",
+    "title": "Vietnam Set to Sign Free Trade Pact With European Bloc This Week",
+    "link": "https://archive.is/o/5WQRS/https://thediplomat.com/2026/10/vietnam-set-to-sign-free-trade-pact-with-european-bloc-this-week/",
+    "description": "Hanoi also says that a reciprocal trade deal with the United States is nearing completion and should be signed soon.",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://evilgodfahim.github.io/diplo/combined.xml",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/10/thediplomat_2026-10-15-123819.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "6ac95682aa79b9f8ca55700b",
+    "title": "The Death of a Young Haitian’s American Dream",
+    "link": "https://www.newyorker.com/news/dispatch/the-death-of-a-young-haitians-american-dream",
+    "description": "Pierre Damas Bel was a twenty-year-old college student planning for his future. His family says that ICE monitoring made him lose hope.",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://www.newyorker.com/feed/rss",
+    "thumbnail": "https://media.newyorker.com/photos/6ac956928cbb1f6ef8a92533/master/pass/Danticat_Pierre_h_16514082.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html",
+    "title": "Inside the Plague Research Labs at the Heart of a Russian Mystery",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html",
+    "description": "A Russian researcher, who died from an unknown illness, worked at a remote anti-plague facility. Few foreigners have visited these labs, which dot the former Soviet states, and are shrouded in secrecy.",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/15/multimedia/15SCI-INSIDE-PLAGUE-LAB-01-hfwt/15SCI-INSIDE-PLAGUE-LAB-01-hfwt-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
+    "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
+    "description": "Ukrainian engineers are rushing to perfect A.I.-guided, jet-driven interceptors. Their goal: to stop a fast Russian threat in the latest round of a deadly tech duel.",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-ukraine-jet-drones-03-qkbj/14int-ukraine-jet-drones-03-qkbj-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/europe/the-far-left-firebrand-who-wants-to-upend-frances-politicsand-cancel-its-debt-a50025ea?mod=rss_worldnews",
+    "title": "The Far-Left Firebrand Who Wants to Upend France’s Politics—and Cancel Its Debt",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/europe/the-far-left-firebrand-who-wants-to-upend-frances-politicsand-cancel-its-debt-a50025ea?mod=rss_worldnews",
+    "description": "Jean-Luc Mélenchon has seized on student demonstrations and transformed himself into a real contender for France’s highest office.",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-55434434",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/15/opinion/israel-elections-ultra-orthodox-jewish.html",
+    "title": "Theocracy Is Not What I Want for Israel",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/15/opinion/israel-elections-ultra-orthodox-jewish.html",
+    "description": "Israeli voters have an opportunity to end the stranglehold the ultra-Orthodox have on some aspects of society.",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/15/opinion/france-protests-debt-budget.html",
+    "title": "France Is on the Brink",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/15/opinion/france-protests-debt-budget.html",
+    "description": "A fiscal crisis threatens to bring the country to ruin.",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.middleeastmonitor.com/20261015-the-ceasefire-that-keeps-killing-children-gaza-one-year-on/",
+    "title": "The ceasefire that keeps killing children: Gaza one year on",
+    "link": "https://www.middleeastmonitor.com/20261015-the-ceasefire-that-keeps-killing-children-gaza-one-year-on/",
+    "description": "",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWRZa0liLU5yVEs4S1YzRllTNnZxMW5EdE10TXNOcC10TVREUVNlVXpXcDdKeGF4STItSmE2V2Z1UXo1YXVjYTZSd0ZPVTFOdTByckFSMWs4eDZqUTFhNk5NSHlFdVFyN2RCNlRzVVY2X2IwSG1oUTJseDZRMFl1VHZZY2NRbF80N1NQOHZYRjBrMzFGM0xEcm1FSU9GQUVIN1E?oc=5",
+    "title": "The geopolitics of an Orthodox anniversary: Moscow, ecclesiastical legitimacy and the politics of presence - Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWRZa0liLU5yVEs4S1YzRllTNnZxMW5EdE10TXNOcC10TVREUVNlVXpXcDdKeGF4STItSmE2V2Z1UXo1YXVjYTZSd0ZPVTFOdTByckFSMWs4eDZqUTFhNk5NSHlFdVFyN2RCNlRzVVY2X2IwSG1oUTJseDZRMFl1VHZZY2NRbF80N1NQOHZYRjBrMzFGM0xEcm1FSU9GQUVIN1E?oc=5",
+    "description": "The geopolitics of an Orthodox anniversary: Moscow, ecclesiastical legitimacy and the politics of presence  Modern Diplomacy",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pRFdVMHJfTnJOc2xkQ1I0MG5aRkRWUVBDeWdwSTV4MFBicjE1ZjRfNnBwY2k2NTIzZVFtR2FuOUw1SVZuMlg5cEJ5YmlxXzlMVTlPZEFUYXV5QmlNU083VHdDRmZ6V0RkRlEydDBsQQ?oc=5",
+    "title": "China’s Advance in the Bahamas - The Diplomat – Asia-Pacific Current Affairs Magazine",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pRFdVMHJfTnJOc2xkQ1I0MG5aRkRWUVBDeWdwSTV4MFBicjE1ZjRfNnBwY2k2NTIzZVFtR2FuOUw1SVZuMlg5cEJ5YmlxXzlMVTlPZEFUYXV5QmlNU083VHdDRmZ6V0RkRlEydDBsQQ?oc=5",
+    "description": "China’s Advance in the Bahamas  The Diplomat – Asia-Pacific Current Affairs Magazine",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "1135582",
+    "title": "The Middle East’s Quiet Liberal Revolution",
+    "link": "https://www.foreignaffairs.com/iran/middle-easts-quiet-liberal-revolution",
+    "description": "What people in the region actually believe.",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://www.foreignaffairs.com/rss.xml"
+  },
+  {
+    "id": "1135589",
+    "title": "India’s Democratic Reckoning",
+    "link": "https://www.foreignaffairs.com/india/indias-democratic-reckoning",
+    "description": "The battle on the streets over the foundations of the state.",
+    "published": "Thu, 15 Oct 2026 16:05:43 +0600",
+    "source": "https://www.foreignaffairs.com/rss.xml"
   }
 ]
