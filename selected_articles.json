@@ -275408,5 +275408,93 @@
     "source": "https://www.forbes.com/business/feed/",
     "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6ad39d8ebfa12251f3307c77/0x0.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/5712154e-13a1-4adc-8ff8-be744a9ffc1c?syn-25a6b1a6=1",
+    "title": "White House chaos overshadows Trump’s midterms push",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/5712154e-13a1-4adc-8ff8-be744a9ffc1c?syn-25a6b1a6=1",
+    "description": "Sacking of Katie Zacharia is latest in a week of embarrassing administration mis-steps",
+    "published": "Sun, 18 Oct 2026 03:45:30 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+    "title": "Israeli settlers attack European diplomats in West Bank",
+    "link": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+    "description": "<p>French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives </p><p>Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh, in the occupied West Bank, injuring three people and damaging a car, in the latest violent attempt to prevent Palestinians from harvesting olives on their own land.</p><p>Bernard Baudoux, mayor of Aulnoye-Aymeries, was wearing his red, white and blue sash of office and attempting to enter a vehicle with diplomatic plates when he was assaulted and knocked to the ground on Saturday.</p> <a href=\"https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank\">Continue reading...</a>",
+    "published": "Sun, 18 Oct 2026 03:45:30 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/b9a3e348f316f5f39a4ebd9844c51cbc810845c9/0_1020_1192_953/master/1192.jpg?width=700&quality=85&auto=format&fit=max&s=aa850b3e016adc2855b18a14ae3c1eb7",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
+    "title": "Kenya Confirms Four New Ebola Cases",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
+    "description": "Seven Ebola infections have now been confirmed in Kenya, which before this month had never recorded cases of the deadly virus.",
+    "published": "Sun, 18 Oct 2026 03:45:30 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-kenya-ebola-mkhg/17int-kenya-ebola-mkhg-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thehindu.com/news/international/russian-diesel-not-for-us-but-for-world-markets-trump/article71582149.ece",
+    "title": "Russian diesel not for us, but for world markets: Trump",
+    "link": "https://www.thehindu.com/news/international/russian-diesel-not-for-us-but-for-world-markets-trump/article71582149.ece",
+    "description": "",
+    "published": "Sun, 18 Oct 2026 03:45:30 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://southfront.press/russia-strikes-ukraines-steel-and-energy-sector/",
+    "title": "Russia Strikes Ukraine’s Steel and Energy Sector",
+    "link": "https://southfront.press/russia-strikes-ukraines-steel-and-energy-sector/",
+    "description": "",
+    "published": "Sun, 18 Oct 2026 03:45:30 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYk5UOElLQ0FzV2xHQm1faHNEWWZrZjJNM2g4Q3ZURlNNeVdEaVNDT1JLRUl0TWtXRHJkOFJQRzNtcmVweVRtZ25iaEFXUl9FQ3lIT1dHYzZubWVHc0Y3Y080U3pQTkRZMFA1ZFhzZUlncEx6QXNqcnFmd2M3LVU5cnhVampnQm1ldC1pZS14eDRxUnNJalc3OHgyYnZING9UZEMza1U5ckxDaGhObkkxYXMybXA0bWJLMGszNw?oc=5",
+    "title": "Window for diplomacy with Iran may be closing as Trump again threatens Pickaxe Mountain - Al-Monitor",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYk5UOElLQ0FzV2xHQm1faHNEWWZrZjJNM2g4Q3ZURlNNeVdEaVNDT1JLRUl0TWtXRHJkOFJQRzNtcmVweVRtZ25iaEFXUl9FQ3lIT1dHYzZubWVHc0Y3Y080U3pQTkRZMFA1ZFhzZUlncEx6QXNqcnFmd2M3LVU5cnhVampnQm1ldC1pZS14eDRxUnNJalc3OHgyYnZING9UZEMza1U5ckxDaGhObkkxYXMybXA0bWJLMGszNw?oc=5",
+    "description": "Window for diplomacy with Iran may be closing as Trump again threatens Pickaxe Mountain  Al-Monitor",
+    "published": "Sun, 18 Oct 2026 03:45:30 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0ZGaV9wa3RXU2c5RXBiZ2F3TjVHOVlIOGtSbXUxdUpVWk5VTFdpMExUMFZCMmZSWWFJd181TkxyZU15SUgzZFdXNUJaSEFXSllTd0U3TXNJNFdlZ1Bjbk9aQ0ZncTQtcXFCdHltejJpc3VlekNrUjByX0RSRXhIV0FidklYcnNVcTNLcmxjWTBrM2szaHR0ejVZc0l5WVpiS243Um5wMElZMDBUS3c?oc=5",
+    "title": "Republicans break away from Trump on foreign policy as Midterms near - Alaska's News Source",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0ZGaV9wa3RXU2c5RXBiZ2F3TjVHOVlIOGtSbXUxdUpVWk5VTFdpMExUMFZCMmZSWWFJd181TkxyZU15SUgzZFdXNUJaSEFXSllTd0U3TXNJNFdlZ1Bjbk9aQ0ZncTQtcXFCdHltejJpc3VlekNrUjByX0RSRXhIV0FidklYcnNVcTNLcmxjWTBrM2szaHR0ejVZc0l5WVpiS243Um5wMElZMDBUS3c?oc=5",
+    "description": "Republicans break away from Trump on foreign policy as Midterms near  Alaska's News Source",
+    "published": "Sun, 18 Oct 2026 03:45:30 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "content_6ad3d15143b3bab85c56eeff",
+    "title": "How To Cut The Pentagon’s $1.5 Trillion Budget Proposal Down To Size",
+    "link": "https://www.forbes.com/sites/williamhartung/2026/10/17/how-to-cut-the-pentagons-15-trillion-budget-proposal-down-to-size/",
+    "description": "The $1.5 trillion Pentagon budget request is more likely to waste money than provide a stronger defense. Congress should scale it back.",
+    "published": "Sun, 18 Oct 2026 03:45:30 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/68efeee2a59fe92a7c8ca5e2/0x0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://time.com/article/2026/10/17/climate-change-global-economy/",
+    "title": "The Climate Story Hiding in Plain Sight in the Global Economy",
+    "link": "https://time.com/article/2026/10/17/climate-change-global-economy/",
+    "description": "",
+    "published": "Sun, 18 Oct 2026 03:45:30 +0600",
+    "source": "https://evilgodfahim.github.io/tm/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/world/ng-interactive/2026/oct/18/invisible-clear-air-turbulence-airline-safety-climate-crisis",
+    "title": "Hiding in plane sight: the invisible turbulence that can strike out of a clear blue sky",
+    "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/18/invisible-clear-air-turbulence-airline-safety-climate-crisis",
+    "description": "<p>As the planet warms, airlines are grappling with what this means for air travel – and for the passengers who simply refuse to keep their seatbelts fastened</p><p>It was a swelteringly hot afternoon in south-west Myanmar on 21 May 2024. Tropical thunderstorms, showers and highs of 36C were forecast for the area around the Irrawaddy Basin. High above, monsoonal heat and humidity were building into a vast convective column of water vapour, a towering cumulonimbus cloud soaring up to 35,000ft (more than 10,500 metres) into the air. From the ground, it would have looked like something from a children’s picture book – a soft, fluffy white mass. But for Singapore Airlines flight SQ321 passing just above, it was anything but benign.</p><p>In the cabin of the Boeing 777, passengers were being woken up for breakfast with three hours to go on the journey from London to Singapore. For the 210 travellers on board, the past 10 hours had been uneventful. The seatbelt signs were off. Some were milling around, others were using the toilets, and cabin staff were preparing trolleys for service. At 2.19pm and 23 seconds local time, moderate turbulence shook the plane for 17 seconds and the seatbelt sign was switched on. Then, as one passenger described it, it was “like a grenade had gone off”. In just 4.6 seconds, any passenger not strapped in hit the roof with 1.5 times the force of gravity and was thrown back on the floor in an instant.</p> <a href=\"https://www.theguardian.com/world/ng-interactive/2026/oct/18/invisible-clear-air-turbulence-airline-safety-climate-crisis\">Continue reading...</a>",
+    "published": "Sun, 18 Oct 2026 03:45:30 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/fddfbb16a433f228a0d8ff3c15033ee8936ec135/1_0_3542_2835/master/3542.jpg?width=700&quality=85&auto=format&fit=max&s=18b74c44bbb4b06b700f7d5da10b0298",
+    "thumbnail_type": "image/jpeg"
   }
 ]
