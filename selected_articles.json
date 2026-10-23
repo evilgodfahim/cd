@@ -281840,5 +281840,287 @@
     "source": "https://www.thenation.com/rss/articles",
     "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/10/acheson-roosevelt.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/stock-market-dow-selloff-oil-prices-iran-war-2026-10",
+    "title": "The Dow drops 500 points as fears of renewed Middle East fighting send oil soaring",
+    "link": "https://www.businessinsider.com/stock-market-dow-selloff-oil-prices-iran-war-2026-10",
+    "description": "Blue chip stocks sold off on Friday as investors fretted over rising tensions between Iran and the US and looked ahead to the Fed's rate decision.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6adb7bf7c8572251b197f657?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/volvo-layoffs-job-cuts-china-pricing-pressure-2026-10",
+    "title": "Volvo plans to cut 2,500 jobs due to China's bruising pricing war",
+    "link": "https://www.businessinsider.com/volvo-layoffs-job-cuts-china-pricing-pressure-2026-10",
+    "description": "Volvo is the latest legacy automaker to say it's struggling to sell cars in China. Now, 2,500 jobs are on the chopping block.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6adb62a9dc67b5b4d01f6d00?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://time.com/article/2026/10/23/venezuela-protests-presidential-elections-opposition-maduro-machado-trump/",
+    "title": "Venezuelans Take to the Streets to Demand Democracy",
+    "link": "https://time.com/article/2026/10/23/venezuela-protests-presidential-elections-opposition-maduro-machado-trump/",
+    "description": "",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://evilgodfahim.github.io/tm/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
+    "title": "Gunmen Open Fire at Church in Jordan, Killing at Least Six",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
+    "description": "The shooting took place during a funeral in the southern province of Karak, home to a longstanding Christian community, according to Jordan’s national police force. It was one of the kingdom’s deadliest attacks in years.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
+    "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
+    "description": "With four soldiers missing, Haiti’s new Gang Suppression Force, already off to a rocky start, is facing its first crisis.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/23/world/23haiti-force/23haiti-force-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-bab-al-mandab-and-saudi-arabia-tehrans-strategic-calculus-balance",
+    "title": "Yemen, Bab al-Mandab and Saudi Arabia: Tehran’s strategic calculus in the balance",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-bab-al-mandab-and-saudi-arabia-tehrans-strategic-calculus-balance",
+    "description": "",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece",
+    "title": "What is the importance of the UN Loss and Damage Fund’s payout to Nepal? | Explained",
+    "link": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece",
+    "description": "",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995?maca=en-rss-en-world-4025-rdf",
+    "title": "Japan-Russia ties erode as journalist sits in Moscow jail",
+    "link": "https://www.dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995?maca=en-rss-en-world-4025-rdf",
+    "description": "",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.hindustantimes.com/world-news/the-america-ukraine-link-grows-even-spottier-101792739955000.html",
+    "title": "The America-Ukraine link grows even spottier",
+    "link": "https://www.hindustantimes.com/world-news/the-america-ukraine-link-grows-even-spottier-101792739955000.html",
+    "description": "",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "content_6adb8dae65e0fefd3736ca31",
+    "title": "Republicans’ Chances Of Maintaining House Majority Have ‘All But Evaporated’ Cook Political Report Says",
+    "link": "https://www.forbes.com/sites/saradorn/2026/10/23/republicans-chances-of-maintaining-house-majority-have-all-but-evaporated-cook-political-report-says/",
+    "description": "Cook now rates 220 seats as solid, likely or lean Democrat, two more than the 218 needed for the GOP to win the majority.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6adb8ddd7a84d0c563d453a9/0x0.jpg?width=960",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "content_6adb845802dfd1eca85d09ce",
+    "title": "Trump Already Challenges Midterm Results—Asks Alaska Not To Certify Senate Race If Democrat Peltola Wins",
+    "link": "https://www.forbes.com/sites/alisondurkee/2026/10/23/trump-already-challenges-midterm-results-asks-alaska-not-to-certify-senate-race-if-democrat-peltola-wins/",
+    "description": "Election experts have broadly feared Trump will try to challenge Democrats’ expected victories in the midterms.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6adb8544fe60be86e5addd69/0x0.jpg?width=960&precrop=2844%2C1600%2Cx311%2Cy53",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "content_6adb81c4a34334fe7c34644a",
+    "title": "Ukraine Says Starlink Is Still Limited After Trump Claimed Musk Restored Connection",
+    "link": "https://www.forbes.com/sites/antoniopequenoiv/2026/10/23/ukraine-says-starlink-is-still-limited-after-trump-claimed-musk-restored-connection/",
+    "description": "Trump reportedly asked Musk to lift restrictions on military-grade Starlink assets in Ukraine that impacted the country’s drone capabilities.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6adb82d25fa09b007eec109c/0x0.jpg?width=960&precrop=3341%2C2228%2Cx0%2Cy0",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "content_6ad2abb7db696967e08d9310",
+    "title": "Washington’s Diesel Blunder With Moscow Won’t Help Trump At The Polls",
+    "link": "https://www.forbes.com/sites/andyjsemotiuk/2026/10/23/washingtons-diesel-blunder-with-moscow-wont-help-trump-at-the-polls/",
+    "description": "The upcoming midterm elections will be a report card on Trump and the Republicans. The diesel deal with Putin  provided no price relief at the pumps and made no sense.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6adb69287397844f8c296898/0x0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "content_6adb69a79bfb48f53a2376a4",
+    "title": "Silver Hits Year-To-Date Low As Gold Also Falls Amid Rising Oil Prices",
+    "link": "https://www.forbes.com/sites/conormurray/2026/10/23/silver-hits-year-to-date-low-as-gold-also-falls-amid-rising-oil-prices/",
+    "description": "The price of silver plummeted to its lowest level in 11 months as oil prices have surged this week.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/69c53ae45f4878a8c7df5e0e/0x0.jpg?width=960&precrop=2682%2C1509%2Cx107%2Cy0",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.fastcompany.com/91629009/u-s-treasury-wants-expanded-restrictions-high-tech-investments-countries-concern",
+    "title": "The U.S. Treasury wants expanded restrictions on high-tech investments to these ‘countries of concern’",
+    "link": "https://www.fastcompany.com/91629009/u-s-treasury-wants-expanded-restrictions-high-tech-investments-countries-concern",
+    "description": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/section/u-s-treasury\">The U.S. Treasury Department</a> proposed a rule Thursday to crack down on American high-tech investments such as <a href=\"https://www.fastcompany.com/section/supercomputing\">supercomputing</a> and <a href=\"https://www.fastcompany.com/91609547/global-ai-safety-hinging-u-s-china-cooperation-except-they-see-each-other-problem\">artificial intelligence</a> <a href=\"https://www.fastcompany.com/91626740/u-s-bans-ai-startup-deepseek-government-systems-china-responds\">in China</a>, <a href=\"https://www.fastcompany.com/section/russia\">Russia</a>, <a href=\"https://www.fastcompany.com/section/north-korea\">North Korea</a> and other &#8220;countries of concern.&#8221;<br /><br />The U.S. government has been working for years to deny China and other adversaries investments that could help them boost their <a href=\"https://www.fastcompany.com/91551598/pentagon-pushing-ai-battlefield-top-military-leader-urging-caution\">military power</a>.<br /><br />That program began in 2023 when then-President <a href=\"https://www.fastcompany.com/91259306/why-biden-administration-proposing-new-rules-exporting-ai-chips\">Joe Biden</a> signed an executive order putting <a href=\"https://www.fastcompany.com/91238673/biden-administration-announces-new-restrictions-chinas-chipmakers\">restrictions on outbound U.S. investments</a> in sectors such as <a href=\"https://www.fastcompany.com/91354557/texas-instruments-60-billion-chip-pledge\">semiconductors</a>, quantum computing and <a href=\"https://www.fastcompany.com/91577359/why-u-s-ai-companies-cant-match-chinas-open-weight-frontier-models\">artificial intelligence</a> going into China. Treasury later established the Outbound Investment Security Program.<br /><br />In December 2025, Congress passed a law that codified and expanded the program to target more technologies and more foreign countries, including Cuba, Iran, North Korea and Russia.<br /><br />The inclusion of Russia in the proposed rule has come days after President Donald Trump waived sanctions on Russia following a diesel deal with <a href=\"https://www.fastcompany.com/section/vladimir-putin\">President Vladimir Putin</a>.<br /><br />The rule announced Thursday would expand the restrictions to cover investments in hypersonic systems capable of traveling at five times the speed of sound, supercomputing, biotechnology and <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">artificial intelligence</a>, though Treasury used <a href=\"https://www.fastcompany.com/91623604/trumps-new-super-intelligence-website-is-a-rebrand-fail\">Trump&#8217;s favored term for AI</a>, <a href=\"https://www.fastcompany.com/91618225/trump-announc-new-super-intelligence-force-lead-federal-efforts-ai\">&#8220;superintelligence&#8221;</a> or SI.<br /><br />The proposed rule &#8220;sends an important signal to markets that Washington is tracking where U.S. capital is flowing and what capabilities it is helping build,&#8221; said Craig Singleton, a senior fellow at the think tank Foundation for Defense of Democracies.<br /><br />The screening of outbound investments &#8220;recognizes that capital can accelerate military-relevant capabilities just as surely as technology transfer can,&#8221; Singleton said.<br /><br />Jason Chipman, a former Justice Department lawyer who specializes in cybersecurity, investment rules and export controls as a partner at the law firm WilmerHale, said the new rule &#8220;will require more substantial compliance programs to manage risk.&#8221;<br /><br />Treasury&#8217;s rule to implement the 2025 law — the Comprehensive Outbound Investment National Security Act — would only apply to investments that exceed $50,000 and would exclude many financial investments, including stock purchases.<br /><br />Treasury will hear public comments on the proposal before issuing a final rule.<br /><br />&#8220;It&#8217;s just the first step in a fairly long process to get to changes which presumably will be more enforcement-minded, to put more teeth behind the outbound investment program,&#8221; said former U.S. trade official Ryan Majerus, now a partner at King &amp; Spalding law firm.<br /><br />In Beijing, the Chinese Foreign Ministry said the U.S. should abide by the principles of a market economy and stop interfering in normal economic and trade cooperation between businesses.<br /><br />Asked about Washington&#8217;s proposal to add biotechnology to the list, ministry spokesperson Mao Ning said that &#8220;Overstretching the concept of national security, taking discriminatory measures against specific countries, and artificially restricting trade, economic and investment activities serve no one&#8217;s interests.&#8221;<br /><br />She added that China will closely monitor relevant developments and take necessary measures to safeguard its interests.<br /><br />Since Trump&#8217;s first term, the United States and China — the world&#8217;s two biggest economies — have been locked in an economic and tech rivalry. They&#8217;ve restricted the export of sensitive technology and critical products — such as China&#8217;s rare earth minerals and America&#8217;s advanced computer chips — to each other and slapped tariffs on each other&#8217;s products. Trump and Chinese President Xi Jinping agreed last year to ease tensions while they engaged in talks, a temporary truce they last month extended into January.<br /><br />But the sparring continues. In July, the Treasury Department issued a $200,000 fine against a U.S.-based company for failing to report to the department a $92,500 investment in a Chinese artificial intelligence and robotics company by one of its subsidiaries.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><em>—Paul Wiseman and Didi Tang, Associated Press</em></p>",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://www.fastcompany.com/latest/rss",
+    "thumbnail": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/AP26294811892872.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.fastcompany.com/91629156/american-express-layoffs-today-amex-slashes-jobs-ai-push",
+    "title": "American Express layoffs: Thousands of roles slashed in AI push as job losses in financial services pile up",
+    "link": "https://www.fastcompany.com/91629156/american-express-layoffs-today-amex-slashes-jobs-ai-push",
+    "description": "<p class=\"wp-block-paragraph\">It hasn’t been a good week for workers in the banking and financial sector. Yesterday, UK banking giant Barclays announced it was <a href=\"https://www.fastcompany.com/91628263/barclays-layoffs-today-bank-slashes-5-of-workforce-attributing-5000-job-cuts-to-ai\">laying off 5% of its workforce</a>, or nearly 5,000 workers, as it transitions more of the bank’s operations to <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">artificial intelligence</a> systems.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Across the Atlantic this morning, an American financial giant made a similar announcement. </p>\n\n\n\n<p class=\"wp-block-paragraph\">The American Express Company (NYSE: AXP), owner of the eponymous credit card and associated financial services, announced that it will slash 5% of its workforce due to AI. Here’s what you need to know.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-what-s-happened\">What’s happened?</h2>\n\n\n\n<p class=\"wp-block-paragraph\">On Friday morning, American Express CEO Stephen Squeri announced that the U.S. financial giant was eliminating 5% of its global workforce. </p>\n\n\n\n<p class=\"wp-block-paragraph\">American Express had roughly 76,800 employees at the end of 2025, so a 5% reduction equates to about 3,840 job losses.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Amex confirmed the layoffs to <em>Fast Company</em> when reached for comment.</p>\n\n\n\n<p class=\"wp-block-paragraph\">“We’ve got good momentum, but to accelerate innovation and win over the next few years, we need to become a more agile and efficient organization,” American Express CEO Steve Squeri said on a call this morning with analysts.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Squeri added: “When completed, we believe this exercise will help us operate and execute more effectively and give us greater capacity to invest in our business priorities.”</p>\n\n\n\n<p class=\"wp-block-paragraph\">And yes, artificial intelligence is one of the facets driving the layoffs.</p>\n\n\n\n<p class=\"wp-block-paragraph\">American Express chief financial officer Christophe Le Caillec <a href=\"https://www.cnbc.com/2026/10/23/american-express-job-cuts.html\">told CNBC</a> that the restructuring in part would help the company “to prepare for AI.”</p>\n\n\n\n<p class=\"wp-block-paragraph\">“You don’t want to automate processes that are not optimally structured, and so what we’re doing here is to reduce layers and increase spans of controls, so that we can automate and take advantage of AI in the coming quarters and the coming years,” Le Caillec told the network.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-american-express-stock-falls\">American Express stock falls</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Following the layoff news, American Express’s stock price fell—but likely not because the company announced layoffs.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">Despite the harm to the individual losing their jobs, Wall Street generally cheers job cuts because they are the fastest way for companies to reduce spending and thus increase their bottom line.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The cuts were <a href=\"https://s26.q4cdn.com/747928648/files/doc_earnings/2026/q3/earnings-result/Q3-2026-Earnings-Press-Release.pdf\">announced</a> alongside Amex&#8217;s Q3 2026 results today. Those results saw the financial giant report record third-quarter revenue of $20.1 billion, which was up 9% year-over-year. Net income reached $3.7 billion, up from $2.9 billion a year earlier.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Yet the company’s stock price is currently trading down around 3% in early morning trading, likely related to a general fall in markets as Brent crude reaches a six-month high amid the ongoing U.S. conflict with Iran.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Year to date, AXP has now fallen around 13%.</p>\n\n\n\n<p class=\"wp-block-paragraph\">As <em>Fast Company</em> reported yesterday, Barclays—and now American Express—are not the only banking giants that have cut jobs in 2026.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Both Citigroup and HSBC cut 10% of their workforces earlier this year. Standard Chartered said it will cut 15% of its workforce by 2030.</p>",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://www.fastcompany.com/latest/rss",
+    "thumbnail": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91629156-american-express-layoffs-ai.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.fastcompany.com/91627002/europes-brutally-hot-summer-led-to-more-than-50000-heat-deaths-in-urban-areas-alone",
+    "title": "Europe’s brutally hot summer led to more than 50,000 heat deaths in urban areas alone",
+    "link": "https://www.fastcompany.com/91627002/europes-brutally-hot-summer-led-to-more-than-50000-heat-deaths-in-urban-areas-alone",
+    "description": "<p class=\"wp-block-paragraph\">The summer of 2026 was <a href=\"https://www.fastcompany.com/91563140/stop-making-europe-deadly-heat-wave-look-fun-experts-news-media\">brutally hot</a> across Europe, with <a href=\"https://www.npr.org/2026/08/13/nx-s1-5930215/europe-swelters-through-its-fifth-heatwave-of-the-summer?st_source=ai_overview\">five</a> successive heat waves causing record-high temperatures across the continent.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">Those extremes likely led to more than 50,000 excess deaths in urban areas alone, according to a new estimate.</p>\n\n\n\n<p class=\"wp-block-paragraph\">And some 32,000 of those deaths, or nearly two-thirds of that total, can be directly <a href=\"https://www.fastcompany.com/91619956/attribution-science-explained-climate-law-research-big-oil-denialism\">attributed</a> to climate change, caused by the burning of fossil fuels.</p>\n\n\n\n<p class=\"wp-block-paragraph\">This makes the summer of 2026 likely the “worst on record” for heat-related deaths across much of Europe, according to Clair Barnes, a study author and extreme weather and climate change researcher at Imperial College London.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img alt=\"\" class=\"wp-image-91628488\" height=\"766\" src=\"https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/10/i-1-europe-extreme-summer-heat-2026.jpg\" width=\"1024\" /></figure>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-dangers-of-extreme-heat\">Dangers of extreme heat</h2>\n\n\n\n<p class=\"wp-block-paragraph\">The figures come from <a href=\"https://urldefense.proofpoint.com/v2/url?u=https-3A__www.nature.com_articles_s44360-2D026-2D00209-2D8&amp;d=DwMFAg&amp;c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&amp;r=BzAsVpwgfn8Qcdv9Smj5Wmj9IBop-sM7ITaZhsgKK3A&amp;m=v0PiONva210Jn7w6YJ6B5O6xOtX5wWbKlvVpL0OceVo77wn_g3X86YkZrY6rfd-D&amp;s=Kn9S0yMC_VETL-57aAH-QBLbHgZMdqOVEEHGyKuemt0&amp;e=\">two</a> recent studies published in the journal <em>Nature Health</em>. </p>\n\n\n\n<p class=\"wp-block-paragraph\">Researchers from Imperial College London and the London School of Hygiene &amp; Tropical Medicine looked at 854 urban areas across 30 countries (27 of which are in the European Union, plus the UK, Norway and Switzerland). Those areas account for 40% of those countries’ total population.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">By using temperature records combined with climate modeling, they were able to estimate how many excess heat-related deaths occurred every summer between 2000 and 2026. Where governments have released official mortality statistics, these findings align with official figures, the researchers say.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Heat death can be difficult to measure. Heat itself often isn’t listed as a cause of death on death certificates, except in certain instances of heat stroke.</p>\n\n\n\n<p class=\"wp-block-paragraph\">But only counting heat strokes is a “vast underestimation of the actual effect” of extreme heat, says Garyfallos Konstantinoudis, a study author and assistant professor at Imperial College London.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">Heat is one of the deadliest climate change impacts. Extreme heat stresses our cardiovascular and metabolic systems, and can combine with other illnesses to exacerbate health harms.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">This is why this count of excess deaths is an estimate, the researchers note. For the summer of 2026, many countries haven’t yet released their official mortality numbers.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Where they have, though, the researchers’ model estimates align with those figures. The researchers estimated, for example, that May and June heat waves in England and Wales caused more than 2,700 deaths. An analysis by the UK Health Security Agency later identified about 2,880 deaths in that time period.&nbsp;</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img alt=\"\" class=\"wp-image-91628498\" height=\"1821\" src=\"https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/10/i-2-europe-extreme-summer-heat-2026.jpg\" width=\"1024\" /></figure>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-the-role-of-climate-change\">The role of climate change</h2>\n\n\n\n<p class=\"wp-block-paragraph\">The studies also specifically looked at the role of climate change in these deaths by modeling a pre-industrial world in which human-caused climate change didn’t happen.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Even in that world, temperatures were so dangerously hot that they led to high deaths, Barnes says.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">“But that mortality has been pushed substantially higher by human-caused warming, primarily from the burning of fossil fuels,” she adds. “Across Europe as a whole, around two thirds of those deaths would not have occurred without the additional heat from human activity.”&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">Temperatures for that entire summer were 2.9°C above the prior decade’s average. Some days were so hot that they hit 12°C above average.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">The summer of 2026 saw the highest number of urban heat deaths in all 26 years the researchers analyzed. The summer of <a href=\"https://climate.copernicus.eu/2022-saw-record-temperatures-europe-and-across-world\">2022</a>, which was also marred by multiple dangerous heat waves, was second, with about 29,000 deaths.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">Climate change is warming the entire planet, but Europe is the fastest-warming continent. Over the summer, multiple European governments issued <a href=\"https://www.fastcompany.com/91563140/stop-making-europe-deadly-heat-wave-look-fun-experts-news-media\">“red weather warnings”</a> about the heat, even closing schools and canceling sports events.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">“These numbers are a stark reminder that our hotter, more extreme summers are having an increasingly severe impact on public health. Behind these statistics are real people whose lives were lost and real families who grieve for them,” Barnes says.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">And they&#8217;re also a reminder, she adds, “of the growing need to rapidly transition away from fossil fuels to slow the pace of change and limit future warming.”</p>",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://www.fastcompany.com/latest/rss",
+    "thumbnail": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-91627002-50K-deaths-across-europe-over-summer-2026-due-to-heat-waves.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://foreignpolicy.com/?p=1244314",
+    "title": "What’s Behind Turkish-Azerbaijani Tensions?",
+    "link": "https://foreignpolicy.com/2026/10/23/turkey-azerbaijan-aliev-erdogan-headscarf-ban/",
+    "description": "A fight over veiling reflects deeper strains over sovereignty.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://foreignpolicy.com/feed/",
+    "thumbnail": "https://foreignpolicy.com/wp-content/uploads/2026/10/turkey-azerbaijan-aliev-erdogan-headscarf-1229196908-e1792756178671.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "1135712",
+    "title": "The New Energy Stalemate in Ukraine",
+    "link": "https://www.foreignaffairs.com/ukraine/new-energy-stalemate-ukraine",
+    "description": "Tatiana Mitrova, a fellow at Columbia University’s Center on Global Energy Policy and former energy scholar at Moscow’s Russian Academy of Sciences, and Sergey Vakulenko, an oil and gas expert at Carnegie’s Russia Eurasia Center, argue that Russia and Ukraine are locked in an energy war that has become an adaptation spiral, despite growing human and economic costs and despite current US pressure on Ukraine. They observe Ukraine’s remarkable ability to withstand Russian strikes, while questioning claims that long-range Ukrainian strikes will be able to achieve game-changing damage on Russia. Ukraine and Russia have transformed the role of energy warfare in modern conflict, drawing on low costs drones but also new forms of technological resilience that are likely to make wars longer and more dangerous.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://www.foreignaffairs.com/rss.xml"
+  },
+  {
+    "id": "https://time.com/article/2026/10/23/china-manufacturing-technology-export-economic-strategy/",
+    "title": "China Cannot Remain the World’s Factory. What Comes Next?",
+    "link": "https://time.com/article/2026/10/23/china-manufacturing-technology-export-economic-strategy/",
+    "description": "",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://evilgodfahim.github.io/tm/feeds/feed.xml"
+  },
+  {
+    "id": "https://time.com/article/2026/10/23/why-trump-s-rebrand-of-artificial-intelligence-to-super-intelligent-matters/",
+    "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligent Matters",
+    "link": "https://time.com/article/2026/10/23/why-trump-s-rebrand-of-artificial-intelligence-to-super-intelligent-matters/",
+    "description": "",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://evilgodfahim.github.io/tm/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/world/europe/uk-powell-sarah-helm-palestine.html",
+    "title": "How a U.K. Official’s Wife Set Off a Debate Over Free Speech and Palestinians",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/23/world/europe/uk-powell-sarah-helm-palestine.html",
+    "description": "Sarah Helm, who is married to Britain’s national security adviser, posted of her support for the author Sally Rooney and a banned pro-Palestinian activist group. A furor ensued.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-uk-powell-wife-01-gkcz/23int-uk-powell-wife-01-gkcz-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
+    "title": "The Bukeleization of Latin America Has Arrived",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
+    "description": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/19/multimedia/00ideas-latam-kghw/00ideas-latam-kghw-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=613058",
+    "title": "The Shadow Knows",
+    "link": "https://www.thenation.com/article/politics/the-shadow-knows/",
+    "description": "<p>Tjeerd Royaards</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/10/10-23_FEAT_1440.jpg\" /></div>\n<div>High-tech weapons, low-tech intelligence.</div>\n<p>The post <a href=\"https://www.thenation.com/article/politics/the-shadow-knows/\">The Shadow Knows</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/10/10-23_FEAT_1440.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/opinion/you-can-see-everything-janet-malcolm.html",
+    "title": "Nathan Fielder and Lance Oppenheim’s ‘You Can See Everything’ and the Role of the Watcher",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/23/opinion/you-can-see-everything-janet-malcolm.html",
+    "description": "There is artifice present in any work of nonfiction, and in every aspect of our lives.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "tag:blogs.harvardbusiness.org,2007-03-31:999.435737",
+    "title": "Visions of Geopolitical Stability",
+    "link": "http://feeds.harvardbusiness.org/2026/10/visions-of-geopolitical-stability",
+    "description": "<p>Eurasia Group&#8217;s Ian Bremmer on why we may be on the brink of a more stable business environment.</p>",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "http://feeds.harvardbusiness.org/harvardbusiness"
+  },
+  {
+    "id": "https://www.nakedcapitalism.com/?p=318519",
+    "title": "Indian Gen Z ‘Cockroach’ Protesters Aim to Upend Assumptions About Democracy – and Populism – in Modi’s India",
+    "link": "https://www.nakedcapitalism.com/2026/10/indian-gen-z-cockroach-protesters-aim-to-upend-assumptions-about-democracy-and-populism-in-modis-india.html",
+    "description": "India's \"cockroach\" party continues to gain influence as it identifies and combats shortcomings in democratic practice.",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://www.nakedcapitalism.com/feed"
+  },
+  {
+    "id": "https://www.inc.com/dave-benton/i-went-looking-for-the-future-of-innovation-i-found-robots-making-medicine/91424130",
+    "title": "I Went Looking for the Future of Innovation. I Found Robots Making Medicine",
+    "link": "https://www.inc.com/dave-benton/i-went-looking-for-the-future-of-innovation-i-found-robots-making-medicine/91424130",
+    "description": "<p>At the Strange Summit in San Francisco, founders and investors shared how AI, robotics, and fusion are solving real-world problems and scaling up.</p>",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://www.inc.com/rss",
+    "thumbnail": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/robots-making-medicine-strange-summit-inc830882909.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.inc.com/liyana-illyas/aging-brain-isnt-just-declining-scientists-say-forgetting-details-may-give-advantage/91423552",
+    "title": "Your Aging Brain Isn’t Just Declining. Scientists Say Forgetting Details May Give It a Different Advantage",
+    "link": "https://www.inc.com/liyana-illyas/aging-brain-isnt-just-declining-scientists-say-forgetting-details-may-give-advantage/91423552",
+    "description": "<p>New research from scientists at the University of Arizona challenges a common assumption about older brains. </p>",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://www.inc.com/rss",
+    "thumbnail": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/brain-aging-inc-217769383.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.project-syndicate.org/commentary/civil-society-oversight-of-public-finances-needs-sustained-external-funding-by-janet-zhou-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+    "title": "Who Pays the Fiscal Watchdogs?",
+    "link": "https://archive.is/o/xWwb1/https://www.project-syndicate.org/commentary/civil-society-oversight-of-public-finances-needs-sustained-external-funding-by-janet-zhou-2026-10?&&",
+    "description": "<p>Civil-society oversight is the cheapest insurance in sovereign finance, because it enables independent scrutiny long before a default. But given that a borrowing government will never volunteer to fund the people who audit it, global decision-makers must do so using agreements for stolen-asset recovery and sovereign-debt treatments.</p>",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://evilgodfahim.github.io/ps/combined.xml"
+  },
+  {
+    "id": "https://www.project-syndicate.org/commentary/reducing-geographical-inequality-requires-targeted-public-investment-by-keun-lee-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+    "title": "How to Help Left-Behind Regions",
+    "link": "https://archive.is/o/xWwb1/https://www.project-syndicate.org/commentary/reducing-geographical-inequality-requires-targeted-public-investment-by-keun-lee-2026-10?&&",
+    "description": "<p>Pouring public investment into poorer towns and cities might be politically beneficial, but the economic returns of indiscriminate largesse would be limited. A better approach would concentrate investment in areas with the potential to become high-productivity hubs, such as large peripheral cities.</p>",
+    "published": "Fri, 23 Oct 2026 23:35:28 +0600",
+    "source": "https://evilgodfahim.github.io/ps/combined.xml"
   }
 ]
