@@ -4,16 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: international affairs and Bangladesh news</description>
-    <lastBuildDate>Sat, 24 Oct 2026 21:16:28 +0000</lastBuildDate>
-    <item>
-      <title>17 Dead, Dozens Injured After Stampede at Indian Religious Event</title>
-      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html</guid>
-      <description>Such deadly crowd events are relatively common in India, and it was unclear what caused this one. Authorities detained the event’s organizer and others involved.</description>
-      <pubDate>Sun, 18 Oct 2026 05:32:07 +0600</pubDate>
-      <media:thumbnail url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-india-stampede-qcjh/17int-india-stampede-qcjh-mediumSquareAt3X.jpg" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-india-stampede-qcjh/17int-india-stampede-qcjh-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Sat, 24 Oct 2026 23:25:04 +0000</lastBuildDate>
     <item>
       <title>France protests: Looting, fires and vandalism reported in Paris, Lyon and Limoges</title>
       <link>https://www.hindustantimes.com/world-news/france-protests-looting-fires-and-vandalism-reported-in-paris-lyon-and-limoges-101792264210664.html</link>
@@ -4775,6 +4766,13 @@ During the weekend’s street protests, the fires provided cover for rioters bre
       <guid isPermaLink="true">https://defence24.com/geopolitics/us-expands-its-war-on-cartels-hundreds-of-soldiers-are-heading-to-latin-america</guid>
       <description>US expands its war on cartels. Hundreds of soldiers are heading to Latin America  Defence24.com</description>
       <pubDate>Sun, 25 Oct 2026 03:16:14 +0600</pubDate>
+    </item>
+    <item>
+      <title>Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions</title>
+      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1</guid>
+      <description>Critics say prime minister’s proposal would turn country into an economic pariah</description>
+      <pubDate>Sun, 25 Oct 2026 05:24:50 +0600</pubDate>
     </item>
   </channel>
 </rss>
