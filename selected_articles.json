@@ -282820,5 +282820,105 @@
     "description": "",
     "published": "Sat, 24 Oct 2026 18:06:17 +0600",
     "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
+    "title": "Ukraine military says Starlink service restrictions have been removed",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
+    "description": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
+    "published": "Sat, 24 Oct 2026 21:54:37 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
+    "title": "Live Updates: France Deploys Vast Security Force in Bid to Prevent More Riots",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
+    "description": "As many as 70,000 police and security officers will try to avert the arson and looting that shocked the country last weekend. The interior minister estimated that 35,000 people were out on streets nationwide by midday.",
+    "published": "Sat, 24 Oct 2026 21:54:37 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-zzzz-jzwv/24france-protests-zzzz-jzwv-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+    "title": "Israel Launches Crackdown in West Bank City After Deadly Attack",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+    "description": "The military demolished buildings and erected roadblocks in Hebron, the biggest city in the territory, a day after Palestinian gunmen killed two soldiers.",
+    "published": "Sat, 24 Oct 2026 21:54:37 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-westbank-operation-bwkt/24int-westbank-operation-bwkt-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/473c0e0b-d4f7-449c-9192-648b82077222?syn-25a6b1a6=1",
+    "title": "French government and corporate bond yields are converging",
+    "link": "https://archive.is/qWySo/https://www.ft.com/content/473c0e0b-d4f7-449c-9192-648b82077222?syn-25a6b1a6=1",
+    "description": "Some companies’ bonds now yield less than government bonds",
+    "published": "Sat, 24 Oct 2026 21:54:37 +0600",
+    "source": "https://evilgodfahim.github.io/fto/combined.xml"
+  },
+  {
+    "id": "https://www.wsj.com/video/wsj-opinion-a-warning-as-uk-budget-approaches-amid-defense-spending-crisis/C5070E46-EC40-4C70-B4EA-D22473A41864",
+    "title": "WSJ Opinion: A Warning as U.K. Budget Approaches Amid Defense Spending Crisis",
+    "link": "https://archive.is/o/vL57B/https://www.wsj.com/video/wsj-opinion-a-warning-as-uk-budget-approaches-amid-defense-spending-crisis/C5070E46-EC40-4C70-B4EA-D22473A41864",
+    "description": "Speaking on the BBC's 'Question Time,' U.K. Defense Secretary Wes Streeting made the case for 'delivering the biggest sustained increase in defense spending since the end of the Cold War.'",
+    "published": "Sat, 24 Oct 2026 21:54:37 +0600",
+    "source": "https://evilgodfahim.github.io/wsjop/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-03672217",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://moderndiplomacy.eu/2026/10/24/trump-warns-of-possible-new-us-military-operation-against-iran/",
+    "title": "Trump Warns of Possible New US Military Operation Against Iran - Modern Diplomacy",
+    "link": "https://moderndiplomacy.eu/2026/10/24/trump-warns-of-possible-new-us-military-operation-against-iran/",
+    "description": "Trump Warns of Possible New US Military Operation Against Iran  Modern Diplomacy",
+    "published": "Sat, 24 Oct 2026 21:54:37 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "https://www.arabnews.jp/en/middle-east/intense-diplomacy-ongoing-as-egypt-seeks-to-avert-regional-escalation-foreign-ministry-spokesman-3001043",
+    "title": "Intense diplomacy ongoing as Egypt seeks to avert regional escalation: foreign ministry spokesman - アラブニュース",
+    "link": "https://www.arabnews.jp/en/middle-east/intense-diplomacy-ongoing-as-egypt-seeks-to-avert-regional-escalation-foreign-ministry-spokesman-3001043",
+    "description": "Intense diplomacy ongoing as Egypt seeks to avert regional escalation: foreign ministry spokesman  アラブニュース",
+    "published": "Sat, 24 Oct 2026 21:54:37 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
+    "title": "The AI data center boom has a ghost problem",
+    "link": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
+    "description": "Speculative AI data centers and duplicate electricity requests may make the industry's very real building challenges look bigger.",
+    "published": "Sat, 24 Oct 2026 21:54:37 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6adbb96aab741a2ebdf10df3?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
+    "title": "Inside the cyber flaw scramble that brought the AI threat to life",
+    "link": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
+    "description": "The man who set off the chain reaction that put 70% of the web at risk explains why he did it.",
+    "published": "Sat, 24 Oct 2026 21:54:37 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6adbc6e88e95884e1ca82d44?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-689137",
+    "title": "AI Terrorism Is Just Terrorism",
+    "link": "https://www.theatlantic.com/ideas/2026/10/ai-terrorism-technology/689137/",
+    "description": "The new technology hasn’t fundamentally transformed the problem—at least not yet.",
+    "published": "Sat, 24 Oct 2026 21:54:37 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/JoR0ZPJeoUXd4XxYyTfrpcRnm_A=/media/img/mt/2026/10/2026_10_22_AI_Terrorism_1/original.gif",
+    "thumbnail_type": "image/gif"
+  },
+  {
+    "id": "https://time.com/article/2026/10/24/the-fight-over-who-counts-in-india/",
+    "title": "The Fight Over Who Counts in India",
+    "link": "https://time.com/article/2026/10/24/the-fight-over-who-counts-in-india/",
+    "description": "",
+    "published": "Sat, 24 Oct 2026 21:54:37 +0600",
+    "source": "https://evilgodfahim.github.io/tm/feeds/feed.xml"
   }
 ]
