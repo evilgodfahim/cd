@@ -4,184 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Sat, 24 Oct 2026 15:54:50 +0000</lastBuildDate>
-    <item>
-      <title>Romance Scams Have Cost Americans Billions—This Journalist Went Undercover To Expose Them</title>
-      <link>https://www.forbes.com/sites/forbestv/2026/10/14/romance-scams-have-cost-americans-billions-this-journalist-went-undercover-to-expose-them/</link>
-      <guid isPermaLink="false">content_6acfa93e42ded464d60e5c85</guid>
-      <description>Journalist Mariana van Zeller spent years investigating trafficking networks. She recently went undercover to expose a different type of criminal operation—romance scams.</description>
-      <pubDate>Thu, 15 Oct 2026 01:00:18 +0600</pubDate>
-      <media:thumbnail url="https://imageio.forbes.com/specials-images/imageserve/6acfaa33d51c42259cf6691e/0x0.jpg?width=960&amp;precrop=1920%2C1080%2Cx0%2Cy0" />
-      <enclosure url="https://imageio.forbes.com/specials-images/imageserve/6acfaa33d51c42259cf6691e/0x0.jpg?width=960&amp;precrop=1920%2C1080%2Cx0%2Cy0" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Former ARPA-H director Renee Wegrzyn wants to solve science’s ‘magic hands’ problem</title>
-      <link>https://www.fastcompany.com/91623379/former-arpa-h-director-renee-wegrzyn-wants-to-solve-sciences-magic-hands-problem</link>
-      <guid isPermaLink="true">https://www.fastcompany.com/91623379/former-arpa-h-director-renee-wegrzyn-wants-to-solve-sciences-magic-hands-problem</guid>
-      <description>&lt;p class="wp-block-paragraph" id="h-rr-renee-wegrzyn-fc-article-nbsp"&gt;Renee Wegrzyn spent her career building the future of American science—including the Advanced Research Projects Agency for Health, or ARPA-H, the White House agency created to accelerate health breakthroughs. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph" id="h-rr-renee-wegrzyn-fc-article-nbsp"&gt;Then the Trump administration showed her the door. Wegrzyn cofounded Transfyr to tackle what she calls one of the most overlooked issues in science: the magic hands problem. She explains why fixing this unglamorous bottleneck is the prerequisite for everything &lt;a href="https://www.fastcompany.com/section/artificial-intelligence" title="AI"&gt;AI&lt;/a&gt; promises to deliver in medicine, and why she can feel the next Sputnik moment coming—even if she can’t quite name it yet.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This is an abridged transcript of an interview from&lt;/em&gt; &lt;a href="https://mastersofscale.com/episode_category/rapid-response/" rel="noreferrer noopener" target="_blank"&gt;Rapid Response&lt;/a&gt;&lt;em&gt;, hosted by &lt;em&gt;Robert Safian, &lt;/em&gt;former editor-in-chief of&lt;/em&gt; Fast Company&lt;em&gt;. From the team behind the&lt;/em&gt; Masters of Scale &lt;em&gt;podcast,&lt;/em&gt; Rapid Response &lt;em&gt;features candid conversations with today’s top business leaders navigating real-time challenges. Subscribe to&lt;/em&gt; Rapid Response &lt;em&gt;wherever you get your podcasts to ensure you never miss an episode.&lt;/em&gt;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;You were at ARPA-H, the inaugural director of a White House effort to accelerate health research. You were amped up about the possibilities, but with the Trump administration, you had to pivot. Was it hard not to take it personally that they wanted different leadership?&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;I&amp;#8217;ll tell you, I&amp;#8217;m still amped up about it. It&amp;#8217;s still an amazing idea. Obviously, DARPA [the Defense Advanced Research Projects Agency] has been around for almost 80 years. I hope ARPA-H will have the same longevity and continue to live on today. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;I&amp;#8217;m a builder. I love to take things forward and really show what&amp;#8217;s possible. So was it hard when I left? Of course it was hard. I had a really unusual appointment: I was a presidential appointee, but I was term-limited, so I served through the transition and had a few weeks in the new administration. I served in “Trump one,” by the way, as well. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;So it was a great opportunity to make sure they really understood why we built the agency. We needed an ARPA-H because there was something missing in the way we were doing science broadly, which was: How do you move really quickly? How do you get focused on a problem versus building a general knowledge set? I was able to show them what we were building and convince them that it was worth keeping around. I couldn&amp;#8217;t be more proud of the agency and its perseverance.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;So your new business, Transfyr—&lt;em&gt;The New York Times&lt;/em&gt; wrote about you, and the article kept referring to “magic hands.” I&amp;#8217;m curious what magic hands are. What problem is Transfyr trying to solve or address?&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;You probably have your favorite dish, or your parents&amp;#8217; or grandparents&amp;#8217; favorite dish. Sometimes they just have the magic hands. Nobody can cook it like they do. Nobody can make it taste the special way they can. And that happens in science as well. There are some scientists who just have the knack and can deliver really great science over and over. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The challenge is that a lot of those scientists are such experts they can hardly describe what they&amp;#8217;re doing. It&amp;#8217;s an art in some ways. And so the magic hands idea was really a testament to what those scientists can do in the lab.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The pipeline we&amp;#8217;re creating at Transfyr is: Can we create computer vision and perception tools to capture the work of science as it&amp;#8217;s being done so that we understand, if the protocol says, &amp;#8220;Mix the cells,&amp;#8221; whether someone is inverting the tube in a certain gentle way, while another researcher may be rigorously shaking or vortexing it, which could destroy the sample? &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Those little things, compounded over the many decisions a scientist may make over the course of several hours of experimentation, lead to what is called magic hands.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Was this an issue you saw at ARPA-H, the sort of breakthroughs that were trapped in a single lab in some ways?&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Where that manifested at DARPA and at ARPA-H was in a realization, through my career, of how fragile breakthroughs are. Usually, the way a breakthrough is first communicated to the world is through a research publication, a &lt;em&gt;Science&lt;/em&gt; or &lt;em&gt;Nature&lt;/em&gt; paper. That paper is not a product. It&amp;#8217;s not commercializable. It&amp;#8217;s not ready for a patient that day. That&amp;#8217;s the starting gun for what is going to happen. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The ARPAs of this world are really fantastic at getting to that initial breakthrough and demonstrating what is possible, but following through and delivering is not a 100% guaranteed activity. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;When I started ARPA-H, we wanted customers, who would be the final users of that technology, to give us feedback on what we were developing so that when we got to the last day of the experiment, they were demanding that product, versus having that be the first contact with a customer, which unfortunately is pretty common around traditional grant-making organizations. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;It&amp;#8217;s rethinking how you make sure you can transfer that knowledge off the back end of a program.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Because the folks at the lab aren&amp;#8217;t necessarily worrying about, or prioritizing, how to make it scalable. They&amp;#8217;re just trying to see if it works. But of course, eventually we want it to be scalable.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Sometimes the folks in the lab don&amp;#8217;t even have the expertise or understanding of who they need to talk to next to do that, right? We think about science and those transfers as handoffs. We deploy our technology to an originating lab to understand the science and what was important about that discovery, but we can also deploy it in a receiving lab so that we can see how they&amp;#8217;re reproducing it. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;And instead of the way we transfer science today, which is looking over each other&amp;#8217;s shoulders and saying, &amp;#8220;Oh, you&amp;#8217;re doing it a little wrong,&amp;#8221; we have this video-connectedness that lets us help accelerate those iterations of transferring the science.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you ever get frustrated about how resources are allocated in our world? You&amp;#8217;ve put your life toward this work, and yet so much money is devoted to, I don&amp;#8217;t know, space exploration or the next hot social app, the Meta Muse craze. How do you deal with government and how it prioritizes things?&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Yeah, it&amp;#8217;s maddening. One of the things that has me nervous right now is that I look back on the last 80 years following the Second World War. We&amp;#8217;ve led the globe in science and engineering and innovation. Nobody who&amp;#8217;s practicing science today has practiced science in the United States at a time when we weren&amp;#8217;t, quote-unquote, &lt;em&gt;winning&lt;/em&gt; from a competitiveness perspective, when we weren&amp;#8217;t at the top. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;I genuinely believe we may lose that competitiveness, that edge, that incumbency, and I&amp;#8217;m not sure I see us fighting for it in the way that we should be. We have to deliver on what we&amp;#8217;ve promised to do, and that&amp;#8217;s a commitment not just to my country, but to my kids and my family. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;What I think a lot about is Sputnik moments. We&amp;#8217;re going to look back at this moment in time like there&amp;#8217;s something happening, and it&amp;#8217;s going to impact whatever&amp;#8217;s happening 20 to 50 years from now. You can feel it in the moment. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Where that happened before, of course, was Sputnik. The United States didn&amp;#8217;t know the Soviet Union was developing that capability, and we didn&amp;#8217;t have a counter-capability. What I realized is that each individual person has a Sputnik moment in their life that is usually health-related. My Sputnik moment was when my mother was diagnosed with cancer. That stopped everything. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Everybody has a story, whether it happened to them or their family, or if you talk to a member of Congress, something&amp;#8217;s happening in their state that they can&amp;#8217;t deal with.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;So I&amp;#8217;m like, &amp;#8220;What is the Sputnik moment now?&amp;#8221; If ARPA-H was bringing people from an unhealthy state to a healthy state, what&amp;#8217;s happening now is taking us beyond that. If we can figure out and solve health and wellness, a lot of people talk about abundance. What is the next trajectory? What is the Sputnik that we&amp;#8217;re working toward?&amp;nbsp;&lt;/p&gt;
-
-
-&lt;hr /&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 01:00:18 +0600</pubDate>
-      <media:thumbnail url="https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91623379-former-arpa-h-director-renee-wegrzyn-wants-to-solve-sciences-magic-hands-problem.jpg" />
-      <enclosure url="https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91623379-former-arpa-h-director-renee-wegrzyn-wants-to-solve-sciences-magic-hands-problem.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Eight Sleep CEO Built a $1.5 Billion Business by Rewriting How We Sleep</title>
-      <link>https://www.inc.com/bryan-elliott/eight-sleep-business-model-strategy/91418593</link>
-      <guid isPermaLink="true">https://www.inc.com/bryan-elliott/eight-sleep-business-model-strategy/91418593</guid>
-      <description>&lt;p&gt;Why a company that employs zero foam experts and makes no mattresses is changing the future of the sleep industry.&lt;/p&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 01:00:18 +0600</pubDate>
-      <media:thumbnail url="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/eight-sleep-pod-6-inc.jpg" />
-      <enclosure url="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/eight-sleep-pod-6-inc.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Uyghurs Who Fought in Syria’s Civil War</title>
-      <link>https://archive.is/o/5WQRS/https://thediplomat.com/2026/10/the-uyghurs-who-fought-in-syrias-civil-war/</link>
-      <guid isPermaLink="true">https://thediplomat.com/2026/10/the-uyghurs-who-fought-in-syrias-civil-war/</guid>
-      <description>Insights from Emily Feng.</description>
-      <pubDate>Thu, 15 Oct 2026 01:00:18 +0600</pubDate>
-      <media:thumbnail url="https://images.thediplomat.com/v1/td-list-l-2/2022/02/thediplomat_2022-02-17-140408.jpg" />
-      <enclosure url="https://images.thediplomat.com/v1/td-list-l-2/2022/02/thediplomat_2022-02-17-140408.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How Worried Should We Be About the Global Economy?</title>
-      <link>https://archive.is/o/xWwb1/https://www.project-syndicate.org/commentary/key-sources-of-risk-to-the-global-economy-include-inflation-debt-and-polarization-by-dambisa-moyo-2026-10?&amp;&amp;</link>
-      <guid isPermaLink="true">https://www.project-syndicate.org/commentary/key-sources-of-risk-to-the-global-economy-include-inflation-debt-and-polarization-by-dambisa-moyo-2026-10?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=main&amp;utm_content=en</guid>
-      <description>&lt;p&gt;The risks to the global economy—including high inflation, soaring public debt, market concentration, and geopolitical volatility—are well known. But it is worth underscoring just how rare and dangerous it is for all of them to be salient at the same time.&lt;/p&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 01:00:18 +0600</pubDate>
-    </item>
-    <item>
-      <title>How a Pause on Frontier AI Could Work</title>
-      <link>https://archive.is/o/xWwb1/https://www.project-syndicate.org/commentary/pause-on-frontier-ai-models-could-be-hardwired-into-chip-design-by-barry-eichengreen-et-al-2026-10?&amp;&amp;</link>
-      <guid isPermaLink="true">https://www.project-syndicate.org/commentary/pause-on-frontier-ai-models-could-be-hardwired-into-chip-design-by-barry-eichengreen-et-al-2026-10?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=main&amp;utm_content=en</guid>
-      <description>&lt;p&gt;Whether the development of frontier AI should be paused is for policymakers to decide. But they should recognize that highly concentrated hardware supply chains make a pause feasible and, if implemented properly, likely to be sustainable.&lt;/p&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 01:00:18 +0600</pubDate>
-    </item>
-    <item>
-      <title>Can Asian governments prevent a food shock?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/10/14/can-asian-governments-prevent-a-food-shock</link>
-      <guid isPermaLink="true">https://archive.is/o/nuunc/https://www.economist.com/asia/2026/10/14/can-asian-governments-prevent-a-food-shock</guid>
-      <description>El Niño is hitting countries that are already dealing with an energy shock</description>
-      <pubDate>Thu, 15 Oct 2026 01:00:18 +0600</pubDate>
-    </item>
-    <item>
-      <title>Angry Youth in Aging Europe</title>
-      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/14/world/youth-aging-europe-pension-ukraine-starshield.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/youth-aging-europe-pension-ukraine-starshield.html</guid>
-      <description>A bitter generational battle over resources is boiling over as economic growth on the continent stalls.</description>
-      <pubDate>Thu, 15 Oct 2026 04:15:26 +0600</pubDate>
-      <media:thumbnail url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-theworld-europe-economy-protests-01-zkgh-promo/15int-theworld-europe-economy-protests-01-zkgh-promo-mediumSquareAt3X.jpg" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-theworld-europe-economy-protests-01-zkgh-promo/15int-theworld-europe-economy-protests-01-zkgh-promo-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Sat, 24 Oct 2026 18:42:36 +0000</lastBuildDate>
     <item>
       <title>The aesthetics of quantum computing</title>
       <link>https://archive.is/qWySo/https://www.ft.com/content/f0c877e2-7f9c-4c5a-8b06-e2f9e659fa12?syn-25a6b1a6=1</link>
@@ -4378,6 +4201,74 @@ The town has had at least three names - Gorizia, Görz, Gorica - because for ce
       <guid isPermaLink="true">https://time.com/article/2026/10/24/the-fight-over-who-counts-in-india/</guid>
       <description />
       <pubDate>Sat, 24 Oct 2026 21:54:37 +0600</pubDate>
+    </item>
+    <item>
+      <title>Celebrity Has Become a Jobs Program</title>
+      <link>https://www.theatlantic.com/books/2026/10/who-weekly-book-i-want-to-be-famous-review/689139/</link>
+      <guid isPermaLink="false">tag:theatlantic.com,2026:50-689139</guid>
+      <description>A new book by the hosts of &lt;em&gt;Who? Weekly&lt;/em&gt; scrutinizes how social media democratized fame.</description>
+      <pubDate>Sun, 25 Oct 2026 00:42:23 +0600</pubDate>
+      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/Ie7wrjBhCzOwV3u7L2YoWNAX24U=/media/img/mt/2026/10/2026_10_14_Universal_celebrity/original.jpg" />
+      <enclosure url="https://cdn.theatlantic.com/thumbor/Ie7wrjBhCzOwV3u7L2YoWNAX24U=/media/img/mt/2026/10/2026_10_14_Universal_celebrity/original.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The Temporary Pleasure of Conversation</title>
+      <link>https://www.theatlantic.com/newsletters/2026/10/the-secret-to-a-good-conversation/689141/</link>
+      <guid isPermaLink="false">tag:theatlantic.com,2026:50-689141</guid>
+      <description>Talking is a fleeting act, but that transience gives it meaning.</description>
+      <pubDate>Sun, 25 Oct 2026 00:42:23 +0600</pubDate>
+      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/urZJvuo5ZybtjxOFPfGPsQXX3aI=/0x51:3439x1986/media/img/mt/2026/10/GettyImages_1798152520/original.jpg" />
+      <enclosure url="https://cdn.theatlantic.com/thumbor/urZJvuo5ZybtjxOFPfGPsQXX3aI=/0x51:3439x1986/media/img/mt/2026/10/GettyImages_1798152520/original.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html</guid>
+      <description>Americans on hand for the N.F.L.’s first-ever game in France found famous museums closed and shops boarded up.</description>
+      <pubDate>Sun, 25 Oct 2026 00:42:23 +0600</pubDate>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-paris-shutdown-scene-topart-jftw/24france-protests-paris-shutdown-scene-topart-jftw-mediumSquareAt3X.jpg" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-paris-shutdown-scene-topart-jftw/24france-protests-paris-shutdown-scene-topart-jftw-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Riots, Rates, and Risks—The Economic Roots of France’s Unrest</title>
+      <link>https://www.theepochtimes.com/world/riots-rates-and-risks-the-economic-roots-of-frances-unrest-6108347</link>
+      <guid isPermaLink="true">https://www.theepochtimes.com/world/riots-rates-and-risks-the-economic-roots-of-frances-unrest-6108347</guid>
+      <description />
+      <pubDate>Sun, 25 Oct 2026 00:42:23 +0600</pubDate>
+    </item>
+    <item>
+      <title>Dolly Parton Told Elvis No. That Decision Is a Masterclass in Personal Branding</title>
+      <link>https://www.inc.com/andrea-wojnicki/dolly-parton-told-elvis-no-that-decision-is-a-masterclass-in-personal-branding/91424723</link>
+      <guid isPermaLink="true">https://www.inc.com/andrea-wojnicki/dolly-parton-told-elvis-no-that-decision-is-a-masterclass-in-personal-branding/91424723</guid>
+      <description>&lt;p&gt;Big hair, bigger business sense.&lt;/p&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 00:42:23 +0600</pubDate>
+      <media:thumbnail url="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/dolly-parton-elvis-no-inc-950456870.jpg" />
+      <enclosure url="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/dolly-parton-elvis-no-inc-950456870.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Neko Health Turned a Dreaded Blood Test Into an Experience People Want to Repeat</title>
+      <link>https://www.inc.com/shama-hyder/neko-health-turned-a-dreaded-blood-test-into-an-experience-people-want-to-repeat/91422626</link>
+      <guid isPermaLink="true">https://www.inc.com/shama-hyder/neko-health-turned-a-dreaded-blood-test-into-an-experience-people-want-to-repeat/91422626</guid>
+      <description>&lt;p&gt;Slippers, water, and a $499 lesson in customer experience.&lt;/p&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 00:42:23 +0600</pubDate>
+      <media:thumbnail url="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/neko-health-blood-test-inc.jpg" />
+      <enclosure url="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/neko-health-blood-test-inc.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Companies Are Adopting AI, but Their Employees Aren’t Ready</title>
+      <link>https://www.inc.com/joe-galvin/companies-are-adopting-ai-why-arent-they-training-employees/91423185</link>
+      <guid isPermaLink="true">https://www.inc.com/joe-galvin/companies-are-adopting-ai-why-arent-they-training-employees/91423185</guid>
+      <description>&lt;p&gt;AI adoption is booming. AI skills? Not so much.&lt;/p&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 00:42:23 +0600</pubDate>
+      <media:thumbnail url="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/employee-ai-use-inc-1232856033.jpg" />
+      <enclosure url="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/employee-ai-use-inc-1232856033.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>AI models may not be so opaque after all</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all</link>
+      <guid isPermaLink="true">https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all</guid>
+      <description>A glimmer of hope for those worried about AI safety</description>
+      <pubDate>Sun, 25 Oct 2026 00:42:23 +0600</pubDate>
     </item>
   </channel>
 </rss>
