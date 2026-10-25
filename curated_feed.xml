@@ -4,30 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: international affairs and Bangladesh news</description>
-    <lastBuildDate>Sun, 25 Oct 2026 21:49:11 +0000</lastBuildDate>
-    <item>
-      <title>Treasury introduces new security measures in bid to stop UK Budget leaks</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/6748e45a-0b1a-43be-b65f-645849af4a57?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/6748e45a-0b1a-43be-b65f-645849af4a57?syn-25a6b1a6=1</guid>
-      <description>Chancellor John Healey deploys ‘military-style’ security protocols to restrict flow of sensitive information</description>
-      <pubDate>Sun, 18 Oct 2026 23:57:58 +0600</pubDate>
-    </item>
-    <item>
-      <title>Egypt’s Sisi sets out plan for military to train his successors</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/f591211b-497f-4b20-a0ab-7c37d5422761?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/f591211b-497f-4b20-a0ab-7c37d5422761?syn-25a6b1a6=1</guid>
-      <description>President says he will step down in 2030 but floats new process that would consolidate role of army in state</description>
-      <pubDate>Sun, 18 Oct 2026 23:57:58 +0600</pubDate>
-    </item>
-    <item>
-      <title>Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens</title>
-      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html</guid>
-      <description>Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in the province of Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil.</description>
-      <pubDate>Sun, 18 Oct 2026 23:57:58 +0600</pubDate>
-      <media:thumbnail url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-base-fire-hbwv/18int-canada-base-fire-hbwv-mediumSquareAt3X.jpg" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-base-fire-hbwv/18int-canada-base-fire-hbwv-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Sun, 25 Oct 2026 23:39:52 +0000</lastBuildDate>
     <item>
       <title>U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them</title>
       <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html</link>
@@ -4777,6 +4754,29 @@ During the weekend’s street protests, the fires provided cover for rioters bre
       <guid isPermaLink="true">https://southfront.press/russia-hits-ukrainian-logistics-and-rail-ukraine-strikes-russian-industry-and-southern-power-grid/</guid>
       <description />
       <pubDate>Mon, 26 Oct 2026 03:48:56 +0600</pubDate>
+    </item>
+    <item>
+      <title>Venezuelan opposition leader Machado returns from exile</title>
+      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1</guid>
+      <description>Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government</description>
+      <pubDate>Mon, 26 Oct 2026 05:39:34 +0600</pubDate>
+    </item>
+    <item>
+      <title>FirstFT: Brazil awaits results in knife-edge presidential vote</title>
+      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/7d8f8969-7bef-4776-8e32-54249f8d3d61?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/7d8f8969-7bef-4776-8e32-54249f8d3d61?syn-25a6b1a6=1</guid>
+      <description>Also in today’s newsletter: Venezuela’s opposition leader returns from exile and Kim Jong Un visits Chinese border city</description>
+      <pubDate>Mon, 26 Oct 2026 05:39:34 +0600</pubDate>
+    </item>
+    <item>
+      <title>Aleksandar Vucic Concedes Defeat in Serbian Election</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html</guid>
+      <description>“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.</description>
+      <pubDate>Mon, 26 Oct 2026 05:39:34 +0600</pubDate>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/10/25/multimedia/25int-serbia-vucic-mpgv/25int-serbia-vucic-mpgv-mediumSquareAt3X.jpg" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/25/multimedia/25int-serbia-vucic-mpgv/25int-serbia-vucic-mpgv-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
