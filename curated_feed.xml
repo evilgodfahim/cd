@@ -4,21 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: international affairs and Bangladesh news</description>
-    <lastBuildDate>Sat, 24 Oct 2026 23:25:04 +0000</lastBuildDate>
-    <item>
-      <title>France protests: Looting, fires and vandalism reported in Paris, Lyon and Limoges</title>
-      <link>https://www.hindustantimes.com/world-news/france-protests-looting-fires-and-vandalism-reported-in-paris-lyon-and-limoges-101792264210664.html</link>
-      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/france-protests-looting-fires-and-vandalism-reported-in-paris-lyon-and-limoges-101792264210664.html</guid>
-      <description />
-      <pubDate>Sun, 18 Oct 2026 05:32:07 +0600</pubDate>
-    </item>
-    <item>
-      <title>What Trump’s Waiver of New Russia Sanctions Means for Ukraine</title>
-      <link>https://time.com/article/2026/10/17/what-trump-s-waiver-of-new-russia-sanctions-means-for-ukraine/</link>
-      <guid isPermaLink="true">https://time.com/article/2026/10/17/what-trump-s-waiver-of-new-russia-sanctions-means-for-ukraine/</guid>
-      <description>Experts say easing pressure on Moscow could bring limited relief to U.S. fuel buyers while undermining support for Kyiv.</description>
-      <pubDate>Sun, 18 Oct 2026 07:32:19 +0600</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 Oct 2026 01:30:52 +0000</lastBuildDate>
     <item>
       <title>Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio</title>
       <link>https://www.theguardian.com/world/2026/oct/18/ukraine-war-briefing-trumps-sanctions-waiver-is-a-60-day-pause-to-analyse-economic-impact-says-rubio</link>
@@ -4773,6 +4759,22 @@ During the weekend’s street protests, the fires provided cover for rioters bre
       <guid isPermaLink="true">https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1</guid>
       <description>Critics say prime minister’s proposal would turn country into an economic pariah</description>
       <pubDate>Sun, 25 Oct 2026 05:24:50 +0600</pubDate>
+    </item>
+    <item>
+      <title>Power Outages Leave Kyiv Dreading Its Worst Winter of the War</title>
+      <link>https://archive.is/o/soww3/https://www.wsj.com/world/power-outages-leave-kyiv-dreading-its-worst-winter-of-the-war-0c713797?mod=rss_worldnews</link>
+      <guid isPermaLink="true">https://www.wsj.com/world/power-outages-leave-kyiv-dreading-its-worst-winter-of-the-war-0c713797?mod=rss_worldnews</guid>
+      <description>Some are leaving the Ukrainian capital as Russia intensifies its campaign targeting the country’s energy infrastructure.</description>
+      <pubDate>Sun, 25 Oct 2026 07:30:39 +0600</pubDate>
+      <media:thumbnail url="https://images.wsj.net/im-32329207" />
+      <enclosure url="https://images.wsj.net/im-32329207" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Protests sweep across Europe from France to Albania, Italy, Spain and Portugal.</title>
+      <link>https://www.euronews.com/2026/10/24/protests-sweep-across-europe-from-france-to-albania-italy-spain-and-portugal</link>
+      <guid isPermaLink="true">https://www.euronews.com/2026/10/24/protests-sweep-across-europe-from-france-to-albania-italy-spain-and-portugal</guid>
+      <description />
+      <pubDate>Sun, 25 Oct 2026 07:30:39 +0600</pubDate>
     </item>
   </channel>
 </rss>

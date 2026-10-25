@@ -283172,5 +283172,39 @@
     "description": "The Making of the Houthis: Saudi Policy, UN diplomacy, and Red Sea Geography  Manara Magazine",
     "published": "Sun, 25 Oct 2026 05:24:50 +0600",
     "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "https://www.wsj.com/world/power-outages-leave-kyiv-dreading-its-worst-winter-of-the-war-0c713797?mod=rss_worldnews",
+    "title": "Power Outages Leave Kyiv Dreading Its Worst Winter of the War",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/power-outages-leave-kyiv-dreading-its-worst-winter-of-the-war-0c713797?mod=rss_worldnews",
+    "description": "Some are leaving the Ukrainian capital as Russia intensifies its campaign targeting the country’s energy infrastructure.",
+    "published": "Sun, 25 Oct 2026 07:30:39 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-32329207",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.euronews.com/2026/10/24/protests-sweep-across-europe-from-france-to-albania-italy-spain-and-portugal",
+    "title": "Protests sweep across Europe from France to Albania, Italy, Spain and Portugal.",
+    "link": "https://www.euronews.com/2026/10/24/protests-sweep-across-europe-from-france-to-albania-italy-spain-and-portugal",
+    "description": "",
+    "published": "Sun, 25 Oct 2026 07:30:39 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.newstatesman.com/?p=538870",
+    "title": "Can Burnham fix Britain without breaking the union?",
+    "link": "https://www.newstatesman.com/politics/scotland/2026/10/can-burnham-fix-britain-without-breaking-the-union",
+    "description": "Scotland is a test case for the PM's radical agenda",
+    "published": "Sun, 25 Oct 2026 07:30:39 +0600",
+    "source": "https://www.newstatesman.com/feed"
+  },
+  {
+    "id": "https://spectator.com/article/anybody-still-major-humanities-college/?edition=us",
+    "title": "Does anybody still major in the humanities?",
+    "link": "https://spectator.com/article/anybody-still-major-humanities-college/?edition=us",
+    "description": "By Charles Lipson",
+    "published": "Sun, 25 Oct 2026 07:30:39 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
   }
 ]
