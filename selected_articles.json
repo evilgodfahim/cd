@@ -283206,5 +283206,107 @@
     "description": "By Charles Lipson",
     "published": "Sun, 25 Oct 2026 07:30:39 +0600",
     "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/653f5a48-94f5-4e92-86dd-7d118e8849a8?syn-25a6b1a6=1",
+    "title": "Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/653f5a48-94f5-4e92-86dd-7d118e8849a8?syn-25a6b1a6=1",
+    "description": "Jim Chalmers argues economic security and bolstering supply chains would benefit consumers",
+    "published": "Sun, 25 Oct 2026 12:46:04 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
+    "title": "What to Know as Serbia Votes for a New Parliament",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
+    "description": "A student-led movement is challenging the governing party of Aleksandar Vucic, who has dominated Serbian politics for over a decade.",
+    "published": "Sun, 25 Oct 2026 12:46:04 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/25/world/europe/23vid-serbia-election-primer/23vid-serbia-election-primer-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
+    "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
+    "description": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.",
+    "published": "Sun, 25 Oct 2026 12:46:04 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-iran-mood-bwvj/24int-iran-mood-bwvj-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://abcnews.com/International/wireStory/brazil-faces-tense-lula-bolsonaro-runoff-us-influence-137548340",
+    "title": "Brazil faces a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake",
+    "link": "https://abcnews.com/International/wireStory/brazil-faces-tense-lula-bolsonaro-runoff-us-influence-137548340",
+    "description": "",
+    "published": "Sun, 25 Oct 2026 12:46:04 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/news/international/world-news/as-the-us-and-china-form-ai-blocs-countries-are-increasingly-torn-between-them/articleshow/135183287.cms",
+    "title": "As the US and China form AI blocs, countries are increasingly torn between them",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/as-the-us-and-china-form-ai-blocs-countries-are-increasingly-torn-between-them/articleshow/135183287.cms",
+    "description": "",
+    "published": "Sun, 25 Oct 2026 12:46:04 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://newsaf.cgtn.com/news/2026-10-24/Ethiopia-Eritrea-Standoff-What-s-at-stake-for-the-region--1Rvju6mSklG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "title": "Ethiopia-Eritrea Standoff: What’s at stake for the region?",
+    "link": "https://newsaf.cgtn.com/news/2026-10-24/Ethiopia-Eritrea-Standoff-What-s-at-stake-for-the-region--1Rvju6mSklG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "description": "",
+    "published": "Sun, 25 Oct 2026 12:46:04 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "content_6ac309ca24ac5f25bd24e4a7",
+    "title": "The U.S. Grid Counts On Canadian Power. Canada Is Eyeing Other Options",
+    "link": "https://www.forbes.com/sites/annademeo/2026/10/25/the-us-grid-counts-on-canadian-power-canada-is-eyeing-other-options/",
+    "description": "Canada plans power lines linking its own provinces after a century of sending electricity south. For parts of the U.S., that could mean a less reliable grid.",
+    "published": "Sun, 25 Oct 2026 12:46:04 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6add7cb002b541b561e63c67/0x0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/f0f294c1-66b0-4612-9716-647344a0e4c6?syn-25a6b1a6=1",
+    "title": "Billionaire benevolence is booming, but it comes with strings",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/f0f294c1-66b0-4612-9716-647344a0e4c6?syn-25a6b1a6=1",
+    "description": "Generating goodwill is helpful in building data centres and developing bots with minimum governmental intervention",
+    "published": "Sun, 25 Oct 2026 12:46:04 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1",
+    "title": "Why 17 is not the magic number in industrial policy",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1",
+    "description": "A lack of focus threatens to hobble Japanese premier Sanae Takaichi’s growth strategy",
+    "published": "Sun, 25 Oct 2026 12:46:04 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://spectator.com/article/inside-the-bbcs-impartiality-crisis/",
+    "title": "Inside the BBC’s impartiality crisis",
+    "link": "https://spectator.com/article/inside-the-bbcs-impartiality-crisis/",
+    "description": "By Charlie Walsham",
+    "published": "Sun, 25 Oct 2026 12:46:04 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+    "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+    "description": "",
+    "published": "Sun, 25 Oct 2026 12:46:04 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.scmp.com/news/china/diplomacy/article/3371535/washington-misreading-beijing-decline-us-visits-china-sparks-concern",
+    "title": "Is Washington misreading Beijing? Decline in US visits to China sparks concern - South China Morning Post",
+    "link": "https://www.scmp.com/news/china/diplomacy/article/3371535/washington-misreading-beijing-decline-us-visits-china-sparks-concern",
+    "description": "Is Washington misreading Beijing? Decline in US visits to China sparks concern  South China Morning Post",
+    "published": "Sun, 25 Oct 2026 12:46:04 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
   }
 ]
