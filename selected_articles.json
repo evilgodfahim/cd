@@ -283996,5 +283996,43 @@
     "source": "https://www.forbes.com/business/feed/",
     "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6ade76464a4da2e3a7ae1696/0x0.jpg?width=960&precrop=1277%2C957%2Cx185%2Cy0",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+    "title": "Lula re-elected Brazil’s president in knife-edge election",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+    "description": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America",
+    "published": "Mon, 26 Oct 2026 07:46:07 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.inc.com/kevin-haynes/berkeley-math-professor-stopped-grading-homework-not-because-students-improved/91425245",
+    "title": "A Berkeley Math Professor Stopped Grading Homework. It’s Not Because Students Improved",
+    "link": "https://www.inc.com/kevin-haynes/berkeley-math-professor-stopped-grading-homework-not-because-students-improved/91425245",
+    "description": "<p>One of the country’s top mathematicians is taking a different approach to homework. It may point to the future of education. </p>",
+    "published": "Mon, 26 Oct 2026 07:46:07 +0600",
+    "source": "https://www.inc.com/rss",
+    "thumbnail": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/MATH.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.inc.com/kevin-haynes/americans-stockpiling-canadian-maple-syrup-quebec-reserve-only-part-of-problem/91425222",
+    "title": "Americans Are Stockpiling Canadian Maple Syrup. Quebec’s 218,000-Barrel Reserve Is Only Part of the Problem",
+    "link": "https://www.inc.com/kevin-haynes/americans-stockpiling-canadian-maple-syrup-quebec-reserve-only-part-of-problem/91425222",
+    "description": "<p>President Trump’s tariffs have spread to one of Canada’s most well-known products: maple syrup. </p>",
+    "published": "Mon, 26 Oct 2026 07:46:07 +0600",
+    "source": "https://www.inc.com/rss",
+    "thumbnail": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/MAPLE-SYRUP.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.inc.com/jason-aten/apple-spent-16-years-saying-touchscreen-macs-were-a-bad-idea-that-all-changes-this-week/91425255",
+    "title": "Apple Spent 16 Years Saying Touchscreen Macs Were a Bad Idea. That All Changes This Week",
+    "link": "https://www.inc.com/jason-aten/apple-spent-16-years-saying-touchscreen-macs-were-a-bad-idea-that-all-changes-this-week/91425255",
+    "description": "",
+    "published": "Mon, 26 Oct 2026 07:46:07 +0600",
+    "source": "https://www.inc.com/rss",
+    "thumbnail": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/touchscreen_macbook_pro-imagely.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
