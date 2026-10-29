@@ -2,8 +2,8 @@
   "per_feed": {
     "https://www.newyorker.com/feed/rss": {
       "fetched": 30,
-      "passed_age": 13,
-      "capped": 13
+      "passed_age": 15,
+      "capped": 15
     },
     "https://feeds2.feedburner.com/businessinsider": {
       "fetched": 50,
@@ -17,23 +17,23 @@
     },
     "https://evilgodfahim.github.io/tm/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 4,
-      "capped": 4
+      "passed_age": 8,
+      "capped": 8
     },
     "https://evilgodfahim.github.io/ftint/combined.xml": {
       "fetched": 500,
-      "passed_age": 47,
-      "capped": 47
+      "passed_age": 64,
+      "capped": 64
     },
     "https://evilgodfahim.github.io/gd/merged.xml": {
       "fetched": 1000,
-      "passed_age": 50,
-      "capped": 50
+      "passed_age": 59,
+      "capped": 59
     },
     "https://evilgodfahim.github.io/nytint/combined.xml": {
       "fetched": 500,
-      "passed_age": 34,
-      "capped": 34
+      "passed_age": 32,
+      "capped": 32
     },
     "https://evilgodfahim.github.io/wpint/combined.xml": {
       "fetched": 500,
@@ -42,18 +42,18 @@
     },
     "https://evilgodfahim.github.io/wsjint/combined.xml": {
       "fetched": 500,
-      "passed_age": 18,
-      "capped": 18
+      "passed_age": 20,
+      "capped": 20
     },
     "https://theweek.com/rss.xml": {
       "fetched": 50,
-      "passed_age": 10,
-      "capped": 10
+      "passed_age": 29,
+      "capped": 29
     },
     "https://www.wired.com/feed/rss": {
       "fetched": 50,
-      "passed_age": 30,
-      "capped": 30
+      "passed_age": 32,
+      "capped": 32
     },
     "https://www.newstatesman.com/feed": {
       "fetched": 20,
@@ -62,23 +62,23 @@
     },
     "https://www.thenation.com/rss/articles": {
       "fetched": 50,
-      "passed_age": 4,
-      "capped": 4
+      "passed_age": 5,
+      "capped": 5
     },
     "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml": {
       "fetched": 500,
-      "passed_age": 19,
-      "capped": 19
+      "passed_age": 22,
+      "capped": 22
     },
     "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml": {
       "fetched": 500,
-      "passed_age": 11,
-      "capped": 11
+      "passed_age": 10,
+      "capped": 10
     },
     "https://evilgodfahim.github.io/fto/combined.xml": {
       "fetched": 25,
-      "passed_age": 16,
-      "capped": 16
+      "passed_age": 22,
+      "capped": 22
     },
     "https://evilgodfahim.github.io/nytop/combined.xml": {
       "fetched": 68,
@@ -107,8 +107,8 @@
     },
     "https://evilgodfahim.github.io/intop/filtered.xml": {
       "fetched": 500,
-      "passed_age": 32,
-      "capped": 32
+      "passed_age": 34,
+      "capped": 34
     },
     "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml": {
       "fetched": 500,
@@ -146,9 +146,9 @@
       "capped": 6
     },
     "https://www.fastcompany.com/latest/rss": {
-      "fetched": 19,
-      "passed_age": 19,
-      "capped": 19
+      "fetched": 20,
+      "passed_age": 20,
+      "capped": 20
     },
     "https://www.businessinsider.com/rss": {
       "fetched": 20,
@@ -162,8 +162,8 @@
     },
     "https://www.entrepreneur.com/latest.rss": {
       "fetched": 10,
-      "passed_age": 5,
-      "capped": 5
+      "passed_age": 10,
+      "capped": 10
     },
     "https://www.econlib.org/feed/": {
       "fetched": 10,
@@ -172,8 +172,8 @@
     },
     "https://foreignpolicy.com/feed/": {
       "fetched": 25,
-      "passed_age": 13,
-      "capped": 13
+      "passed_age": 11,
+      "capped": 11
     },
     "https://www.foreignaffairs.com/rss.xml": {
       "fetched": 20,
@@ -182,8 +182,8 @@
     },
     "https://evilgodfahim.github.io/diplo/combined.xml": {
       "fetched": 1000,
-      "passed_age": 3,
-      "capped": 3
+      "passed_age": 11,
+      "capped": 11
     },
     "https://evilgodfahim.github.io/ps/combined.xml": {
       "fetched": 20,
@@ -192,20 +192,20 @@
     },
     "https://evilgodfahim.github.io/eco/combined.xml": {
       "fetched": 500,
-      "passed_age": 8,
-      "capped": 8
+      "passed_age": 11,
+      "capped": 11
     }
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 8297
+    "DIRECT": 8298
   },
-  "total_fetched": 8297,
-  "total_passed_age": 620,
-  "total_new": 261,
-  "total_signal": 15,
-  "total_longread": 9,
-  "timestamp": "2026-10-28T20:54:38.253083",
-  "total_signal_deduped": 15,
-  "total_longread_deduped": 9
+  "total_fetched": 8298,
+  "total_passed_age": 707,
+  "total_new": 181,
+  "total_signal": 18,
+  "total_longread": 17,
+  "timestamp": "2026-10-29T00:43:35.436361",
+  "total_signal_deduped": 18,
+  "total_longread_deduped": 17
 }
