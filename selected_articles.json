@@ -288850,5 +288850,89 @@
     "source": "https://www.inc.com/rss",
     "thumbnail": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/never-ending-cruise-inc-2175042809.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/binance-polymarket-hacks-crypto-2026-10",
+    "title": "Binance and Polymarket are investigating potential hacks. The former says it's frozen around $3 billion.",
+    "link": "https://www.businessinsider.com/binance-polymarket-hacks-crypto-2026-10",
+    "description": "Binance is investigating a hack potentially worth billions, while Polymarket said it would reimburse users affected by a separate security breach.",
+    "published": "Fri, 30 Oct 2026 08:52:30 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6ae3d67b10af2ae41bbd4756?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
+    "title": "Intel shares fall 22% as weak sales outlook dents turnaround",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
+    "description": "Chipmaker forecasts lower than expected PC chip sales and falling margins",
+    "published": "Fri, 30 Oct 2026 08:52:30 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.wsj.com/world/ukraine-pauses-strikes-on-russian-refineries-after-pressure-from-u-s-a9e512f8?mod=rss_worldnews",
+    "title": "Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S.",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/ukraine-pauses-strikes-on-russian-refineries-after-pressure-from-u-s-a9e512f8?mod=rss_worldnews",
+    "description": "Kyiv has temporarily halted one of its most effective operations against Moscow after complaints from President Trump.",
+    "published": "Fri, 30 Oct 2026 08:52:30 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-62037984",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://tass.com/politics/2210493",
+    "title": "If it comes to war between Russia and Europe, there will be no winners — Putin",
+    "link": "https://tass.com/politics/2210493",
+    "description": "",
+    "published": "Fri, 30 Oct 2026 08:52:30 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
+    "title": "What Israeli Election Results Reveal About the Electorate",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
+    "description": "Some groups stood by Prime Minister Benjamin Netanyahu’s party, but support fell off among others. Turnout was also a striking factor in the election.",
+    "published": "Fri, 30 Oct 2026 08:52:30 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/10/29/multimedia/29Int-Israel-Voter-Data-vtlz/29Int-Israel-Voter-Data-vtlz-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/russia/the-troubled-history-of-russias-anti-plague-institute-9fd4b59c?mod=rss_worldnews",
+    "title": "The Troubled History of Russia’s Anti-Plague Institute",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/russia/the-troubled-history-of-russias-anti-plague-institute-9fd4b59c?mod=rss_worldnews",
+    "description": "The lab in Siberia where a biologist who recently died of a mysterious pneumonia worked has been cited multiple times for safety violations.",
+    "published": "Fri, 30 Oct 2026 08:52:30 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-01882438",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/americas/machados-return-offers-a-preview-of-venezuelas-next-electionwhenever-it-comes-2263ecb4?mod=rss_worldnews",
+    "title": "Machado’s Return Offers a Preview of Venezuela’s Next Election—Whenever It Comes",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/americas/machados-return-offers-a-preview-of-venezuelas-next-electionwhenever-it-comes-2263ecb4?mod=rss_worldnews",
+    "description": "Interim President Rodríguez and opposition leader Machado laid out competing visions, sounding the opening gun of a power struggle.",
+    "published": "Fri, 30 Oct 2026 08:52:30 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-00149249",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://spectator.com/article/what-spinoza-got-right-and-wrong/?edition=us&homepage-tracking=magazine_minor-article-1",
+    "title": "What Spinoza got right – and wrong",
+    "link": "https://spectator.com/article/what-spinoza-got-right-and-wrong/?edition=us&homepage-tracking=magazine_minor-article-1",
+    "description": "Enlightenment myth",
+    "published": "Fri, 30 Oct 2026 08:52:30 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+  },
+  {
+    "id": "https://www.wsj.com/video/the-dangerous-decline-of-reading/3F5F5BE7-76BA-4D7F-8C95-CBE4E04522AF",
+    "title": "The Dangerous Decline of Reading",
+    "link": "https://archive.is/o/vL57B/https://www.wsj.com/video/the-dangerous-decline-of-reading/3F5F5BE7-76BA-4D7F-8C95-CBE4E04522AF",
+    "description": "As with all worthwhile activities, reading is difficult. It takes time. But it’s worth it, writes Lauren Stoneman.",
+    "published": "Fri, 30 Oct 2026 08:52:30 +0600",
+    "source": "https://evilgodfahim.github.io/wsjop/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-32047709",
+    "thumbnail_type": "image/jpeg"
   }
 ]
