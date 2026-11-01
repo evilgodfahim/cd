@@ -22,13 +22,13 @@
     },
     "https://evilgodfahim.github.io/ftint/combined.xml": {
       "fetched": 500,
-      "passed_age": 30,
-      "capped": 30
+      "passed_age": 29,
+      "capped": 29
     },
     "https://evilgodfahim.github.io/gd/merged.xml": {
       "fetched": 1000,
-      "passed_age": 47,
-      "capped": 47
+      "passed_age": 42,
+      "capped": 42
     },
     "https://evilgodfahim.github.io/nytint/combined.xml": {
       "fetched": 500,
@@ -42,8 +42,8 @@
     },
     "https://evilgodfahim.github.io/wsjint/combined.xml": {
       "fetched": 500,
-      "passed_age": 5,
-      "capped": 5
+      "passed_age": 2,
+      "capped": 2
     },
     "https://theweek.com/rss.xml": {
       "fetched": 50,
@@ -72,8 +72,8 @@
     },
     "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml": {
       "fetched": 500,
-      "passed_age": 3,
-      "capped": 3
+      "passed_age": 4,
+      "capped": 4
     },
     "https://evilgodfahim.github.io/fto/combined.xml": {
       "fetched": 25,
@@ -82,8 +82,8 @@
     },
     "https://evilgodfahim.github.io/nytop/combined.xml": {
       "fetched": 69,
-      "passed_age": 17,
-      "capped": 17
+      "passed_age": 11,
+      "capped": 11
     },
     "https://evilgodfahim.github.io/wpo/combined.xml": {
       "fetched": 0,
@@ -112,8 +112,8 @@
     },
     "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml": {
       "fetched": 500,
-      "passed_age": 70,
-      "capped": 70
+      "passed_age": 61,
+      "capped": 61
     },
     "http://feeds.harvardbusiness.org/harvardbusiness": {
       "fetched": 100,
@@ -157,13 +157,13 @@
     },
     "https://www.inc.com/rss": {
       "fetched": 40,
-      "passed_age": 19,
-      "capped": 19
+      "passed_age": 23,
+      "capped": 23
     },
     "https://www.entrepreneur.com/latest.rss": {
       "fetched": 10,
-      "passed_age": 4,
-      "capped": 4
+      "passed_age": 1,
+      "capped": 1
     },
     "https://www.econlib.org/feed/": {
       "fetched": 10,
@@ -201,11 +201,11 @@
     "DIRECT": 8299
   },
   "total_fetched": 8299,
-  "total_passed_age": 401,
-  "total_new": 42,
+  "total_passed_age": 379,
+  "total_new": 15,
   "total_signal": 3,
   "total_longread": 4,
-  "timestamp": "2026-10-31T23:50:25.944158",
+  "timestamp": "2026-11-01T02:53:43.822709",
   "total_signal_deduped": 3,
   "total_longread_deduped": 4
 }

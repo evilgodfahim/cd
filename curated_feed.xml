@@ -4,30 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: international affairs and Bangladesh news</description>
-    <lastBuildDate>Sat, 31 Oct 2026 23:50:25 +0000</lastBuildDate>
-    <item>
-      <title>U.S. Evacuates Mideast Outposts After Suspected Iranian Plot to Target Americans</title>
-      <link>https://archive.is/o/soww3/https://www.wsj.com/world/middle-east/u-s-evacuates-mideast-outposts-after-suspected-iranian-plot-to-target-americans-4b876fbc?mod=rss_worldnews</link>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/u-s-evacuates-mideast-outposts-after-suspected-iranian-plot-to-target-americans-4b876fbc?mod=rss_worldnews</guid>
-      <description>The intelligence comes as the Trump administration prepares to restart military operations against Iran.</description>
-      <pubDate>Sun, 25 Oct 2026 00:42:23 +0600</pubDate>
-      <media:thumbnail url="https://images.wsj.net/im-72334162" />
-      <enclosure url="https://images.wsj.net/im-72334162" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday</title>
-      <link>https://abcnews.com/International/wireStory/brazilians-choose-lula-flvio-bolsonaro-sunday-137534196</link>
-      <guid isPermaLink="true">https://abcnews.com/International/wireStory/brazilians-choose-lula-flvio-bolsonaro-sunday-137534196</guid>
-      <description />
-      <pubDate>Sun, 25 Oct 2026 00:42:23 +0600</pubDate>
-    </item>
-    <item>
-      <title>Thousands protest in France over education funding, living costs as police use tear gas</title>
-      <link>https://unb.com.bd/category/World/thousands-protest-in-france-over-education-funding-living-costs-as-police-use-tear-gas/198635</link>
-      <guid isPermaLink="true">https://unb.com.bd/category/World/thousands-protest-in-france-over-education-funding-living-costs-as-police-use-tear-gas/198635</guid>
-      <description />
-      <pubDate>Sun, 25 Oct 2026 00:42:23 +0600</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Nov 2026 02:53:42 +0000</lastBuildDate>
     <item>
       <title>The Next Risk For U.S. LNG Is Demand, Not Supply</title>
       <link>https://www.forbes.com/sites/rrapier/2026/10/24/the-next-risk-for-us-lng-is-demand-not-supply/</link>
@@ -4136,6 +4113,29 @@
       <guid isPermaLink="true">https://www.voanews.com/a/rubio-discusses-u-s-foreign-policy-priorities-at-g20-20261031/8217320.html</guid>
       <description>Rubio discusses U.S. foreign policy priorities at G20  VOA - Voice of America English News</description>
       <pubDate>Sun, 01 Nov 2026 05:50:09 +0600</pubDate>
+    </item>
+    <item>
+      <title>Tusk vows to press on with overhaul of Poland’s judiciary</title>
+      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/d49a7943-fc11-45cb-bcf2-f5876c3c381d?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/d49a7943-fc11-45cb-bcf2-f5876c3c381d?syn-25a6b1a6=1</guid>
+      <description>Prime minister defends suspension of constitutional court’s president as opposition accuses him of staging an institutional coup</description>
+      <pubDate>Sun, 01 Nov 2026 08:53:28 +0600</pubDate>
+    </item>
+    <item>
+      <title>South Korea’s Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer</title>
+      <link>https://archive.is/o/soww3/https://www.wsj.com/world/asia/south-koreas-chip-led-exports-accelerate-bringing-1-trln-annual-target-closer-5180b539?mod=rss_worldnews</link>
+      <guid isPermaLink="true">https://www.wsj.com/world/asia/south-koreas-chip-led-exports-accelerate-bringing-1-trln-annual-target-closer-5180b539?mod=rss_worldnews</guid>
+      <description />
+      <pubDate>Sun, 01 Nov 2026 08:53:28 +0600</pubDate>
+    </item>
+    <item>
+      <title>U.S. Census May Remove Race Questions. Seeks Comments By November 2</title>
+      <link>https://www.forbes.com/sites/brucelee/2026/10/31/us-census-may-remove-race-questions-seeks-comments-by-november-2/</link>
+      <guid isPermaLink="false">content_6ae6637c8ccc46265aa832fe</guid>
+      <description>The U.S. Census Bureau has proposed removing race and ethnicity questions from the Census for the first time since 1790 and is fielding public comments until November 2.</description>
+      <pubDate>Sun, 01 Nov 2026 08:53:28 +0600</pubDate>
+      <media:thumbnail url="https://imageio.forbes.com/specials-images/imageserve/6ae68234f7f02f0a3c6e61f6/0x0.jpg" />
+      <enclosure url="https://imageio.forbes.com/specials-images/imageserve/6ae68234f7f02f0a3c6e61f6/0x0.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
