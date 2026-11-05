@@ -294910,5 +294910,849 @@
     "source": "https://www.fastcompany.com/latest/rss",
     "thumbnail": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-91635666-deep-reading-can-cure-brain-rot.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/openai-lays-out-new-policy-framework-for-data-centers-2026-11",
+    "title": "OpenAI lays out new policy framework for data centers",
+    "link": "https://www.businessinsider.com/openai-lays-out-new-policy-framework-for-data-centers-2026-11",
+    "description": "OpenAI backs data-center rules requiring developers to cover grid costs, and disclose all water, energy, noise and job data.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6aec8aebc54bfafa65abf3d8?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/european-flights-bomb-threats-ryanair-aer-lingus-wizz-2026-11",
+    "title": "Bomb threats are hitting European airlines once again, just 48 hours after a first wave of hoaxes",
+    "link": "https://www.businessinsider.com/european-flights-bomb-threats-ryanair-aer-lingus-wizz-2026-11",
+    "description": "Since Tuesday as many as 20 flights in Europe have faced bomb hoaxes. \"Threats are almost always unfounded,\" one airline told Business Insider.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6aec5d1d9270da3cc666850b?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/elon-musk-net-worth-tesla-spacex-net-share-price-midterms-2026-11",
+    "title": "SpaceX and Tesla's midterm stock drop cut Elon Musk's wealth by $33 billion. He's still $490 billion richer than anyone else.",
+    "link": "https://www.businessinsider.com/elon-musk-net-worth-tesla-spacex-net-share-price-midterms-2026-11",
+    "description": "For most people, losing $33 billion in a day would be unimaginable. For Elon Musk, it's pocket change.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6aec6ea89270da3cc6668549?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/october-jobs-report-ai-trade-inflation-fed-economy-wall-street-2026-11",
+    "title": "How Friday’s jobs report could be a tiebreaker for Wall Street’s AI trade",
+    "link": "https://www.businessinsider.com/october-jobs-report-ai-trade-inflation-fed-economy-wall-street-2026-11",
+    "description": "A Goldilocks October jobs report could calm rate fears and give AI stocks room to rebound.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6aebb74ec54bfafa65abf1e7?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/stock-market-sp500-recession-signal-pe-ratio-decline-2026-11",
+    "title": "The S&P 500 is flashing a rare signal that hints a recession and a sharp stock drop are looming",
+    "link": "https://www.businessinsider.com/stock-market-sp500-recession-signal-pe-ratio-decline-2026-11",
+    "description": "The S&amp;P 500's forward price-to-earnings ratio has fallen — a rare signal that has historically flashed around recessions or bear markets.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6aeb51f7c54bfafa65abee03?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/social-security-midterm-elections-democrats-retirement-medicaid-medicare-blue-wave-2026-11",
+    "title": "Millions may lose Social Security benefits in 2032. The new Senate will have to confront that.",
+    "link": "https://www.businessinsider.com/social-security-midterm-elections-democrats-retirement-medicaid-medicare-blue-wave-2026-11",
+    "description": "More than a third of the incoming Senate will be responsible for reforming Social Security — or letting its funding run out.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6aeba29b308912814ed70fed?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/inflation-pushes-young-voters-to-democrats-in-2026-midterms-2026-11",
+    "title": "Young people swung left in the midterms, and it's in large part because of skyrocketing prices",
+    "link": "https://www.businessinsider.com/inflation-pushes-young-voters-to-democrats-in-2026-midterms-2026-11",
+    "description": "Younger Americans are worried about the economy and high prices. They also swung Democrat in the midterms.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6aeb9b5cc54bfafa65abf108?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/student-loan-borrowers-face-severe-debt-repayment-problems-lawmakers-education-2026-11",
+    "title": "'Severe' student-loan repayment problems are mounting, lawmakers say — and they're pushing for answers",
+    "link": "https://www.businessinsider.com/student-loan-borrowers-face-severe-debt-repayment-problems-lawmakers-education-2026-11",
+    "description": "After a blue wave swept the midterms, a group of Democratic lawmakers is calling on the Education Department to protect student-loan borrowers.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6aeb417bc54bfafa65abed62?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-689296",
+    "title": "Republicans Redistricted Themselves Out of Congress",
+    "link": "https://www.theatlantic.com/politics/2026/11/republicans-gerrymandering-redistricting-midterms/689296/",
+    "description": "Trump’s plan backfired.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/gDeo92coiOiq0vkkucC4Y-bAXlU=/media/img/mt/2026/11/2026_11_4_The_Backlash_to_Redistricting/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/4d0c5a48-3ef7-494d-baf8-063ef9edb2e5?syn-25a6b1a6=1",
+    "title": "Rheinmetall cuts sales forecast after delays to armoured vehicle megadeal",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/4d0c5a48-3ef7-494d-baf8-063ef9edb2e5?syn-25a6b1a6=1",
+    "description": "Boxer order delay is fresh setback for German defence group",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/4c40362a-8994-43e1-8000-68cd92cf7d51?syn-25a6b1a6=1",
+    "title": "Toyota shares soar 17% on strong US hybrid demand",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/4c40362a-8994-43e1-8000-68cd92cf7d51?syn-25a6b1a6=1",
+    "description": "World’s largest carmaker raises annual outlook after posting its first profit increase in six quarters",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/8ea68e28-8239-44b5-8c0c-a26c2ded9347?syn-25a6b1a6=1",
+    "title": "Hong Kong sentences democracy activist Joshua Wong to 10 years",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/8ea68e28-8239-44b5-8c0c-a26c2ded9347?syn-25a6b1a6=1",
+    "description": "Second security law penalty pushes expected release date to 2036",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/13776a58-b640-4771-8256-03003498c96b?syn-25a6b1a6=1",
+    "title": "France urges EU to adopt higher fast fashion levy",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/13776a58-b640-4771-8256-03003498c96b?syn-25a6b1a6=1",
+    "description": "Also in this newsletter: Belgium pushes ahead with vote on controversial migration powers",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952?syn-25a6b1a6=1",
+    "title": "Asian tech stocks slide on post-midterm AI fears",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952?syn-25a6b1a6=1",
+    "description": "Concerns mount that Democratic control of Congress will slow data centre build-out",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1",
+    "title": "Democrats look to reshape America after historic midterm victories",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1",
+    "description": "Party promises dramatic change in the wake of its ‘blue wave’",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8?syn-25a6b1a6=1",
+    "title": "Microsoft rejects multibillion-dollar AI deal with UK’s Nscale",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8?syn-25a6b1a6=1",
+    "description": "Fresh blow ahead of start-up’s IPO as tech giant turns down option to more than double Texas data centre contract",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/19ec7782-9f22-4101-ba55-da88860310bc?syn-25a6b1a6=1",
+    "title": "Russia deepened Iran support with missile launcher deal",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/19ec7782-9f22-4101-ba55-da88860310bc?syn-25a6b1a6=1",
+    "description": "Moscow increased military aid for Tehran despite strains from Ukraine war",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/3d4fb12a-cce4-4312-a8a3-42d7f4dad977?syn-25a6b1a6=1",
+    "title": "UK public spending on ‘preventative’ measures to be ringfenced in overhaul",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/3d4fb12a-cce4-4312-a8a3-42d7f4dad977?syn-25a6b1a6=1",
+    "description": "Healey says next year’s spending review will mark shift by protecting investment that stops problems escalating",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/aa340415-ef92-45f3-a145-6b05f6aac9cb?syn-25a6b1a6=1",
+    "title": "UK inflation to peak at 4.4% in 2027, according to FT survey of economists",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/aa340415-ef92-45f3-a145-6b05f6aac9cb?syn-25a6b1a6=1",
+    "description": "Energy bills set to jump by nearly £470 in January to about £2,200 a year for a typical household",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/05/nz-election-cliffhanger-final-polls-opportunity-party",
+    "title": "New Zealand heads for election cliffhanger with minor party cast as kingmaker",
+    "link": "https://www.theguardian.com/world/2026/nov/05/nz-election-cliffhanger-final-polls-opportunity-party",
+    "description": "<p>Polls show neither major party will have enough seats to form government, meaning the fate could fall on centrist minor party, Opportunity</p><p>The final polls ahead of New Zealand’s election show a knife-edge path to power, with neither the ruling right-wing coalition or opposition left bloc able to form a government without the support of a newcomer centrist party.</p><p>New Zealanders will vote on 7 November, concluding a six-week campaign defined by the high <a href=\"https://www.rnz.co.nz/news/politics_election-2026/2044758/election-26-cost-of-living-continues-to-be-nzers-top-concern\">costs of living</a>, a wobbling <a href=\"https://www.theguardian.com/world/2026/oct/19/new-zealand-election-strained-healthcare-system\">healthcare system</a>, political <a href=\"https://www.abc.net.au/news/2026-10-29/how-the-mongrel-mob-became-an-nz-election-issue/107315046\">tit-for-tats over gangs</a>, <a href=\"https://www.rnz.co.nz/news/politics_election-2026/2295605/effectively-being-cyber-bullied-chloe-swarbrick-hits-back-against-attacks\">personal attacks,</a> and complex <a href=\"https://www.nzherald.co.nz/nz/politics/election-poll-points-to-opportunity-being-in-kingmaker-position-unless-national-triggers-overhang/AFHLJJNKZRCKLALBKYDLPDCMZY/\">vote-splitting strategies</a>.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/nz-election-cliffhanger-final-polls-opportunity-party\">Continue reading...</a>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/e9b5f9fbccacf955c2323b5ad91bb55ff88de364/679_0_4500_3600/master/4500.jpg?width=700&quality=85&auto=format&fit=max&s=bce822eb78a1c75d3d3b10c6aa7bfc34",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+    "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
+    "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+    "description": "<p>Seoul to seek parliamentary approval to extend anti-piracy Cheonghae unit’s area to about 650km from the vital strait after criticism from Donald Trump on Iran war support</p><p>South Korea plans to expand the operations ⁠of its anti-piracy unit to waters closer to the strait of Hormuz, its defence ministry has said, after <a href=\"https://www.theguardian.com/world/2026/sep/04/south-korea-pushes-back-reports-hormuz-deployment-us-pressure\">pressure from Donald Trump</a> to ⁠provide support for his war in Iran.</p><p>The government is to submit a motion to parliament that would expand the Cheonghae unit’s area of operation to waters near the port of Duqm in Oman, which ​is about 650km (403 miles) away from the strait. The motion also needs to be approved by ‌President Lee Jae Myung and the cabinet.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz\">Continue reading...</a>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/93931aed9b2c9de66c5e7d47a1df4c3d0c323131/535_0_1928_1542/master/1928.jpg?width=700&quality=85&auto=format&fit=max&s=daf07ebaee28574508ad369bdbafb7bf",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+    "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+    "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+    "description": "<p>Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification </p><p>The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investigation has found.</p><p>MPs on the business select committee called for an urgent centralised policy and the creation of a “critical minerals finance facility” to help fund rare earth and other critical mineral mines, and deploy grants, equity and debt to accelerate a diversification programme.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy\">Continue reading...</a>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/cb4db687d218902c0710319b5c22a27ce31c84f2/446_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=495648946ecf1dd1d75fca260951b1b1",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2026/nov/05/trump-endorsed-republicans-lose-midterm-election-races",
+    "title": "Trump-backed Republicans lose dozens of US midterm races, raising questions over his influence",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-endorsed-republicans-lose-midterm-election-races",
+    "description": "<p>Guardian analysis shows how tumbling approval ratings may have hurt candidates backed by US president</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races\">Track live results from all 50 states</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2026/nov/04/midterm-election-results-question-answer\">Send us your questions about the US midterms results and Democrats’ ‘blue wave’</a></p></li></ul><p>Dozens of Republican candidates directly endorsed by <a href=\"https://www.theguardian.com/us-news/2026/nov/04/trump-ballroom-midterms-reaction\">Donald Trump</a> lost their US midterm election races, according to analysis by the Guardian, raising questions over the power of the president’s support.</p><p>In past elections, Trump’s endorsements have been coveted. In the final stages of this year’s campaign, he actively urged voters to act as though he were on the ballot.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/05/trump-endorsed-republicans-lose-midterm-election-races\">Continue reading...</a>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/7fcff71d8e63a78b9897d4f14955cade540e3017/605_0_3227_2581/master/3227.jpg?width=700&quality=85&auto=format&fit=max&s=bc0ae851f81f183c5ee916d6065dfefb",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+    "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+    "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+    "description": "<p>Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security law</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/05/joshua-wong-hong-kong-prison-letters-sentenced-10-years\">Exclusive: Joshua Wong laments city’s fate from inside maximum security prison</a></p></li></ul><p>The Hong Kong activist <a href=\"https://www.theguardian.com/profile/joshua-wong\">Joshua Wong</a> has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second conviction under a national security law critics say has been used to silence political opposition in the city.</p><p>Wong, who <a href=\"https://www.theguardian.com/world/2017/may/14/joshua-wong-the-student-who-risked-the-wrath-of-beijing-its-about-turning-the-impossible-into-the-possible\">rose to prominence</a> as the teenage face of Hong Kong’s 2014 pro-democracy demonstrations, <a href=\"https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china\">submitted his guilty plea</a> in September. He had been accused of working with the exiled Hong Kong activist <a href=\"https://www.theguardian.com/profile/nathan-law\">Nathan Law</a> to urge foreign powers to impose sanctions, blockades or other hostile measures against China.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case\">Continue reading...</a>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/d9bf9f9b9523e26c98269088295afe0101408a09/745_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=07cb66465e5b2ceb03b6e99424ec33e1",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2026/nov/05/democrats-state-legislatures-midterm-elections",
+    "title": "Not just Congress: Democrats’ blue wave washes over state legislatures across US",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/democrats-state-legislatures-midterm-elections",
+    "description": "<p>Democrats gain hundreds of seats in historic victories – and party set to embark on aggressive legislative spree </p><p>The blue wave that swept Republicans out of power across the United States didn’t just strike Congress. In Tuesday’s midterm elections, Democrats gained hundreds of seats in state legislatures across the country, under-the-radar victories that may have major implications for life in America.</p><p>Though ballots are still being counted, the party’s success appear to be historic – Democrats haven’t won full control of government in Arizona in 60 years, in Pennsylvania since the 1990s, and Wisconsin since their wipeout in 2010. In Michigan and Minnesota, they regained trifectas they lost after the 2024 election, while in Texas, they will control the state house for the first time since 2002.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/05/democrats-state-legislatures-midterm-elections\">Continue reading...</a>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/48d971fb27e5fafe100c4c18a143a91677f5cef1/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=66578e0334141f45fb1b7b485adf661e",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+    "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+    "description": "<p>Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance says war in Iran the ‘obvious’ culprit for results</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races\">Live results</a> | <a href=\"https://www.theguardian.com/us-news/2026/nov/04/tell-us-how-do-you-feel-about-the-us-midterm-election-results\">How do you feel about the results?</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for Breaking News US email</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2026/nov/04/us-midterms-is-it-the-end-for-trump\">Analysis: Is this the beginning of the end for Trump?</a></p></li></ul><p>Election night brought a series of dramatic developments, unexpected results and closely contested races across the US. We have put together this video capturing the key moments and offering a quick overview of one of the most important nights in US politics:</p><p>The Senate race in <strong>Mississippi </strong>has become one of the most closely watched contests in the midterms, with Republican incumbent <strong>Cindy Hyde-Smith</strong> and Democratic challenger <strong>Scott Colom</strong> separated by a remarkably narrow margin.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race\">Continue reading...</a>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/f20ab2475837b6e728d381377a54a75ad0c9c055/463_0_4628_3702/master/4628.jpg?width=700&quality=85&auto=format&fit=max&s=3b0907d9bc1ae0fe12d5a9138864d629",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
+    "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
+    "description": "The Israeli leader and his allies are alleging that Arab voters last month stole the election. Election officials say that while foul play was being investigated, it could not have affected the result.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-steal-jvlt/04int-israel-steal-jvlt-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
+    "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
+    "description": "The midterm results laid bare the deep unpopularity of the war of choice that President Trump started and is now struggling to end.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-prexy-wmkf/04dc-prexy-wmkf-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf?mod=rss_worldnews",
+    "title": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf?mod=rss_worldnews",
+    "description": "Beijing is seeking to keep AI data and expertise developed at home from leaking abroad.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-41277262",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.newstatesman.com/?p=539698",
+    "title": "Why the Bank of England will keep raising interest rates",
+    "link": "https://www.newstatesman.com/politics/economy/2026/11/why-the-bank-of-england-keeps-raising-interest-rates",
+    "description": "Last month the IMF upgraded its growth forecast for the UK. Why is the Bank raining on the parade?",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.newstatesman.com/feed"
+  },
+  {
+    "id": "https://www.middleeasteye.net/news/jd-vance-blames-iran-war-and-support-israel-failure-us-mid-term-elections",
+    "title": "JD Vance blames Iran war and support for Israel for failure in US mid-term elections",
+    "link": "https://www.middleeasteye.net/news/jd-vance-blames-iran-war-and-support-israel-failure-us-mid-term-elections",
+    "description": "",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://economictimes.indiatimes.com/news/international/world-news/inflation-tariffs-and-a-voter-revolt-the-midterm-verdict-on-trumps-economy/articleshow/135560802.cms",
+    "title": "Inflation, tariffs and a voter revolt: The midterm verdict on Trumps economy",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/inflation-tariffs-and-a-voter-revolt-the-midterm-verdict-on-trumps-economy/articleshow/135560802.cms",
+    "description": "",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "content_6aeca248bff5ed506ae46dc6",
+    "title": "Chipmaker Selloff Deepens Amid Post-Election Concerns For Future Of Data Centers",
+    "link": "https://www.forbes.com/sites/fionariley/2026/11/05/chipmaker-selloff-deepens-amid-post-election-concerns-for-future-of-data-centers/",
+    "description": "Nvidia, Micron, AMD, Intel, SanDisk, TSM, Qualcomm and Marvell all fell sharply on the second day of the chipmaker selloff.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6aeca2f614de772b4a2ca9bb/0x0.jpg?width=960",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "content_6aec8c81bff5ed506ae46dbc",
+    "title": "CVS Health To Unbundle Pharmacies From Insurance And Health Solutions",
+    "link": "https://www.forbes.com/sites/pamdanziger/2026/11/05/cvs-health-to-unbundle-pharmacies-from-insurance-and-health-solutions/",
+    "description": "After building a healthcare conglomerate around a drugstore chain, CVS is dismantling the model with drug stores on one side and healthcare solutions on the other.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6aec8d33214e0375534b363d/0x0.jpg?width=960",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "6aea39adfcae7e404db592d8",
+    "title": "In “The Heart” and “I Became We,” the Rise of the Hive-Mind Musical",
+    "link": "https://www.newyorker.com/magazine/2026/11/16/the-heart-theatre-review-broadway-i-became-we",
+    "description": "In this new kind of show, an ensemble tells an individual’s story in unison, sometimes down to the thoughts inside her head.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.newyorker.com/feed/rss",
+    "thumbnail": "https://media.newyorker.com/photos/6aeb62a47e2a6c54d6120c5f/master/pass/r50671.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "6aeb52837ef7290a5c3803e8",
+    "title": "“Regime Change Came in Texas Before Tehran”",
+    "link": "https://www.newyorker.com/news/global-notes/regime-change-came-in-texas-before-tehran",
+    "description": "Donald Trump’s war of choice with Iran—a strategic debacle that has hurt ordinary Americans—is at the heart of a historic rebuke to his Presidency and his party.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.newyorker.com/feed/rss",
+    "thumbnail": "https://media.newyorker.com/photos/6aeb9c038c2fdd9a2a08dae7/master/pass/Tharoor-Iran-War.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "6aebb601847dd763091a9f87",
+    "title": "The Cozy Conservatism of “The Gilded Age”",
+    "link": "https://www.newyorker.com/podcast/critics-at-large/the-cozy-conservatism-of-the-gilded-age",
+    "description": "Now in its fourth season, Julian Fellowes’s period drama smoothes out the class struggles and social tensions of eighteen-eighties New York City, offering a fairytale of American progress.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.newyorker.com/feed/rss",
+    "thumbnail": "https://media.newyorker.com/photos/650b59e2f49b447c4924fa7b/master/pass/CAL-WEB.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "6aeb9593af64d73bfa00ff3b",
+    "title": "The Enduring Lesson of the Exploding Whale",
+    "link": "https://www.newyorker.com/culture/the-new-yorker-documentary/the-enduring-lesson-of-the-exploding-whale",
+    "description": "In Winslow Crane-Murdoch’s film “Oh, Whale,” a journalist reflects on a weird, odorous story that defined his career—and on what it taught him about fate.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.newyorker.com/feed/rss",
+    "thumbnail": "https://media.newyorker.com/photos/6aebac25091703a14484a860/master/pass/OW_GIF1%20(1).gif",
+    "thumbnail_type": "image/gif"
+  },
+  {
+    "id": "https://www.businessinsider.com/alzheimers-caregiver-three-things-wish-knew-sooner-2026-11",
+    "title": "My mom was diagnosed with Alzheimer's at 58. I helped care for her for 20 years and learned 3 important lessons.",
+    "link": "https://www.businessinsider.com/alzheimers-caregiver-three-things-wish-knew-sooner-2026-11",
+    "description": "Karen Finocchio, whose mother showed signs of Alzheimer's at 54, reflects on the positive things she did and those she wish she'd done differently.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6aea3f14fcd244796940f38c?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/anthropic-engineer-addy-osmani-cognitive-surrender-warning-2026-11",
+    "title": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work",
+    "link": "https://www.businessinsider.com/anthropic-engineer-addy-osmani-cognitive-surrender-warning-2026-11",
+    "description": "\"When you can't explain the answer to a question, even by way of your agent, you've ceded ownership,\" Claude Code engineer Addy Osmani wrote.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6aeb3f8a308912814ed70bf4?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-689301",
+    "title": "How Chuck Schumer Got the Lousiest Job in Washington",
+    "link": "https://www.theatlantic.com/ideas/2026/11/midterms-democrats-mississippi-senate/689301/",
+    "description": "The once-and-likely-future majority leader told me that flipping Mississippi is an old fixation.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/IPBOzB8qMuzCT2bPvjMO5Gpxa3w=/media/img/mt/2026/11/2026_11_05_Schumer_Interview_Franklin_Foer/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-689267",
+    "title": "What I Lost to Shock Therapy—And What I Got Back",
+    "link": "https://www.theatlantic.com/family/2026/11/shock-therapy-memory-loss/689267/",
+    "description": "The treatment forced me to ask: Without the stories of who I’d been, who might I become?",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/lP8pBiCOkdVJ_zWpC9FrB_bRAhw=/media/img/mt/2026/11/2026_11_04_What_I_Lost_to_Shock_TherapyAnd_What_I_Got_Back/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-689285",
+    "title": "An Underrated Reason Boys Aren’t Reading",
+    "link": "https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285/",
+    "description": "A lack of male protagonists is making it harder to get young readers into books.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/h4QgTZeY3xQBZ5zUjXhrCkuKIAQ=/media/img/mt/2026/11/2026_11_3_The_Gender_Divide_Shaping_Young_Peoples_Reading_Habits/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-689286",
+    "title": "Even Where MAGA Won, MAGA Lost",
+    "link": "https://www.theatlantic.com/ideas/2026/11/maga-party-demographic-shift/689286/",
+    "description": "A vision of a multicultural America emerges from this election.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/lMGBrrPWloKGc4Vfn4Q2LS-qg88=/media/img/mt/2026/11/2026_11_04_Even_Where_MAGA_Won_MAGA_Lost_2302910300/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-689283",
+    "title": "Did Democrats Win—Or Did Trump Lose?",
+    "link": "https://www.theatlantic.com/podcasts/2026/11/midterm-democrats-trump/689283/",
+    "description": "There are lots of ways to read the overwhelming midterm results. But voters sent one clear message.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/yl4e75vQ_SqlcWYfMjuGS5HsFQs=/media/img/mt/2026/11/2026_11_05_midterms_RA_Horizontal/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-689299",
+    "title": "A Good Night for the Christian Faith",
+    "link": "https://www.theatlantic.com/ideas/2026/11/midterms-christianity-talarico-hamilton/689299/",
+    "description": "A pair of victories may do much to help the Democratic Party—and even more for the evangelical world.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/aRIHNOArWKwZ1wMszhBs_9VDpUk=/media/img/mt/2026/11/2026_11_4_A_Good_Night_for_the_Christian_Faith/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/9f5f8b20-8e6c-4332-a137-3193a2137d85?syn-25a6b1a6=1",
+    "title": "China’s ‘swarm’ strategy for the space race",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/9f5f8b20-8e6c-4332-a137-3193a2137d85?syn-25a6b1a6=1",
+    "description": "Beijing has fostered a new national champion in LandSpace",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/c01cff54-b6a1-484c-baae-fbf5c1b0c768?syn-25a6b1a6=1",
+    "title": "The city vilified by France’s far right",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/c01cff54-b6a1-484c-baae-fbf5c1b0c768?syn-25a6b1a6=1",
+    "description": "Trappes has long been a battleground over French identity. Then came the shooting spree",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/109ece27-5b98-4cea-8b11-c95e29267d53",
+    "title": "Lessons in Harmony by Jonathan Coe — notes between nations",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/109ece27-5b98-4cea-8b11-c95e29267d53",
+    "description": "A witty historical novel turns the real-life relationship between Ralph Vaughan Williams and Maurice Ravel into a meditation on art, nationhood and love",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/world/commentisfree/2026/nov/05/czechia-government-culture-war-maga-europe",
+    "title": "The Czech government's new culture war assault on press freedom shows the Maga spirit is still alive in Europe | Jan Bělíček",
+    "link": "https://www.theguardian.com/world/commentisfree/2026/nov/05/czechia-government-culture-war-maga-europe",
+    "description": "<p>The country’s wealthy elite is aligning itself with the far-right politics of the Motorists party to stifle dissent </p><p>Oto Klempíř was for many years the frontman of JAR, a popular Czech funk-rock band. He <a href=\"https://www.seznamzpravy.cz/clanek/domaci-politika-barta-o-konci-klempire-v-j-a-r-kluky-nastvalo-ze-o-motoristech-nerekl-vcas-284234\">was expelled</a> from the band last year, not over creative differences, or even because of his <a href=\"https://magazin.pametnaroda.cz/clanky/volne/co-presne-ministr-kultury-oto-klempir-udaval-estebakum\">collaboration with</a> the secret police in the 1980s, but after he declared his intention to stand for parliament for Motorists for Themselves, a populist, nationalist, climate-sceptic party that is closely aligned with Maga ideology.</p><p>Klempíř is now Czechia’s culture minister and a leading figure behind an intensifying set of culture wars promoted by Andrej Babiš’s ruling coalition as it seeks to tighten its grip on power. Increasingly the government is borrowing methods favoured by Viktor Orbán in Hungary and Robert Fico in Slovakia.</p><p>Jan Bělíček is a journalist and editor in chief of the Czech media outlet <a href=\"https://denikalarm.cz/\">Alarm</a></p> <a href=\"https://www.theguardian.com/world/commentisfree/2026/nov/05/czechia-government-culture-war-maga-europe\">Continue reading...</a>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/429f84e18b8104f2d98286bc83fa110e221119d7/459_0_4606_3685/master/4606.jpg?width=700&quality=85&auto=format&fit=max&s=398e5cb4d3789a9bdc61f002cb443a06",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/news/ng-interactive/2026/nov/05/lab-grown-meat-save-the-world-food-revolution-climate-crisis-food-system",
+    "title": "Lab-grown meat was supposed to save the world. What happened?",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/05/lab-grown-meat-save-the-world-food-revolution-climate-crisis-food-system",
+    "description": "<p>We were promised a panacea for the climate crisis and a way to save our food system. So why is nobody firing up the chicken vats? I went to find out</p><p>On 5 August 2013, a man and a woman ate a burger. Not just any burger: a world-historic burger, made from cattle cells grown in a laboratory <a href=\"https://www.theguardian.com/science/2013/aug/05/world-first-synthetic-hamburger-mouth-feel\">by Mark Post</a>, a professor of vascular physiology at Maastricht University in the Netherlands. The burger had taken two years to produce and cost €250,000 (about £210,000 at the time), money furnished by the Google co-founder Sergey Brin. Now it was being tasted in public for the first time at Riverside Studios in London, at an event attended by 200 members of the press and livestreamed to thousands.</p><p>To make this particular burger, Post had extracted stem cells from the shoulder muscle of a living cow, then cultivated them in plastic containers filled with a nutrient-rich supplement called foetal bovine serum, which is derived from cow foetuses. The cells eventually became 20,000 strands of tissue, which in turn became a single 140g patty. Post believed that beef produced this way had the potential to dramatically reduce greenhouse-gas emissions and slow the climate crisis. Raising cattle for consumption requires massive amounts of land and water – and massive amounts of feed grown at a high environmental cost. He projected that global demand for meat would soon outstrip our ability to produce it the old-fashioned way, at which point our food systems would become unsustainable. But that didn’t have to mean a mass recalibration of our consumption habits or a global shift away from red meat. Post and his team had found another way.</p> <a href=\"https://www.theguardian.com/news/ng-interactive/2026/nov/05/lab-grown-meat-save-the-world-food-revolution-climate-crisis-food-system\">Continue reading...</a>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/a1292f3dafefc6c5dc841f4478b8ed984982142d/287_0_2839_2272/master/2839.jpg?width=700&quality=85&auto=format&fit=max&s=b40465496afa18998dc287feafa74b1b",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/commentisfree/2026/nov/05/care-workers-visa-migration-labour-shabana-mahmood",
+    "title": "How irrational are Labour’s plans for migrant workers? To find out, read the small print | Frances Ryan",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/05/care-workers-visa-migration-labour-shabana-mahmood",
+    "description": "<p>Despite the partial U-turn on care worker visas, the staff who keep the system afloat still face a hostile environment</p><p>If you want to see the senselessness of Britain’s immigration debate play out in real time, look no further than the crackdown on care workers’ visas that <a href=\"https://www.theguardian.com/uk-news/2026/nov/02/shabana-mahmood-softens-immigration-plans-cabinet-backlash-leave-to-remain\">came to a head this week</a>.</p><p>As part of its plans to force low-paid migrant workers to wait 15 years before settlement in the UK, the Home Office has been in a battle behind the scenes for the past six months to controversially include care workers in the policy. This is despite the social care system already facing critical staff shortages and the number of British citizens and immigrants <a href=\"https://unison.org.uk/news/2026/08/immigration-changes-are-worsening-care-crisis\">taking the jobs dwindling</a>.</p><p>Frances Ryan is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/nov/05/care-workers-visa-migration-labour-shabana-mahmood\">Continue reading...</a>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/6403d1650f9b4ac86b7edb5dfab2c6dccc9fe186/859_39_5805_4643/master/5805.jpg?width=700&quality=85&auto=format&fit=max&s=56307a211d1afd36410a02d8fc2b2714",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/commentisfree/2026/nov/05/art-health-eyeroll-dose-wellbeing-lists",
+    "title": "Art is good for your health? Allow me a quick eyeroll | Emma Brockes",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/05/art-health-eyeroll-dose-wellbeing-lists",
+    "description": "<p>Some now suggest a monthly dose of art can boost wellbeing. But the last thing we need is another item on our to-do lists</p><p>As the long autumn subsides and we finally head into winter, so we hit that point in the calendar when two rival theories of seasonal survival play out: one, the permission-giving invitation to give up and power down, encapsulated by Scandinavian hygge and Katherine May’s 2020 blockbuster <a href=\"https://www.theguardian.com/books/2020/feb/04/wintering-how-i-learned-to-flourish-when-life-became-frozen-katherine-may-memoir-review\">Wintering</a>; and two, the exhortation to push through the discomfort and get out there. If the midterm results in the US give us a huge boost this week, still we have to keep going until spring.</p><p>The latest contribution to the get-up-and-out-there branch of motivational badgering comes in the form of a <a href=\"https://www.theguardian.com/lifeandstyle/2026/nov/03/the-art-prescription-how-60-minutes-in-a-gallery-each-month-could-transform-your-life\">report by an arts charity</a> suggesting that, as with exercise and being in nature, our baseline mood may be improved by exposing ourselves to art on a regular basis. According to Art Fund, a national body that promotes access to the arts, a person’s mental and physical wellbeing may be meaningfully affected by abiding by a handy acronym – RDA for recommended dose of art – and attaching it to what appears to be an entirely arbitrary prescription, namely 60 minutes of art ingestion a month. According to Daisy Fancourt, a professor of psychobiology and epidemiology at University College London who wrote the report’s foreword, do this and, “alongside having a balanced diet, regular exercise and spending time outdoors”, your health will thank you.</p><p>Emma Brockes is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/nov/05/art-health-eyeroll-dose-wellbeing-lists\">Continue reading...</a>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/eef603b78f3fdd367ee781fcfaf459930bfc7960/145_0_3165_2533/master/3165.jpg?width=700&quality=85&auto=format&fit=max&s=d819c3d719af0c494bfc597b32830614",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/wellness/ng-interactive/2026/nov/05/cyronics-dying-life-worth-living",
+    "title": "You will die. That’s why your life is worth living",
+    "link": "https://www.theguardian.com/wellness/ng-interactive/2026/nov/05/cyronics-dying-life-worth-living",
+    "description": "<p>What does the tech elite offer? The immortality grift. But there’s another way to look at our previous time on Earth</p><p><br /></p><p>Ted “the Kid” Williams was perhaps one of the greatest hitters baseball has ever seen. He played for the Boston Red Sox for nearly 20 years. The Kid was like a god from another era until his death in 2002, at 83.</p><p>His two younger children had his body carted off by private jet to Alcor Life Extension Foundation, a cryonics facility in Scottsdale, Arizona. There, his head was severed from his body in a process called neuroseparation, thought to increase the quick-freeze preservation of the brain. His head and body were placed in stainless steel nitrogen tanks.</p> <a href=\"https://www.theguardian.com/wellness/ng-interactive/2026/nov/05/cyronics-dying-life-worth-living\">Continue reading...</a>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/5d66d1e12fcbbb09f5986a26c4a404c8b9c60410/0_745_4000_3198/master/4000.jpg?width=700&quality=85&auto=format&fit=max&s=4941bc35a6b869fe2381d56b660ecc59",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
+    "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil",
+    "link": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
+    "description": "<p>Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoff</p><p>It had been nearly a decade since Celia de Oliveira Soares last voted, and months since the 101-year-old great-grandmother last left her home.</p><p>But on 25 October, when Brazil held what many considered its most <a href=\"https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win\">important presidential election</a> in decades, relatives helped Soares into a wheelchair and drove her to a nearby school to make sure the far-right candidate, Flávio Bolsonaro, did not prevail.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro\">Continue reading...</a>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/3cd6d6a16bb0a7da4fb2d4d6f915b10c33ac5788/0_0_3500_2800/master/3500.jpg?width=700&quality=85&auto=format&fit=max&s=6e8d3363cf39fe0f1448b81718f8f91b",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/commentisfree/2026/nov/05/democrats-corruption-money-private-donations",
+    "title": "Democrats promised to end corruption. Here’s how they can do that | David Sirota",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/05/democrats-corruption-money-private-donations",
+    "description": "<p>Overturning Citizens United is not enough. Campaigns must be funded with public money rather than private donations</p><p>Having devoted most of my adult life to reporting on, campaigning against, and exposing the corrosive influence of money in politics, I’m gratified that this cause was – finally – front of mind in a national election.</p><p>That’s right: in the midterms, corruption <a href=\"https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html\">topped</a> the list of Americans’ concerns, and candidates won by waging campaigns promising to reject corporate Pac money and linking Washington’s pay-to-play culture to the affordability crisis.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/nov/05/democrats-corruption-money-private-donations\">Continue reading...</a>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/de2a01f88a7d256a63eb3ea20c9fafbfbf01caf8/367_0_2614_2092/master/2614.jpg?width=700&quality=85&auto=format&fit=max&s=ee718c0b4b7fb7bd2c98348269354f8c",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/asia/japan-hokusai-great-wave-midterms.html",
+    "title": "Everyone’s Talking About the ‘Blue Tsunami.’ In Japan, It’s Complicated.",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/05/world/asia/japan-hokusai-great-wave-midterms.html",
+    "description": "The New York Post used a Hokusai work to depict Donald Trump being swept away by Democrats’ midterm election win. Some in Japan were bothered by the imagery.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-japan-wave-kgzc/05int-japan-wave-kgzc-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "SSnaJS8Q7aeWP9kvDUWYN9",
+    "title": "The Legend of Zelda: Ocarina of Time – why the remake is so remarkable",
+    "link": "https://theweek.com/culture-life/games/the-legend-of-zelda-ocarina-of-time-remake",
+    "description": "Hotly anticipated new version of classic 1998 game refreshes visuals and adds ‘snappy’ new controls",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://theweek.com/rss.xml",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/brA4njbKMZaR8rPD5m4enX-1920-80.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "6ad26bec5976120efa9e5d95",
+    "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+    "description": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.wired.com/feed/rss",
+    "thumbnail": "https://media.wired.com/photos/6aebb9af224c394d76eb9316/master/pass/WWF-Evan-Ratliff-Husk.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "6aeb99b5079f98228327c10a",
+    "title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
+    "link": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
+    "description": "An extremely rare matter-decay event opens up new possibilities for researching the physical world on scales 100 billion times smaller than an atom.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.wired.com/feed/rss",
+    "thumbnail": "https://media.wired.com/photos/6aeb99b5fd4267963caa47b0/master/pass/2182148343",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.newstatesman.com/?p=539443",
+    "title": "Why Britain’s deportation system could be worse than America’s",
+    "link": "https://www.newstatesman.com/politics/left-hook/2026/11/why-britains-deportation-system-could-be-worse-than-americas",
+    "description": "If a Reform home secretary were to pursue PAYE files, there is nothing to stop them",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.newstatesman.com/feed"
+  },
+  {
+    "id": "https://www.newstatesman.com/?p=539442",
+    "title": "We’re still getting the manosphere wrong",
+    "link": "https://www.newstatesman.com/politics/media/2026/11/were-still-getting-the-manosphere-wrong",
+    "description": "Misogynistic radicalisation is a complicated cultural and psychological phenomenon",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.newstatesman.com/feed"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=615134",
+    "title": "Democrats Would Be Insane Not to Break With Israel Now",
+    "link": "https://www.thenation.com/article/politics/democrats-israel-midterm-elections/",
+    "description": "<p>Hamid Bendaas</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/11/AP26308319696363.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>The party has an unequivocal mandate to fundamentally change the US-Israel relationship.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/politics/democrats-israel-midterm-elections/\">Democrats Would Be Insane Not to Break With Israel Now</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/11/AP26308319696363.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=615125",
+    "title": "Actually, Democrats Don’t Have to Sacrifice Trans People or Immigrants to Win",
+    "link": "https://www.thenation.com/article/politics/democrats-win-midterms-on-principles/",
+    "description": "<p>Elie Mystal</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/11/MixCollage-04-Nov-2026-11-32-PM-7619.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>For two years, leading Democratic factions have insisted the party must abandon key populations to win. Tuesday proved them wrong.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/politics/democrats-win-midterms-on-principles/\">Actually, Democrats Don’t Have to Sacrifice Trans People or Immigrants to Win</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/11/MixCollage-04-Nov-2026-11-32-PM-7619.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=614558",
+    "title": "David Sacks’s Sack of Lies",
+    "link": "https://www.thenation.com/article/politics/david-sacks-sack-of-lies/",
+    "description": "<p>Peter Kuper</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/11/11-5_FEAT_1440.jpg\" /></div>\n<div>Trump’s adviser pushes AI without guardrails.</div>\n<p>The post <a href=\"https://www.thenation.com/article/politics/david-sacks-sack-of-lies/\">David Sacks’s Sack of Lies</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/11/11-5_FEAT_1440.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=614956",
+    "title": "After the Celebration, Some Key Lessons From Election 2026",
+    "link": "https://www.thenation.com/article/politics/democrats-midterms-foreign-policy-war/",
+    "description": "<p>Robert L. Borosage</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/11/kiros.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>Populist messages and populist candidates won.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/politics/democrats-midterms-foreign-policy-war/\">After the Celebration, Some Key Lessons From Election 2026</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/11/kiros.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=614991",
+    "title": "Kamala Harris on Expanding Democratic Power in the South",
+    "link": "https://www.thenation.com/article/society/qa-kamala-harris-midterms/",
+    "description": "<p>John Nichols</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/11/Kamala_Harris-QA.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>A conversation with the former vice president about the fight for Democrats in the too-long-neglected South.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/society/qa-kamala-harris-midterms/\">Kamala Harris on Expanding Democratic Power in the South</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/11/Kamala_Harris-QA.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=615084",
+    "title": "How These Midterms Can Guide Us Into a Post-Trump Political Future",
+    "link": "https://www.thenation.com/article/politics/2026-midterms-democrats-trump-2/",
+    "description": "<p>David Faris</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/11/JSUVoters.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>The historic repudiation of the MAGA right at the ballot box opens up new avenues to democratic revival.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/politics/2026-midterms-democrats-trump-2/\">How These Midterms Can Guide Us Into a Post-Trump Political Future</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/11/JSUVoters.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=614896",
+    "title": "Women Are the Real Story of the Midterm Elections",
+    "link": "https://www.thenation.com/article/society/women-midterm-elections/",
+    "description": "<p>Michele Goodwin</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/11/GettyImages-2303418479.jpeg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>In a rebuke of the Trump administration and its cataclysmic decisions and policies, voters elected record numbers of women into office.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/society/women-midterm-elections/\">Women Are the Real Story of the Midterm Elections</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/11/GettyImages-2303418479.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://spectator.com/article/for-the-first-time-ever-i-voted-republican/",
+    "title": "For the first time ever, I voted Republican",
+    "link": "https://spectator.com/article/for-the-first-time-ever-i-voted-republican/",
+    "description": "By Lionel Shriver",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml"
+  },
+  {
+    "id": "https://spectator.com/article/joshua-wongs-imprisonment-shows-china-is-running-scared/",
+    "title": "Joshua Wong’s imprisonment shows China is running scared",
+    "link": "https://spectator.com/article/joshua-wongs-imprisonment-shows-china-is-running-scared/",
+    "description": "By Benedict Rogers",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml"
+  },
+  {
+    "id": "https://spectator.com/article/donald-trumps-leadership-has-become-a-colossal-wreck/",
+    "title": "Donald Trump’s leadership has become a colossal wreck",
+    "link": "https://spectator.com/article/donald-trumps-leadership-has-become-a-colossal-wreck/",
+    "description": "US Politics",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml"
+  },
+  {
+    "id": "https://spectator.com/article/britain-has-become-a-chancers-paradise/",
+    "title": "Britain has become a chancer’s paradise",
+    "link": "https://spectator.com/article/britain-has-become-a-chancers-paradise/",
+    "description": "Yookay",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
+    "title": "Republicans paid the price for Trump’s failed policies — they must rethink",
+    "link": "https://archive.is/qWySo/https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
+    "description": "The president promised — but did not deliver — more manufacturing jobs and higher employment rates for native-born Americans",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/fto/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/video/opinion/100000011258478/the-bell-tolls-for-trumpism.html",
+    "title": "The Bell Tolls for Trumpism",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/video/opinion/100000011258478/the-bell-tolls-for-trumpism.html",
+    "description": "Ezra Klein and Aaron Retica react to the Democratic Party’s major midterm victory.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.thewirechina.com/?p=89686",
+    "title": "Robert D. Kaplan on the China Whisperers Who Shaped How the U.S. Views Its Main Rival",
+    "link": "https://www.thewirechina.com/2026/11/05/robert-d-kaplan-on-the-china-whisperers-who-shaped-how-the-u-s-views-its-main-rival/",
+    "description": "<p>The writer and historian talks about his new book on the key men and women that have influenced America’s approach to China over the last century, and the dangers of ‘groupthink’ among China hands.</p>\n<p>The post <a href=\"https://www.thewirechina.com/2026/11/05/robert-d-kaplan-on-the-china-whisperers-who-shaped-how-the-u-s-views-its-main-rival/\">Robert D. Kaplan on the China Whisperers Who Shaped How the U.S. Views Its Main Rival</a> appeared first on <a href=\"https://www.thewirechina.com\">The Wire China</a>.</p>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.thewirechina.com/feed/",
+    "thumbnail": "https://www.thewirechina.com/wp-content/uploads/2026/10/Robert-Kaplan-Featured-300x255.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.hindustantimes.com/world-news/how-democrats-coalesced-around-the-economy-to-pull-off-a-stunning-victory-101793849724354.html",
+    "title": "How Democrats Coalesced Around the Economy to Pull Off a Stunning Victory",
+    "link": "https://www.hindustantimes.com/world-news/how-democrats-coalesced-around-the-economy-to-pull-off-a-stunning-victory-101793849724354.html",
+    "description": "",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.hindustantimes.com/world-news/a-political-revolution-in-texas-101793848201185.html",
+    "title": "A political revolution in Texas",
+    "link": "https://www.hindustantimes.com/world-news/a-political-revolution-in-texas-101793848201185.html",
+    "description": "",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.nakedcapitalism.com/?p=319117",
+    "title": "Iran War: Trump Freezes as Israel and AIPAC Assess Damage, Vance Admits Iran War as Key to Epic Defeat; White House Clip Touting Trump Defiance Includes “Wolf of Wall Street” Fraudster",
+    "link": "https://www.nakedcapitalism.com/2026/11/iran-war-trump-freezes-as-israel-and-aipac-assess-damage-vance-admits-iran-war-as-key-to-epic-defeat-white-house-clip-touting-trump-defiance-includes-wolf-of-wall-street-fraudster.html",
+    "description": "Today's Iran war news: A chastened Trump has held back on his Iran strike plans. But is he relenting or just regrouping?",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.nakedcapitalism.com/feed"
+  },
+  {
+    "id": "https://www.fastcompany.com/91635104/meta-escaped-accountability-cambridge-analytica-harms",
+    "title": "Meta paid billions, but largely escaped accountability for Cambridge Analytica. Here’s why",
+    "link": "https://www.fastcompany.com/91635104/meta-escaped-accountability-cambridge-analytica-harms",
+    "description": "<p class=\"wp-block-paragraph\">“The harm in this matter is difficult to overstate,” <a href=\"https://courthousenews.com/new-mexico-judge-reduces-jurys-penalty-against-meta-to-25-billion/\" rel=\"noreferrer noopener\" target=\"_blank\">wrote a New Mexico judge</a> who <a href=\"https://www.washingtonpost.com/technology/2026/10/21/meta-ordered-pay-25b-new-mexico-misleading-users-privacy/\" rel=\"noreferrer noopener\" target=\"_blank\">ordered tech giant Meta to pay</a> one of the largest data privacy case penalties in American history. The $25 billion fine came in a case about how Trump campaign firm Cambridge Analytica <a href=\"https://www.ftc.gov/news-events/news/press-releases/2019/12/ftc-issues-opinion-order-against-cambridge-analytica-deceiving-consumers-about-collection-facebook\" rel=\"noreferrer noopener\" target=\"_blank\">deceptively</a> <a href=\"https://theconversation.com/how-cambridge-analyticas-facebook-targeting-model-really-worked-according-to-the-person-who-built-it-94078\" rel=\"noreferrer noopener\" target=\"_blank\">used data from Facebook users</a> without their permission to create <a href=\"https://www.merriam-webster.com/dictionary/psychographics\" rel=\"noreferrer noopener\" target=\"_blank\">psychographic</a> profiles to target voters in the lead-up to the 2016 presidential election.</p>\n\n\n\n<p class=\"wp-block-paragraph\">But the New Mexico penalty was for statements Facebook made that deceived users about data privacy and its response to Cambridge Analytica—not for the harm caused by how the harvested data was used. Those harms are alleged to include <a href=\"https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation\" rel=\"noreferrer noopener\" target=\"_blank\">exploiting psychological vulnerabilities, targeting people’s fears</a> and <a href=\"https://www.channel4.com/news/revealed-trump-campaign-strategy-to-deter-millions-of-black-americans-from-voting-in-2016\" rel=\"noreferrer noopener\" target=\"_blank\">discouraging them from voting</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I’m <a href=\"https://scholar.google.com/citations?hl=en&amp;user=5YUMd8EAAAAJ&amp;view_op=list_works&amp;sortby=pubdate\" rel=\"noreferrer noopener\" target=\"_blank\">a political communication scholar</a> who <a href=\"https://emma-briant.co.uk/\" rel=\"noreferrer noopener\" target=\"_blank\">studies propaganda, surveillance, and information warfare</a>. My research <a href=\"https://www.theguardian.com/commentisfree/2018/apr/20/cambridge-analytica-propaganda-machine\" rel=\"noreferrer noopener\" target=\"_blank\">helped expose</a> the Cambridge Analytica scandal through U.K. newspaper <a href=\"https://www.theguardian.com/politics/2018/apr/16/fake-news-inquiry-raises-concerns-over-targeting-of-voters-in-brexit-referendum\" rel=\"noreferrer noopener\" target=\"_blank\"><em>The Guardian</em>’s reporting</a> on whistleblower accounts and <a href=\"https://www.theguardian.com/uk-news/2018/nov/17/arron-banks-emails-steve-bannon-brexit-campaign-funds\" rel=\"noreferrer noopener\" target=\"_blank\">the evidence</a> I uncovered. That evidence was submitted to <a href=\"https://committees.parliament.uk/committee/378/digital-culture-media-and-sport-committee/news/103479/fake-news-briant-evidence-17-19/\" rel=\"noreferrer noopener\" target=\"_blank\">parliamentary</a> and <a href=\"https://www.judiciary.senate.gov/committee-activity/hearings/cambridge-analytica-and-the-future-of-data-privacy\" rel=\"noreferrer noopener\" target=\"_blank\">congressional investigations</a>. I have followed the unfolding legal cases closely.</p>\n\n\n\n<p class=\"wp-block-paragraph\">My takeaway from a decade of litigation is that Facebook has been penalized for misleading users and regulators about its data practices and its response to the Cambridge Analytica scandal. But I would contend that the company has largely escaped accountability for the underlying political exploitation of that data.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-investigative-failures\">Investigative failures</h2>\n\n\n\n<p class=\"wp-block-paragraph\">The failure to bring cases around harms may be partly due to earlier failures to fully investigate the data misuse.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The Senate Intelligence Committee’s investigation into Russian interference in the 2016 presidential election encompassed Cambridge Analytica. However, the committee stated in <a href=\"https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-report-volume5.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">its final report</a> that it “was unable to obtain the corporate communications of Cambridge Analytica or its parent company SCL Group, which had already been seized by U.K. authorities.”</p>\n\n\n\n<p class=\"wp-block-paragraph\">The relevant U.K. authorities, the Information Commissioner’s Office, which governs data protection and took possession of Cambridge Analytica’s servers, told me in response to my 2021 Freedom of Information Act request that the Senate committee staff made initial inquiries to the office but appear not to have followed up with a formal request, “so no information sharing has taken place.” Without a formal request, the Senate Intelligence Committee’s investigation lacked important data.</p>\n\n\n\n<p class=\"wp-block-paragraph\">At the same time, the U.K. investigations of Cambridge Analytica’s <a href=\"https://doi.org/10.1007/978-3-032-15294-7_7\" rel=\"noreferrer noopener\" target=\"_blank\">use of personal data to manipulate voting behavior</a> focused on the referendum of British voters over whether to leave the EU, not events in the U.S.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n\n</div></figure>\n\n\n\n<p class=\"wp-block-paragraph\"><em>Facebook user data was at the heart of the Cambridge Analytica scandal.</em></p>\n\n\n\n<p class=\"wp-block-paragraph\">A 2020 documentary film I advised as a researcher, <em><a href=\"https://www.sphere-abacus.com/programme/13/people-you-may-know\" rel=\"noreferrer noopener\" target=\"_blank\">People You May Know</a></em>, raised questions about Cambridge Analytica’s work with an app marketed to American churches, called Gloo, that used Cambridge Analytica’s Facebook data-derived psychographic profiling in their communities. Evidence in the New Mexico case reinvigorates these questions about the full extent of the Cambridge Analytica scandal.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The judge in the case ruled Facebook knew that its own processes for investigating whether apps misused personal data were inadequate and that it could not enforce deletion of the data. The judge also concluded the company failed to notify users about <a href=\"https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/\" rel=\"noreferrer noopener\" target=\"_blank\">thousands of applications associated with data misuse</a>. Meta said it would appeal the decision.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Meta responded to a request for comment with the company’s official statement about the New Mexico ruling, arguing the case “seeks to impose a tax on speech to enforce new rules for what people can say online.” Meta did not address the issue of its own role in the data privacy violations committed by Cambridge Analytica.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-escaping-further-scrutiny\">Escaping further scrutiny</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Meta is also trying to close the door on further claims before they are litigated.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In August 2026, on the eve of a child-safety trial in federal court in Oakland, California, <a href=\"https://www.techpolicy.press/the-459-million-cambridge-analytica-reckoning-buried-in-metas-teen-safety-settlement/\" rel=\"noreferrer noopener\" target=\"_blank\">Meta settled</a> with a bipartisan coalition of state attorneys general for roughly $17 billion. The agreement includes 47 states, the District of Columbia, and two U.S. territories. Folded into that deal was an <a href=\"https://www.techpolicy.press/the-459-million-cambridge-analytica-reckoning-buried-in-metas-teen-safety-settlement/\" rel=\"noreferrer noopener\" target=\"_blank\">allocation of $459.3 million</a> to settle Cambridge Analytica-related claims held by participating states.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The participating attorneys general agreed, to the extent of their authority, to “fully, finally, and forever” <a href=\"https://www.mass.gov/doc/meta-settlement/download\" rel=\"noreferrer noopener\" target=\"_blank\">release Meta</a> from “any and all Claims, whether known or unknown, whether accrued or unaccrued.” By expressly encompassing “unknown” and “unaccrued” claims, the agreement reached beyond what investigators had already uncovered. Participating states accepted payment to give up claims arising from Meta’s conduct even if they did not yet know those claims existed.</p>\n\n\n\n<p class=\"wp-block-paragraph\">A decade-old matter—Facebook’s role in the Cambridge Analytica scandal—was quietly brushed under the rug in an unrelated lawsuit about harm to teens.</p>\n\n\n\n<p class=\"wp-block-paragraph\">From the <a href=\"https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook\" rel=\"noreferrer noopener\" target=\"_blank\">2019 Federal Trade Commission order</a> to the <a href=\"https://www.classaction.org/media/in-re-facebook-inc-consumer-privacy-user-profile-litigation-settlement-agreement.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">2022 class action settlement</a> to <a href=\"https://theconversation.com/changes-to-facebook-and-instagram-are-key-part-of-metas-17b-settlement-with-the-states-over-harm-to-teens-290582\" rel=\"noreferrer noopener\" target=\"_blank\">August 2026’s multistate deal</a>, settlements and releases have meant the company paid a relatively small price for its deception while not having the harms from the data exploitation adjudicated. Ultimately, the biggest privacy judgment in American history stands as a measure of the cover-up, not the alleged crime.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Other scholars and I regularly call attention to the <a href=\"https://www.internationalaffairs.org.au/australianoutlook/in-fighting-the-disinformation-problem-we-risk-losing-the-battle-for-our-minds-to-big-tech/\" rel=\"noreferrer noopener\" target=\"_blank\">lack of comprehensive U.S. privacy legislation</a>, but there remain other legal pathways to pursue the harms Cambridge Analytica wrought. States like New Mexico can continue the fight, and Attorney General Raúl Torrez, who brought the case, promised, “<a href=\"https://lnkd.in/p/gG26b3Xp\" rel=\"noreferrer noopener\" target=\"_blank\">We’re just getting started</a>.”</p>\n\n\n\n<p class=\"wp-block-paragraph\">Dissenting from the FTC’s 2019 settlement, then-Commissioner Rohit Chopra criticized the failure to consider “<a href=\"https://www.ftc.gov/system/files/documents/public_statements/1536911/chopra_dissenting_statement_on_facebook_7-24-19.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">Facebook’s unjust enrichment</a>.” He said “the company’s potential exposure is likely far greater” than the $5 billion imposed by the FTC settlement.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-what-price-for-the-harm\">What price for the harm?</h2>\n\n\n\n<p class=\"wp-block-paragraph\">The question remains what exactly Facebook gained from enabling Cambridge Analytica’s abuses. Authorities could also investigate harmful data use for any other apps Facebook may have failed to fully assess, including any associated with Cambridge Analytica’s projects.</p>\n\n\n\n<p class=\"wp-block-paragraph\">If the deception about Cambridge Analytica is worth $25 billion, I believe the public is entitled to know what the underlying harms to them are worth. New Mexico opted out of the 2026 multistate settlement and proved that a state willing to go to trial against Meta can win.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The next task, in my view, is to investigate fully and, where legal claims remain available, pursue accountability for harms resulting from the data exploitation. Otherwise, Cambridge Analytica will remain at the heart of the most consequential privacy scandal in American history, whose full harms have not been tested in court.</p>\n\n<hr />\n\n<p class=\"wp-block-paragraph\"><em><a href=\"https://theconversation.com/profiles/emma-l-briant-146653\" rel=\"noreferrer noopener\" target=\"_blank\">Emma L. Briant</a> is a visiting associate professor at the Lucy Family Institute for Data and Society at the <a href=\"https://theconversation.com/institutions/university-of-notre-dame-990\" rel=\"noreferrer noopener\" target=\"_blank\">University of Notre Dame</a>.</em></p>\n\n\n\n<p class=\"wp-block-paragraph\"><em>This article is republished from </em><a href=\"https://theconversation.com\" rel=\"noreferrer noopener\" target=\"_blank\">The Conversation</a><em> under a Creative Commons license. Read the <a href=\"https://theconversation.com/metas-25b-fine-left-out-accountability-for-harm-from-the-cambridge-analytica-data-privacy-scandal-295620\" rel=\"noreferrer noopener\" target=\"_blank\">original article</a>.</em></p>\n\n\n<hr />",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.fastcompany.com/latest/rss",
+    "thumbnail": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-91635104-meta-25-bill-dollar-fine-left-out-accountability.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/how-cia-terrorist-hunters-actually-work-according-to-an-operative-2026-10",
+    "title": "How CIA terrorist hunters actually work, according to a former operative",
+    "link": "https://www.businessinsider.com/how-cia-terrorist-hunters-actually-work-according-to-an-operative-2026-10",
+    "description": "Michele Rigby Assad spent 10 years as a CIA officer specializing in counterterrorism and counterintelligence.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.businessinsider.com/rss",
+    "thumbnail": "https://i.insider.com/6ae0ee47876163ee6ce561e4?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "1135739",
+    "title": "China’s Economics of Denial",
+    "link": "https://www.foreignaffairs.com/china/chinas-economics-denial",
+    "description": "Beijing’s theory of success in the face of failure.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.foreignaffairs.com/rss.xml"
+  },
+  {
+    "id": "1135740",
+    "title": "The New Congress Can Repair Civil-Military Relations",
+    "link": "https://www.foreignaffairs.com/united-states/new-congress-can-repair-civil-military-relations",
+    "description": "How to blunt Hegseth’s assault on the brass.",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://www.foreignaffairs.com/rss.xml"
+  },
+  {
+    "id": "https://www.project-syndicate.org/commentary/cop31-must-focus-on-oceans-marine-health-by-peter-thomson-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+    "title": "Put the Ocean at the Center of COP31",
+    "link": "https://archive.is/o/xWwb1/https://www.project-syndicate.org/commentary/cop31-must-focus-on-oceans-marine-health-by-peter-thomson-2026-11?&&",
+    "description": "<p>Last year’s UN Climate Change Conference in Belém, Brazil, put forests high on the climate agenda. This month’s UN Climate Change Conference in Antalya, Turkey, can do the same for the ocean, whose warming threatens not just food and energy security but global survival.</p>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ps/combined.xml"
+  },
+  {
+    "id": "https://www.project-syndicate.org/commentary/democrats-lessons-from-historic-midterm-victory-by-reed-galen-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+    "title": "The Democrats’ Historic Duty",
+    "link": "https://archive.is/o/xWwb1/https://www.project-syndicate.org/commentary/democrats-lessons-from-historic-midterm-victory-by-reed-galen-2026-11?&&",
+    "description": "<p>While Democrats have good reason to celebrate their historic midterm victory, their current elation must quickly harden into determination. Fortunately, the field for new ideas, systemic and economic, in the US will be the most open it is likely to be for decades.</p>",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/ps/combined.xml"
+  },
+  {
+    "id": "https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/05/how-democrats-won-the-biggest-congressional-landslide-in-50-years",
+    "title": "How Democrats won the biggest congressional landslide in 50 years",
+    "link": "https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/05/how-democrats-won-the-biggest-congressional-landslide-in-50-years",
+    "description": "Black, Hispanic and young voters helped power the party’s victory",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/eco/combined.xml"
+  },
+  {
+    "id": "https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
+    "title": "AI is turning protectionists into free traders",
+    "link": "https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
+    "description": "Barriers to commerce are rising—except in technology",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/eco/combined.xml"
+  },
+  {
+    "id": "https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
+    "title": "William Nordhaus, favourite economist of the right and the left",
+    "link": "https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
+    "description": "The Nobel-prizewinner was fascinated by what happens when markets fail",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/eco/combined.xml"
+  },
+  {
+    "id": "https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/05/how-democrats-lit-a-prairie-fire",
+    "title": "How Democrats lit a prairie fire",
+    "link": "https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/05/how-democrats-lit-a-prairie-fire",
+    "description": "Wins in Iowa and Kansas revived the left’s rural populism",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/eco/combined.xml"
+  },
+  {
+    "id": "https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
+    "title": "Republicans are in for a brutal presidential contest",
+    "link": "https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
+    "description": "And Democrats suddenly have a unifying agenda",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/eco/combined.xml"
+  },
+  {
+    "id": "https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/11/05/donald-trumps-humiliation-offers-america-an-opportunity",
+    "title": "Donald Trump’s humiliation offers America an opportunity",
+    "link": "https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/11/05/donald-trumps-humiliation-offers-america-an-opportunity",
+    "description": "Voters demand a new way of doing things in Washington. Let them have it",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/eco/combined.xml"
+  },
+  {
+    "id": "https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
+    "title": "How the Democrats will wield their power",
+    "link": "https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
+    "description": "The party has control of Congress, at last. Now it must govern",
+    "published": "Thu, 05 Nov 2026 22:52:07 +0600",
+    "source": "https://evilgodfahim.github.io/eco/combined.xml"
   }
 ]
