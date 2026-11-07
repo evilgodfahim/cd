@@ -297472,5 +297472,145 @@
     "source": "https://foreignpolicy.com/feed/",
     "thumbnail": "https://foreignpolicy.com/wp-content/uploads/2026/11/Hockenos-Prosecution-Juenglinge-Film.png",
     "thumbnail_type": "image/png"
+  },
+  {
+    "id": "6aee69456005a684a692d9aa",
+    "title": "Stephen Miller Takes the Reins",
+    "link": "https://www.newyorker.com/newsletter/the-daily/stephen-miller-takes-the-reins",
+    "description": "The President has named a new chief of staff. The appointment could very well be a sign that Trumpism isn’t over.",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://www.newyorker.com/feed/rss",
+    "thumbnail": "https://media.newyorker.com/photos/6aee4e15d51773fd9539648a/master/pass/Blitzer-Miller.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1",
+    "title": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1",
+    "description": "Magnitude of rebound was feeble compared with historic recoveries from severe sell-offs",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+    "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+    "description": "Claude maker intends to list before Thanksgiving despite brutal tech rout",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+    "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+    "description": "Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under.",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-Paraguay-WTK-glwt/06int-Paraguay-WTK-glwt-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.washingtonpost.com/world/2026/11/06/tanzanian-opposition-leader-found-guilty-incitement-handed-4-year-sentence/",
+    "title": "Tanzanian opposition leader found guilty of ‘incitement,’ handed 4-year sentence",
+    "link": "https://archive.is/o/A5nuz/https://www.washingtonpost.com/world/2026/11/06/tanzanian-opposition-leader-found-guilty-incitement-handed-4-year-sentence/",
+    "description": "Tundu Lissu was acquitted of treason charges in a trial that rights groups said was meant to silence opposition to Tanzania’s government.",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://evilgodfahim.github.io/wpint/combined.xml"
+  },
+  {
+    "id": "https://www.washingtonpost.com/world/2026/11/06/kenya-cult-leader-handed-200-year-sentence-191-murders/",
+    "title": "Kenya cult leader handed 200-year sentence for 191 murders",
+    "link": "https://archive.is/o/A5nuz/https://www.washingtonpost.com/world/2026/11/06/kenya-cult-leader-handed-200-year-sentence-191-murders/",
+    "description": "Paul Nthenge Mackenzie encouraged his followers to starve themselves to death.",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://evilgodfahim.github.io/wpint/combined.xml"
+  },
+  {
+    "id": "https://www.wsj.com/world/middle-east/israels-economy-defied-three-years-of-war-now-the-bill-is-coming-due-49d171e1?mod=rss_worldnews",
+    "title": "Israel’s Economy Defied Three Years of War. Now the Bill Is Coming Due.",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/middle-east/israels-economy-defied-three-years-of-war-now-the-bill-is-coming-due-49d171e1?mod=rss_worldnews",
+    "description": "The country’s next government will have to balance a swollen military budget with continued growth, as President Trump threatens to withdraw aid.",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-50145532",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/economy/central-banking/contest-to-succeed-ecb-head-lagarde-is-officially-a-two-horse-race-bac3d822?mod=rss_worldnews",
+    "title": "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/economy/central-banking/contest-to-succeed-ecb-head-lagarde-is-officially-a-two-horse-race-bac3d822?mod=rss_worldnews",
+    "description": "European governments are set to choose between two candidates to succeed Christine Lagarde: Spain’s Pablo Hernandez de Cos and the Netherlands’ Klaas Knot.",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-12715713",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://time.com/article/2026/11/06/europe-far-right-leaders-backing-away-from-trump-after-midterm-losses/",
+    "title": "How Europes Far-Right Leaders Are Backing Away From Trump After Midterm Losses",
+    "link": "https://time.com/article/2026/11/06/europe-far-right-leaders-backing-away-from-trump-after-midterm-losses/",
+    "description": "",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://asiatimes.com/2026/11/japan-taiwan-china-and-the-emerging-2028-strategic-test/",
+    "title": "Japan, Taiwan, China and the emerging 2028 strategic test",
+    "link": "https://asiatimes.com/2026/11/japan-taiwan-china-and-the-emerging-2028-strategic-test/",
+    "description": "",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.wsj.com/business/energy-oil/brent-crude-climbs-above-100-as-middle-east-oil-supply-risks-persist-caaf64bb",
+    "title": "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy - WSJ",
+    "link": "https://www.wsj.com/business/energy-oil/brent-crude-climbs-above-100-as-middle-east-oil-supply-risks-persist-caaf64bb",
+    "description": "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy  WSJ",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "https://www.regjeringen.no/en/whats-new/foreign-minister-eide-met-ukrainian-foreign-minister-andrii-sybiha-norway-provides-nok-500-million-for-public-services-in-ukraine/id3192027/",
+    "title": "Foreign Minister Eide met Ukrainian Foreign Minister Andrii Sybiha: Norway provides NOK 500 million for public services in Ukraine - Regjeringen.no",
+    "link": "https://www.regjeringen.no/en/whats-new/foreign-minister-eide-met-ukrainian-foreign-minister-andrii-sybiha-norway-provides-nok-500-million-for-public-services-in-ukraine/id3192027/",
+    "description": "Foreign Minister Eide met Ukrainian Foreign Minister Andrii Sybiha: Norway provides NOK 500 million for public services in Ukraine  Regjeringen.no",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "https://foreignpolicy.com/?p=1245581",
+    "title": "Global AI Stocks React to U.S. Midterm Results",
+    "link": "https://foreignpolicy.com/2026/11/06/ai-stock-market-us-midterms-democrats-data-centers-regulation/",
+    "description": "Incoming Democrats have pledged to rein in AI and data centers.",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://foreignpolicy.com/feed/",
+    "thumbnail": "https://foreignpolicy.com/wp-content/uploads/2026/11/AIMarketsMidterms-GettyImages-2303831648.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://time.com/article/2026/11/06/being-heumann-true-story/",
+    "title": "The True Story Behind 'Being Heumann'",
+    "link": "https://time.com/article/2026/11/06/being-heumann-true-story/",
+    "description": "",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://evilgodfahim.github.io/tm/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.wsj.com/world/americas/pope-leo-visits-a-latin-america-thats-losing-its-religion-b1007bbc?mod=rss_worldnews",
+    "title": "Pope Leo Visits a Latin America That’s Losing Its Religion",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/americas/pope-leo-visits-a-latin-america-thats-losing-its-religion-b1007bbc?mod=rss_worldnews",
+    "description": "In the world’s Catholic stronghold, millions are abandoning churches for a world of personal faith, ancient rituals and supernatural beliefs.",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-54866739",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.foreignaffairs.com/united-states/true-meaning-power-david-sacks",
+    "title": "David Sacks: The True Meaning of Power - Foreign Affairs",
+    "link": "https://www.foreignaffairs.com/united-states/true-meaning-power-david-sacks",
+    "description": "David Sacks: The True Meaning of Power  Foreign Affairs",
+    "published": "Sat, 07 Nov 2026 08:18:32 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
   }
 ]
