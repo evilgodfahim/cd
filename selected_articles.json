@@ -297690,5 +297690,403 @@
     "source": "https://theweek.com/rss.xml",
     "thumbnail": "https://cdn.mos.cms.futurecdn.net/X6pD8C95HofRPd3Lf2ANPB-1920-80.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "6aee55bd6005a684a692d91c",
+    "title": "Breaking the Decade-Long Trump Fever",
+    "link": "https://www.newyorker.com/magazine/2026/11/16/breaking-the-decade-long-trump-fever",
+    "description": "The President’s unique brand of lurid authoritarianism has finally lost appeal, and he has lost the plot.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://www.newyorker.com/feed/rss",
+    "thumbnail": "https://media.newyorker.com/photos/6aee79600572b1f7b0d79c1a/master/pass/newyorker_comment_The%20Fever%20Breaks_final.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/airline-bomb-threats-flight-chaos-europe-jets-scrambled-hybrid-warfare-2026-11",
+    "title": "MAPPED: How dozens of bomb threats caused flight chaos in Europe this week",
+    "link": "https://www.businessinsider.com/airline-bomb-threats-flight-chaos-europe-jets-scrambled-hybrid-warfare-2026-11",
+    "description": "Whether the \"malicious hoax threats\" are linked and who they came from aren't clear, but analysts have some ideas.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6aedeaa380d4b24f18346dfb?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/stock-market-ai-selloff-worst-since-2025-chart-2026-11",
+    "title": "4 stats show just how ugly things got for markets this week",
+    "link": "https://www.businessinsider.com/stock-market-ai-selloff-worst-since-2025-chart-2026-11",
+    "description": "The Nasdaq 100 shed more than $2 trillion as markets panicked about a data center slowdown. These charts show a wild week in markets.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6aee2e00eaa5e46dca227c1c?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/voters-pass-property-tax-breaks-midterm-elections-florida-homestead-2026-11",
+    "title": "Voters really, really don't like property taxes",
+    "link": "https://www.businessinsider.com/voters-pass-property-tax-breaks-midterm-elections-florida-homestead-2026-11",
+    "description": "Across the country, voters showed up for Democrats — and to give themselves  breaks on property taxes.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6aee2ce980d4b24f183470f8?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-689329",
+    "title": "ICE After the Blowout",
+    "link": "https://www.theatlantic.com/politics/2026/11/ice-midterms-deportations-dhs/689329/",
+    "description": "The midterms were a backlash to Trump’s immigration policies. But ICE has billions more to spend.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/IVk-bcQnTg9BhkkGRhrc59yrjVE=/0x200:3855x2368/media/img/mt/2026/11/GettyImages_2249856184/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/47dba9d2-4c82-4e17-969d-f1728ef13a5a?syn-25a6b1a6=1",
+    "title": "UK will not slow down on AI despite backlash in US, says growth minister",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/47dba9d2-4c82-4e17-969d-f1728ef13a5a?syn-25a6b1a6=1",
+    "description": "Dan Tomlinson asserts that pace of investment is ‘too low for what we need to stay at the forefront as AI technology develops’",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/b9b88216-4285-467b-8aad-33e26ee2468a",
+    "title": "The UK has few easy options for rejoining a ‘traumatised’ EU",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/b9b88216-4285-467b-8aad-33e26ee2468a",
+    "description": "Accession is really not a negotiation. It is a process and candidates must tick all the relevant boxes",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1",
+    "title": "Trump’s defeat heralds a US retreat",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1",
+    "description": "American retrenchment could change Middle East balance of power and signify opportunities for China",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/0845687f-1f74-4bbf-88c9-5c6b031c7f20?syn-25a6b1a6=1",
+    "title": "European security agencies probe whether bomb hoaxes started in Russia",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/0845687f-1f74-4bbf-88c9-5c6b031c7f20?syn-25a6b1a6=1",
+    "description": "A working hypothesis is that the co-ordinated threats were produced by pro-Kremlin activists or hacking groups",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/bc1814b7-fbd0-4d05-8ba3-c61115c80735?syn-25a6b1a6=1",
+    "title": "Zelenskyy to be honoured with UK state visit in 2027",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/bc1814b7-fbd0-4d05-8ba3-c61115c80735?syn-25a6b1a6=1",
+    "description": "The grand occasion will mark five years since Russia’s full-scale invasion of Ukraine",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/80d91653-c210-43cd-b91e-2b8c644561c1?syn-25a6b1a6=1",
+    "title": "Russia ships metal via the Arctic to evade Ukrainian strikes",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/80d91653-c210-43cd-b91e-2b8c644561c1?syn-25a6b1a6=1",
+    "description": "Pig iron will be exported through the northern port of Murmansk for the first time in 30 years as Black Sea battles rage",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/0700baee-1a7f-4dc4-ac95-5b98e1868d96?syn-25a6b1a6=1",
+    "title": "Mississippi election marks political earthquake in the Deep South",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/0700baee-1a7f-4dc4-ac95-5b98e1868d96?syn-25a6b1a6=1",
+    "description": "Democrat Scott Colom could become the first Black man from the state to reach the US Senate in 150 years",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+    "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+    "link": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+    "description": "<p>Trump still considering new assault on Iran nuclear sites – though threats less credible after Vance remarks</p><p>Qatar, the lead mediator in the US-Iran conflict, is seeking to persuade Tehran to allow UN nuclear weapons inspectors to visit Iran’s bombed nuclear sites, including those housing the country’s stockpile of highly enriched uranium.</p><p>Iran would not be required to make any commitment that the stockpile would be removed from the country, with other options on the table, including reducing the uranium content by down-blending it.</p> <a href=\"https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections\">Continue reading...</a>",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/e3e106cee8c7a119858472afd76f5d130e4d43b6/1722_527_3180_2545/master/3180.jpg?width=700&quality=85&auto=format&fit=max&s=b8e22b5c3cf4c074bcfda67a7e16255b",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
+    "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
+    "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
+    "description": "<p>Democrats and Republicans blast promotion of ‘xenophobe’ who led administration’s immigration crackdown in wake of US midterm elections</p><p>Democratic lawmakers decried Stephen Miller as a “<a href=\"https://x.com/SenatorDurbin/status/2118791166564897238?s=20\">hatemonger</a>”, a “<a href=\"https://x.com/RepJeffries/status/2118795008379908136\">xenophobe</a>” and “<a href=\"https://x.com/CAgovernor/status/2118811700925464744\">vile</a>” after Donald Trump appointed <a href=\"https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump\">his most trusted adviser</a> as White House chief of staff.</p><p>On Friday afternoon, the US president abruptly <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117571000109141399\">announced via his Truth Social platform</a> that Miller – the architect of his sweeping immigration crackdown – would replace Susie Wiles, whom he confirmed had been ousted.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react\">Continue reading...</a>",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/4bf2fa47568a8900b9eab3de3b35711cc466232f/710_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=2160785b2e8cefc57a2786800830d4a1",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
+    "title": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
+    "link": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
+    "description": "<p>Santiago Peña’s links to Ueno Bank scrutinized after crisis led to his house arrest and froze millions of bank accounts</p><p>Pedro Volpe had just woken up last Tuesday when he saw a message from a friend asking whether his bank account was down, too.</p><p>It was a day after payday, and Volpe, 50, a writer and lawyer, opened his banking app and panicked: he could not even see his balance.</p> <a href=\"https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena\">Continue reading...</a>",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/afadfa53ac809356488933afab4757207240a0c5/551_0_5508_4407/master/5508.jpg?width=700&quality=85&auto=format&fit=max&s=8f1b3e72df2af6ab53160dd6882d56c6",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+    "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+    "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+    "description": "<p>Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the Dnipro</p><p>Volodymyr Zelenskyy <a href=\"https://x.com/ZelenskyyUa/status/2118984748332654705\">has accused</a> Russia of trying to “plunge Kyiv and the entire country into a blackout”, following a major attack overnight on energy infrastructure in the capital and a bridge over the Dnipro River.</p><p>Ukraine’s president said Moscow’s preparations for peace talks next week involved pummelling a city of millions with ballistic missiles.</p> <a href=\"https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid\">Continue reading...</a>",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/e51e3a880a5661d978f95a21cc47d7489b533135/0_355_4556_3645/master/4556.jpg?width=700&quality=85&auto=format&fit=max&s=14968f14944040f095e5c88c5ddf98e8",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
+    "title": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
+    "description": "At least 44 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-congo-ebola-violence-twbp/07int-congo-ebola-violence-twbp-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+    "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+    "description": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-europe-security-01-zbtv/07int-europe-security-01-zbtv-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
+    "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
+    "description": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-battlefield-01-tkvw-promo/05int-ukraine-battlefield-01-tkvw-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.washingtonpost.com/world/2026/11/07/why-bolsonaro-says-us-took-him-trump-convinced-brazil-is-no-longer-democracy/",
+    "title": "Why Bolsonaro says U.S. took him in: Trump ‘convinced’ Brazil is no longer a democracy",
+    "link": "https://archive.is/o/A5nuz/https://www.washingtonpost.com/world/2026/11/07/why-bolsonaro-says-us-took-him-trump-convinced-brazil-is-no-longer-democracy/",
+    "description": "After losing an election, sneaking to Miami and proclaiming himself rightful president, Flávio Bolsonaro says in an interview that the U.S. is a refuge where “institutions still work.”",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/wpint/combined.xml"
+  },
+  {
+    "id": "https://www.wsj.com/world/russia/ten-months-of-war-to-gain-46-square-miles-how-russia-is-failing-on-the-battlefield-3184ae10?mod=rss_worldnews",
+    "title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/russia/ten-months-of-war-to-gain-46-square-miles-how-russia-is-failing-on-the-battlefield-3184ae10?mod=rss_worldnews",
+    "description": "Ukrainian forces have foiled Moscow’s offensive in the Donetsk region. The Russian army is making one more push.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-94380143",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thehindu.com/news/international/china-says-discussions-underway-on-xi-trump-putin-meeting/article71677194.ece",
+    "title": "China says discussions underway on Xi-Trump-Putin meeting",
+    "link": "https://www.thehindu.com/news/international/china-says-discussions-underway-on-xi-trump-putin-meeting/article71677194.ece",
+    "description": "",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.al-monitor.com/originals/2026/11/iran-turns-putin-war-us-election-reshape-strategic-calculations",
+    "title": "Iran turns to Putin as war, US election reshape strategic calculations",
+    "link": "https://www.al-monitor.com/originals/2026/11/iran-turns-putin-war-us-election-reshape-strategic-calculations",
+    "description": "",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://thearabweekly.com/foreign-policy-hawk-migration-crackdown-architect-trumps-new-chief-staff",
+    "title": "Foreign policy hawk, migration crackdown architect is Trump’s new chief of staff - The Arab Weekly",
+    "link": "https://thearabweekly.com/foreign-policy-hawk-migration-crackdown-architect-trumps-new-chief-staff",
+    "description": "Foreign policy hawk, migration crackdown architect is Trump’s new chief of staff  The Arab Weekly",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "content_6aef3dc64dd753cc5b9e5c10",
+    "title": "US Navy Supercarrier Now In Singapore Before Middle Eastern Deployment",
+    "link": "https://www.forbes.com/sites/petersuciu/2026/11/07/us-navy-supercarrier-now-in-singapore-before-middle-eastern-deployment/",
+    "description": "The Nimitz-class aircraft carrier USS Theodore Roosevelt is expected to arrive in the Arabian Sea later this month.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6aef3e2cadca1b3a0757f656/0x0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "6ae23676485652f43a74fd4d",
+    "title": "Chris Ware’s Fractal Pandemic Chronicle",
+    "link": "https://www.newyorker.com/books/page-turner/a-cartoonists-depiction-of-the-moment-things-got-weird",
+    "description": "The latest issue of Chris Ware’s Acme Novelty Library delivers a thoroughly modern reading experience in a keepsake box.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://www.newyorker.com/feed/rss",
+    "thumbnail": "https://media.newyorker.com/photos/6aee1cef229cd366835e030f/master/pass/ware_acme_site.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "6aeb6c37cbfc1d8c5bc53fbc",
+    "title": "“Wicker” and What Straight Women Want",
+    "link": "https://www.newyorker.com/culture/critics-notebook/wicker-and-what-straight-women-want",
+    "description": "The monster-romance movie, starring Olivia Colman and Alexander Skarsgård, is a Chaucerian romp, and, at times, it is even sexy. But one wishes the film were braver—that it had more to say about the grotesque and its power to drive attraction.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://www.newyorker.com/feed/rss",
+    "thumbnail": "https://media.newyorker.com/photos/6aeb6ded0595de95bb163b2a/master/pass/Critic's-Notebook-Wicker.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "6aece3e02d7186f6c7cbd6fa",
+    "title": "How France Took Over Basketball",
+    "link": "https://www.newyorker.com/culture/the-lede/how-france-took-over-basketball",
+    "description": "The country spent decades building a development system to cultivate the tallest and most talented kids. Now the best player in the world is French, and its national team poses a serious threat to U.S. Olympic dominance.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://www.newyorker.com/feed/rss",
+    "thumbnail": "https://media.newyorker.com/photos/6aedfc7d008aa3a630f2a06d/master/pass/Samaha-France-Basketball.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/tanks-arent-dead-changing-role-warfare-ukraine-2026-11",
+    "title": "The tank isn’t dead. The way it used to wage war might be.",
+    "link": "https://www.businessinsider.com/tanks-arent-dead-changing-role-warfare-ukraine-2026-11",
+    "description": "Tanks have taken a beating in Ukraine. The US Army is changing how it trains to make sure it can fight under the constant watch of drones.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6aedb7499270da3cc6668bf2?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:39-689026",
+    "title": "Memories of the Train",
+    "link": "https://www.theatlantic.com/magazine/2026/12/siqi-liu-memories-of-the-train/689026/",
+    "description": "A short story",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/LFgqseCAuH5dlbC3u1KMXhqQ2Ms=/0x177:2048x1328/media/img/2026/11/BoB_Fiction_Liu_Memories_1/original.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-689332",
+    "title": "What Happened to JetBlue?",
+    "link": "https://www.theatlantic.com/ideas/2026/11/airlines-bankruptcy-profit-jetblue/689332/",
+    "description": "The carrier is more than $8.4 billion in debt, but it won’t cut its snacks.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/9-7onIKbwcF67fllmFYB57kv97A=/media/img/mt/2026/11/2026_11_07_JetBlue_and_the_Middle_Market_Riddle_James_Surowiecki/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/510f4a2e-0c7a-48c9-bee6-eabc704b1907",
+    "title": "An apology for slavery will help build trust across the Commonwealth",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/510f4a2e-0c7a-48c9-bee6-eabc704b1907",
+    "description": "The Caribbean Community has 10 relatively modest proposals for repairing relations with the UK",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/32066a67-a697-4eb4-a779-c6dff8cc2ac7",
+    "title": "K-pop super-fandom, my daughter and me",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/32066a67-a697-4eb4-a779-c6dff8cc2ac7",
+    "description": "Over one summer and three huge concerts, a mother lives the intense devotion and explores the risks of extreme social media intimacy",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/commentisfree/2026/nov/07/moscow-novaya-gazeta-journalism-russia-newspaper",
+    "title": "Moscow has shuttered Novaya Gazeta – we told the truth and we paid the price | Elena Kostyuchenko",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/07/moscow-novaya-gazeta-journalism-russia-newspaper",
+    "description": "<p>Russia’s best-known independent newspaper was my home for 17 years. It’s being shut down, but the spirit of its journalism will live on</p><p>Novaya Gazeta – Russia’s most prominent independent newspaper – is <a href=\"https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close\">being shut down</a>. On 29 October, two things became known: Novaya was being evicted from its newsroom, and banks would stop processing readers’ donations to Novaya (its only legal income). Insiders spoke of the risk of Novaya being declared an extremist organisation – then any employee could be jailed: a journalist, an editor, an accountant, a cleaner. Closing was safer.</p><p>Novaya Gazeta is a second family to me and to many journalists now scattered around the Earth. For me it is my first family, too – my adopted sister also worked at Novaya, and it’s funny how alike we turned out.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/nov/07/moscow-novaya-gazeta-journalism-russia-newspaper\">Continue reading...</a>",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/80385020d94d243f8032ef48efef7f99aa23dc68/1228_0_5436_4349/master/5436.jpg?width=700&quality=85&auto=format&fit=max&s=814c9e761962762444ff8e60ce246ce7",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+    "title": "This Israeli Vows to Oust Netanyahu. Here’s How.",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+    "description": "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html",
+    "title": "Inside the Nightclub Sheltering Haitians From Violent Gangs",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html",
+    "description": "Club International was once a popular music venue in Port-au-Prince. Now it’s a makeshift shelter for hundreds of Haitian families fleeing gang violence, and the club’s owner wants them out.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml"
+  },
+  {
+    "id": "6aecc3b7d9407a3cfa2ce13c",
+    "title": "The American Dream Wasn’t Built for Climate Change",
+    "link": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+    "description": "Owning a home is billed as a way to build wealth, but amid climate-related disasters, for many, it's beginning to feel like a trap.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://www.wired.com/feed/rss",
+    "thumbnail": "https://media.wired.com/photos/6aee19e08c38504c1a2ffc8b/master/pass/110626-american-dream-climate-change.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=613826",
+    "title": "The Strange, Empathetic Allure of Andy Beshear",
+    "link": "https://www.thenation.com/article/politics/allure-of-andy-beshear/",
+    "description": "<p>Grace Byron</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/10/beshear.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>The potential Democratic hopeful for president is not a socialist. But he has a folksy demeanor and moral compass.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/politics/allure-of-andy-beshear/\">The Strange, Empathetic Allure of Andy Beshear </a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/10/beshear.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "content_6adf95f356829014c546fb6b",
+    "title": "How Russia’s War Veterans Are Entering Civilian Life And Politics",
+    "link": "https://www.forbes.com/sites/marktemnycky/2026/11/07/how-russias-war-veterans-are-entering-civilian-life-and-politics/",
+    "description": "As Russia’s full-scale invasion of Ukraine continues, Russia has worked to reintegrate its war veterans into Russian society. Some have taken political office.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6adf9853649cf28e5478febe/0x0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nakedcapitalism.com/?p=319209",
+    "title": "Western Democracy Was Always a Managed Oligarchy. Now It’s Breaking",
+    "link": "https://www.nakedcapitalism.com/2026/11/western-democracy-was-always-a-managed-oligarchy-now-its-breaking.html",
+    "description": "How democracies under stress are showing their true oligarchy status.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://www.nakedcapitalism.com/feed"
+  },
+  {
+    "id": "https://www.nakedcapitalism.com/?p=319211",
+    "title": "‘I Heard a Barnacle’ – How Paying Attention to Nature’s Background Noise Can Reveal Animal Secrets",
+    "link": "https://www.nakedcapitalism.com/2026/11/i-heard-a-barnacle-how-paying-attention-to-natures-background-noise-can-reveal-animal-secrets.html",
+    "description": "The too-often-neglected importance of sound in nature and scientific investigation.",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://www.nakedcapitalism.com/feed"
+  },
+  {
+    "id": "https://www.inc.com/tony-manganiello/netflix-helped-make-blockbuster-obsolete-now-it-faces-its-own-reinvention/91431913",
+    "title": "Netflix Helped Make Blockbuster Obsolete. Now It Faces Its Own Reinvention",
+    "link": "https://www.inc.com/tony-manganiello/netflix-helped-make-blockbuster-obsolete-now-it-faces-its-own-reinvention/91431913",
+    "description": "<p>What got you here won’t necessarily get you there.</p>",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://www.inc.com/rss",
+    "thumbnail": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/11/netflix-inc-AdobeStock_683431510_Editorial_Use_Only.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.inc.com/connor-jewiss/japans-4-3-trillion-economy-has-a-startup-problem-is-silicon-valley-the-answer/91431565",
+    "title": "Japan’s $4.3 Trillion Economy Has a Startup Problem. Is Silicon Valley the Answer?",
+    "link": "https://www.inc.com/connor-jewiss/japans-4-3-trillion-economy-has-a-startup-problem-is-silicon-valley-the-answer/91431565",
+    "description": "<p>Founder University in Tokyo selects 30 companies. Ten get invited to Silicon Valley to meet investors.</p>",
+    "published": "Sat, 07 Nov 2026 21:38:03 +0600",
+    "source": "https://www.inc.com/rss",
+    "thumbnail": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/11/japan-silicon-valley-inc-2181388189.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
