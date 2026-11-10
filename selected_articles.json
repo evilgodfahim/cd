@@ -300370,5 +300370,515 @@
     "description": "By Theo Hobson",
     "published": "Tue, 10 Nov 2026 13:41:47 +0600",
     "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+  },
+  {
+    "id": "https://www.businessinsider.com/uk-aircraft-carrier-uses-drones-for-roles-once-helicopter-dependent-2026-11",
+    "title": "The UK’s newest aircraft carrier is letting small drones take over some missions once done by helicopters",
+    "link": "https://www.businessinsider.com/uk-aircraft-carrier-uses-drones-for-roles-once-helicopter-dependent-2026-11",
+    "description": "The HMS Prince of Wales is equipped with what the Royal Navy calls a \"state-of-the-art\" air wing of fighter jets, helicopters, and drones.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6af2f45beaa5e46dca2289e0?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/army-national-guard-warns-war-could-leave-us-states-vulnerable-2026-11",
+    "title": "A major war could leave US states without enough National Guard troops for disasters and other emergencies, generals warn",
+    "link": "https://www.businessinsider.com/army-national-guard-warns-war-could-leave-us-states-vulnerable-2026-11",
+    "description": "Army National Guard generals warn a major overseas war could leave governors short of troops to respond to disasters and other emergencies at home.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6af225958f37e8e0b5bab76b?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/anthropic-sets-ipo-price-range-blockbuster-ipo-valuation-2026-11",
+    "title": "Anthropic sets IPO price range targeting $1.4 trillion valuation",
+    "link": "https://www.businessinsider.com/anthropic-sets-ipo-price-range-blockbuster-ipo-valuation-2026-11",
+    "description": "In a regulatory filing on Tuesday, the AI startup said that shares for the upcoming IPO would be priced between $70 and $78.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6af306c0eaa5e46dca228a19?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/71f35844-9635-4cfe-bf47-39a4014dc8ee?syn-25a6b1a6=1",
+    "title": "Countries speed up on renewables as China’s blistering pace slows",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/71f35844-9635-4cfe-bf47-39a4014dc8ee?syn-25a6b1a6=1",
+    "description": "Ten takeaways from the IEA’s latest report on the fossil fuel transition",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/87f2dfb7-e8b5-4248-9eee-fa3527200fee?syn-25a6b1a6=1",
+    "title": "Indonesia’s vice-president ‘intends to resign’ after qualifications questioned",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/87f2dfb7-e8b5-4248-9eee-fa3527200fee?syn-25a6b1a6=1",
+    "description": "Gibran Rakabuming Raka’s departure could deepen instability and end crucial alliance between his influential father Joko Widodo and President Prabowo Subianto",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1",
+    "title": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1",
+    "description": "Falling crude prices have supported recovery in global stocks from last week’s sell-off",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/b98d07ff-5d89-4782-84c0-6e1e3cb56806",
+    "title": "Bank of Japan rate debate switches to pace and timing of future hikes",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/b98d07ff-5d89-4782-84c0-6e1e3cb56806",
+    "description": "Summary of opinions from the BoJ’s October meeting shows greater caution than the decision to hold rates suggests",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/c2992864-c0ab-4e38-b47a-5c2c1e3cb056?syn-25a6b1a6=1",
+    "title": "US removes planes from second UK military base after Iran threat",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/c2992864-c0ab-4e38-b47a-5c2c1e3cb056?syn-25a6b1a6=1",
+    "description": "Move follows September security incident at RAF Fairford",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/f53c5923-29b1-4ec8-963a-6fb57c000588?syn-25a6b1a6=1",
+    "title": "Singapore seizes ‘forever’ cruise ship that dumped passengers in Cambodia",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/f53c5923-29b1-4ec8-963a-6fb57c000588?syn-25a6b1a6=1",
+    "description": "Villa Vie’s Odyssey taken by port authorities following court order obtained by vessel’s creditors",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1",
+    "title": "Top Federal Reserve official considers largest rate rise since 2022",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1",
+    "description": "Governor Christopher Waller says policymakers should weigh a 50-basis-point move if US inflation fails to slow",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/bdeff514-60bf-4a2b-bc60-b4d6d5b7a6c7?syn-25a6b1a6=1",
+    "title": "EU on track to add Montenegro in 2028 despite national vetoes, says Ireland",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/bdeff514-60bf-4a2b-bc60-b4d6d5b7a6c7?syn-25a6b1a6=1",
+    "description": "Also in this newsletter: Are European companies able to feed their AI models enough data?",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1",
+    "title": "China’s trade surplus exceeds $1tn for first 10 months of year",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1",
+    "description": "Balance is on course for annual record that would intensify tensions with trade partners",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/352539b3-41fd-4418-a171-43975897ec0e?syn-25a6b1a6=1",
+    "title": "US, Russia and Ukraine resume talks on ending war",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/352539b3-41fd-4418-a171-43975897ec0e?syn-25a6b1a6=1",
+    "description": "But expectations of a breakthrough are low because Putin is showing no sign of wanting to halt the conflict",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/5b382a54-67c9-4b25-a89b-fc0ce7189015?syn-25a6b1a6=1",
+    "title": "Thames Water creditors prepare ‘final’ offer as Burnham faces nationalisation decision",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/5b382a54-67c9-4b25-a89b-fc0ce7189015?syn-25a6b1a6=1",
+    "description": "PM has been reluctant to take water company into state ownership despite earlier support",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
+    "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief",
+    "link": "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
+    "description": "<p>Jens Eskelund says Europe may need to allow its companies to become part of Chinese firms’ supply chains</p><p>Europe’s manufacturers could give up on attempting to compete with their Chinese counterparts by the end of the decade if current trends continue amid fears over mass job losses, the head of the European Union Chamber of Commerce in China has warned.</p><p>In a case of “if you can’t beat them, join them”, Jens Eskelund said European companies operating in China were now thinking “Made in China for China” could be replaced by a philosophy of “Made in China for the world”.</p> <a href=\"https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund\">Continue reading...</a>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/e1035f797cd03f2b0cc1d628d816df8072bbfa03/329_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=628e47aeb64f0fddf4cb1210bbf158cf",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
+    "title": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
+    "link": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
+    "description": "<p>Opposition politicians get first chance to take control of levers of power, even as they struggle to form government</p><p>Israel’s new Knesset will be sworn in on Tuesday, giving opposition politicians their first chance to take control of some levers of power, even as they struggle to form a new government to unseat Benjamin Netanyahu.</p><p>High on the agenda will be replacing the speaker, who wields immense influence by controlling the legislature’s agenda and committee chairs. The current speaker is Amir Ohana, a close ally of Netanyahu.</p> <a href=\"https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm\">Continue reading...</a>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/3fe596f228dd31c620c353de960e5ee320d60061/1797_368_3116_2494/master/3116.jpg?width=700&quality=85&auto=format&fit=max&s=7517a230e2fa79d5c47c21adbe7c3702",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/10/viktor-orban-brother-aron-detained-people-smuggling-investigation-hungarian-pm-says",
+    "title": "Viktor Orbán’s brother detained in people-smuggling investigation, Hungarian PM says",
+    "link": "https://www.theguardian.com/world/2026/nov/10/viktor-orban-brother-aron-detained-people-smuggling-investigation-hungarian-pm-says",
+    "description": "<p>Arrest made by anti-corruption body set up to investigate alleged graft during former PM’s 16-year rule</p><p>Hungarian authorities have detained the brother of Viktor Orbán as part of a people-smuggling ⁠investigation, the prime minister, Péter Magyar, has said.</p><p>The Hungarian anti-graft body, the national asset protection and recovery office (NVVH), said in ⁠a statement it and ⁠police had ​detained four people and searched homes in Budapest and Pest county.</p> <a href=\"https://www.theguardian.com/world/2026/nov/10/viktor-orban-brother-aron-detained-people-smuggling-investigation-hungarian-pm-says\">Continue reading...</a>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/604e93edac296e07e502466ba760aa86b3b2e3b2/363_0_661_529/master/661.jpg?width=700&quality=85&auto=format&fit=max&s=c97e45f1ad252ae55f5a6720743bfa02",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
+    "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
+    "link": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
+    "description": "<p>Former prime minister faces death penalty upon return after being sentenced in absentia over deaths in 2024 uprising</p><p>Sheikh Hasina is “confident” she will return to Bangladesh in December, according to exiled members of her party, after the disgraced former prime minister of Bangladesh applied for a new passport this week.</p><p>Hasina has been living in self-imposed exile since August 2024 when she was toppled from power by a <a href=\"https://www.theguardian.com/world/article/2024/jul/26/bangladesh-student-protests-mass-movement-against-dictator\">mass uprising</a> against her authoritarian rule. She crossed the border to India, where she has since been allowed to live freely in Delhi.</p> <a href=\"https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile\">Continue reading...</a>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/b0c25ec744c32078682701261636188a517bf078/42_0_1989_1592/master/1989.jpg?width=700&quality=85&auto=format&fit=max&s=7d58dfc3b3b3c57f85babdfb7b872a4f",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+    "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+    "description": "<p>US-led talks in Abu Dhabi are first substantive negotiations in months focusing on ending the conflict which has raged for more than four years</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks\">US officials seek ‘final end’ to Russia-Ukraine war as talks begin</a></p></li></ul><p>Hungarian authorities have detained the brother of <strong>Viktor Orbán</strong> as part of a people-smuggling ⁠investigation, the prime minister, <a href=\"https://www.theguardian.com/world/peter-magyar\">Péter Magyar</a>, has said.</p><p>The Hungarian anti-graft body, the national asset protection and recovery office (NVVH), said in ⁠a statement it and ⁠police had ​detained four people and searched homes in Budapest and Pest county.</p> <a href=\"https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates\">Continue reading...</a>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/107e559a07afa91b8a10b4e3226ef062b4051e0e/63_0_1706_1365/master/1706.jpg?width=700&quality=85&auto=format&fit=max&s=021e38f52118e280d31520fdf22c8845",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+    "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+    "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+    "description": "<p>First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and Europe</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates\">Europe live – latest updates</a></p></li></ul><p>US officials have said they are seeking a “final end” to the war between Russia and Ukraine, beginning with trilateral talks in Abu Dhabi on Tuesday, the first substantive negotiations between the two countries since February.</p><p>The talks are the first since the US launched joint strikes with Israel against Iran, and they follow bruising midterm elections that have weakened Donald Trump at home.</p> <a href=\"https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks\">Continue reading...</a>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/83dc5bf0e0260881e9cd595c706a20cd0b0a8604/761_0_4167_3333/master/4167.jpg?width=700&quality=85&auto=format&fit=max&s=b3a33a0f0aaa3cba0f144d0eb19b234b",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
+    "title": "Australia Unveils New A.I. Regulator After OpenAI Breach",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
+    "description": "The government is also considering changes to criminal law to penalize companies that develop models that “engage in harmful conduct.”",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-oz-ai-kcbj/10int-oz-ai-kcbj-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
+    "title": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
+    "description": "A U.S. Army unit in Germany is not sure what’s next as the Pentagon considers a major drawdown of forces in Europe.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-nato-troops-01-bwqz/00int-nato-troops-01-bwqz-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/business/energy-oil/adnoc-gas-still-evaluating-options-to-bypass-strait-of-hormuz-3f833140?mod=rss_worldnews",
+    "title": "Adnoc Gas Still Evaluating Options to Bypass Strait of Hormuz",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/business/energy-oil/adnoc-gas-still-evaluating-options-to-bypass-strait-of-hormuz-3f833140?mod=rss_worldnews",
+    "description": "The company has been examining ways to reduce its reliance on the strait—including an LNG export facility on the country’s east coast—its chief executive says.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-14528390",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/finance/singapore-central-bank-rolls-out-gold-vaulting-services-8a2d4f0d?mod=rss_worldnews",
+    "title": "Singapore Central Bank Rolls Out Gold-Vaulting Services",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/finance/singapore-central-bank-rolls-out-gold-vaulting-services-8a2d4f0d?mod=rss_worldnews",
+    "description": "The Monetary Authority of Singapore is rolling out gold-vaulting services as part of efforts to make the city-state Asia’s top gold-trading hub.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-17018527",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/middle-east/u-s-aircraft-evacuated-from-second-u-k-base-due-to-iran-threat-835a8b58?mod=rss_worldnews",
+    "title": "U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/middle-east/u-s-aircraft-evacuated-from-second-u-k-base-due-to-iran-threat-835a8b58?mod=rss_worldnews",
+    "description": "U.S. refueling tankers were moved from RAF Mildenhall on Monday.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-92116129",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/china/chinas-trade-surplus-surged-past-1-trillion-in-october-967968c9?mod=rss_worldnews",
+    "title": "China’s Trade Surplus Surged Past $1 Trillion in October",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/china/chinas-trade-surplus-surged-past-1-trillion-in-october-967968c9?mod=rss_worldnews",
+    "description": "Chinese exports continue to soar despite economic gloom and global trade tensions.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-23232450",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-pm-brief-g7-and-saudi-arabia-iran-war-after-trump-talks",
+    "title": "Qatar PM to brief G7 and Saudi Arabia on Iran war after Trump talks",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-pm-brief-g7-and-saudi-arabia-iran-war-after-trump-talks",
+    "description": "",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.hindustantimes.com/world-news/poland-faces-fresh-constitutional-court-standoff-as-donald-tusk-government-seeks-to-reverse-law-and-justice-party-reforms-101794294433378.html",
+    "title": "Poland faces fresh court standoff as Tusk government seeks to reverse former regime’s changes",
+    "link": "https://www.hindustantimes.com/world-news/poland-faces-fresh-constitutional-court-standoff-as-donald-tusk-government-seeks-to-reverse-law-and-justice-party-reforms-101794294433378.html",
+    "description": "",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.hindustantimes.com/world-news/donald-trump-is-in-a-hurry-for-peace-in-ukraine-vladimir-putin-is-not-101794279588972.html",
+    "title": "Donald Trump is in a hurry for peace in Ukraine. Vladimir Putin is not",
+    "link": "https://www.hindustantimes.com/world-news/donald-trump-is-in-a-hurry-for-peace-in-ukraine-vladimir-putin-is-not-101794279588972.html",
+    "description": "",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.hindustantimes.com/world-news/colombias-trumpian-president-is-taking-no-prisoners-101794279141251.html",
+    "title": "Colombia’s Trumpian president is taking no prisoners",
+    "link": "https://www.hindustantimes.com/world-news/colombias-trumpian-president-is-taking-no-prisoners-101794279141251.html",
+    "description": "",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://astanatimes.com/2026/11/kazakhstan-us-look-to-broaden-trade-and-investment-cooperation-at-business-forum-in-washington/",
+    "title": "Kazakhstan, US Look to Broaden Trade and Investment Cooperation at Business Forum in Washington - The Astana Times",
+    "link": "https://astanatimes.com/2026/11/kazakhstan-us-look-to-broaden-trade-and-investment-cooperation-at-business-forum-in-washington/",
+    "description": "Kazakhstan, US Look to Broaden Trade and Investment Cooperation at Business Forum in Washington  The Astana Times",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "content_6af31de59d304c80500dd04d",
+    "title": "Trump Claims Still-Uncalled Alaska Senate Race Is ’Rigged’",
+    "link": "https://www.forbes.com/sites/maryroeloffs/2026/11/10/trump-claims-still-uncalled-alaska-senate-race-is-rigged/",
+    "description": "With the Alaska Senate race uncalled and Mary Peltola narrowly leading Dan Sullivan, Trump alleges fraud.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6af32415af0b5a518df0b06f/0x0.jpg?width=960",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "content_6af31c024dd753cc5b9e5cd5",
+    "title": "Hegseth Dismisses Impeachment Effort As ‘Political Spectacle’",
+    "link": "https://www.forbes.com/sites/conormurray/2026/11/10/hegseth-dismisses-impeachment-effort-as-political-spectacle/",
+    "description": "Defense Secretary Pete Hegseth dismissed the effort to impeach him as “political spectacle” and “policy disagreements” in a Tuesday morning press conference, defending his actions as “lawful military operations.”",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://www.forbes.com/business/feed/",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6af31c46ea2ba9df64c26551/0x0.jpg?width=960&precrop=1608%2C905%2Cx24%2Cy213",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nakedcapitalism.com/?p=319088",
+    "title": "China Just Upgraded Its Trade Agreement With Peru in Fresh Setback for Washington’s Donroe Doctrine",
+    "link": "https://www.nakedcapitalism.com/2026/11/china-just-upgraded-its-trade-agreement-with-peru-in-yet-another-setback-for-uss-donroe-doctrine.html",
+    "description": "While the US has been largely successful in imposing its security doctrine on vassal states in Latin America, it cannot replace the trade or investment it seeks to destroy.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://www.nakedcapitalism.com/feed"
+  },
+  {
+    "id": "https://www.nakedcapitalism.com/?p=319328",
+    "title": "Representative Thomas Massie Introduces Impeachment Articles Against Pete Hegseth",
+    "link": "https://www.nakedcapitalism.com/2026/11/representative-thomas-massie-introduces-impeachment-articles-against-pete-hegseth.html",
+    "description": "Pete Hegseth, who celebrates maximum lethality, will soon be on the receiving end of a beating. Can he take it as well as he dishes it out?",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://www.nakedcapitalism.com/feed"
+  },
+  {
+    "id": "https://www.fastcompany.com/91639302/pepsico-layoffs-today-jobs-slashed-ceo-wants-to-move-faster",
+    "title": "PepsiCo layoffs: 1,000 jobs reportedly slashed as CEO pushes soda giant to ‘be faster’ and ‘more capable’",
+    "link": "https://www.fastcompany.com/91639302/pepsico-layoffs-today-jobs-slashed-ceo-wants-to-move-faster",
+    "description": "<p class=\"wp-block-paragraph\">November has already been a tough month for layoffs. </p>\n\n\n\n<p class=\"wp-block-paragraph\">In the tech sector, numerous big-name companies, including Amazon, Block, and Squarespace, have <a href=\"https://www.fastcompany.com/91637302/tech-layoffs-nov-2026-update-amazon-canva-block-inc-more\">already cut roles</a> or are planning to. But workplace reductions are not limited to just tech.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Yesterday, soft drink giant PepsiCo, Inc. (Nasdaq: PEP) reportedly announced that it will lay off around 1,000 employees in North America as sales in the region underperform. Here’s what you need to know.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-pepsi-tells-employees-to-prepare-for-job-cuts\">Pepsi tells employees to prepare for job cuts</h2>\n\n\n\n<p class=\"wp-block-paragraph\">PepsiCo CEO Ram Krishnan wrote to employees stating that the company will cut around 1,000 positions in North America in the coming days, multiple media outlets reported.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In the email Krishnan sent to employees (<a href=\"https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html\">per</a> CNBC), the Pepsi boss said the company’s ambitions were to “build a stronger, more future-fit business that delivers industry-leading growth” in North America.</p>\n\n\n\n<p class=\"wp-block-paragraph\">He added: “To do that, we need to be faster, more connected, and more capable, while continuing to invest in growth — behind our people, capabilities and brands.”</p>\n\n\n\n<p class=\"wp-block-paragraph\">Unfortunately, the endeavor also involves layoffs. </p>\n\n\n\n<p class=\"wp-block-paragraph\">“We will simplify how we operate, better connect teams and strengthen the capabilities we need,” Krishnan wrote. “The goal is to move faster, execute better and invest behind the opportunities that will drive our growth.” The <em>Wall Street Journal</em> first <a href=\"https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-09-2026/card/pepsico-is-cutting-around-1-000-jobs-across-north-america-5rZJNkcu4ac56Sg8MkJZ?mod=Searchresults&amp;pos=1&amp;page=1\">reported</a> the layoffs.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The layoffs will be limited to Pepsi’s North American workforce, which includes roughly 125,000 positions in the United States. </p>\n\n\n\n<p class=\"wp-block-paragraph\">Worldwide, Pepsi employs about 306,000 people as of the end of last year. The layoffs will reportedly happen over the coming week.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><em>Fast Company</em> reached out to PepsiCo for comment.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-pepsi-s-north-american-sales-lag-other-global-markets\">Pepsi’s North American sales lag other global markets</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Last month, Pepsi <a href=\"https://investors.pepsico.com/docs/pepsico-5v9wci20/media/Files/investors/q3-2026-earnings-release.pdf\">announced</a> its Q3 2026 financial results, which were broadly respectable. Net revenue increased 5.6%, and operating profit increased 19%. </p>\n\n\n\n<p class=\"wp-block-paragraph\">As CNBC <a href=\"https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html\">reported</a> at the time, the company’s $25.27 billion in revenue for the quarter exceeded street expectations of $24.96 billion, and its adjusted EPS of $2.34 exceeded the $2.29 analysts had expected.</p>\n\n\n\n<p class=\"wp-block-paragraph\">But Pepsi’s relatively positive results largely came from its international markets, which, year-to-date, have accounted for 41% of its net revenue. </p>\n\n\n\n<p class=\"wp-block-paragraph\">In Pepsi’s home territory of North America, things are less rosy.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The North American food division of Pepsi, which includes products like Frito-Lay snacks, saw volume remain flat, while its beverage business volume declined by 2%. </p>\n\n\n\n<p class=\"wp-block-paragraph\">The lackluster results in North America led Pepsi to reduce its core earnings per share expectations for the full 2026 fiscal year. Previously, Pepsi had expected growth of 5% to 7%. Now it expects growth of 2.5% to 3.5%.</p>\n\n\n\n<p class=\"wp-block-paragraph\">When it came to Pepsi’s North American snacks results, the company blamed the lackluster demand on “the consumer environment.”</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-pepsi-stock-loses-its-fizz\">Pepsi stock loses its fizz</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Pepsi’s North American numbers are the only thing going flat. The company’s share price has lost its fizz over the course of 2026.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">PEP stock began the year performing strongly: By late February, shares were up over 20% since the year began. But since a high above $170 reached in early 2026, Pepsi shares have declined significantly.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">As of yesterday’s close, PEP stock traded at $141. While its share price has increased more than 12% over the past 30 days, that recovery has not been enough to erase the mid-year losses. </p>\n\n\n\n<p class=\"wp-block-paragraph\">As of yesterday’s close, PEP shares were down 1.1% for the year. The broader S&amp;P 500 is up more than 10% over that same period.</p>\n\n\n\n<p class=\"wp-block-paragraph\">But if Pepsi executives hoped layoffs could quickly boost the company’s stock price, they’ll be disappointed. While investors tend to cheer layoffs, since cutting jobs is often the easiest way to quickly improve the bottom line, they seem to have shrugged off the news.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Since the job cuts became public yesterday, PEP shares have hardly moved. Yesterday, Pepsi stock closed up just under four-tenths of a percent, and today in premarket trading, shares are up about the same amount as of the time of this writing.</p>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://www.fastcompany.com/latest/rss",
+    "thumbnail": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-1-91639302-pepsi-layoffs.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "6aedf7ae5853bd0fa6811c38",
+    "title": "Changing Our Relationship to Technology Will Require Collective Action",
+    "link": "https://www.newyorker.com/news/fault-lines/changing-our-relationship-to-technology-will-require-collective-action",
+    "description": "Many of us are making individual efforts to use our phones less, or to avoid A.I. But we will need to work together.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://www.newyorker.com/feed/rss",
+    "thumbnail": "https://media.newyorker.com/photos/6af229213dc9f4e1f49aa2f5/master/pass/AI%20Backlash%20Final.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "6af1e64292b8e0649d999d17",
+    "title": "What Is Biography For?",
+    "link": "https://www.newyorker.com/books/page-turner/what-is-biography-for",
+    "description": "In “Transcendence for Beginners,” the philosopher Clare Carlisle suggests that any life, even an ordinary one, is a portal to divinity.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://www.newyorker.com/feed/rss",
+    "thumbnail": "https://media.newyorker.com/photos/6af2263f80c0e7726a3d3c54/master/pass/New-Yorker%20(1).jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:39-689029",
+    "title": "The Lost World of Aquaterra",
+    "link": "https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/",
+    "description": "Most of human history is waiting to be found. And it’s underwater.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/pVUeLGDzDrfYjmdDtLwXk9fOuvk=/0x270:4890x3020/media/img/2026/10/digitalAtlantic_Aquaterra_1st/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/news/2026/nov/10/alien-menace-or-victim-of-xenophobia-the-battle-over-britains-parakeets",
+    "title": "Alien menace or victim of xenophobia? The battle over Britain’s parakeets",
+    "link": "https://www.theguardian.com/news/2026/nov/10/alien-menace-or-victim-of-xenophobia-the-battle-over-britains-parakeets",
+    "description": "<p>Established in UK cities for decades and much loved for their green plumage, the Himalayan birds have been recast as an ecological threat. But is the idea of invasive species itself a problem?</p><p>Before we saw a single parakeet, we heard them: a disembodied static that grew louder as we approached Hither Green cemetery in south-east London. It was an early evening in late June, and we had come to witness an invasion. By the time my friend and I reached the cemetery’s western edge, the clamour was all-encompassing. We hopped the fence and picked our way through the gravestones. Above us now were the birds themselves, their kryptonite-green plumage, scab-red beaks, pearly black collars and trailing tail feathers unmistakable: <em>Psittacula krameri</em>, the ring-necked parakeet.</p><p>Hither Green cemetery hosts one of the city’s largest roosts. Every day at dusk, a sizeable chunk of London’s feral parakeet population returns here, to a specific line of poplars. They like to spend the night in the company of their own kind. We watched them come first in ones and twos, and then in larger chirrupping squadrons. Hundreds of them, and then thousands. At maximum capacity, the trees fizzed. Here was a pandemonium, a parakeet concourse. It gave the impression of community, greeting and conversation. “This,” my friend said, “would make a great cheap first date.”</p> <a href=\"https://www.theguardian.com/news/2026/nov/10/alien-menace-or-victim-of-xenophobia-the-battle-over-britains-parakeets\">Continue reading...</a>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/55c9a3fdc870a8cf846bfc0c8662b40c47ee154c/0_1704_3478_2782/master/3478.jpg?width=700&quality=85&auto=format&fit=max&s=4c23ec47c285ac159dd1dbbc51689c5f",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/10/roma-romany-film-makers-seville-film-festival-showcase",
+    "title": "‘We are human too’: the Roma film-makers striking back at stereotypes",
+    "link": "https://www.theguardian.com/world/2026/nov/10/roma-romany-film-makers-seville-film-festival-showcase",
+    "description": "<p>Seven films in Seville programme highlight how Roma are creating their own narratives</p><p>Growing up in Romania, whenever Alina Șerban spotted Roma people on television or in movies, they were usually cast as villains or depicted as somehow exotic.</p><p>But this week the Romany actor and film-maker is part of a cohort pushing back against this stereotyping, joining forces with Romany film-makers from across Europe in a landmark screening of seven films during the Seville European film festival.</p> <a href=\"https://www.theguardian.com/world/2026/nov/10/roma-romany-film-makers-seville-film-festival-showcase\">Continue reading...</a>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/ee3c24b00708337bae7566335f8f59aaea0af4d1/0_131_540_432/master/540.jpg?width=700&quality=85&auto=format&fit=max&s=0aca0f4485e6a707d5561c760f71c063",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
+    "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
+    "link": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
+    "description": "<p>From the assassinations of her husband and mother-in-law to press stonewalling under Modi, Belonging offers an insider’s account of India’s political evolution</p><p><strong>• </strong><a href=\"https://www.theguardian.com/world/2026/jul/30/sign-up-for-this-is-india-our-free-weekly-newsletter-on-life-in-the-subcontinent\"><strong>Don’t get This is India delivered to your inbox? Sign up here</strong></a></p><p>Few love stories have been as closely entwined with a nation’s history as that of Sonia and Rajiv Gandhi. The former’s much-awaited political memoir, Belonging, offers a strikingly candid account of her journey from a small town in Italy to the highest echelons of power in India – all for love, she says.</p><p>The veteran Congress party leader has been fiercely protective of her personal world. In Belonging, she opens up for the first time about the extraordinary twists and turns of a life that has largely unfolded in full public view. (The Guardian’s Hannah Ellis-Petersen has <a href=\"https://www.theguardian.com/world/2026/nov/07/interview-sonia-gandhi-rajiv-gandhi-assassination-memoir-extract\">a rare in-person interview with Gandhi</a>, and you can read <a href=\"https://www.theguardian.com/world/2026/nov/07/sonia-gandhi-recalls-killing-indira-gandhi-memoir\">an excerpt from the book here</a>.)</p> <a href=\"https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging\">Continue reading...</a>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/d2e894a22b72fea95ed08e3a70d3924f4ca19359/2314_387_3859_3088/master/3859.jpg?width=700&quality=85&auto=format&fit=max&s=7dd07f0727f0c1be9ab03c24a422be67",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/global-development/2026/nov/10/investigation-pulp-company-paraguay-paracel-eucalyptus-plantation",
+    "title": "‘We said no, no, no, but they kept insisting’: the Paraguayan people battling a eucalyptus empire",
+    "link": "https://www.theguardian.com/global-development/2026/nov/10/investigation-pulp-company-paraguay-paracel-eucalyptus-plantation",
+    "description": "<p>It is Paraguay’s largest private investment but local people accuse a forestry giant of ignoring their contamination concerns over its vast plantation</p><p>When Paracel arrived in Tacuarita, an Indigenous community of homes made from planks and plastic sheeting in Paraguay’s poorest region, six years ago, it was a welcome sight. The company improved the dirt roads and dug an electric-powered well, saving villagers a two-mile journey to fetch water from a cattle pond that often made them sick. It also gave dozens of local people forestry jobs.</p><p>“They fulfilled all their promises,” says Florencio Garcete, 55, chief of the Mbya Guaraní community of 211 people.</p> <a href=\"https://www.theguardian.com/global-development/2026/nov/10/investigation-pulp-company-paraguay-paracel-eucalyptus-plantation\">Continue reading...</a>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/4b3ee929df2c0ce5951d5c37cfff1ed117af2b93/491_0_4942_3955/master/4942.jpg?width=700&quality=85&auto=format&fit=max&s=bf79291bf6a1234618313b536b3f2123",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
+    "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
+    "description": "President Claudia Sheinbaum drew a firm line barring U.S. forces from operating on Mexican soil. But in a northern border state, one local partner quietly helped the agency build a foothold.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-mexico-chihuahua01a-photo-gkfw/09int-mexico-chihuahua01a-photo-gkfw-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/americas/pope-leo-argentina-visit-francis.html",
+    "title": "In Argentina, Pope Leo Walks in the Giant Shadow of Francis",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/10/world/americas/pope-leo-argentina-visit-francis.html",
+    "description": "Francis never returned to his home country after becoming pope, but the new pontiff will still be confronted with the overwhelming presence of his predecessor.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=615428",
+    "title": "Bringing Billionaires to Account at the Ballot Box",
+    "link": "https://www.thenation.com/article/politics/billionaire-tax-elon-musk-james-talarico-2026-midterms/",
+    "description": "<p>David Futrelle</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/11/MuskMedal.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>Last week’s midterms were a powerful repudiation of MAGA, but the fight against oligarchy will be a longer struggle.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/politics/billionaire-tax-elon-musk-james-talarico-2026-midterms/\">Bringing Billionaires to Account at the Ballot Box</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/11/MuskMedal.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=614195",
+    "title": "How Did New York Become So Unequal?",
+    "link": "https://www.thenation.com/article/society/mason-williams-city-fortune-new-york-inequality/",
+    "description": "<p>Joshua B. Freeman</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/10/Freeman-Williams-Giuliani-getty.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>A new history of New York examines how it went from a center of social-democratic experiment to one of neoliberal devastation.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/society/mason-williams-city-fortune-new-york-inequality/\">How Did New York Become So Unequal? </a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/10/Freeman-Williams-Giuliani-getty.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=614222",
+    "title": "Rethinking the Early History of North America",
+    "link": "https://www.thenation.com/article/society/peter-mancall-contested-continent-native-history-north-america/",
+    "description": "<p>Ned Blackhawk</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/10/Blackhawk-Mancall-SMITH.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>Peter Mancall’s new book reframes the history of the American continent as a zone of encounters between Native peoples, European empires, and African societies.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/society/peter-mancall-contested-continent-native-history-north-america/\">Rethinking the Early History of North America</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/10/Blackhawk-Mancall-SMITH.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thenation.com/?post_type=article&p=615548",
+    "title": "The Voters Who Saved Democracy Are Being Written Out of the Story",
+    "link": "https://www.thenation.com/article/politics/black-voters-democratic-victories-2026-midterms/",
+    "description": "<p>Tim Wise, Kimberlé Williams Crenshaw</p>\n<div><img alt=\"\" src=\"https://www.thenation.com/wp-content/uploads/2026/11/detroit-voters.jpg\" /></div>\n<div>\n<div class=\"wp-block-the-nation-dek article-title__dek\">\n<p>The media downplayed the importance of Black voters for Democratic victories.</p>\n</div>\n</div>\n<p>The post <a href=\"https://www.thenation.com/article/politics/black-voters-democratic-victories-2026-midterms/\">The Voters Who Saved Democracy Are Being Written Out of the Story</a> appeared first on <a href=\"https://www.thenation.com\">The Nation</a>.</p>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://www.thenation.com/rss/articles",
+    "thumbnail": "https://www.thenation.com/wp-content/uploads/2026/11/detroit-voters.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/opinion/living-with-a-visionary-parkinsons-animation.html",
+    "title": "They Were Married for Decades Before the Parkinson’s Began. Then Came the Visions.",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/10/opinion/living-with-a-visionary-parkinsons-animation.html",
+    "description": "After 50 years of marriage, John found himself caring for his wife, an art curator grappling with Parkinson’s.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.washingtonpost.com/opinions/2026/11/10/norway-rap-duo-karpe-can-teach-america-what-it-means-belong/",
+    "title": "In Norway, two rap stars are showing how immigrants can unite a country",
+    "link": "https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/2026/11/10/norway-rap-duo-karpe-can-teach-america-what-it-means-belong/",
+    "description": "Karpe’s extraordinary success offers a lesson in belonging for a polarized America.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/wpo/combined.xml"
+  },
+  {
+    "id": "https://www.washingtonpost.com/opinions/2026/11/10/trump-others-decry-endless-wars-phrase-is-not-useful/",
+    "title": "‘Endless wars’ is a catchy phrase, not a reason to shift policy",
+    "link": "https://archive.is/o/lkW9s/https://www.washingtonpost.com/opinions/2026/11/10/trump-others-decry-endless-wars-phrase-is-not-useful/",
+    "description": "What counts is not the length of the conflict, but the worthiness of the goals.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/wpo/combined.xml"
+  },
+  {
+    "id": "https://thedispatch.com/article/witkoff-kushner-diplomacy-ukraine-gaza-iran/",
+    "title": "With Witkoff and Kushner, Trump Has Privatized American Foreign Policy - The Dispatch",
+    "link": "https://thedispatch.com/article/witkoff-kushner-diplomacy-ukraine-gaza-iran/",
+    "description": "With Witkoff and Kushner, Trump Has Privatized American Foreign Policy  The Dispatch",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "https://www.nakedcapitalism.com/?p=319329",
+    "title": "Another French Revolution",
+    "link": "https://www.nakedcapitalism.com/2026/11/another-french-revolution.html",
+    "description": "The protests in France are part of the French Revolution tradition. But how much fundamental change is likely?",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://www.nakedcapitalism.com/feed"
+  },
+  {
+    "id": "https://www.fastcompany.com/91623228/electroshock-therapy-history-benefits",
+    "title": "The weird and brilliant innovations that led to electroconvulsive therapy—and the mystery of why it works",
+    "link": "https://www.fastcompany.com/91623228/electroshock-therapy-history-benefits",
+    "description": "<p class=\"wp-block-paragraph\">When I began considering electroconvulsive therapy, better known as electroshock, I assumed the “shock” part referred to the electrical <em>zap</em> you received. An electrode or two on your head. Some doctor pressing a button. A machine buzzed audibly. <em>Zap, zap</em>. You were shocked. Maybe changed forever. Maybe for good, maybe for ill. <em>Zap, zap</em>. Like a ray gun in a dystopian thriller. And no thriller was more dystopian (I flattered myself) than the anxious depression that had me in agony every waking moment.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Before I met those electrodes, accepted them onto my temples and into my life, my doctors gave me some books to read. I learned that most of what I thought I knew about ECT was deeply wrong. The real story was both grislier and more hopeful than you probably know.&nbsp;</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-the-first-shock-treatments-fevers-insulin-and-electrocuted-pigs\">THE FIRST SHOCK TREATMENTS: FEVERS, INSULIN, AND ELECTROCUTED PIGS</h2>\n\n\n\n<p class=\"wp-block-paragraph\">When the Romanian-born psychiatrist Constance Pascal began using the term “shock” (<em>choc</em>) in her psychiatric clinic in France, around 1926, she was referring to physical treatments meant to surprise or disturb the body and brain, restoring the mind to equilibrium. Pascal considered mental illnesses to be a kind of allergic reaction, and she argued that resetting the brain and nervous system would be necessary for recovery. Pascal’s first shock therapies, in the late 1920s, used various means to prompt a reset, including induced fevers. Around the same time, in 1927 Berlin, the neurophysiologist Manfred Sakel was developing a new form of shock treatment in which a patient received potent injections of insulin. At proper doses, Sakel found he could induce a grand mal seizure as the patient came out of a hypoglycemic coma.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Insulin coma therapy produced astonishingly positive results for mood disorders—sometimes. (One famous recipient was the storied mathematician John Nash, who received insulin shocks for schizophrenia in 1961.) But results were markedly uneven. Ladislas Meduna, the Hungarian neuropathologist, shared Pascal’s interest in the possibilities of shock therapies and came to wonder whether seizures might offer a better route to healing.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In autopsies of epileptics, Meduna observed that the brains showed “tremendous changes” that were “just the opposite of those found in schizophrenia” (then a broad term that could encompass depression, schizoaffective disorders, and much more). In particular, Meduna noted that the glia—supportive cells sometimes called the janitors of the brain, whose duties include tending to our neurons—were overproduced in the brain tissue of epileptics, and vastly underrepresented in the cranial autopsies of patients with advanced mood disorders.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Pursuing this apparent antagonism between seizures and psychosis, Meduna introduced a new shock therapy in late 1934, injecting a catatonic patient with camphor, the compound then used in mothballs. Three weeks and five camphor-assisted seizures later, the patient was moving and talking—two things he hadn’t done in four years. Meduna repeated this apparent success with four subsequent patients, sometimes replacing camphor with the synthetic compound pentylenetetrazol, branded as Metrazol or Cardiazol, which achieved a similar convulsion but faster. It was also safer than insulin comas, which carried a real risk of death.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Still, Metrazol had severe drawbacks. One of the biggest was that the chemical seemed to induce feelings of absolute terror in patients before they finally fell into the coma. Not ideal for subjects already managing profound mental disturbances.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Meanwhile, in Italy, they were beginning to practice a new form of shocking the system, one that worked faster and more effectively than insulin or Metrazol—even if no one quite knew <em>how</em> it worked in the first place.</p>\n\n\n\n<p class=\"wp-block-paragraph\">At the Clinic for Nervous and Mental Disorders in Rome, a little after 11 a.m. on April 11, 1938, the neurologist Ugo Cerletti placed a pair of electrodes on the temples of a man identified as “Enrico X.” Cerletti and his colleague, Lucio Bini, used a rubber band to hold the electrodes in place and electrocuted Enrico over a period of months, around 11 times. By the end of his electro-treatments, Signore X, the first ECT patient in history, was apparently recovered. The next month, in a presentation at the Royal Academy of Medicine in Rome, Cerletti and Bini administered an electro-treatment to a patient before an audience. In 1939, Cerletti and Bini coined a verb for what they’d invented: <em>zapare</em>, literally meaning “to zap.”</p>\n\n\n\n<p class=\"wp-block-paragraph\">Even from the start, Cerletti was uneasy about the awesome power he commanded with those two electrodes. “When subjecting unconscious patients to such an extremely violent reaction as these convulsions, I had a sense of illicitness and felt as though I had somehow betrayed these patients,” he recalled later. Though Cerletti didn’t dwell on it, there was also the small matter of Enrico X’s relapse. He ended up readmitted to a psychiatric institution two years later.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Prehuman trials of electroconvulsions give a taste of the freewheeling sensibility that led to the development of electroshock. For example, in order to determine whether epilepsy affected the hippocampus, Cerletti as early as 1933 had sought to induce epilepsy in dogs. To do so he placed two electrodes on each dog, one inside the mouth, the other inside the rectum.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In <em>Shock Therapy</em>, their comprehensive 2007 history of ECT, Edward Shorter and David Healy report with dry understatement: “There was nothing innovative about this as such, and the mortality of the procedure was very high because the current passed through the dog’s heart, disrupting its electrical (pacemaker) activity.” It was an ignoble end for the dogs. For future experiments, Cerletti and Bini began placing the electrodes on a dog’s head, adequately producing a grand mal seizure.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Later, members of the Italian team visited a slaughterhouse in Rome, where dual-electrode stunning was used to render pigs unconscious before slaughter. Bini reported that after the shock, the stunned pigs reliably experienced grand mal seizures. This was precisely the seizure response that the clinicians sought in humans, and, barring extraordinarily high voltages, it carried no threat of death. (That came later, when the meat packers slit the pigs’ throats.)</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-ect-comes-of-age\">ECT COMES OF AGE</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Simply reading about dog rectums and pigs for slaughter, I quickly grasped the enduring stigma associated with ECT from these two details alone.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In a few of the books my doctors had recommended, I read how insulin, Metrazol, and ECT jockeyed for primacy during a period of remarkable change in neuropsychiatry, when physical treatments challenged and then overtook the formerly dominant psychoanalytic model. Then the beginning of World War II cut supply lines, making insulin prohibitively expensive or unavailable in some areas of the globe; ECT was cheaper, safer, and clinically far more attractive than either insulin or Metrazol. The war also emptied parts of Europe, notably Vienna, of many of its psychiatric eminences: Freud moved to England, Meduna went to Chicago, and the Berlin-born psychiatrist Lothar Kalinowsky, who worked on ECT in Rome under Cerletti, decamped to spread the electric gospel in London and then New York.</p>\n\n\n\n<p class=\"wp-block-paragraph\">ECT, then, much like gin or the novel, was born in mainland Europe, refined in England, and naturalized in the States. Many American psychiatrists welcomed the practice. “Coming at a time when war is subjecting the population of the whole world to those intolerable mental strains that precipitate mental disease,” the <em>Science News Letter</em> wrote with excitement in 1940, “this new use of electricity for mental health instead of for death is being enthusiastically welcomed by the medical profession.”</p>\n\n\n\n<p class=\"wp-block-paragraph\">That was the year ECT took America by storm. “In the summer of 1940, the East Coast must have literally buzzed with electricity,” Shorter and Healy write in <em>Shock Therapy</em>. And those who recovered often evangelized. The procedure involved some discombobulation, many patients said, perhaps some memory loss. But it had been undeniably worth it.</p>\n\n\n\n<p class=\"wp-block-paragraph\">At least that was the case for the success stories. There were many others. The asylum era was still chugging along in the 1940s, and asylums were justly feared and hated. Among the inmates, ECT became one more blunt tool for asylum keepers to overuse, at a time when patients had precious few rights. As with fever therapy and hydrotherapy (repeated, prolonged, and often nonconsensual dousing), some asylum doctors in the 1940s and ’50s seem to have taken on ECT as a challenge: <em>How much of this can my patients stand?</em> Bini himself advanced an argument for the <em>metodo dell’annichilimento</em>, or “annihilation therapy,” which required zapping a patient multiple times a day. Other doctors picked up this method with the express purpose of rebuilding the patient’s personality from scratch.</p>\n\n\n\n<p class=\"wp-block-paragraph\">These were tantalizing and terrifying things to read when I was deeply depressed and considering submitting to ECT myself.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-the-modern-softer-side-of-ect\">THE MODERN, SOFTER SIDE OF ECT</h2>\n\n\n\n<p class=\"wp-block-paragraph\">My doctors told me that today’s ECT was quite different. No one was doing annihilation therapy in the U.S. anymore, one said. Plus, modern or “modified” ECT was much more civilized because the electrical pulses were briefer and more targeted, and the doctors gave you anesthesia and muscle relaxers and even an oxygen tube to prevent asphyxia. All the horror stories, my psychiatrist said, dated from the era of “unmodified” ECT. “We’re past the grisly stuff now,” he told me.</p>\n\n\n\n<p class=\"wp-block-paragraph\">But that didn’t make the history any easier to read.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Yes, anesthesia and tranquilizers entered the picture—particularly in 1951, with the introduction of the muscle relaxant succinylcholine, still used in ECT today. But many asylums and hospitals were slow to adopt these new, gentler practices. According to the science journalist and ECT skeptic Robert Whitaker, more than 1 million patients got forced ECT in the 1940s and ’50s. Even kids didn’t escape the electrodes. From 1942 to 1947, Bellevue Hospital in New York treated 98 children, some as young as 4, with a long sequence of ECT treatments.</p>\n\n\n\n<p class=\"wp-block-paragraph\">My heart rate slowed a bit when I read about the softer side of ECT. It’s considered sufficiently gentle to be offered as a first resort for elderly patients who can’t tolerate SSRIs (selective serotonin reuptake inhibitors) or other pharmacological interventions. I was even more surprised to learn that ECT didn’t attain its stigma—its association with persecution and alleged brain damage—until the mid-1960s, thanks in part to emerging psychopharmaceuticals but mainly amid a frantic new campaign to abolish ECT.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-the-campaign-against-ect\">THE CAMPAIGN AGAINST ECT</h2>\n\n\n\n<p class=\"wp-block-paragraph\">The antipsychiatry movement was a coalition between heterodox psychiatrists and members of the New Left. It emerged at a time when the antiauthoritarian ethos of young baby boomers came into conflict with a procedure that recalled the tyranny of asylum medicine. “Shock resonated because, like nuclear energy, [ECT] had the aura of an out-of-control technology imposed by an authoritarian society,” observed the journalist Larry Tye, who, with Kitty Dukakis, authored an illuminating 2006 book about electroshock. By the 1970s, Tye reported, detractors had begun “picket[ing] outside electroshock clinics with signs linking the practitioners to Spanish inquisitor Tomás de Torquemada and Nazi executioner Adolf Eichmann.” The anti-ECT campaign has been vigorous and well funded, thanks not least to munificent contributions from the Church of Scientology, which has also played a central role in organizing.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Accordingly, ECT therapy was severely curtailed in most parts of the country. Numbers are tricky, as there’s no central trove of data, but the most plausible estimate is that the yearly number of ECT patients in the U.S. fell from around 300,000 in the 1950s and ’60s to around 59,000 by 1975; by 1980, that number had dropped further, to around 32,000. “It is as though penicillin had suddenly gone into a decline in the absence of any objective circumstance that might discourage physicians from prescribing it or patients from accepting it,” Shorter and Healy wrote.</p>\n\n\n\n<p class=\"wp-block-paragraph\">One can understand the skepticism. I know I did. But as I read about the campaign to expunge ECT, I wondered whether the problem was a failure to distinguish the baby from the bathwater. It seems statistically undeniable that, during ECT’s period in the wilderness, millions of depressed or bipolar or schizophrenic Americans were functionally denied recourse to ECT. One doctor told me we’d never know how many died because ECT was drummed out of so many American hospitals. ECT’s frequently lurid portrayals in popular culture only bolstered the eye-popping claims of the antipsychiatry camp: ECT turns you into a zombie; it erases your entire memory; it will literally break your back.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I found a few books that mounted a defense of ECT. Sometimes half-apologetic, other times closer to triumphant. I read the Shorter and Healy history, Carrie Fisher’s memoir about electroshock, and Tye’s book with Dukakis, entitled <em>Shock: The Healing Power of Electroconvulsive Therapy</em>. (“In some ways ECT is less traumatic for me than going to the dentist, and certainly less frightening than the root canal,” Dukakis wrote.)</p>\n\n\n\n<p class=\"wp-block-paragraph\">But when I tried to find some authoritative consensus about memory loss, I kept meeting a chorus of contradiction from the medical literature. Some doctors said memory loss would be mild; others said it could be “more pronounced” (than what?); but the third and loudest group said that memory loss was a canard, a talking point for antipsychiatrists, adding that most patients reported few to no cognitive problems. When I went online to eavesdrop on patient forums, the consensus was clearer: Memory loss is very, very real.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I’m only speculating here, but I do wonder whether, in their zeal to defend a lifesaving treatment from demagogic skeptics, some ECT advocates may have pushed back with their own immoderate claims. Whatever the cause, it’s a strange experience to have different doctors tell you different things about what’s about to happen to your memory. It’s even stranger when, after a few treatments, you can’t quite remember which doctor told you what.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-generating-new-neurons-and-often-hope\">GENERATING NEW NEURONS (AND OFTEN HOPE)</h2>\n\n\n\n<p class=\"wp-block-paragraph\">The most baffling, endlessly intriguing questions about ECT are how and why it works. Physicians since ancient times have recorded the sometimes salutary effects of seizures on certain forms of mental illness, yet even today we don’t know precisely why a given brain is happier, or clearer, or calmer, following a few seizures. There’s an old saw comparing ECT to aspirin: <em>We don’t know how it works, but it works magnificently</em>. Still, a few general ideas about the mechanism of ECT are widely accepted.</p>\n\n\n\n<p class=\"wp-block-paragraph\">During the seizure, affected neurons all fire at the same time, several times per second. Some doctors refer to this effect as the brain “resetting” itself. As a result of this firing, the brain releases a welcome surplus of neurohormones such as norepinephrine and neurotransmitters such as dopamine. The most intriguing recent account for ECT’s high rate of response—often reported at around 75% to 80% for major depressives who’ve failed to find relief with pharmacology—is that the release of these brain chemicals can stimulate neural growth across various regions of the brain. Per brain imaging, just a few ECT treatments are often enough to spur visible volume increases in multiple cortical regions, not least in the hippocampus, the area of the brain that is prey to atrophy during major depression and other maladies, including addiction, certain schizoaffective disorders, dementia, and Alzheimer’s.</p>\n\n\n\n<p class=\"wp-block-paragraph\">ECT’s demonstrated neurogenetic properties offer a compelling explanation for why the treatment remains a most effective antidepressant. That the brain grows and shows markedly more, and more regular, activity after ECT treatment is potentially confusing to lay­ people, many of whom take the treatment to be inherently damaging—­“scarring” is the preferred participle among the skeptics, as though doctors have applied a knife or a white-hot poker to your brain. Of course, surprisingly little electricity goes through you; not enough to singe or scar. Comparisons are tricky, because the human machine and, say, the refrigerator require different currents, but the amount of energy that zaps you during a single ECT session is mercifully modest—perhaps the equivalent of charging your phone by 1% or powering a lightbulb for a few seconds.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Discoveries about hippocampal growth after ECT are straightforwardly exciting. For those of us who grew up in the 1980s and ’90s, the essential unrecuperability of brain cells and memories was treated as a basic fact in “just say no”–style antidrug campaigns and even biology class. That was all wrong, even then. Neurogenesis had been established in small mammals and birds by the 1980s, while in the 1990s, we discovered that the human brain has its own stem cells—pluripotent little guys that can become new neurons, sometimes creating new connections that support neuroplasticity, as well as fresh glial cells to clean and maintain the brain’s circuits.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Still, certain disagreements persist. Some of the keenest students and proponents of ECT believe the seizure is the crucial mechanism, while other experts argue it’s the body’s postseizure response that hits the reset button, rather than the seizure itself. If the latter group is right, that opens the intriguing possibility that future advances in brain imaging and brain stimulation might reveal a gentler shortcut toward triggering an anticonvulsive response, hypergenerating these chemicals, and reinvigorating the hippocampus and its neighbors, all without the dreaded seizure.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Regardless, ECT remains the nuclear power of psychiatric treatment: much maligned, often misused, yet sturdy and powerful, the gold standard that we’ve somehow disowned. Among latter-day electrical treatments, which include transcranial magnetic stimulation and vagus nerve stimulation, none thus far has shown the efficacy of modern ECT. Particularly for acute cases—people who might not have the time to wait for another drug to work or not to work—ECT is unmatched.</p>\n\n\n\n<p class=\"wp-block-paragraph\">It could also be on the verge of becoming much more effective. Cutting-edge research into ultrabrief pulses and hypertargeted forms of the treatment offer the tantalizing possibility that future patients might receive greater benefits with fewer side effects. But we’re <a href=\"https://www.nature.com/articles/s41380-025-03327-z\">not there yet</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">There are, of course, legitimate lines of skepticism. Some skeptics raise reasonable methodological points. For example, while we can draw on various controlled trials into ECT’s efficacy, placebo-controlled trials—in which a control group undergoes a sham version of the treatment—are rare, largely because they raise major ethical concerns. (Fooling a depressive into thinking he’s had a seizure is both tricky and mean.)</p>\n\n\n\n<p class=\"wp-block-paragraph\">The other major concerns involve consent and side effects. <a href=\"https://www.theguardian.com/science/2025/nov/20/depression-electroconvulsive-therapy-adverse-effects-study\">In the U.K.</a>, for example, there are complaints that some older patients, especially women, have received ECT against their will, and that doctors have minimized side effects, leaving patients shaken when they discover unexpected memory deficits.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Today, the anti-ECT movement is gaining ground again. In the U.S., opponents have once again taken to the courts, where litigation over undisclosed risks helped push <a href=\"https://psychiatryonline.org/doi/10.1176/appi.ps.20240518\">one manufacturer</a> of ECT machines into bankruptcy in 2021. A separate lawsuit produced a 2026 settlement from two psychiatrists accused of understating potential harms.</p>\n\n\n\n<p class=\"wp-block-paragraph\">As a journalist rather than a researcher, all I can say with certainty is what I&#8217;ve seen empirically in myself and other patients: ECT can have miraculous-seeming positive effects for the deeply depressed. It also verifiably inhibits the consolidation of more recent memories. My treatment was voluntary, and I lost access to more of the previous months than I’d been prepared for. What I got in exchange, though, was real healing; slow at first, then undeniable. Without ECT, I could’ve harmed myself and continued courting death. Instead, I returned to life in all its mess and splendor. Historically, ECT has indeed been much abused. But among the many ways to abuse ECT is withholding it from a patient whose life it could save.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p class=\"wp-block-paragraph\"><em>Excerpted from&nbsp;</em><a href=\"https://www.simonandschuster.com/books/Jolt/Ted-Scheinman/9781668075593\" rel=\"noopener\" target=\"_blank\"><em>Jolt: My Electric Journey Out of Darkness</em></a><em>&nbsp;by Ted Scheinman. Published by Simon &amp; Schuster. Copyright © 2026 by <em>Ted Scheinman</em>. All rights reserved.</em></p>\n\n\n\n<p class=\"wp-block-paragraph\"></p>",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://www.fastcompany.com/latest/rss",
+    "thumbnail": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-2-91623228-electroshock-therapy-history-benefits.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "1135748",
+    "title": "The Luxury of Children",
+    "link": "https://www.foreignaffairs.com/united-states/luxury-children",
+    "description": "Why the baby bust is making the world more unequal.",
+    "published": "Tue, 10 Nov 2026 21:51:22 +0600",
+    "source": "https://www.foreignaffairs.com/rss.xml"
   }
 ]
