@@ -301926,5 +301926,369 @@
     "description": "Hackers have released records they claim are from Russia’s statistics agency",
     "published": "Wed, 11 Nov 2026 07:30:10 +0600",
     "source": "https://evilgodfahim.github.io/eco/combined.xml"
+  },
+  {
+    "id": "https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/",
+    "title": "House Blocks Hegseth Impeachment, but Democrats Could Revive Effort",
+    "link": "https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/",
+    "description": "The House voted 211-204 to defeat a resolution brought by Rep. Thomas Massie",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/tm/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd?syn-25a6b1a6=1",
+    "title": "FirstFT: Anthropic bankers prepare to increase IPO valuation to $1.5tn",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd?syn-25a6b1a6=1",
+    "description": "Also in today’s newsletter: Nvidia spy scandal and Franco-German nuclear defence",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f?syn-25a6b1a6=1",
+    "title": "Europe’s struggle to compete with China ramps up",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f?syn-25a6b1a6=1",
+    "description": "Some companies are thriving, but many are protesting against ‘dumping’",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/65c4793e-343b-4fe7-921a-f7150b080a0c",
+    "title": "‘Treasure trove’ of manufacturing data to power German AI",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/65c4793e-343b-4fe7-921a-f7150b080a0c",
+    "description": "Mittelstand companies’ years of accumulated experience could provide them with an edge",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/1b40f4ea-d44b-4587-9326-8a98c9aad166?syn-25a6b1a6=1",
+    "title": "Europe’s tech ambition risks greater reliance on the US",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/1b40f4ea-d44b-4587-9326-8a98c9aad166?syn-25a6b1a6=1",
+    "description": "US companies dominate critical distribution channels such as operating systems, browsers and search engines",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244?syn-25a6b1a6=1",
+    "title": "Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244?syn-25a6b1a6=1",
+    "description": "A suspected Chinese spy and Singaporean chip deal reveal the Asian networks testing Washington’s grip on AI technology",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/599932b7-a548-4d45-8ba4-70bdb8d14565?syn-25a6b1a6=1",
+    "title": "Banks turn to credit insurance as they hit limits on lending to AI boom",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/599932b7-a548-4d45-8ba4-70bdb8d14565?syn-25a6b1a6=1",
+    "description": "Barclays, HSBC and JPMorgan Chase among lenders to explore or make use of product to free up capacity",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/efd7f5d4-acd8-42a2-b5c7-2b687938dca2",
+    "title": "UK rates might need to fall far and fast in the future",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/efd7f5d4-acd8-42a2-b5c7-2b687938dca2",
+    "description": "Two tectonic shifts in the mortgage market are changing the way monetary policy works",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/e7697dda-888a-407e-82b1-f2bfc0b9f8ed",
+    "title": "Kyiv hit by water shortages as Russia targets Ukrainian infrastructure",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/e7697dda-888a-407e-82b1-f2bfc0b9f8ed",
+    "description": "Moscow aims to use drones and missiles to make capital ‘unlivable’, say officials",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/5263808c-e8ac-44b8-baa3-af7e8c788684?syn-25a6b1a6=1",
+    "title": "France and Belgium fall foul of Eurozone bond market’s new divide",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/5263808c-e8ac-44b8-baa3-af7e8c788684?syn-25a6b1a6=1",
+    "description": "Global sell-off during Iran war has prompted investors to zero in on new group of Eurozone countries facing debt challenges",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
+    "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
+    "link": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
+    "description": "<p>Thinktank Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economy</p><p>The Bank of England is risking higher interest rates for longer after a <a href=\"https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years\">hesitant response to rising inflation</a>, according to leading thinktank.</p><p>In a searing critique of the central bank’s tactics, the National Institute of Economic and Social Research (Niesr) said a timid increase in interest rates last week was likely to mean inflation staying above the Bank’s 2% target until at least 2030.</p> <a href=\"https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer\">Continue reading...</a>",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/d95248c61fe05660dc1c266c9aace74161f87b00/900_676_4076_3263/master/4076.jpg?width=700&quality=85&auto=format&fit=max&s=685accf3ace22b11d2ed9ea0f94d59d8",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+    "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+    "description": "<p>Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over edit</p><p>Federal judge Jeffrey T Kuntz ruled on Tuesday that Donald Trump’s lawsuit against the BBC can proceed, denying in part the British broadcaster’s motion to dismiss the case. The president’s $10bn defamation lawsuit stems from the BBC’s splicing together of disparate comments he made before the 6 January US Capitol insurrection, as rendered in a Panorama documentary called Trump: A Second Chance.</p><p>“Accepting the allegations in the complaint as true, the Court finds Trump plausibly pled damages where Trump alleges a defamatory documentary released toward the election caused reputational harm,” the Trump-appointed Florida district court judge wrote. “It would be difficult for the Court to accept a different framing without completely negating the significance and fragility of political elections.”</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed\">Continue reading...</a>",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/456a998e975976898ff984ee0e99403b099a5195/238_0_2524_2020/master/2524.jpg?width=700&quality=85&auto=format&fit=max&s=ef0517a0d2cfb9ba604c29940d34eaad",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+    "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
+    "link": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+    "description": "<p>Charities warn of lack of protection amid health fears for more than 940,000 displaced people living in flood-prone areas</p><p>Tens of thousands of Palestinians have been left in waterlogged and damaged tents after deadly storms at the weekend, while 150,000 new shelters are held outside Gaza awaiting Israeli approval to enter, aid agencies have said.</p><p>At <a href=\"https://www.theguardian.com/world/video/2026/nov/09/four-killed-in-sand-embankment-collapse-in-gaza-video\">least four Palestinian children</a> and woman were killed as <a href=\"https://www.theguardian.com/world/gallery/2026/nov/08/heavy-rain-floods-displaced-families-tents-gaza-in-pictures\">heavy rains and wind</a> battered fragile, leaky tents. Thousands have been left without shelter and sanitation infrastructure has been destroyed, with sewage spewing into people’s tents.</p> <a href=\"https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood\">Continue reading...</a>",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/09ed02ace6dac194c648de150485e68fa9c38bbb/294_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=042f71b09dfd42e2d2b2d1e50adcae5d",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+    "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+    "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+    "description": "<p>Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effort</p><p>Ukraine says it has captured its first Indonesian prisoner of war, amid what it says is a spike in recruitment by Russia from the south-east Asian nation.</p><p>The 49-year-old man from Java was taken to Ukraine’s Zaporizhzhia region to take part in a Russian assault, but managed to reach Ukrainian-held territory after the group came under drone attack, according to Ukraine’s state-run I Want to Live project. He was then captured by the Ukrainians.</p> <a href=\"https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia\">Continue reading...</a>",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/65096d4645f0ba893acee8e385a8a46095fb0391/1113_504_4209_3367/master/4209.jpg?width=700&quality=85&auto=format&fit=max&s=b376aecd7ef2ed0f0cc65b346eb8ce16",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
+    "title": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
+    "description": "The Iranian immigrants in the plane were scheduled to be flown to Pakistan and then transferred to Iran, lawyers for the group said.",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-iran-1-bqkj/10int-iran-1-bqkj-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/business/energy-oil/trumps-plan-to-import-russian-diesel-stalls-on-the-high-seas-a5b26b66?mod=rss_worldnews",
+    "title": "Trump’s Plan to Import Russian Diesel Stalls on the High Seas",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/business/energy-oil/trumps-plan-to-import-russian-diesel-stalls-on-the-high-seas-a5b26b66?mod=rss_worldnews",
+    "description": "Several fuel tankers bound for the U.S. shifted course following difficulties finding buyers willing to accept the cargoes.",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-51559097",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "GaACHrWVT4FYxGtNJSj2XF",
+    "title": "A bird flu outbreak at a Utah mink farm could be a public health crisis",
+    "link": "https://theweek.com/health/a-bird-flu-outbreak-at-a-utah-mink-farm-could-be-a-public-health-crisis",
+    "description": "The animals have lungs similar to humans",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://theweek.com/rss.xml",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/4oxhnEgzv8rDJe48jDVdQT-1920-80.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/82e207f8-76ea-4627-bd6e-ffdf032a4de2?syn-25a6b1a6=1",
+    "title": "Italy’s penchant for bank meddling bites back",
+    "link": "https://archive.is/qWySo/https://www.ft.com/content/82e207f8-76ea-4627-bd6e-ffdf032a4de2?syn-25a6b1a6=1",
+    "description": "Coveted takeover target Banco BPM may end up under French control",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/fto/combined.xml"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/california-wealth-tax-prop-40-loses-f9608e78",
+    "title": "The California Wealth Tax Goes Down",
+    "link": "https://archive.is/o/vL57B/https://www.wsj.com/opinion/california-wealth-tax-prop-40-loses-f9608e78",
+    "description": "Voters decided they wouldn’t adopt French socialist economics.",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/wsjop/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-65901138",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.channelnewsasia.com/east-asia/north-korea-hacker-binance-crypto-theft-heist-6541766",
+    "title": "How hacking became a key weapon for sanctions-hit North Korea",
+    "link": "https://www.channelnewsasia.com/east-asia/north-korea-hacker-binance-crypto-theft-heist-6541766",
+    "description": "",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://sputnikglobe.com/20261111/us-china-launch-new-ai-dialogue---treasury-secretary-1125047563.html",
+    "title": "US, China Launch New AI Dialogue - Treasury Secretary",
+    "link": "https://sputnikglobe.com/20261111/us-china-launch-new-ai-dialogue---treasury-secretary-1125047563.html",
+    "description": "",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.hindustantimes.com/world-news/el-salvador-s-president-thinks-he-can-eliminate-haiti-s-gangs-101794365293043.html",
+    "title": "El Salvador’s president thinks he can eliminate Haiti’s gangs",
+    "link": "https://www.hindustantimes.com/world-news/el-salvador-s-president-thinks-he-can-eliminate-haiti-s-gangs-101794365293043.html",
+    "description": "",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.scmp.com/news/china/diplomacy/article/3374003/china-russia-and-us-try-nail-down-ai-nuclear-agenda-time-apec-talks",
+    "title": "Exclusive | China, Russia and US try to nail down AI nuclear agenda in time for Apec talks - South China Morning Post",
+    "link": "https://www.scmp.com/news/china/diplomacy/article/3374003/china-russia-and-us-try-nail-down-ai-nuclear-agenda-time-apec-talks",
+    "description": "Exclusive | China, Russia and US try to nail down AI nuclear agenda in time for Apec talks  South China Morning Post",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/fpolicy/feed/geopolitics.xml"
+  },
+  {
+    "id": "https://foreignpolicy.com/?p=1245843",
+    "title": "Indonesia’s Wiretap Scandal Heralds a Political Showdown",
+    "link": "https://foreignpolicy.com/2026/11/11/indonesia-wiretap-prabowo-police-chief/",
+    "description": "A former chief of police has been arrested for spying on the president.",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://foreignpolicy.com/feed/",
+    "thumbnail": "https://foreignpolicy.com/wp-content/uploads/2026/11/indonesia-police-GettyImages-2297461441.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.businessinsider.com/ai-boom-investment-returns-risks-infrastructure-technology-outpacing-buildout-2026-11",
+    "title": "The race to build AI's future could leave investors holding yesterday's bets",
+    "link": "https://www.businessinsider.com/ai-boom-investment-returns-risks-infrastructure-technology-outpacing-buildout-2026-11",
+    "description": "The technology is evolving so quickly that today's investments could be overtaken before they pay off.",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://feeds2.feedburner.com/businessinsider",
+    "thumbnail": "https://i.insider.com/6adf1438ab741a2ebdf11315?format=jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://time.com/article/2026/11/10/hegseth-could-be-the-third-cabinet-secretary-to-be-impeached/",
+    "title": "Hegseth Could Still Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?",
+    "link": "https://time.com/article/2026/11/10/hegseth-could-be-the-third-cabinet-secretary-to-be-impeached/",
+    "description": "",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/tm/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.ft.com/video/ab1f8ebe-6db2-439c-bc65-7293523a795d?syn-25a6b1a6=1",
+    "title": "Inside Ken Griffin's Miami",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/video/ab1f8ebe-6db2-439c-bc65-7293523a795d?syn-25a6b1a6=1",
+    "description": "The FT's Jill Shah visits Miami to see what happens when a billionaire uses his fortune to shape a city",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.ft.com/content/d42f1b8e-42ea-4018-8d1c-5d9c85a7fbc4?syn-25a6b1a6=1",
+    "title": "The rich find ways to escape climate change. Their emissions have not.",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/d42f1b8e-42ea-4018-8d1c-5d9c85a7fbc4?syn-25a6b1a6=1",
+    "description": "Growing body of research shows the contribution to greenhouse gases between wealthy and poor varies greatly even within nations",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel",
+    "title": "Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge",
+    "link": "https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel",
+    "description": "<p>Independent Israeli professor says Hussam Abu Safiya’s life will be at risk until he receives proper medical treatment</p><p>An independent professor who reviewed the medical records of a prominent Gaza doctor held in an Israeli prison without charge for nearly 23 months has raised serious concerns about his health.</p><p>Hussam Abu Safiya was detained at work on 27 December 2024 and later held in solitary confinement at Rakefet, a <a href=\"https://www.theguardian.com/world/2025/nov/08/israel-underground-jail-rakefet-palestinians-gaza-detainees\">notorious underground</a> prison.</p> <a href=\"https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel\">Continue reading...</a>",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/699ecf5dbdf9a9dfda3616624a11e0ef11142ff2/560_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=1be8d0bf4d1de2424fad46f60772243c",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.theguardian.com/commentisfree/2026/nov/11/donald-trump-sell-out-ukraine-europe-leaders",
+    "title": "Trump could be about to sell out Ukraine. Europe must get its act together, fast | Paul Taylor",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/11/donald-trump-sell-out-ukraine-europe-leaders",
+    "description": "<p>A deal giving Moscow a slice of Ukrainian territory and sanctions relief could be on the table in weeks – yet European leaders are busy squabbling</p><p>Donald Trump has lost substantial power over domestic policy after last week’s devastating midterm losses, but his ability to cement his legacy by upending US foreign policy remains largely intact.</p><p>There is every reason to fear a ”great betrayal” of Ukraine in the coming weeks, one that would reward Vladimir Putin for Russia’s war of aggression against Kyiv, and also do lasting damage to the European security order. Yet lilliputian European leaders are too busy <a href=\"https://www.euronews.com/2026/11/05/italian-pm-slams-eus-fragmented-approach-to-ukraine-peace-talks\">squabbling </a>over who should represent them in future <a href=\"https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks\">peace talks</a> to focus on how to prevent a sellout. Despite fundamental European interests being at stake in this week’s three-way US-Russia-Ukraine negotiations in Abu Dhabi, Europe is relegated to a side room, represented by a posse of officials from the UK, France, Germany, the EU and Nato.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/nov/11/donald-trump-sell-out-ukraine-europe-leaders\">Continue reading...</a>",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/075ec7980c878b7583f71144baf98eec30d2da5a/1315_19_2223_1778/master/2223.jpg?width=700&quality=85&auto=format&fit=max&s=2eeb16c47eed809f853b52c84469c714",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.newstatesman.com/?p=539899",
+    "title": "Sex, spies, and semiconductors: what the Nvidia affair means",
+    "link": "https://www.newstatesman.com/world/2026/11/sex-spies-and-semiconductors-what-the-nvidia-affair-means",
+    "description": "The most powerful man in AI has been having an affair with a suspected Chinese spy",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://www.newstatesman.com/feed"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/both-parties-were-wrong-on-gerrymanders-14144e1b",
+    "title": "Both Parties Were Wrong on Gerrymanders",
+    "link": "https://archive.is/o/vL57B/https://www.wsj.com/opinion/both-parties-were-wrong-on-gerrymanders-14144e1b",
+    "description": "And Democrats owe the Supreme Court another apology.",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/wsjop/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-11500292",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.middleeasteye.net/live-blog/live-blog-update/analysis-changing-face-israels-ultra-orthodox-politics",
+    "title": "Analysis: The changing face of Israel’s ultra-Orthodox politics",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/analysis-changing-face-israels-ultra-orthodox-politics",
+    "description": "",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.hindustantimes.com/world-news/our-analysis-of-the-leaked-russian-death-toll-in-ukraine-101794364395566.html",
+    "title": "Our analysis of the leaked Russian death toll in Ukraine",
+    "link": "https://www.hindustantimes.com/world-news/our-analysis-of-the-leaked-russian-death-toll-in-ukraine-101794364395566.html",
+    "description": "",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.hindustantimes.com/world-news/inside-america-s-first-new-submarine-base-abroad-for-53-years-101794366782560.html",
+    "title": "Inside America’s first new submarine base abroad for 53 years",
+    "link": "https://www.hindustantimes.com/world-news/inside-america-s-first-new-submarine-base-abroad-for-53-years-101794366782560.html",
+    "description": "",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.hindustantimes.com/world-news/europe-has-been-living-beyond-its-means-now-the-bills-are-due-101794365205082.html",
+    "title": "Europe has been living beyond its means. Now the bills are due",
+    "link": "https://www.hindustantimes.com/world-news/europe-has-been-living-beyond-its-means-now-the-bills-are-due-101794365205082.html",
+    "description": "",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/intop/filtered.xml"
+  },
+  {
+    "id": "https://www.entrepreneur.com/business-news/the-great-wealth-transfer-is-about-more-than-money-heres-whats-being-overlooked",
+    "title": "The Great Wealth Transfer Is About More Than Money. Here’s What’s Being Overlooked.",
+    "link": "https://www.entrepreneur.com/business-news/the-great-wealth-transfer-is-about-more-than-money-heres-whats-being-overlooked",
+    "description": "We’re talking about the Great Wealth Transfer too narrowly. Here's why millions of heirs are looking to value and sell inherited jewelry.",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://www.entrepreneur.com/latest.rss",
+    "thumbnail": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/wealth-transfer-jewelry-1126_g1485992005.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thediplomat.com/2026/11/beyond-a-taiwan-blockade-the-strategic-implications-behind-the-plas-silent-military-exercise/",
+    "title": "Beyond a Taiwan Blockade: The Strategic Implications Behind the PLA’s ‘Silent Military Exercise’",
+    "link": "https://archive.is/o/5WQRS/https://thediplomat.com/2026/11/beyond-a-taiwan-blockade-the-strategic-implications-behind-the-plas-silent-military-exercise/",
+    "description": "The PLA is practicing is how to disperse its naval forces, evade surveillance and reconnaissance by the U.S. and neighboring countries, and break through into the Western Pacific.",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/diplo/combined.xml",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2018/06/thediplomat-1200px-aircraft_carrier_liaoning_cv-16.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thediplomat.com/2026/11/what-the-faaz-missile-means-for-pakistans-air-force/",
+    "title": "What the Fa’az Missile Means for Pakistan’s Air Force",
+    "link": "https://archive.is/o/5WQRS/https://thediplomat.com/2026/11/what-the-faaz-missile-means-for-pakistans-air-force/",
+    "description": "Pakistan's first homegrown air-to-air beyond visual range missile ensures a more robust response in future aerial clashes with India.",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/diplo/combined.xml",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-11-034627.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thediplomat.com/2026/11/stablecoin-interlinkages-between-asia-and-latin-america/",
+    "title": "Stablecoin Interlinkages Between Asia and Latin America",
+    "link": "https://archive.is/o/5WQRS/https://thediplomat.com/2026/11/stablecoin-interlinkages-between-asia-and-latin-america/",
+    "description": "Insights from Maggie Wu.",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/diplo/combined.xml",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-11-030912-rotated.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thediplomat.com/2026/11/there-and-back-again-a-solomon-islands-tale/",
+    "title": "There and Back Again: A Solomon Islands Tale",
+    "link": "https://archive.is/o/5WQRS/https://thediplomat.com/2026/11/there-and-back-again-a-solomon-islands-tale/",
+    "description": "Over 15 years, Honiara has transformed into a staging ground for geopolitical competition, with more foreign money than ever. Yet many of the problems facing ordinary Solomon Islanders remain remarkably unchanged.",
+    "published": "Wed, 11 Nov 2026 14:19:30 +0600",
+    "source": "https://evilgodfahim.github.io/diplo/combined.xml",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-11-030129.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
