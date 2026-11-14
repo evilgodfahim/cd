@@ -4,25 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: international affairs and Bangladesh news</description>
-    <lastBuildDate>Sat, 14 Nov 2026 19:59:59 +0000</lastBuildDate>
-    <item>
-      <title>Breaking the Decade-Long Trump Fever</title>
-      <link>https://www.newyorker.com/magazine/2026/11/16/breaking-the-decade-long-trump-fever</link>
-      <guid isPermaLink="false">6aee55bd6005a684a692d91c</guid>
-      <description>The President’s unique brand of lurid authoritarianism has finally lost appeal, and he has lost the plot.</description>
-      <pubDate>Sat, 07 Nov 2026 21:38:03 +0600</pubDate>
-      <media:thumbnail url="https://media.newyorker.com/photos/6aee79600572b1f7b0d79c1a/master/pass/newyorker_comment_The%20Fever%20Breaks_final.jpg" />
-      <enclosure url="https://media.newyorker.com/photos/6aee79600572b1f7b0d79c1a/master/pass/newyorker_comment_The%20Fever%20Breaks_final.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>MAPPED: How dozens of bomb threats caused flight chaos in Europe this week</title>
-      <link>https://www.businessinsider.com/airline-bomb-threats-flight-chaos-europe-jets-scrambled-hybrid-warfare-2026-11</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/airline-bomb-threats-flight-chaos-europe-jets-scrambled-hybrid-warfare-2026-11</guid>
-      <description>Whether the "malicious hoax threats" are linked and who they came from aren't clear, but analysts have some ideas.</description>
-      <pubDate>Sat, 07 Nov 2026 21:38:03 +0600</pubDate>
-      <media:thumbnail url="https://i.insider.com/6aedeaa380d4b24f18346dfb?format=jpeg" />
-      <enclosure url="https://i.insider.com/6aedeaa380d4b24f18346dfb?format=jpeg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Sat, 14 Nov 2026 23:51:31 +0000</lastBuildDate>
     <item>
       <title>4 stats show just how ugly things got for markets this week</title>
       <link>https://www.businessinsider.com/stock-market-ai-selloff-worst-since-2025-chart-2026-11</link>
@@ -4422,6 +4404,20 @@
       <pubDate>Sun, 15 Nov 2026 01:59:48 +0600</pubDate>
       <media:thumbnail url="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/11/microsoft_outage-featured.jpg" />
       <enclosure url="https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/11/microsoft_outage-featured.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory</title>
+      <link>https://archive.is/o/A5nuz/https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/</guid>
+      <description>At peace talks this week, Russia returned to hard-line ultimatums the Kremlin issued to NATO and the U.S. before its invasion of Ukraine in 2022.</description>
+      <pubDate>Sun, 15 Nov 2026 05:51:19 +0600</pubDate>
+    </item>
+    <item>
+      <title>Saudi Foreign Minister Arrives in Brussels for EU Foreign Affairs Council - https://houseofsaud.com/</title>
+      <link>https://houseofsaud.com/saudi-fm-brussels-eu-fac-nov14/</link>
+      <guid isPermaLink="true">https://houseofsaud.com/saudi-fm-brussels-eu-fac-nov14/</guid>
+      <description>Saudi Foreign Minister Arrives in Brussels for EU Foreign Affairs Council  https://houseofsaud.com/</description>
+      <pubDate>Sun, 15 Nov 2026 05:51:19 +0600</pubDate>
     </item>
   </channel>
 </rss>
