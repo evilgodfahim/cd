@@ -4,62 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Mon, 16 Nov 2026 20:57:15 +0000</lastBuildDate>
-    <item>
-      <title>When Bob Dylan Met the Pope</title>
-      <link>https://www.theatlantic.com/culture/2026/11/bob-dylan-pope-leo/689314/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-689314</guid>
-      <description>The image of their encounter at the Vatican is funny—but these two make some sense together.</description>
-      <pubDate>Fri, 06 Nov 2026 04:39:18 +0600</pubDate>
-      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/hwS1snesvos-h7nenTAh5_ESHTY=/media/img/mt/2026/11/2026_11_05_Close_Read_of_the_Bob_Dylan_Pope_Leo_Photo_Gal_Beckerman/original.jpg" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/hwS1snesvos-h7nenTAh5_ESHTY=/media/img/mt/2026/11/2026_11_05_Close_Read_of_the_Bob_Dylan_Pope_Leo_Photo_Gal_Beckerman/original.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How Did Nathan Fielder Pull This Off?</title>
-      <link>https://www.theatlantic.com/newsletters/2026/11/you-can-see-everything-biggest-documentary-video-village/689305/</link>
-      <guid isPermaLink="false">tag:theatlantic.com,2026:50-689305</guid>
-      <description>The most surprising thing about the fall’s must-see film isn’t its twist.</description>
-      <pubDate>Fri, 06 Nov 2026 04:39:18 +0600</pubDate>
-      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/BzKcQPh6l3nUehBdEcuZpZYtApA=/media/newsletters/2026/11/Video_Village_004_final/original.jpg" />
-      <enclosure url="https://cdn.theatlantic.com/thumbor/BzKcQPh6l3nUehBdEcuZpZYtApA=/media/newsletters/2026/11/Video_Village_004_final/original.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>La Bola Negra — love, loss and Lorca coalesce in an Oscar-tipped Spanish civil war epic</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/80c7a973-1c42-44f6-a4e8-aa1df55e9b2a</link>
-      <guid isPermaLink="true">https://www.ft.com/content/80c7a973-1c42-44f6-a4e8-aa1df55e9b2a</guid>
-      <description>One of the playwright’s unfinished works drives a multi-stranded film spanning tragedy, buried gay history and a Penélope Cruz cabaret</description>
-      <pubDate>Fri, 06 Nov 2026 04:39:18 +0600</pubDate>
-    </item>
-    <item>
-      <title>Inside America’s vicious rejection of Trump and his Republicans</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/cd5db03d-0b56-4064-b009-3fb163a0cb30?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/cd5db03d-0b56-4064-b009-3fb163a0cb30?syn-25a6b1a6=1</guid>
-      <description>Also in today’s newsletter, what’s next for Democrats as they look to reshape the US?</description>
-      <pubDate>Fri, 06 Nov 2026 04:39:18 +0600</pubDate>
-    </item>
-    <item>
-      <title>Crude awakening: how oil has fuelled 150 years of conflict</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/9c6a400c-2207-4b68-8fda-080f1cc30260</link>
-      <guid isPermaLink="true">https://www.ft.com/content/9c6a400c-2207-4b68-8fda-080f1cc30260</guid>
-      <description>From the earliest commercial wells to the Strait of Hormuz, two new books look at how empires, states and companies have used black gold to shape global politics</description>
-      <pubDate>Fri, 06 Nov 2026 04:39:18 +0600</pubDate>
-    </item>
-    <item>
-      <title>If migrants want better lives for their kids, where do they get them?</title>
-      <link>https://archive.is/o/ggFl1/https://www.ft.com/content/bde948d6-f3ed-4a7a-a055-871d12b2fdc7?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/bde948d6-f3ed-4a7a-a055-871d12b2fdc7?syn-25a6b1a6=1</guid>
-      <description>In continental Europe, migrants’ daughters are more mobile than their sons</description>
-      <pubDate>Fri, 06 Nov 2026 04:39:18 +0600</pubDate>
-    </item>
-    <item>
-      <title>How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says</title>
-      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html</guid>
-      <description>From Miami, Flávio Bolsonaro is making unfounded claims of a stolen election and plotting to sway his nation’s politics from afar, even though his party is not challenging the results.</description>
-      <pubDate>Fri, 06 Nov 2026 04:39:18 +0600</pubDate>
-      <media:thumbnail url="https://static01.nyt.com/images/2026/11/05/multimedia/05int-bolsonaro-interview01a-photo-flzk/05int-bolsonaro-interview01a-photo-flzk-mediumSquareAt3X.jpg" />
-      <enclosure url="https://static01.nyt.com/images/2026/11/05/multimedia/05int-bolsonaro-interview01a-photo-flzk/05int-bolsonaro-interview01a-photo-flzk-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Tue, 17 Nov 2026 03:38:32 +0000</lastBuildDate>
     <item>
       <title>How Trump’s War in Iran and Missteps Flipped Washington Overnight</title>
       <link>https://archive.is/o/soww3/https://www.wsj.com/world/how-trumps-war-in-iran-and-missteps-flipped-washington-overnight-f77dd2bd?mod=rss_worldnews</link>
@@ -5131,6 +5076,67 @@ Host Megan McArdle talks with Alexander Kustov, a political scientist and profes
       <guid isPermaLink="true">https://spectator.com/article/the-ukraine-war-is-one-of-historys-great-turning-points/</guid>
       <description>By Iain MacGregor</description>
       <pubDate>Tue, 17 Nov 2026 02:56:57 +0600</pubDate>
+    </item>
+    <item>
+      <title>The New American Imperialism in Venezuela</title>
+      <link>https://www.newyorker.com/newsletter/the-daily/the-new-american-imperialism-in-venezuela</link>
+      <guid isPermaLink="false">6afb56974e68ed41e50e13f3</guid>
+      <description>From the daily newsletter: Jon Lee Anderson on how Delcy Rodríguez is collaborating with the United States.</description>
+      <pubDate>Tue, 17 Nov 2026 09:38:19 +0600</pubDate>
+      <media:thumbnail url="https://media.newyorker.com/photos/66bbc14a3a338ff378df3b0c/master/pass/newsletter-flagship-daily-header2.png" />
+      <enclosure url="https://media.newyorker.com/photos/66bbc14a3a338ff378df3b0c/master/pass/newsletter-flagship-daily-header2.png" type="image/png" length="0" />
+    </item>
+    <item>
+      <title>The Dangerous Idea Rubio and Hegseth Are Endorsing</title>
+      <link>https://www.theatlantic.com/newsletters/2026/11/rubio-and-hegseth-law-force/689469/</link>
+      <guid isPermaLink="false">tag:theatlantic.com,2026:50-689469</guid>
+      <description>The Trump administration’s repeated suggestions that force can and should triumph over law are un-American in the most original sense.</description>
+      <pubDate>Tue, 17 Nov 2026 09:38:19 +0600</pubDate>
+      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/kLB1kqyBP_qZb1R6PKX01dpHWPU=/media/newsletters/2026/11/2026_11_16_The_Daily_Men_With_Swords/original.jpg" />
+      <enclosure url="https://cdn.theatlantic.com/thumbor/kLB1kqyBP_qZb1R6PKX01dpHWPU=/media/newsletters/2026/11/2026_11_16_The_Daily_Men_With_Swords/original.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The Electricity Toll of America's AI Data Centers</title>
+      <link>https://time.com/article/2026/11/16/ai-data-centers-electricity-carbon-emissions-study/</link>
+      <guid isPermaLink="true">https://time.com/article/2026/11/16/ai-data-centers-electricity-carbon-emissions-study/</guid>
+      <description />
+      <pubDate>Tue, 17 Nov 2026 09:38:19 +0600</pubDate>
+    </item>
+    <item>
+      <title>Australia is the only home I remember. But every time immigration makes headlines, my skin colour makes me a target | Zoya Patel</title>
+      <link>https://www.theguardian.com/commentisfree/2026/nov/17/australia-immigration-racism-ntwnfb</link>
+      <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2026/nov/17/australia-immigration-racism-ntwnfb</guid>
+      <description>&lt;p&gt;For generations, multitudes have contributed to this country. We need our leaders to call out racism and speak up for multiculturalism&lt;/p&gt;&lt;p&gt;At a family dinner the other night, my nine-year-old niece asked: “What is an immigrant?” For a moment, all of the adults were floored. Sitting around the table were my parents, sisters and brother-in-law, all of us immigrants who came to Australia from Fiji.&lt;/p&gt;&lt;p&gt;My niece and her siblings were born in Australia. Yet she may also be seen as an immigrant on the basis of her skin colour – the fact that she hasn’t had to confront this yet feels like a miracle.&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/nov/17/australia-immigration-racism-ntwnfb"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 09:38:19 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/3fd2a27a534ecb2c4b90cd8a42c35c2c922b3124/481_275_3754_3004/master/3754.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=97bca2888d5cdfc5619208ccddbad514" />
+      <enclosure url="https://i.guim.co.uk/img/media/3fd2a27a534ecb2c4b90cd8a42c35c2c922b3124/481_275_3754_3004/master/3754.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=97bca2888d5cdfc5619208ccddbad514" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The Death of ‘Keep 1.5 Alive’</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html</guid>
+      <description>Negotiators at COP31 are confronting a new reality as the world blows past a key warming target.</description>
+      <pubDate>Tue, 17 Nov 2026 09:38:19 +0600</pubDate>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/11/17/multimedia/17int-theworld-climate-01-hkjb-promo/17int-theworld-climate-01-hkjb-promo-mediumSquareAt3X.jpg" />
+      <enclosure url="https://static01.nyt.com/images/2026/11/17/multimedia/17int-theworld-climate-01-hkjb-promo/17int-theworld-climate-01-hkjb-promo-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Sleepwalking Into Monopoly</title>
+      <link>https://www.forbes.com/sites/fredkennedy/2026/11/16/sleepwalking-into-monopoly/</link>
+      <guid isPermaLink="false">content_6afb702282cf914eb3272478</guid>
+      <description>The Pentagon built SpaceX’s defense monopoly one contract at a time. The Space Development Agency’s first director on how to fix it and leave SpaceX standing.</description>
+      <pubDate>Tue, 17 Nov 2026 09:38:19 +0600</pubDate>
+      <media:thumbnail url="https://imageio.forbes.com/specials-images/imageserve/6afb715b7a3c689cf4b52016/0x0.jpg" />
+      <enclosure url="https://imageio.forbes.com/specials-images/imageserve/6afb715b7a3c689cf4b52016/0x0.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Tibet’s Top Elected Leader on Repression, Reincarnation, and the Future for Tibetans</title>
+      <link>https://archive.is/o/5WQRS/https://thediplomat.com/2026/11/tibets-top-elected-leader-on-repression-reincarnation-and-the-future-for-tibetans/</link>
+      <guid isPermaLink="true">https://thediplomat.com/2026/11/tibets-top-elected-leader-on-repression-reincarnation-and-the-future-for-tibetans/</guid>
+      <description>“We are dying a slow death… we are being strangled by the dragon, slowly but surely,” Sikyong Penpa Tsering, the head of Tibet's government-in-exile, says.</description>
+      <pubDate>Tue, 17 Nov 2026 09:38:19 +0600</pubDate>
+      <media:thumbnail url="https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-17-033618.jpeg" />
+      <enclosure url="https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-17-033618.jpeg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
